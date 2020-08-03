@@ -1,0 +1,1577 @@
+[
+    {
+        "lat": "56.954176",
+        "lng": "24.006396",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Jūrmalas gatve 85, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67815215<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00     <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Jūrmalas gatve 85, Rīga",
+        "time": "8.00-22.00 ",
+        "id": "1"
+    },
+    {
+        "lat": "56.958497",
+        "lng": "24.125626",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Brīvības iela 78, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67843045<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Brīvības iela 78, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "2"
+    },
+    {
+        "lat": "56.944088",
+        "lng": "24.115436",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Centrāltirgus iela 5, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-V 7.30-21.00</br>VI 7.30-20.00</br>VII 7.30-18.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Centrāltirgus iela 5, Rīga",
+        "time": "I-V 7.30-21.00</br>VI 7.30-20.00</br>VII 7.30-18.00",
+        "id": "3"
+    },
+    {
+        "lat": "56.969290",
+        "lng": "24.058242",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lidoņu iela 30A, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'>Rekonstrukcija</br>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lidoņu iela 30A, Rīga",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "4"
+    },
+    {
+        "lat": "56.784655",
+        "lng": "23.936414",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Veselības iela 1, Olaine<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67811628<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Veselības iela 1, Olaine",
+        "time": "8.00-22.00",
+        "id": "5"
+    },
+    {
+        "lat": "56.912159",
+        "lng": "24.176776",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Maskavas iela 256a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67132578<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Maskavas iela 256a, Rīga",
+        "time": "8.00-22.00",
+        "id": "6"
+    },
+    {
+        "lat": "56.937887",
+        "lng": "24.202320",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: A.Saharova iela 21, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "A.Saharova iela 21, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "7"
+    },
+    {
+        "lat": "56.957202",
+        "lng": "24.190586",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dzelzavas iela 51, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67802721<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dzelzavas iela 51, Rīga",
+        "time": "8.00-22.00",
+        "id": "8"
+    },
+    {
+        "lat": "56.920367",
+        "lng": "24.173135",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Maskavas iela 267, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67813362<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Maskavas iela 267, Rīga",
+        "time": "8.00-22.00",
+        "id": "9"
+    },
+    {
+        "lat": "56.966903",
+        "lng": "24.053436",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Vecā Buļļu iela 27, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67473254<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Vecā Buļļu iela 27, Rīga",
+        "time": "8.00-22.00",
+        "id": "10"
+    },
+    {
+        "lat": "56.911913",
+        "lng": "24.192521",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Prūšu iela 21, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67803036<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Prūšu iela 21, Rīga",
+        "time": "8.00-22.00",
+        "id": "11"
+    },
+    {
+        "lat": "56.947501",
+        "lng": "24.005458",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ruses iela 9, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ruses iela 9, Rīga",
+        "time": "8.00-22.00",
+        "id": "12"
+    },
+    {
+        "lat": "56.960308",
+        "lng": "23.596776",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Engures iela 3, Jūrmala<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67811137<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Engures iela 3, Jūrmala",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "13"
+    },
+    {
+        "lat": "56.915886",
+        "lng": "24.097512",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Valdeķu iela 10, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67600864<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Valdeķu iela 10, Rīga",
+        "time": "8.00-22.00",
+        "id": "14"
+    },
+    {
+        "lat": "55.873630",
+        "lng": "26.512989",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kandavas iela 5, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 9.00-22.00<br>VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kandavas iela 5, Daugavpils",
+        "time": "I-VI 9.00-22.00<br>VII 9.00-21.00",
+        "id": "15"
+    },
+    {
+        "lat": "55.889367",
+        "lng": "26.553240",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Smilšu iela 98a, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Smilšu iela 98a, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "16"
+    },
+    {
+        "lat": "56.658935",
+        "lng": "23.708080",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Meiju ceļš 10, Jelgava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63045518<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Meiju ceļš 10, Jelgava",
+        "time": "8.00-22.00",
+        "id": "17"
+    },
+    {
+        "lat": "56.940482",
+        "lng": "24.040957",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Stendes iela ¼, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67450028<br>\r\n    -->\r\n    <b>workTime</b>: 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Stendes iela ¼, Rīga",
+        "time": "9.00-22.00",
+        "id": "18"
+    },
+    {
+        "lat": "56.534254",
+        "lng": "21.013699",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ziemeļu iela 10, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63443292<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ziemeļu iela 10, Liepāja",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "19"
+    },
+    {
+        "lat": "56.619826",
+        "lng": "23.284384",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Zaļā iela 19, Dobele<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63781818<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Zaļā iela 19, Dobele",
+        "time": "8.00-22.00",
+        "id": "20"
+    },
+    {
+        "lat": "56.993066",
+        "lng": "24.124393",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Duntes iela 60, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Duntes iela 60, Rīga",
+        "time": "8.00-22.00",
+        "id": "21"
+    },
+    {
+        "lat": "56.959291",
+        "lng": "24.174811",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Nīcgales iela 2, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67816274<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Nīcgales iela 2, Rīga",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "22"
+    },
+    {
+        "lat": "56.955234",
+        "lng": "24.126848",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ģertrūdes iela 33/35, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67844313<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00<br>VI-VII 9.00-22.00    <p class='info'>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ģertrūdes iela 33/35, Rīga",
+        "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
+        "id": "23"
+    },
+    {
+        "lat": "56.814836",
+        "lng": "24.600980",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Brīvības iela 7, Ogre<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Brīvības iela 7, Ogre",
+        "time": "8.00-22.00",
+        "id": "24"
+    },
+    {
+        "lat": "56.903370",
+        "lng": "24.094623",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dižozolu iela 1, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67671971<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dižozolu iela 1, Rīga",
+        "time": "8.00-22.00",
+        "id": "25"
+    },
+    {
+        "lat": "57.512863",
+        "lng": "24.715752",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 8, Limbaži<br>\r\n    <b>phone</b>: 64021538<br>\r\n    <!--        <b>fax</b>: 64021548<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 8, Limbaži",
+        "time": "8.00-21.00",
+        "id": "26"
+    },
+    {
+        "lat": "57.530161",
+        "lng": "25.427617",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Nākotnes iela 2, Valmiera<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64225059<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Nākotnes iela 2, Valmiera",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-21.00",
+        "id": "27"
+    },
+    {
+        "lat": "56.949472",
+        "lng": "24.053721",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dzirciema iela 1, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67815421<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00<br>VI-VII 9.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dzirciema iela 1, Rīga",
+        "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
+        "id": "28"
+    },
+    {
+        "lat": "57.172107",
+        "lng": "26.757024",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 41, Gulbene<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 8.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 41, Gulbene",
+        "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
+        "id": "29"
+    },
+    {
+        "lat": "56.503765",
+        "lng": "21.010377",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Siena iela 3, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63423112<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 8.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Siena iela 3, Liepāja",
+        "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
+        "id": "30"
+    },
+    {
+        "lat": "56.978238",
+        "lng": "24.253293",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Juglas iela 45, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67816052<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Juglas iela 45, Rīga",
+        "time": "8.00-22.00",
+        "id": "31"
+    },
+    {
+        "lat": "56.978841",
+        "lng": "24.185959",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Brīvības gatve 310, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67801357<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Brīvības gatve 310, Rīga",
+        "time": "8.00-22.00",
+        "id": "32"
+    },
+    {
+        "lat": "56.506223",
+        "lng": "27.334863",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pulkveža Brieža iela 26, Rēzekne<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pulkveža Brieža iela 26, Rēzekne",
+        "time": "8.00-22.00",
+        "id": "33"
+    },
+    {
+        "lat": "56.924643",
+        "lng": "24.056907",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Liepājas iela 76, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67808378<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Liepājas iela 76, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "34"
+    },
+    {
+        "lat": "56.348242",
+        "lng": "26.177392",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 37A, Līvāni<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 37A, Līvāni",
+        "time": "8.00-22.00",
+        "id": "35"
+    },
+    {
+        "lat": "56.515263",
+        "lng": "27.337723",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Atbrīvošanas aleja 142A, Rēzekne<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Atbrīvošanas aleja 142A, Rēzekne",
+        "time": "8.00-22.00",
+        "id": "36"
+    },
+    {
+        "lat": "57.027700",
+        "lng": "24.102170",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Meldru iela 1A, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67351379<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Meldru iela 1A, Rīga",
+        "time": "8.00-22.00",
+        "id": "37"
+    },
+    {
+        "lat": "55.897035",
+        "lng": "27.162052",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 28, Krāslava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 22:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 28, Krāslava",
+        "time": "8:00 – 22:00",
+        "id": "38"
+    },
+    {
+        "lat": "57.157018",
+        "lng": "24.849864",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Leona Paegles iela 3, Sigulda<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Leona Paegles iela 3, Sigulda",
+        "time": "8.00-22.00",
+        "id": "40"
+    },
+    {
+        "lat": "55.899506",
+        "lng": "26.531493",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Piekrastes iela 29, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Piekrastes iela 29, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "41"
+    },
+    {
+        "lat": "55.881038",
+        "lng": "26.559569",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Strādnieku iela 103, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Strādnieku iela 103, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "42"
+    },
+    {
+        "lat": "56.899727",
+        "lng": "24.216775",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Višķu iela 14, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Višķu iela 14, Rīga",
+        "time": "8.00-22.00",
+        "id": "43"
+    },
+    {
+        "lat": "56.905162",
+        "lng": "24.189008",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Maskavas iela 322a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67259078<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Maskavas iela 322a, Rīga",
+        "time": "8.00-22.00",
+        "id": "44"
+    },
+    {
+        "lat": "56.490305",
+        "lng": "25.864187",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Viestura iela 34a, Jēkabpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Viestura iela 34a, Jēkabpils",
+        "time": "8.00-22.00",
+        "id": "45"
+    },
+    {
+        "lat": "56.292101",
+        "lng": "26.730482",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Aglonas iela 27, Preiļi<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 21:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Aglonas iela 27, Preiļi",
+        "time": "8:00 – 21:00",
+        "id": "46"
+    },
+    {
+        "lat": "56.968676",
+        "lng": "24.177174",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kastrānes iela 14, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67818066<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kastrānes iela 14, Rīga",
+        "time": "8.00-22.00",
+        "id": "47"
+    },
+    {
+        "lat": "56.541625",
+        "lng": "21.053584",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Cukura iela 27, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63489081<br>\r\n    -->\r\n    <b>workTime</b>: 8:00 – 21:00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Cukura iela 27, Liepāja",
+        "time": "8:00 – 21:00",
+        "id": "48"
+    },
+    {
+        "lat": "56.959845",
+        "lng": "24.105240",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pulkveža Brieža iela 7, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67320345<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm<br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pulkveža Brieža iela 7, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "49"
+    },
+    {
+        "lat": "56.959663",
+        "lng": "24.051535",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dzirciema iela 51, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dzirciema iela 51, Rīga",
+        "time": "8.00-22.00",
+        "id": "50"
+    },
+    {
+        "lat": "56.483102",
+        "lng": "21.021921",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: M.Ķempes iela 9, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63435512<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "M.Ķempes iela 9, Liepāja",
+        "time": "8.00-22.00",
+        "id": "51"
+    },
+    {
+        "lat": "56.492839",
+        "lng": "21.021147",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dzērves iela 15, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63437727<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dzērves iela 15, Liepāja",
+        "time": "8.00-22.00",
+        "id": "52"
+    },
+    {
+        "lat": "56.953901",
+        "lng": "24.052105",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dzirciema iela 23, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67815375<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00<br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dzirciema iela 23, Rīga",
+        "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
+        "id": "53"
+    },
+    {
+        "lat": "57.775057",
+        "lng": "26.021568",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Raiņa iela 7, Valka<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64724064<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Raiņa iela 7, Valka",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
+        "id": "54"
+    },
+    {
+        "lat": "56.931622",
+        "lng": "24.174517",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lubānas iela 52, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67138604<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lubānas iela 52, Rīga",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "55"
+    },
+    {
+        "lat": "56.969860",
+        "lng": "23.162331",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Meža iela 22, Tukums<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63182362<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Meža iela 22, Tukums",
+        "time": "8.00-22.00",
+        "id": "56"
+    },
+    {
+        "lat": "56.599601",
+        "lng": "25.250151",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Skolas iela 6, Aizkraukle<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65124027<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-21.00</br>VI 9.00-21.00</br>VII 9.00-20.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Skolas iela 6, Aizkraukle",
+        "time": "I-V 8.00-21.00</br>VI 9.00-21.00</br>VII 9.00-20.00",
+        "id": "57"
+    },
+    {
+        "lat": "56.852984",
+        "lng": "24.335802",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Skolas iela 4B, Salaspils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67946633<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Skolas iela 4B, Salaspils",
+        "time": "8.00-22.00",
+        "id": "58"
+    },
+    {
+        "lat": "57.032547",
+        "lng": "24.048505",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Stūrmaņu iela 29, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Stūrmaņu iela 29, Rīga",
+        "time": "8.00-22.00",
+        "id": "59"
+    },
+    {
+        "lat": "56.501528",
+        "lng": "25.874002",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 109, Jēkabpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 109, Jēkabpils",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "60"
+    },
+    {
+        "lat": "57.421046",
+        "lng": "27.053842",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ojāra Vācieša iela 12, Alūksne<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 8.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ojāra Vācieša iela 12, Alūksne",
+        "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
+        "id": "61"
+    },
+    {
+        "lat": "56.985492",
+        "lng": "24.171314",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Čiekurkalna 2.līnija 25, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67368930<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Čiekurkalna 2.līnija 25, Rīga",
+        "time": "8.00-22.00",
+        "id": "62"
+    },
+    {
+        "lat": "57.020573",
+        "lng": "24.134433",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Viestura prospekts 26, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Viestura prospekts 26, Rīga",
+        "time": "8.00-22.00",
+        "id": "63"
+    },
+    {
+        "lat": "56.851213",
+        "lng": "26.217369",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Poruka iela 4, Madona<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-21.00</br>VII 10.00-20.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Poruka iela 4, Madona",
+        "time": "I-VI 8.00-21.00</br>VII 10.00-20.00",
+        "id": "64"
+    },
+    {
+        "lat": "56.932321",
+        "lng": "24.199809",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lubānas iela117A, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67246947<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lubānas iela117A, Rīga",
+        "time": "8.00-22.00",
+        "id": "65"
+    },
+    {
+        "lat": "56.935431",
+        "lng": "24.071555",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Mazā Nometņu iela 29, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67601078<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Mazā Nometņu iela 29, Rīga",
+        "time": "8.00-22.00",
+        "id": "66"
+    },
+    {
+        "lat": "56.971509",
+        "lng": "24.070677",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lidoņu iela 3, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67464284<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lidoņu iela 3, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "67"
+    },
+    {
+        "lat": "56.998390",
+        "lng": "24.123179",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Sarkandaugavas iela 9,Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Rekonstrukcija</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Sarkandaugavas iela 9,Rīga",
+        "time": "8.00-22.00",
+        "id": "68"
+    },
+    {
+        "lat": "57.421018",
+        "lng": "25.906473",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Atmodas iela 4, Smiltene<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64774940<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Atmodas iela 4, Smiltene",
+        "time": "8.00-22.00",
+        "id": "69"
+    },
+    {
+        "lat": "56.597866",
+        "lng": "24.196917",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 27, Iecava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63942640<br>\r\n    -->\r\n    <b>workTime</b>: 7.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 27, Iecava",
+        "time": "7.00-22.00",
+        "id": "70"
+    },
+    {
+        "lat": "56.958119",
+        "lng": "23.605062",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Nometņu iela 11/13, Jūrmala<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67736692<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Nometņu iela 11/13, Jūrmala",
+        "time": "8.00-22.00",
+        "id": "71"
+    },
+    {
+        "lat": "56.943673",
+        "lng": "24.223013",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: A.Deglava iela 160A, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67183360<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "A.Deglava iela 160A, Rīga",
+        "time": "8.00-22.00",
+        "id": "72"
+    },
+    {
+        "lat": "57.043953",
+        "lng": "24.173742",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Jaunciema gatve 174, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67341580<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Jaunciema gatve 174, Rīga",
+        "time": "8.00-22.00",
+        "id": "73"
+    },
+    {
+        "lat": "56.975548",
+        "lng": "23.858162",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Viestura iela 25, Jūrmala<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Viestura iela 25, Jūrmala",
+        "time": "8.00-22.00",
+        "id": "74"
+    },
+    {
+        "lat": "56.975617",
+        "lng": "24.136492",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kr.Valdemāra iela 118, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67378429<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI -VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kr.Valdemāra iela 118, Rīga",
+        "time": "I-V 8.00-22.00</br>VI -VII 9.00-21.00",
+        "id": "75"
+    },
+    {
+        "lat": "56.980842",
+        "lng": "24.244986",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kvēles iela 11, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67817765<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kvēles iela 11, Rīga",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "76"
+    },
+    {
+        "lat": "56.932331",
+        "lng": "24.168071",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rītupes iela 2, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67140600<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rītupes iela 2, Rīga",
+        "time": "8.00-22.00",
+        "id": "77"
+    },
+    {
+        "lat": "57.390710",
+        "lng": "21.569443",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Aleksandra iela 16, Ventspils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63607133<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Aleksandra iela 16, Ventspils",
+        "time": "8.00-22.00",
+        "id": "78"
+    },
+    {
+        "lat": "57.309979",
+        "lng": "25.267466",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Gaujas iela 1/3, Cēsis<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64107283<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Gaujas iela 1/3, Cēsis",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "79"
+    },
+    {
+        "lat": "56.988905",
+        "lng": "24.237584",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Brīvības iela 428a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67817763<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Brīvības iela 428a, Rīga",
+        "time": "8.00-22.00",
+        "id": "80"
+    },
+    {
+        "lat": "56.526743",
+        "lng": "27.354950",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Maskavas iela 16, Rēzekne<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Maskavas iela 16, Rēzekne",
+        "time": "8.00-22.00",
+        "id": "81"
+    },
+    {
+        "lat": "56.546277",
+        "lng": "27.725748",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Latgales iela 124a, Ludza<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 22:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Latgales iela 124a, Ludza",
+        "time": "8:00 – 22:00",
+        "id": "82"
+    },
+    {
+        "lat": "56.717346",
+        "lng": "21.610104",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kalvenes iela 11, Aizpute<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63449535<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 8.00-21.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kalvenes iela 11, Aizpute",
+        "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
+        "id": "83"
+    },
+    {
+        "lat": "57.430240",
+        "lng": "27.039414",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pils iela 9B, Alūksne<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pils iela 9B, Alūksne",
+        "time": "8.00-22.00",
+        "id": "84"
+    },
+    {
+        "lat": "57.128780",
+        "lng": "27.266684",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Bērzpils iela 15, Balvi<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: I-V 8.00-22.00; VII 9.00-21.00</b></font>    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Bērzpils iela 15, Balvi",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: I-V 8.00-22.00; VII 9.00-21.00</b></font>",
+        "id": "85"
+    },
+    {
+        "lat": "56.944974",
+        "lng": "24.119384",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pūpolu iela 1, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67225321<br>\r\n    -->\r\n    <b>workTime</b>: 7.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 8:00-19:00</b></font>    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pūpolu iela 1, Rīga",
+        "time": "7.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 8:00-19:00</b></font>",
+        "id": "86"
+    },
+    {
+        "lat": "56.968653",
+        "lng": "24.100775",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pētersalas iela 18a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67320415<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 9:00-21:00</b></font>    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pētersalas iela 18a, Rīga",
+        "time": "8.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 9:00-21:00</b></font>",
+        "id": "87"
+    },
+    {
+        "lat": "57.170892",
+        "lng": "26.766795",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Skolas iela 7, Gulbene<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Skolas iela 7, Gulbene",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "88"
+    },
+    {
+        "lat": "57.537157",
+        "lng": "25.407850",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 46, Valmiera<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64222360<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 46, Valmiera",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
+        "id": "89"
+    },
+    {
+        "lat": "57.075437",
+        "lng": "24.318720",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas gatve 21, Ādaži<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67997198<br>\r\n    -->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas gatve 21, Ādaži",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
+        "id": "90"
+    },
+    {
+        "lat": "56.830827",
+        "lng": "24.233998",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Gaismas iela 1, Ķekava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 23:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Gaismas iela 1, Ķekava",
+        "time": "8:00 – 23:00",
+        "id": "91"
+    },
+    {
+        "lat": "56.967137",
+        "lng": "21.960397",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Mucenieku iela 24, Kuldīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 7.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Mucenieku iela 24, Kuldīga",
+        "time": "7.00-22.00",
+        "id": "92"
+    },
+    {
+        "lat": "56.941103",
+        "lng": "24.215986",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ulbrokas iela 4, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67247424<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ulbrokas iela 4, Rīga",
+        "time": "8.00-22.00",
+        "id": "93"
+    },
+    {
+        "lat": "56.964431",
+        "lng": "24.029734",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kurzemes prospekts 59 a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67427527<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kurzemes prospekts 59 a, Rīga",
+        "time": "8.00-22.00",
+        "id": "94"
+    },
+    {
+        "lat": "57.036184",
+        "lng": "24.098123",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Augusta Dombrovska 74, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67349413<br>\r\n    -->\r\n    <b>workTime</b>: 8:00 – 23:00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Augusta Dombrovska 74, Rīga",
+        "time": "8:00 – 23:00",
+        "id": "95"
+    },
+    {
+        "lat": "56.819735",
+        "lng": "24.591669",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Vidus prospekts 1, Ogre<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65046400<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Vidus prospekts 1, Ogre",
+        "time": "8.00-22.00",
+        "id": "96"
+    },
+    {
+        "lat": "56.967713",
+        "lng": "24.011562",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Kurzemes prospekts 110B, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Kurzemes prospekts 110B, Rīga",
+        "time": "8.00-22.00",
+        "id": "97"
+    },
+    {
+        "lat": "57.035170",
+        "lng": "22.781190",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Abavas iela 4 b, Kandava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63180114<br>\r\n    -->\r\n    <b>workTime</b>: I-V 8.00-22.00</br>VI-VII 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Abavas iela 4 b, Kandava",
+        "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
+        "id": "98"
+    },
+    {
+        "lat": "56.406494",
+        "lng": "24.189266",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pionieru iela 2, Bauska<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63924462<br>\r\n    -->\r\n    <b>workTime</b>: I-V 7:00-22:00 <br> VI-VII 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pionieru iela 2, Bauska",
+        "time": "I-V 7:00-22:00 <br> VI-VII 8.00-22.00",
+        "id": "99"
+    },
+    {
+        "lat": "56.543853",
+        "lng": "27.711395",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Latgales iela 61, Ludza<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Latgales iela 61, Ludza",
+        "time": "8.00-22.00",
+        "id": "100"
+    },
+    {
+        "lat": "55.891739",
+        "lng": "26.559794",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Arhitektu iela 3, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Arhitektu iela 3, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "101"
+    },
+    {
+        "lat": "56.941490",
+        "lng": "24.195979",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ilūkstes iela 24a, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ilūkstes iela 24a, Rīga",
+        "time": "8.00-22.00",
+        "id": "102"
+    },
+    {
+        "lat": "57.505652",
+        "lng": "22.801080",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Selgas iela 2, Roja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63269536<br>\r\n    -->\r\n    <b>workTime</b>: 8:00 – 22:00     <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Selgas iela 2, Roja",
+        "time": "8:00 – 22:00 ",
+        "id": "103"
+    },
+    {
+        "lat": "56.652027",
+        "lng": "23.690902",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dobeles šoseja 47a, Jelgava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63025117<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dobeles šoseja 47a, Jelgava",
+        "time": "8.00-22.00",
+        "id": "104"
+    },
+    {
+        "lat": "56.608281",
+        "lng": "25.259959",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Gaismas iela 22, Aizkraukle<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65120437<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Gaismas iela 22, Aizkraukle",
+        "time": "8.00-22.00",
+        "id": "105"
+    },
+    {
+        "lat": "56.718073",
+        "lng": "24.814353",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lāčplēša iela 14, Lielvārde<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65049529<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lāčplēša iela 14, Lielvārde",
+        "time": "8.00-22.00",
+        "id": "106"
+    },
+    {
+        "lat": "57.405893",
+        "lng": "21.604940",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Celtnieku iela 17, Ventspils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63620290<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Celtnieku iela 17, Ventspils",
+        "time": "8.00-23.00",
+        "id": "108"
+    },
+    {
+        "lat": "56.644496",
+        "lng": "25.433824",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: 1905.gada iela 8a, Koknese<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65120436<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "1905.gada iela 8a, Koknese",
+        "time": "8.00-22.00",
+        "id": "109"
+    },
+    {
+        "lat": "56.094349",
+        "lng": "27.535963",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Daugavpils iela 8a, Dagda<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Daugavpils iela 8a, Dagda",
+        "time": "8.00-22.00",
+        "id": "110"
+    },
+    {
+        "lat": "56.838142",
+        "lng": "24.496975",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Skolas iela 4a, Ikšķile<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 65000884<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Skolas iela 4a, Ikšķile",
+        "time": "8.00-22.00",
+        "id": "111"
+    },
+    {
+        "lat": "56.945389",
+        "lng": "24.065009",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Melnsila iela 22, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67456249<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Melnsila iela 22, Rīga",
+        "time": "8.00-22.00",
+        "id": "112"
+    },
+    {
+        "lat": "56.943427",
+        "lng": "23.912163",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Jūrmalas iela 14, Piņķi<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Jūrmalas iela 14, Piņķi",
+        "time": "9.00-21.00",
+        "id": "113"
+    },
+    {
+        "lat": "56.507442",
+        "lng": "21.010819",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Lielā iela 13, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63488121<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Lielā iela 13, Liepāja",
+        "time": "8.00-22.00",
+        "id": "114"
+    },
+    {
+        "lat": "56.533543",
+        "lng": "21.003556",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: O.Kalpaka iela 74, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 63441104<br>\r\n    -->\r\n    <b>workTime</b>: 8:00 – 23:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "O.Kalpaka iela 74, Liepāja",
+        "time": "8:00 – 23:00",
+        "id": "115"
+    },
+    {
+        "lat": "57.752174",
+        "lng": "24.358671",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Vidzemes iela 3A, Salacgrīva<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 64041685<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Vidzemes iela 3A, Salacgrīva",
+        "time": "8.00-22.00",
+        "id": "116"
+    },
+    {
+        "lat": "56.957352",
+        "lng": "24.133219",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Matīsa iela 23, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Matīsa iela 23, Rīga",
+        "time": "8.00-22.00",
+        "id": "117"
+    },
+    {
+        "lat": "56.294535",
+        "lng": "26.725412",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rēzeknes iela 4a, Preiļi<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rēzeknes iela 4a, Preiļi",
+        "time": "8.00-22.00",
+        "id": "118"
+    },
+    {
+        "lat": "56.665014",
+        "lng": "22.495085",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Striķu iela 10c, Saldus<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI 8.00-22.00</br>VII 9.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Striķu iela 10c, Saldus",
+        "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
+        "id": "119"
+    },
+    {
+        "lat": "56.860663",
+        "lng": "24.367776",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dienvidu iela 7, Salaspils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dienvidu iela 7, Salaspils",
+        "time": "8.00-22.00",
+        "id": "120"
+    },
+    {
+        "lat": "55.894575",
+        "lng": "27.181787",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Vienības iela 57, Krāslava<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 9:00 – 22:00; VII. 9:00 – 21:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Vienības iela 57, Krāslava",
+        "time": "9:00 – 22:00; VII. 9:00 – 21:00",
+        "id": "121"
+    },
+    {
+        "lat": "57.040944",
+        "lng": "24.029054",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Parādes iela 8, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!--        <b>fax</b>: 67438001<br>\r\n    -->\r\n    <b>workTime</b>: 8:00 – 23:00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Parādes iela 8, Rīga",
+        "time": "8:00 – 23:00",
+        "id": "122"
+    },
+    {
+        "lat": "56.941554",
+        "lng": "24.206729",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: A.Saharova iela 20a, Rīga<br>\r\n    <b>phone</b>: 60008460<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "A.Saharova iela 20a, Rīga",
+        "time": "8.00-23.00",
+        "id": "123"
+    },
+    {
+        "lat": "56.922957",
+        "lng": "24.106746",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Mūkusalas iela  73, Rīga<br>\r\n    <b>phone</b>: 64909056<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>\r\nVar norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Mūkusalas iela  73, Rīga",
+        "time": "8.00-23.00",
+        "id": "124"
+    },
+    {
+        "lat": "56.491729",
+        "lng": "21.003708",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Klaipēdas iela 62, Liepāja<br>\r\n    <b>phone</b>: 63471810<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Klaipēdas iela 62, Liepāja",
+        "time": "8.00-23.00",
+        "id": "125"
+    },
+    {
+        "lat": "55.873942",
+        "lng": "26.517518",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Cietokšņa iela 60, Daugavpils<br>\r\n    <b>phone</b>: 65802030<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Cietokšņa iela 60, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "126"
+    },
+    {
+        "lat": "56.908207",
+        "lng": "24.081678",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Vienības gatve 113, Rīga<br>\r\n    <b>phone</b>: 60003670<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00</br>VII-9.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Vienības gatve 113, Rīga",
+        "time": "8.00-23.00</br>VII-9.00-23.00",
+        "id": "127"
+    },
+    {
+        "lat": "56.661891",
+        "lng": "23.746238",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Rīgas iela 11A, Jelgava<br>\r\n    <b>phone</b>: 60003760<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 23:00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Rīgas iela 11A, Jelgava",
+        "time": "8:00 – 23:00",
+        "id": "128"
+    },
+    {
+        "lat": "56.650921",
+        "lng": "23.724099",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Driksas iela 4, Jelgava<br>\r\n    <b>phone</b>:  20023587<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Driksas iela 4, Jelgava",
+        "time": "8.00-22.00",
+        "id": "129"
+    },
+    {
+        "lat": "57.542064",
+        "lng": "25.417273",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Georga Apiņa iela 10A, Valmiera<br>\r\n    <b>phone</b>: 64210780<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00</br>VII-9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Georga Apiņa iela 10A, Valmiera",
+        "time": "8.00-22.00</br>VII-9.00-22.00",
+        "id": "130"
+    },
+    {
+        "lat": "56.944805",
+        "lng": "24.171670",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Nīcgales iela 46a, Rīga<br>\r\n    <b>phone</b>: 60003100<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Nīcgales iela 46a, Rīga",
+        "time": "8.00-22.00",
+        "id": "131"
+    },
+    {
+        "lat": "56.493255",
+        "lng": "25.872328",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Brīvības iela 108, Jēkabpils<br>\r\n    <b>phone</b>: 65283710<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Brīvības iela 108, Jēkabpils",
+        "time": "8.00-22.00",
+        "id": "132"
+    },
+    {
+        "lat": "56.960051",
+        "lng": "23.996909",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Kurzemes prospekts 141, Rīga<br>\r\n    <b>phone</b>: 60003140<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Kurzemes prospekts 141, Rīga",
+        "time": "8.00-22.00",
+        "id": "133"
+    },
+    {
+        "lat": "56.816484",
+        "lng": "24.585622",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Rīgas iela 23, Ogre<br>\r\n    <b>phone</b>: 20010350<br>\r\n    <!---->\r\n    <b>workTime</b>: 9.00-22.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Rīgas iela 23, Ogre",
+        "time": "9.00-22.00",
+        "id": "134"
+    },
+    {
+        "lat": "56.956632",
+        "lng": "24.239429",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Biķernieku iela 143, Rīga<br>\r\n    <b>phone</b>: 60005200<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Biķernieku iela 143, Rīga",
+        "time": "8.00-22.00",
+        "id": "135"
+    },
+    {
+        "lat": "56.668799",
+        "lng": "22.490022",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Brīvības iela 30, Saldus<br>\r\n    <b>phone</b>: 64909001<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00</br>VII-9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Brīvības iela 30, Saldus",
+        "time": "8.00-22.00</br>VII-9.00-22.00",
+        "id": "136"
+    },
+    {
+        "lat": "56.859867",
+        "lng": "26.231084",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Rūpniecības iela 49, Madona<br>\r\n    <b>phone</b>: 60003640<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00</br>VII-9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Rūpniecības iela 49, Madona",
+        "time": "8.00-22.00</br>VII-9.00-22.00",
+        "id": "137"
+    },
+    {
+        "lat": "56.523304",
+        "lng": "27.340394",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Atbrīvošanas aleja 141A, Rēzekne<br>\r\n    <b>phone</b>: 64675260<br>\r\n    <!--        <b>fax</b>: 64607381<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Atbrīvošanas aleja 141A, Rēzekne",
+        "time": "8.00-22.00",
+        "id": "138"
+    },
+    {
+        "lat": "56.971491",
+        "lng": "23.153790",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Kurzemes iela 36, Tukums<br>\r\n    <b>phone</b>: 64909093<br>\r\n    <!--        <b>fax</b>: 63107496<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Kurzemes iela 36, Tukums",
+        "time": "8.00-22.00",
+        "id": "139"
+    },
+    {
+        "lat": "57.317147",
+        "lng": "25.280034",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Valmieras iela 17A, Cēsis<br>\r\n    <b>phone</b>: 20008174<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Valmieras iela 17A, Cēsis",
+        "time": "8.00-22.00",
+        "id": "140"
+    },
+    {
+        "lat": "57.513608",
+        "lng": "24.722458",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Stacijas iela 8, Limbaži<br>\r\n    <b>phone</b>: 60005235<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00</br>VII-9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Stacijas iela 8, Limbaži",
+        "time": "8.00-22.00</br>VII-9.00-22.00",
+        "id": "141"
+    },
+    {
+        "lat": "57.238580",
+        "lng": "22.586197",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Rīgas iela 8, Talsi<br>\r\n    <b>phone</b>: 22337953<br>\r\n    <!---->\r\n    <b>workTime</b>: 9.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Rīgas iela 8, Talsi",
+        "time": "9.00-22.00",
+        "id": "142"
+    },
+    {
+        "lat": "56.960501",
+        "lng": "23.618118",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Talsu šoseja 25, Jūrmala<br>\r\n    <b>phone</b>: 20031334<br>\r\n    <!--        <b>fax</b>: 67896901<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Talsu šoseja 25, Jūrmala",
+        "time": "8.00-23.00",
+        "id": "143"
+    },
+    {
+        "lat": "56.355649",
+        "lng": "26.174060",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Domes iela 4A, Līvāni<br>\r\n    <b>phone</b>: 60003795<br>\r\n    <!--        <b>fax</b>: 65307841<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Domes iela 4A, Līvāni",
+        "time": "8.00-22.00",
+        "id": "144"
+    },
+    {
+        "lat": "56.963506",
+        "lng": "24.166954",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Dzelzavas iela 6A, Rīga<br>\r\n    <b>phone</b>: 64909094<br>\r\n    <!--        <b>fax</b>: 67443963<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Dzelzavas iela 6A, Rīga",
+        "time": "8.00-22.00",
+        "id": "145"
+    },
+    {
+        "lat": "56.950145",
+        "lng": "24.187378",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: A.Deglava iela 67, Rīga<br>\r\n    <b>phone</b>: 60008890<br>\r\n    <!--        <b>fax</b>: 67802285<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "A.Deglava iela 67, Rīga",
+        "time": "8.00-23.00",
+        "id": "146"
+    },
+    {
+        "lat": "56.960405",
+        "lng": "24.037772",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: Slokas iela 115, Rīga<br>\r\n    <b>phone</b>: 64909048<br>\r\n    <!--        <b>fax</b>: 67892401<br>\r\n    -->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases<br>Var norēķināties ar bezkontakta kartēm<br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "Slokas iela 115, Rīga",
+        "time": "8.00-23.00",
+        "id": "147"
+    },
+    {
+        "lat": "56.929118",
+        "lng": "24.024842",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: K.Ulmaņa gatve 88a, Rīga<br>\r\n    <b>phone</b>: 20005745<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'>Pieejamas pašapkalpošanās kases</br>Var norēķināties ar bezkontakta kartēm</br>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "K.Ulmaņa gatve 88a, Rīga",
+        "time": "8.00-23.00",
+        "id": "148"
+    },
+    {
+        "lat": "56.618518",
+        "lng": "25.740341",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Daugavas ielā 72, Pļaviņas<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Daugavas ielā 72, Pļaviņas",
+        "time": "8.00-22.00",
+        "id": "149"
+    },
+    {
+        "lat": "56.781039",
+        "lng": "23.927583",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Zemgales iela 53, Olaine<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Zemgales iela 53, Olaine",
+        "time": "8.00-22.00",
+        "id": "1130"
+    },
+    {
+        "lat": "56.904997",
+        "lng": "24.053167",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Pededzes iela 1, Mārupe<br>\r\n    <b>phone</b>: 67854543<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 – 22:00    <p class='info'>Veģetāriešu un vegānu īpašie pārtikas produktu plaukti</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Pededzes iela 1, Mārupe",
+        "time": "8:00 – 22:00",
+        "id": "1131"
+    },
+    {
+        "lat": "56.488128",
+        "lng": "21.017668",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Ganību iela 167, Liepāja<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00 – 22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Ganību iela 167, Liepāja",
+        "time": "8.00 – 22.00",
+        "id": "1133"
+    },
+    {
+        "lat": "56.624751",
+        "lng": "23.283085",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Baznīcas iela 14, Dobele<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'>Var norēķināties ar bezkontakta kartēm</p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Baznīcas iela 14, Dobele",
+        "time": "8.00-22.00",
+        "id": "1135"
+    },
+    {
+        "lat": "56.966325",
+        "lng": "24.161226",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: Ieriķu iela 3, TC “Domina shopping”, Rīga<br>\r\n    <b>phone</b>: 60008345<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "Ieriķu iela 3, TC “Domina shopping”, Rīga",
+        "time": "8.00-22.00",
+        "id": "1137"
+    },
+    {
+        "lat": "57.389838",
+        "lng": "21.558717",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Saules iela 46, Ventspils<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-V 8:00 - 22:00 <br> VI 9:00-22:00 <br> VII 9:00-21:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Saules iela 46, Ventspils",
+        "time": "I-V 8:00 - 22:00 <br> VI 9:00-22:00 <br> VII 9:00-21:00",
+        "id": "1138"
+    },
+    {
+        "lat": "56.94726",
+        "lng": "24.11288",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop7.png')\">\r\n    <b>address</b>: Audēju iela 15-1, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 7:00- 23:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "xexpress-4257-2237.png",
+        "address": "Audēju iela 15-1, Rīga",
+        "time": "7:00- 23:00",
+        "id": "1139"
+    },
+    {
+        "lat": "56.964595",
+        "lng": "24.063762",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Dagmāras iela 11, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 - 22:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Dagmāras iela 11, Rīga",
+        "time": "8:00 - 22:00",
+        "id": "1140"
+    },
+    {
+        "lat": "56.949771",
+        "lng": "24.118939",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop7.png')\">\r\n    <b>address</b>: Merķeļa iela 2, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 7:00- 23:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "xexpress-4257-2237.png",
+        "address": "Merķeļa iela 2, Rīga",
+        "time": "7:00- 23:00",
+        "id": "1141"
+    },
+    {
+        "lat": "56.952340",
+        "lng": "24.123888",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop7.png')\">\r\n    <b>address</b>: Krišjāņa Barona iela 30-11, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: I-VI-8.00-22.00<br>VII-10.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "xexpress-4257-2237.png",
+        "address": "Krišjāņa Barona iela 30-11, Rīga",
+        "time": "I-VI-8.00-22.00<br>VII-10.00-22.00",
+        "id": "1142"
+    },
+    {
+        "lat": "56.975962",
+        "lng": "24.165590",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop7.png')\">\r\n    <b>address</b>: Gustava Zemgala gatve 74, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 7.30-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "xexpress-4257-2237.png",
+        "address": "Gustava Zemgala gatve 74, Rīga",
+        "time": "7.30-22.00",
+        "id": "1143"
+    },
+    {
+        "lat": "56.923453",
+        "lng": "24.170323",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop7.png')\">\r\n    <b>address</b>: Maskavas iela 257, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 10.00-21.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "xexpress-4257-2237.png",
+        "address": "Maskavas iela 257, Rīga",
+        "time": "10.00-21.00",
+        "id": "1144"
+    },
+    {
+        "lat": "56.938508",
+        "lng": "24.140710",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Maskavas iela 118, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 10.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Maskavas iela 118, Rīga",
+        "time": "10.00-22.00",
+        "id": "1145"
+    },
+    {
+        "lat": "56.925813",
+        "lng": "24.105576",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: Mūkusalas iela 71, Rīga, T/C \"Rīga Plaza\"<br>\r\n    <b>phone</b>: 60002950<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "Mūkusalas iela 71, Rīga, T/C \"Rīga Plaza\"",
+        "time": "8.00-23.00",
+        "id": "1146"
+    },
+    {
+        "lat": "56.965433",
+        "lng": "24.120531",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: Grostonas iela 1, Rīga<br>\r\n    <b>phone</b>: 60002530<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "Grostonas iela 1, Rīga",
+        "time": "8.00-22.00",
+        "id": "1147"
+    },
+    {
+        "lat": "56.923453",
+        "lng": "24.170323",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop3.png')\">\r\n    <b>address</b>: Maskavas iela 257, Rīga<br>\r\n    <b>phone</b>: 60001900<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-23.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
+        "address": "Maskavas iela 257, Rīga",
+        "time": "8.00-23.00",
+        "id": "1148"
+    },
+    {
+        "lat": "56.935109",
+        "lng": "24.069245",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Pilsoņu iela 1 k-1, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Pilsoņu iela 1 k-1, Rīga",
+        "time": "8.00-22.00",
+        "id": "1149"
+    },
+    {
+        "lat": "56.742731",
+        "lng": "24.397409",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīgas iela 79, Baldone<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīgas iela 79, Baldone",
+        "time": "8.00-22.00",
+        "id": "1150"
+    },
+    {
+        "lat": "56.956620",
+        "lng": "24.148725",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Tallinas iela 83, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Tallinas iela 83, Rīga",
+        "time": "8.00-22.00",
+        "id": "1151"
+    },
+    {
+        "lat": "56.953634",
+        "lng": "24.154500",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Augusta Deglava iela 7<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Augusta Deglava iela 7",
+        "time": "8.00-22.00",
+        "id": "1154"
+    },
+    {
+        "lat": "57.896902",
+        "lng": "25.325529",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Valdemāra iela 2, Rūjiena<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Valdemāra iela 2, Rūjiena",
+        "time": "8.00-22.00",
+        "id": "1155"
+    },
+    {
+        "lat": "55.904372",
+        "lng": "26.526110",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Aveņu iela 35B, Daugavpils<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Aveņu iela 35B, Daugavpils",
+        "time": "8.00-22.00",
+        "id": "1156"
+    },
+    {
+        "lat": "56.966240",
+        "lng": "24.181344",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Burtnieku iela 39, Rīga<br>\r\n    <b>phone</b>: 8 000 2020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Burtnieku iela 39, Rīga",
+        "time": "8.00-22.00",
+        "id": "1157"
+    },
+    {
+        "lat": "56.942343",
+        "lng": "24.132386",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Firsa Sadovņikova iela 19, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00 - 22:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Firsa Sadovņikova iela 19, Rīga",
+        "time": "8:00 - 22:00",
+        "id": "1158"
+    },
+    {
+        "lat": "57.027385",
+        "lng": "24.047803",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Gaigalas iela 29, Rīga<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8:00-23:00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Gaigalas iela 29, Rīga",
+        "time": "8:00-23:00",
+        "id": "1159"
+    },
+    {
+        "lat": "55.877286",
+        "lng": "26.538638",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Arodu iela 15-64, Daugavpils<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00 <br><b> <font color=\"red\">Darba laiks 24.06.2020.: 8:00-21:00</b></font><br><b> <font color=\"red\">Darba laiks 25.06.2020.: 10:00-22:00</b></font>    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Arodu iela 15-64, Daugavpils",
+        "time": "8.00-22.00 <br><b> <font color=\"red\">Darba laiks 24.06.2020.: 8:00-21:00</b></font><br><b> <font color=\"red\">Darba laiks 25.06.2020.: 10:00-22:00</b></font>",
+        "id": "1160"
+    },
+    {
+        "lat": "56.988403",
+        "lng": "24.169751",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop2.png')\">\r\n    <b>address</b>: Rusova iela 1, Rīga<br>\r\n    <b>phone</b>: 28457102    <br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
+        "address": "Rusova iela 1, Rīga",
+        "time": "8.00-22.00",
+        "id": "1161"
+    },
+    {
+        "lat": "56.975967",
+        "lng": "24.144801",
+        "info": "\r\n\r\n<div class=\"shop\" style=\"background-image:url('/images/front/icons/shop1.png')\">\r\n    <b>address</b>: Rīga, Miera iela 90<br>\r\n    <b>phone</b>: 80002020<br>\r\n    <!---->\r\n    <b>workTime</b>: 8.00-22.00    <p class='info'></p>\r\n</div>\r\n\r\n<!--<div class=\"serv\"><p>Parduotuvėje rasite</p><img src=\"assets/img/map/services/swed.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/dnblogo2012.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vilniaus-bankas-logo2.jpg\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/vaistine.png\" width=\"0\" height=\"0\"><img\r\n        src=\"assets/img/map/services/keturiu-banku_1.jpg\" width=\"0\" height=\"0\"></div>-->\r\n",
+        "tag": "abcf790c307391b4214df700051470d2.png",
+        "address": "Rīga, Miera iela 90",
+        "time": "8.00-22.00",
+        "id": "1162"
+    }
+]
