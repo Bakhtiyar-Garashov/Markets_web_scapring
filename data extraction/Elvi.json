@@ -1,0 +1,1113 @@
+[
+  {
+    "value": "Ādaži,Ādažunov.,Rīgasgatve51,LV-2164,ELVIveikals",
+    "data": [
+      {
+        "id": 1580,
+        "link": "http://elvi.lv/veikali/adazi-elvi-veikals/",
+        "lat": 57.080481,
+        "lng": 24.317401
+      }
+    ]
+  },
+  {
+    "value": "Aizkraukle,Lāčplēšaiela10,LV-5101,ELVIveikals",
+    "data": [
+      {
+        "id": 1659,
+        "link": "http://elvi.lv/veikali/aizkraukle-elvi-veikals/",
+        "lat": 56.599852,
+        "lng": 25.257327
+      }
+    ]
+  },
+  {
+    "value": "Bēne,Aucesnov.,Stacijasiela9,LV-3711,ELVIveikals",
+    "data": [
+      {
+        "id": 1684,
+        "link": "http://elvi.lv/veikali/bene-elvi-veikals/",
+        "lat": 56.482187,
+        "lng": 23.067139
+      }
+    ]
+  },
+  {
+    "value": "Auce,Aucesnov.,Aspazijaslaukums3,LV-3708,ELVIveikals",
+    "data": [
+      {
+        "id": 1635,
+        "link": "http://elvi.lv/veikali/auce-elvi-veikals/",
+        "lat": 56.464556,
+        "lng": 22.894310
+      }
+    ]
+  },
+  {
+    "value": "Babīte,Babītespag.,Babītesnov.,Liepualeja15a,LV-2101,ELVIveikals",
+    "data": [
+      {
+        "id": 1630,
+        "link": "http://elvi.lv/veikali/babite-elvi-veikals/",
+        "lat": 56.956250,
+        "lng": 23.948424
+      }
+    ]
+  },
+  {
+    "value": "Piņķi,Babītesnov.,Rīgasiela8,LV-2107,ELVIveikals",
+    "data": [
+      {
+        "id": 1633,
+        "link": "http://elvi.lv/veikali/pinki-elvi-veikals/",
+        "lat": 56.944450,
+        "lng": 23.909531
+      }
+    ]
+  },
+  {
+    "value": "Iecava,Bauskasnov.,Baldonesiela42,LV-3913,ELVIveikals",
+    "data": [
+      {
+        "id": 1695,
+        "link": "http://elvi.lv/veikali/iecava-elvi-veikals/",
+        "lat": 56.598736,
+        "lng": 24.218360
+      }
+    ]
+  },
+  {
+    "value": "Mežotne,Pilsiela6,Bauskasnov.,LV-3918,ELVIveikals",
+    "data": [
+      {
+        "id": 1673,
+        "link": "http://elvi.lv/veikali/mezotne-elvi-veikals/",
+        "lat": 56.439395,
+        "lng": 24.053900
+      }
+    ]
+  },
+  {
+    "value": "Ceraukste,Bauskasnov.,Skolasiela41,LV-3908,ELVIveikals",
+    "data": [
+      {
+        "id": 1671,
+        "link": "http://elvi.lv/veikali/ceraukste-elvi-veikals/",
+        "lat": 56.36556,
+        "lng": 24.282859
+      }
+    ]
+  },
+  {
+    "value": "Bauska,Īslīcesiela7,LV-3901,ELVIveikals",
+    "data": [
+      {
+        "id": 1669,
+        "link": "http://elvi.lv/veikali/bauska-elvi-veikals/",
+        "lat": 56.39561,
+        "lng": 24.179265
+      }
+    ]
+  },
+  {
+    "value": "Kalngale,Carnikavasnov.,Ērgļuiela1b,LV-2163,ELVIveikals",
+    "data": [
+      {
+        "id": 4530,
+        "link": "http://elvi.lv/veikali/kalngale-erglu-iela1b-carnikavas-novads-lv-2163/",
+        "lat": 57.0807791,
+        "lng": 24.15569
+      }
+    ]
+  },
+  {
+    "value": "Silene,Daugavpilsnov.,Skolasiela1,LV-5470,ELVIveikals",
+    "data": [
+      {
+        "id": 1689,
+        "link": "http://elvi.lv/veikali/silene-elvi-veikals/",
+        "lat": 55.746712,
+        "lng": 26.781679
+      }
+    ]
+  },
+  {
+    "value": "Biksti,Dobelesnov.,Dzirnaviņas,LV-3713,ELVIveikals",
+    "data": [
+      {
+        "id": 1675,
+        "link": "http://elvi.lv/veikali/biksti-elvi-veikals/",
+        "lat": 56.664094,
+        "lng": 22.969343
+      }
+    ]
+  },
+  {
+    "value": "Dobele,Skolasiela26-600,LV&#8211;3701,ELVIveikals",
+    "data": [
+      {
+        "id": 1681,
+        "link": "http://elvi.lv/veikali/dobele-elvi-veikals/",
+        "lat": 56.617004,
+        "lng": 23.282825
+      }
+    ]
+  },
+  {
+    "value": "Jaunbērze,Dobelesnov.,Ausmaņaiela5-2,LV-3717,ELVIveikals",
+    "data": [
+      {
+        "id": 1679,
+        "link": "http://elvi.lv/veikali/jaunberze-elvi-veikals/",
+        "lat": 56.735390,
+        "lng": 23.391464
+      }
+    ]
+  },
+  {
+    "value": "Engure,Engurespag.,Enguresnov.,Jūrasiela62,LV-3113,ELVIveikals",
+    "data": [
+      {
+        "id": 1617,
+        "link": "http://elvi.lv/veikali/engure-elvi-veikals/",
+        "lat": 57.162255,
+        "lng": 23.228899
+      }
+    ]
+  },
+  {
+    "value": "Bukulti,Garkalnesnov.,Silkalni,LV-1024,ELVIveikals",
+    "data": [
+      {
+        "id": 2871,
+        "link": "http://elvi.lv/veikali/bukulti-silkalni-garkalnes-nov-lv-1024/",
+        "lat": 57.0198489,
+        "lng": 24.2572016
+      }
+    ]
+  },
+  {
+    "value": "Ikšķile,Daugavasprospekts18a,LV-5052,ELVIveikals",
+    "data": [
+      {
+        "id": 1613,
+        "link": "http://elvi.lv/veikali/ikskile-elvi-veikals/",
+        "lat": 56.831200,
+        "lng": 24.498843
+      }
+    ]
+  },
+  {
+    "value": "Vangaži,Inčukalnanov.,Gaujasiela10,LV-2136,ELVIveikals",
+    "data": [
+      {
+        "id": 1592,
+        "link": "http://elvi.lv/veikali/vangazi-elvi-veikals/",
+        "lat": 57.092692,
+        "lng": 24.546969
+      }
+    ]
+  },
+  {
+    "value": "Inčukalns,Inčukalnapag.,Inčukalnanov.,Laimesiela1,LV-2141,ELVIveikals",
+    "data": [
+      {
+        "id": 1628,
+        "link": "http://elvi.lv/veikali/incukalns-elvi-veikals/",
+        "lat": 57.099143,
+        "lng": 24.685443
+      }
+    ]
+  },
+  {
+    "value": "Vangaži,Inčukalnanov.,Vidzemesiela10,LV-2137,ELVIveikals",
+    "data": [
+      {
+        "id": 1593,
+        "link": "http://elvi.lv/veikali/vangazielvi-veikals/",
+        "lat": 57.090589,
+        "lng": 24.543420
+      }
+    ]
+  },
+  {
+    "value": "Jaunjelgava,Jaunjelgavasnov.,Jēkabpilsiela5,LV-5134,ELVIveikals",
+    "data": [
+      {
+        "id": 2875,
+        "link": "http://elvi.lv/veikali/jaunjelgava-jekabpils-iela-5-jaunjelgavas-nov-lv-5134/",
+        "lat": 56.6157879,
+        "lng": 25.0607041
+      }
+    ]
+  },
+  {
+    "value": "Sunākste,Jaunjelgavasnov.,Sunākstespag.,LV-5130,ELVIveikals",
+    "data": [
+      {
+        "id": 1661,
+        "link": "http://elvi.lv/veikali/sunakste-elvi-veikals/",
+        "lat": 56.458411,
+        "lng": 25.482970
+      }
+    ]
+  },
+  {
+    "value": "Jaunpiebalga,Jaunpiebalgasnov.,Gaujasiela6a,LV-4125,ELVIveikals",
+    "data": [
+      {
+        "id": 1677,
+        "link": "http://elvi.lv/veikali/jaunpiebalga-elvi-veikals/",
+        "lat": 57.180025,
+        "lng": 26.053038
+      }
+    ]
+  },
+  {
+    "value": "Abrupe,Jaunpiebalgasnov.,Jaunskrāģi,LV-4125,ELVIveikals",
+    "data": [
+      {
+        "id": 1676,
+        "link": "http://elvi.lv/veikali/abrupe-elvi-veikals/",
+        "lat": 57.143447,
+        "lng": 25.986019
+      }
+    ]
+  },
+  {
+    "value": "Jelgava,Jelgavasnov.,Lielāiela49,LV-3001,ELVIveikals",
+    "data": [
+      {
+        "id": 1584,
+        "link": "http://elvi.lv/veikali/jelgava-elvi-veikals/",
+        "lat": 56.650918,
+        "lng": 23.704196
+      }
+    ]
+  },
+  {
+    "value": "Jelgava,Svētesiela9,LV-3001,ELVIveikals",
+    "data": [
+      {
+        "id": 1691,
+        "link": "http://elvi.lv/veikali/jelgava-elvi-veikals-2/",
+        "lat": 56.649139,
+        "lng": 23.721660
+      }
+    ]
+  },
+  {
+    "value": "Jelgava,Jelgavasnov.,Rūpniecībasiela77a,LV-3008,ELVIveikals",
+    "data": [
+      {
+        "id": 1582,
+        "link": "http://elvi.lv/veikali/jelgavaelvi-veikals/",
+        "lat": 56.636612,
+        "lng": 23.705054
+      }
+    ]
+  },
+  {
+    "value": "Līvbērze,Jelgavasnov.Papeles,LV-3014,ELVIveikals",
+    "data": [
+      {
+        "id": 1711,
+        "link": "http://elvi.lv/veikali/livberze-elvi-veikals/",
+        "lat": 56.695209,
+        "lng": 23.485733
+      }
+    ]
+  },
+  {
+    "value": "Vilce,Jelgavasnov.,Tērvetesiela6,LV-3026,ELVIveikals",
+    "data": [
+      {
+        "id": 1651,
+        "link": "http://elvi.lv/veikali/vilce-elvi-veikals/",
+        "lat": 56.644331,
+        "lng": 23.711556
+      }
+    ]
+  },
+  {
+    "value": "Jūrmala,Mellužuprospekts40,LV-2008,ELVIveikals",
+    "data": [
+      {
+        "id": 1618,
+        "link": "http://elvi.lv/veikali/jurmala/",
+        "lat": 56.960994,
+        "lng": 23.713745
+      }
+    ]
+  },
+  {
+    "value": "Kārsava,Vienībasiela72b,LV-5717,ELVIveikali",
+    "data": [
+      {
+        "id": 1688,
+        "link": "http://elvi.lv/veikali/karsava-elvi-veikali/",
+        "lat": 56.781645,
+        "lng": 27.686530
+      }
+    ]
+  },
+  {
+    "value": "Ķegums,Ķegumaprospekts5C,LV-5030,ELVIveikals",
+    "data": [
+      {
+        "id": 1609,
+        "link": "http://elvi.lv/veikali/kegums-elvi-veikals/",
+        "lat": 56.743745,
+        "lng": 24.718490
+      }
+    ]
+  },
+  {
+    "value": "Daugmale,Ķekavasnov.,Ceļmalas,LV-2124,ELVIveikals",
+    "data": [
+      {
+        "id": 1685,
+        "link": "http://elvi.lv/veikali/daugmale-elvi-veikals/",
+        "lat": 56.821820,
+        "lng": 24.416141
+      }
+    ]
+  },
+  {
+    "value": "Ķekava,Ķekavasnov.,Rīgasiela22a,LV-2123,ELVIveikals",
+    "data": [
+      {
+        "id": 1586,
+        "link": "http://elvi.lv/veikali/kekava-elvi-veikals/",
+        "lat": 56.832024,
+        "lng": 24.231777
+      }
+    ]
+  },
+  {
+    "value": "Koknese,Lāčplēšaiela5,LV-5113,ELVIveikals",
+    "data": [
+      {
+        "id": 1658,
+        "link": "http://elvi.lv/veikali/koknese-elvi-veikals/",
+        "lat": 56.645062,
+        "lng": 25.433112
+      }
+    ]
+  },
+  {
+    "value": "Ragana,Tirgusiela10,LV-2144,ELVIveikals",
+    "data": [
+      {
+        "id": 2372,
+        "link": "http://elvi.lv/veikali/ragana-tirgus-iela-10-lv-2144/",
+        "lat": 57.1808,
+        "lng": 24.7121102
+      }
+    ]
+  },
+  {
+    "value": "Kuldīga,Kuldīgasnov.,Gravasiela1,LV-3301,ELVIveikals",
+    "data": [
+      {
+        "id": 1596,
+        "link": "http://elvi.lv/veikali/kuldiga-elvi-veikals/",
+        "lat": 56.973568,
+        "lng": 21.958040
+      }
+    ]
+  },
+  {
+    "value": "Lielvārde,Lielvārdesnov.,Lāčplēšaiela23b,LV-5070,ELVIveikals",
+    "data": [
+      {
+        "id": 1645,
+        "link": "http://elvi.lv/veikali/lielvarde-elvi-veikals/",
+        "lat": 56.716956,
+        "lng": 56.716956
+      }
+    ]
+  },
+  {
+    "value": "Jumprava,Lielvārdesnov.,Ceriņuiela3,LV-5022,ELVIveikals",
+    "data": [
+      {
+        "id": 1649,
+        "link": "http://elvi.lv/veikali/jumprava-elvi-veikals/",
+        "lat": 56.675300,
+        "lng": 24.972203
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,EduardaTisēiela71a,LV-3407,ELVIveikals",
+    "data": [
+      {
+        "id": 2574,
+        "link": "http://elvi.lv/veikali/liepaja-eduarda-tise-iela-71a-lv-3407/",
+        "lat": 56.4895173,
+        "lng": 21.0195661
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,Talsuiela47,LV-3414,ELVIveikals",
+    "data": [
+      {
+        "id": 1703,
+        "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-4/",
+        "lat": 56.546691,
+        "lng": 21.069262
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,Rīgasiela10,LV-3401,ELVIveikals",
+    "data": [
+      {
+        "id": 1702,
+        "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-3/",
+        "lat": 56.515532,
+        "lng": 21.015221
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,Dzintaruiela25/27,LV-3401,ELVIveikals",
+    "data": [
+      {
+        "id": 1701,
+        "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-2/",
+        "lat": 56.500937,
+        "lng": 21.001776
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,Ganībuiela69/71,LV-3401,ELVIveikals",
+    "data": [
+      {
+        "id": 1603,
+        "link": "http://elvi.lv/veikali/liepaja-elvi-veikals/",
+        "lat": 56.502550,
+        "lng": 21.019124
+      }
+    ]
+  },
+  {
+    "value": "Liepāja,Jūrasiela17,LV-3401,ELVIveikals",
+    "data": [
+      {
+        "id": 4923,
+        "link": "http://elvi.lv/veikali/liepaja-juras-iela-17-lv-3401/",
+        "lat": 56.5114891,
+        "lng": 21.0071894
+      }
+    ]
+  },
+  {
+    "value": "Augšlīgatne,Līgatnesnov.,Nītauresiela5,LV-4108,ELVIveikals",
+    "data": [
+      {
+        "id": 1591,
+        "link": "http://elvi.lv/veikali/augsligatne-elvi-veikals/",
+        "lat": 57.183336,
+        "lng": 25.035185
+      }
+    ]
+  },
+  {
+    "value": "Viļķene,Limbažunov.,Briežuiela2,LV-4050,ELVIveikals",
+    "data": [
+      {
+        "id": 1638,
+        "link": "http://elvi.lv/veikali/vilkene-elvi-veikals/",
+        "lat": 57.609111,
+        "lng": 24.607967
+      }
+    ]
+  },
+  {
+    "value": "Limbaži,Limbažunov.,Jaunāiela4,LV-4001,ELVIveikals",
+    "data": [
+      {
+        "id": 1581,
+        "link": "http://elvi.lv/veikali/limbazi-elvi-veikals/",
+        "lat": 57.510903,
+        "lng": 24.708865
+      }
+    ]
+  },
+  {
+    "value": "Madona,Raiņaiela33a,LV-4801,ELVIveikals",
+    "data": [
+      {
+        "id": 2874,
+        "link": "http://elvi.lv/veikali/madona-raina-iela-33a-lv-4801/",
+        "lat": 56.8567525,
+        "lng": 26.2054233
+      }
+    ]
+  },
+  {
+    "value": "Mārupe,Zeltrītuiela16-2,LV-2167,ELVIveikals",
+    "data": [
+      {
+        "id": 1694,
+        "link": "http://elvi.lv/veikali/marupe-elvi-veikals/",
+        "lat": 56.886796,
+        "lng": 24.053032
+      }
+    ]
+  },
+  {
+    "value": "Naukšēni,Naukšēnunov.,Zvejnieki,LV-4244,ELVIveikals",
+    "data": [
+      {
+        "id": 1654,
+        "link": "http://elvi.lv/veikali/naukseni-elvi-veikals/",
+        "lat": 57.884542,
+        "lng": 25.463411
+      }
+    ]
+  },
+  {
+    "value": "Ogre,Ogresnov.,Brīvībasiela15a,LV-5001,ELVIveikals",
+    "data": [
+      {
+        "id": 1595,
+        "link": "http://elvi.lv/veikali/ogre-elvi-veikals/",
+        "lat": 56.817051,
+        "lng": 24.604370
+      }
+    ]
+  },
+  {
+    "value": "Madliena,Ogresnov.,„Tirdzniecībascentrs”,LV-5045,ELVIveikals",
+    "data": [
+      {
+        "id": 1647,
+        "link": "http://elvi.lv/veikali/madliena-elvi-veikals/",
+        "lat": 56.846512,
+        "lng": 25.156514
+      }
+    ]
+  },
+  {
+    "value": "Ciemupe,Ogresgalapag.,Ogresnov.,Daugavpilsiela1,LV-5020,ELVIveikals",
+    "data": [
+      {
+        "id": 1650,
+        "link": "http://elvi.lv/veikali/ciemupe-elvi-veikals/",
+        "lat": 56.776897,
+        "lng": 24.653145
+      }
+    ]
+  },
+  {
+    "value": "Ogresgals,Ogresgalapag.,Ogresnov.,Steigas4,LV-5041,ELVIveikals",
+    "data": [
+      {
+        "id": 1607,
+        "link": "http://elvi.lv/veikali/ogresgalselvi-veikals/",
+        "lat": 56.807804,
+        "lng": 24.729266
+      }
+    ]
+  },
+  {
+    "value": "Ogre,Mālkalnesprospekts3,LV-5001,ELVIveikals",
+    "data": [
+      {
+        "id": 1605,
+        "link": "http://elvi.lv/veikali/ogre-elvi-veikals-2/",
+        "lat": 56.822095,
+        "lng": 24.595001
+      }
+    ]
+  },
+  {
+    "value": "Olaine,Zeifertaiela7-19,LV-2114,ELVIveikals",
+    "data": [
+      {
+        "id": 1611,
+        "link": "http://elvi.lv/veikali/olaine-elvi-veikals/",
+        "lat": 56.787603,
+        "lng": 23.941883
+      }
+    ]
+  },
+  {
+    "value": "Ozolnieki,Rīgasiela44,LV-3018,ELVIveikals",
+    "data": [
+      {
+        "id": 1612,
+        "link": "http://elvi.lv/veikali/ozolnieki/",
+        "lat": 56.689978,
+        "lng": 23.795555
+      }
+    ]
+  },
+  {
+    "value": "Plācis,Straupespag.,Pārgaujasnov.,Bērzi,LV-4152,ELVIveikals",
+    "data": [
+      {
+        "id": 1639,
+        "link": "http://elvi.lv/veikali/placis-elvi-veikals/",
+        "lat": 57.362593,
+        "lng": 24.977505
+      }
+    ]
+  },
+  {
+    "value": "Odziena,Pļaviņunov.,Kalēji,LV-5109,ELVIveikals",
+    "data": [
+      {
+        "id": 1693,
+        "link": "http://elvi.lv/veikali/odziena-elvi-veikals/",
+        "lat": 56.711406,
+        "lng": 25.688658
+      }
+    ]
+  },
+  {
+    "value": "Bērzkrogs,„Lielbērzi”Veselavaspag.LV-4116,ELVIveikals",
+    "data": [
+      {
+        "id": 1614,
+        "link": "http://elvi.lv/veikali/berzkrogs-elvi-veikals/",
+        "lat": 57.279155,
+        "lng": 25.493455
+      }
+    ]
+  },
+  {
+    "value": "Rauna,Raunaspag.,Raunasnov.,Rīgasiela1,LV-4131,ELVIveikals",
+    "data": [
+      {
+        "id": 1629,
+        "link": "http://elvi.lv/veikali/rauna-elvi-veikals/",
+        "lat": 57.331012,
+        "lng": 25.609790
+      }
+    ]
+  },
+  {
+    "value": "Rēzekne,Kr.Valdemāraiela2a,LV-4601,ELVIveikals",
+    "data": [
+      {
+        "id": 1704,
+        "link": "http://elvi.lv/veikali/rezekne-elvi-veikals-2/",
+        "lat": 56.514790,
+        "lng": 27.328972
+      }
+    ]
+  },
+  {
+    "value": "Rēzekne,AtbrīvošanasAleja112,LV-4601,ELVIveikals",
+    "data": [
+      {
+        "id": 1698,
+        "link": "http://elvi.lv/veikali/rezekne-elvi-veikals/",
+        "lat": 56.509490,
+        "lng": 27.333059
+      }
+    ]
+  },
+  {
+    "value": "Malta,Rēzeknesnov.,1.maijaiela72,LV-4630,ELVIveikals",
+    "data": [
+      {
+        "id": 1700,
+        "link": "http://elvi.lv/veikali/malta-elvi-veikals/",
+        "lat": 56.346863,
+        "lng": 27.164609
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Ģertrūdesielā105/1,LV-1009,ELVIveikals",
+    "data": [
+      {
+        "id": 2873,
+        "link": "http://elvi.lv/veikali/riga-gertrudes-iela-105-1-lv-1009/",
+        "lat": 56.9494314,
+        "lng": 24.1354401
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Čiekurkalna1.līnija47,LV-1026,ELVIveikals",
+    "data": [
+      {
+        "id": 2872,
+        "link": "http://elvi.lv/veikali/riga-ciekurkalna-1-linija-47-lv-1026/",
+        "lat": 56.9828847,
+        "lng": 24.1726452
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Ganībudambis17,LV-1045,ELVIveikals",
+    "data": [
+      {
+        "id": 1622,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-8/",
+        "lat": 56.974551,
+        "lng": 24.111649
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Lāčplēšaiela70,LV-1011,ELVIveikals",
+    "data": [
+      {
+        "id": 1632,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-9/",
+        "lat": 56.950555,
+        "lng": 24.132079
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Brīvībasiela92/94,LV-1001,ELVIveikali",
+    "data": [
+      {
+        "id": 1692,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikali/",
+        "lat": 56.960460,
+        "lng": 24.131684
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Kūdrasiela8b,LV-1083,ELVIveikals",
+    "data": [
+      {
+        "id": 1621,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-7/",
+        "lat": 56.947364,
+        "lng": 24.053534
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Biķerniekuiela75a,LV-1039,ELVIveikals",
+    "data": [
+      {
+        "id": 1594,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-5/",
+        "lat": 56.969032,
+        "lng": 24.187583
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Kalnciemaiela105a,LV-1046,ELVIveikals",
+    "data": [
+      {
+        "id": 1590,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-4/",
+        "lat": 56.936673,
+        "lng": 24.040951
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Mārupesiela35-602,LV-1002,ELVIveikals",
+    "data": [
+      {
+        "id": 1589,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-3/",
+        "lat": 56.927958,
+        "lng": 24.076589
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Tallinasiela66,LV-1009,ELVIveikals",
+    "data": [
+      {
+        "id": 1587,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals-2/",
+        "lat": 56.958259,
+        "lng": 24.144924
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Tēriņuiela62,LV-1004,ELVIveikals",
+    "data": [
+      {
+        "id": 1585,
+        "link": "http://elvi.lv/veikali/riga-elvi-veikals/",
+        "lat": 56.912998,
+        "lng": 24.067096
+      }
+    ]
+  },
+  {
+    "value": "Rīga,Avotuiela48,LV-1009,ELVIAvotu",
+    "data": [
+      {
+        "id": 937,
+        "link": "http://elvi.lv/veikali/riga/",
+        "lat": 56.9519599,
+        "lng": 24.1371549
+      }
+    ]
+  },
+  {
+    "value": "Rūjiena,Valdemāraiela4,LV-4240,ELVIveikals",
+    "data": [
+      {
+        "id": 1656,
+        "link": "http://elvi.lv/veikali/rujiena-elvi-veikals/",
+        "lat": 57.896471,
+        "lng": 25.325299
+      }
+    ]
+  },
+  {
+    "value": "Tūja,Salacgrīvasnov.,Liedagaiela3,LV-4022,ELVIveikals",
+    "data": [
+      {
+        "id": 1623,
+        "link": "http://elvi.lv/veikali/tuja-elvi-veikals/",
+        "lat": 57.489424,
+        "lng": 24.390184
+      }
+    ]
+  },
+  {
+    "value": "Druva,Saldusnov.,Vienībasiela4,LV-3862,ELVIveikals",
+    "data": [
+      {
+        "id": 1690,
+        "link": "http://elvi.lv/veikali/druva-elvi-veikals/",
+        "lat": 56.694101,
+        "lng": 22.445752
+      }
+    ]
+  },
+  {
+    "value": "Kursīši,Saldusnov.,Bērzuiela1-18,LV-3890,ELVIveikals",
+    "data": [
+      {
+        "id": 1643,
+        "link": "http://elvi.lv/veikali/kursisi-elvi-veikals/",
+        "lat": 56.512548,
+        "lng": 22.405646
+      }
+    ]
+  },
+  {
+    "value": "Ezere,Saldusnov.,Centralaukums2,LV-3891,ELVIveikals",
+    "data": [
+      {
+        "id": 1641,
+        "link": "http://elvi.lv/veikali/ezere-elvi-veikals/",
+        "lat": 56.409079,
+        "lng": 22.361480
+      }
+    ]
+  },
+  {
+    "value": "Saldus,Saldusnov.,Kuldīgasiela21,LV-3801,ELVIveikals",
+    "data": [
+      {
+        "id": 1602,
+        "link": "http://elvi.lv/veikali/salduselvi-veikals/",
+        "lat": 56.672433,
+        "lng": 22.485782
+      }
+    ]
+  },
+  {
+    "value": "Saulkrasti,Saulkrastunov.,Ainažuielā28a,LV-2160,ELVIveikals",
+    "data": [
+      {
+        "id": 1616,
+        "link": "http://elvi.lv/veikali/saulkrasti-elvi-veikals/",
+        "lat": 57.271686,
+        "lng": 24.416049
+      }
+    ]
+  },
+  {
+    "value": "Sigulda,Siguldasnov.,Vidusiela1,LV-2150,ELVIveikals",
+    "data": [
+      {
+        "id": 1576,
+        "link": "http://elvi.lv/veikali/sigulda-elvi/",
+        "lat": 57.153169,
+        "lng": 24.847689
+      }
+    ]
+  },
+  {
+    "value": "Sigulda,Siguldasnov.,Vidzemesšoseja16,LV-2150,ELVIRaibais",
+    "data": [
+      {
+        "id": 930,
+        "link": "http://elvi.lv/veikali/sigulda/",
+        "lat": 57.1487373,
+        "lng": 24.8450568
+      }
+    ]
+  },
+  {
+    "value": "Skrunda,Skrundasnov.,Ventasiela16,LV-3326,ELVIveikals",
+    "data": [
+      {
+        "id": 1598,
+        "link": "http://elvi.lv/veikali/skrundaelvi-veikals/",
+        "lat": 56.674159,
+        "lng": 22.013729
+      }
+    ]
+  },
+  {
+    "value": "Stende,Talsunov.,Brīvībasiela55,LV-3257,ELVIveikals",
+    "data": [
+      {
+        "id": 1626,
+        "link": "http://elvi.lv/veikali/stende-elvi-veikals-2/",
+        "lat": 57.129499,
+        "lng": 22.536951
+      }
+    ]
+  },
+  {
+    "value": "Stende,Talsunov.,Brīvībasiela20,LV-3257,ELVIveikals",
+    "data": [
+      {
+        "id": 1625,
+        "link": "http://elvi.lv/veikali/stende-elvi-veikals/",
+        "lat": 57.129877,
+        "lng": 22.536761
+      }
+    ]
+  },
+  {
+    "value": "Tērvete,PagastaĒka,LV-3730,ELVIveikals",
+    "data": [
+      {
+        "id": 1706,
+        "link": "http://elvi.lv/veikali/tervete-elvi-veikals/",
+        "lat": 56.480022,
+        "lng": 23.381120
+      }
+    ]
+  },
+  {
+    "value": "Džūkste,Tukumanov.,Gardumi,LV-3147,ELVIveikals",
+    "data": [
+      {
+        "id": 1682,
+        "link": "http://elvi.lv/veikali/dzukste-elvi-veikals/",
+        "lat": 56.791265,
+        "lng": 23.246871
+      }
+    ]
+  },
+  {
+    "value": "Taurene,Vecpiebalgasnov.,Lauras,LV-4119,ELVIveikals",
+    "data": [
+      {
+        "id": 1619,
+        "link": "http://elvi.lv/veikali/taurene-elvi-veikals/",
+        "lat": 57.159502,
+        "lng": 25.663204
+      }
+    ]
+  },
+  {
+    "value": "Vecumnieki,Vecumniekunov.,Bauskasiela16,LV-3933,ELVIveikals",
+    "data": [
+      {
+        "id": 1652,
+        "link": "http://elvi.lv/veikali/vecumnieki-elvi-veikals/",
+        "lat": 56.605955,
+        "lng": 24.521614
+      }
+    ]
+  },
+  {
+    "value": "Valle,Vecumniekunov.,Vīnkalni,LV-5106,ELVIveikals",
+    "data": [
+      {
+        "id": 1662,
+        "link": "http://elvi.lv/veikali/valle-elvi-veikals/",
+        "lat": 56.510918,
+        "lng": 24.727691
+      }
+    ]
+  },
+  {
+    "value": "Ventspils,Sarkanmuižasdambis5,LV-3601,ELVIveikals",
+    "data": [
+      {
+        "id": 1708,
+        "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-5/",
+        "lat": 57.392217,
+        "lng": 21.575188
+      }
+    ]
+  },
+  {
+    "value": "Ventspils,Kuldīgasiela123,LV-3601,ELVIveikals",
+    "data": [
+      {
+        "id": 1697,
+        "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-4/",
+        "lat": 57.378364,
+        "lng": 21.573440
+      }
+    ]
+  },
+  {
+    "value": "Ventspils,Robežuiela202A,LV-3601,ELVIveikals",
+    "data": [
+      {
+        "id": 1636,
+        "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-3/",
+        "lat": 57.361745,
+        "lng": 21.619734
+      }
+    ]
+  },
+  {
+    "value": "Ventspils,Siguldasiela20,LV-3602,ELVIveikals",
+    "data": [
+      {
+        "id": 1600,
+        "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-2/",
+        "lat": 57.401978,
+        "lng": 21.610302
+      }
+    ]
+  },
+  {
+    "value": "Ventspils,Celtniekuiela3-96,LV-3602,ELVIveikals",
+    "data": [
+      {
+        "id": 1599,
+        "link": "http://elvi.lv/veikali/ventspils-elvi-veikals/",
+        "lat": 57.408420,
+        "lng": 21.596831
+      }
+    ]
+  },
+  {
+    "value": "Ugāle,Ventspilsnov.,Skolasiela7,LV-3615,ELVIveikals",
+    "data": [
+      {
+        "id": 1686,
+        "link": "http://elvi.lv/veikali/ugale-elvi-veikals/",
+        "lat": 57.277343,
+        "lng": 22.018025
+      }
+    ]
+  }
+]
