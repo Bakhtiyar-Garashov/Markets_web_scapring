@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 url = "http://elvi.lv/elvi-veikali/"
 
 
-def scrape_elvi(url):
+def scrap_elvi(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     all_scripts = soup.find_all('script')
@@ -55,4 +55,4 @@ def get_html_data(chain_url):
     return test
 
 
-scrape_elvi(url)
+scrap_elvi(url)

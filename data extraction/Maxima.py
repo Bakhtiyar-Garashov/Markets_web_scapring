@@ -1,5 +1,7 @@
 import urllib3
 import json
+import re
+from bs4 import BeautifulSoup
 
 url = "https://www.maxima.lv/ajax/shopsnetwork/map/getCities"
 
@@ -21,7 +23,15 @@ def scrap_maxima(url):
 
     with open('Maxima.json', 'w', encoding='utf8') as file_handler:
         raw_json = json.loads(r.data.decode('utf-8'))
+        for entry in raw_json:
+            props = re.findall(r'>(.*?)<', entry['info'])
+            entry['address'] = props[1][2:]
+            entry['phone'] = props[3][2:]
+            if 'fax' in props:
+                entry['fax'] = props[5][2:]
+
         json_data = json.dumps(raw_json, ensure_ascii=False, indent=4)
+
         file_handler.write(json_data)
         return True
 

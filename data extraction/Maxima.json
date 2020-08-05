@@ -6,7 +6,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Jūrmalas gatve 85, Rīga",
         "time": "8.00-22.00 ",
-        "id": "1"
+        "id": "1",
+        "phone": "8 000 2020",
+        "fax": "67815215"
     },
     {
         "lat": "56.958497",
@@ -15,7 +17,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Brīvības iela 78, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "2"
+        "id": "2",
+        "phone": "8 000 2020",
+        "fax": "67843045"
     },
     {
         "lat": "56.944088",
@@ -24,7 +28,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Centrāltirgus iela 5, Rīga",
         "time": "I-V 7.30-21.00</br>VI 7.30-20.00</br>VII 7.30-18.00",
-        "id": "3"
+        "id": "3",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.969290",
@@ -33,7 +38,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lidoņu iela 30A, Rīga",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "4"
+        "id": "4",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.784655",
@@ -42,7 +48,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Veselības iela 1, Olaine",
         "time": "8.00-22.00",
-        "id": "5"
+        "id": "5",
+        "phone": "8 000 2020",
+        "fax": "67811628"
     },
     {
         "lat": "56.912159",
@@ -51,7 +59,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Maskavas iela 256a, Rīga",
         "time": "8.00-22.00",
-        "id": "6"
+        "id": "6",
+        "phone": "8 000 2020",
+        "fax": "67132578"
     },
     {
         "lat": "56.937887",
@@ -60,7 +70,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "A.Saharova iela 21, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "7"
+        "id": "7",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.957202",
@@ -69,7 +80,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dzelzavas iela 51, Rīga",
         "time": "8.00-22.00",
-        "id": "8"
+        "id": "8",
+        "phone": "8 000 2020",
+        "fax": "67802721"
     },
     {
         "lat": "56.920367",
@@ -78,7 +91,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Maskavas iela 267, Rīga",
         "time": "8.00-22.00",
-        "id": "9"
+        "id": "9",
+        "phone": "8 000 2020",
+        "fax": "67813362"
     },
     {
         "lat": "56.966903",
@@ -87,7 +102,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Vecā Buļļu iela 27, Rīga",
         "time": "8.00-22.00",
-        "id": "10"
+        "id": "10",
+        "phone": "8 000 2020",
+        "fax": "67473254"
     },
     {
         "lat": "56.911913",
@@ -96,7 +113,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Prūšu iela 21, Rīga",
         "time": "8.00-22.00",
-        "id": "11"
+        "id": "11",
+        "phone": "8 000 2020",
+        "fax": "67803036"
     },
     {
         "lat": "56.947501",
@@ -105,7 +124,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ruses iela 9, Rīga",
         "time": "8.00-22.00",
-        "id": "12"
+        "id": "12",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.960308",
@@ -114,7 +134,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Engures iela 3, Jūrmala",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "13"
+        "id": "13",
+        "phone": "8 000 2020",
+        "fax": "67811137"
     },
     {
         "lat": "56.915886",
@@ -123,7 +145,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Valdeķu iela 10, Rīga",
         "time": "8.00-22.00",
-        "id": "14"
+        "id": "14",
+        "phone": "8 000 2020",
+        "fax": "67600864"
     },
     {
         "lat": "55.873630",
@@ -132,7 +156,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kandavas iela 5, Daugavpils",
         "time": "I-VI 9.00-22.00<br>VII 9.00-21.00",
-        "id": "15"
+        "id": "15",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.889367",
@@ -141,7 +166,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Smilšu iela 98a, Daugavpils",
         "time": "8.00-22.00",
-        "id": "16"
+        "id": "16",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.658935",
@@ -150,7 +176,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Meiju ceļš 10, Jelgava",
         "time": "8.00-22.00",
-        "id": "17"
+        "id": "17",
+        "phone": "8 000 2020",
+        "fax": "63045518"
     },
     {
         "lat": "56.940482",
@@ -159,7 +187,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Stendes iela ¼, Rīga",
         "time": "9.00-22.00",
-        "id": "18"
+        "id": "18",
+        "phone": "8 000 2020",
+        "fax": "67450028"
     },
     {
         "lat": "56.534254",
@@ -168,7 +198,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ziemeļu iela 10, Liepāja",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "19"
+        "id": "19",
+        "phone": "8 000 2020",
+        "fax": "63443292"
     },
     {
         "lat": "56.619826",
@@ -177,7 +209,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Zaļā iela 19, Dobele",
         "time": "8.00-22.00",
-        "id": "20"
+        "id": "20",
+        "phone": "8 000 2020",
+        "fax": "63781818"
     },
     {
         "lat": "56.993066",
@@ -186,7 +220,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Duntes iela 60, Rīga",
         "time": "8.00-22.00",
-        "id": "21"
+        "id": "21",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.959291",
@@ -195,7 +230,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Nīcgales iela 2, Rīga",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "22"
+        "id": "22",
+        "phone": "8 000 2020",
+        "fax": "67816274"
     },
     {
         "lat": "56.955234",
@@ -204,7 +241,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ģertrūdes iela 33/35, Rīga",
         "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
-        "id": "23"
+        "id": "23",
+        "phone": "8 000 2020",
+        "fax": "67844313"
     },
     {
         "lat": "56.814836",
@@ -213,7 +252,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Brīvības iela 7, Ogre",
         "time": "8.00-22.00",
-        "id": "24"
+        "id": "24",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.903370",
@@ -222,7 +262,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dižozolu iela 1, Rīga",
         "time": "8.00-22.00",
-        "id": "25"
+        "id": "25",
+        "phone": "8 000 2020",
+        "fax": "67671971"
     },
     {
         "lat": "57.512863",
@@ -231,7 +273,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 8, Limbaži",
         "time": "8.00-21.00",
-        "id": "26"
+        "id": "26",
+        "phone": "64021538",
+        "fax": "64021548"
     },
     {
         "lat": "57.530161",
@@ -240,7 +284,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Nākotnes iela 2, Valmiera",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-21.00",
-        "id": "27"
+        "id": "27",
+        "phone": "8 000 2020",
+        "fax": "64225059"
     },
     {
         "lat": "56.949472",
@@ -249,7 +295,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dzirciema iela 1, Rīga",
         "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
-        "id": "28"
+        "id": "28",
+        "phone": "8 000 2020",
+        "fax": "67815421"
     },
     {
         "lat": "57.172107",
@@ -258,7 +306,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 41, Gulbene",
         "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
-        "id": "29"
+        "id": "29",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.503765",
@@ -267,7 +316,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Siena iela 3, Liepāja",
         "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
-        "id": "30"
+        "id": "30",
+        "phone": "8 000 2020",
+        "fax": "63423112"
     },
     {
         "lat": "56.978238",
@@ -276,7 +327,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Juglas iela 45, Rīga",
         "time": "8.00-22.00",
-        "id": "31"
+        "id": "31",
+        "phone": "8 000 2020",
+        "fax": "67816052"
     },
     {
         "lat": "56.978841",
@@ -285,7 +338,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Brīvības gatve 310, Rīga",
         "time": "8.00-22.00",
-        "id": "32"
+        "id": "32",
+        "phone": "8 000 2020",
+        "fax": "67801357"
     },
     {
         "lat": "56.506223",
@@ -294,7 +349,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pulkveža Brieža iela 26, Rēzekne",
         "time": "8.00-22.00",
-        "id": "33"
+        "id": "33",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.924643",
@@ -303,7 +359,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Liepājas iela 76, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "34"
+        "id": "34",
+        "phone": "8 000 2020",
+        "fax": "67808378"
     },
     {
         "lat": "56.348242",
@@ -312,7 +370,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 37A, Līvāni",
         "time": "8.00-22.00",
-        "id": "35"
+        "id": "35",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.515263",
@@ -321,7 +380,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Atbrīvošanas aleja 142A, Rēzekne",
         "time": "8.00-22.00",
-        "id": "36"
+        "id": "36",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.027700",
@@ -330,7 +390,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Meldru iela 1A, Rīga",
         "time": "8.00-22.00",
-        "id": "37"
+        "id": "37",
+        "phone": "8 000 2020",
+        "fax": "67351379"
     },
     {
         "lat": "55.897035",
@@ -339,7 +401,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 28, Krāslava",
         "time": "8:00 – 22:00",
-        "id": "38"
+        "id": "38",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.157018",
@@ -348,7 +411,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Leona Paegles iela 3, Sigulda",
         "time": "8.00-22.00",
-        "id": "40"
+        "id": "40",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.899506",
@@ -357,7 +421,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Piekrastes iela 29, Daugavpils",
         "time": "8.00-22.00",
-        "id": "41"
+        "id": "41",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.881038",
@@ -366,7 +431,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Strādnieku iela 103, Daugavpils",
         "time": "8.00-22.00",
-        "id": "42"
+        "id": "42",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.899727",
@@ -375,7 +441,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Višķu iela 14, Rīga",
         "time": "8.00-22.00",
-        "id": "43"
+        "id": "43",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.905162",
@@ -384,7 +451,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Maskavas iela 322a, Rīga",
         "time": "8.00-22.00",
-        "id": "44"
+        "id": "44",
+        "phone": "8 000 2020",
+        "fax": "67259078"
     },
     {
         "lat": "56.490305",
@@ -393,7 +462,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Viestura iela 34a, Jēkabpils",
         "time": "8.00-22.00",
-        "id": "45"
+        "id": "45",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.292101",
@@ -402,7 +472,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Aglonas iela 27, Preiļi",
         "time": "8:00 – 21:00",
-        "id": "46"
+        "id": "46",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.968676",
@@ -411,7 +482,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kastrānes iela 14, Rīga",
         "time": "8.00-22.00",
-        "id": "47"
+        "id": "47",
+        "phone": "8 000 2020",
+        "fax": "67818066"
     },
     {
         "lat": "56.541625",
@@ -420,7 +493,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Cukura iela 27, Liepāja",
         "time": "8:00 – 21:00",
-        "id": "48"
+        "id": "48",
+        "phone": "8 000 2020",
+        "fax": "63489081"
     },
     {
         "lat": "56.959845",
@@ -429,7 +504,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pulkveža Brieža iela 7, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "49"
+        "id": "49",
+        "phone": "8 000 2020",
+        "fax": "67320345"
     },
     {
         "lat": "56.959663",
@@ -438,7 +515,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dzirciema iela 51, Rīga",
         "time": "8.00-22.00",
-        "id": "50"
+        "id": "50",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.483102",
@@ -447,7 +525,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "M.Ķempes iela 9, Liepāja",
         "time": "8.00-22.00",
-        "id": "51"
+        "id": "51",
+        "phone": "8 000 2020",
+        "fax": "63435512"
     },
     {
         "lat": "56.492839",
@@ -456,7 +536,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dzērves iela 15, Liepāja",
         "time": "8.00-22.00",
-        "id": "52"
+        "id": "52",
+        "phone": "8 000 2020",
+        "fax": "63437727"
     },
     {
         "lat": "56.953901",
@@ -465,7 +547,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dzirciema iela 23, Rīga",
         "time": "I-V 8.00-22.00<br>VI-VII 9.00-22.00",
-        "id": "53"
+        "id": "53",
+        "phone": "8 000 2020",
+        "fax": "67815375"
     },
     {
         "lat": "57.775057",
@@ -474,7 +558,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Raiņa iela 7, Valka",
         "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
-        "id": "54"
+        "id": "54",
+        "phone": "8 000 2020",
+        "fax": "64724064"
     },
     {
         "lat": "56.931622",
@@ -483,7 +569,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lubānas iela 52, Rīga",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "55"
+        "id": "55",
+        "phone": "8 000 2020",
+        "fax": "67138604"
     },
     {
         "lat": "56.969860",
@@ -492,7 +580,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Meža iela 22, Tukums",
         "time": "8.00-22.00",
-        "id": "56"
+        "id": "56",
+        "phone": "8 000 2020",
+        "fax": "63182362"
     },
     {
         "lat": "56.599601",
@@ -501,7 +591,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Skolas iela 6, Aizkraukle",
         "time": "I-V 8.00-21.00</br>VI 9.00-21.00</br>VII 9.00-20.00",
-        "id": "57"
+        "id": "57",
+        "phone": "8 000 2020",
+        "fax": "65124027"
     },
     {
         "lat": "56.852984",
@@ -510,7 +602,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Skolas iela 4B, Salaspils",
         "time": "8.00-22.00",
-        "id": "58"
+        "id": "58",
+        "phone": "8 000 2020",
+        "fax": "67946633"
     },
     {
         "lat": "57.032547",
@@ -519,7 +613,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Stūrmaņu iela 29, Rīga",
         "time": "8.00-22.00",
-        "id": "59"
+        "id": "59",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.501528",
@@ -528,7 +623,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 109, Jēkabpils",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "60"
+        "id": "60",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.421046",
@@ -537,7 +633,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ojāra Vācieša iela 12, Alūksne",
         "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
-        "id": "61"
+        "id": "61",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.985492",
@@ -546,7 +643,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Čiekurkalna 2.līnija 25, Rīga",
         "time": "8.00-22.00",
-        "id": "62"
+        "id": "62",
+        "phone": "8 000 2020",
+        "fax": "67368930"
     },
     {
         "lat": "57.020573",
@@ -555,7 +654,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Viestura prospekts 26, Rīga",
         "time": "8.00-22.00",
-        "id": "63"
+        "id": "63",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.851213",
@@ -564,7 +664,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Poruka iela 4, Madona",
         "time": "I-VI 8.00-21.00</br>VII 10.00-20.00",
-        "id": "64"
+        "id": "64",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.932321",
@@ -573,7 +674,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lubānas iela117A, Rīga",
         "time": "8.00-22.00",
-        "id": "65"
+        "id": "65",
+        "phone": "8 000 2020",
+        "fax": "67246947"
     },
     {
         "lat": "56.935431",
@@ -582,7 +685,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Mazā Nometņu iela 29, Rīga",
         "time": "8.00-22.00",
-        "id": "66"
+        "id": "66",
+        "phone": "8 000 2020",
+        "fax": "67601078"
     },
     {
         "lat": "56.971509",
@@ -591,7 +696,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lidoņu iela 3, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "67"
+        "id": "67",
+        "phone": "8 000 2020",
+        "fax": "67464284"
     },
     {
         "lat": "56.998390",
@@ -600,7 +707,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Sarkandaugavas iela 9,Rīga",
         "time": "8.00-22.00",
-        "id": "68"
+        "id": "68",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.421018",
@@ -609,7 +717,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Atmodas iela 4, Smiltene",
         "time": "8.00-22.00",
-        "id": "69"
+        "id": "69",
+        "phone": "8 000 2020",
+        "fax": "64774940"
     },
     {
         "lat": "56.597866",
@@ -618,7 +728,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 27, Iecava",
         "time": "7.00-22.00",
-        "id": "70"
+        "id": "70",
+        "phone": "8 000 2020",
+        "fax": "63942640"
     },
     {
         "lat": "56.958119",
@@ -627,7 +739,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Nometņu iela 11/13, Jūrmala",
         "time": "8.00-22.00",
-        "id": "71"
+        "id": "71",
+        "phone": "8 000 2020",
+        "fax": "67736692"
     },
     {
         "lat": "56.943673",
@@ -636,7 +750,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "A.Deglava iela 160A, Rīga",
         "time": "8.00-22.00",
-        "id": "72"
+        "id": "72",
+        "phone": "8 000 2020",
+        "fax": "67183360"
     },
     {
         "lat": "57.043953",
@@ -645,7 +761,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Jaunciema gatve 174, Rīga",
         "time": "8.00-22.00",
-        "id": "73"
+        "id": "73",
+        "phone": "8 000 2020",
+        "fax": "67341580"
     },
     {
         "lat": "56.975548",
@@ -654,7 +772,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Viestura iela 25, Jūrmala",
         "time": "8.00-22.00",
-        "id": "74"
+        "id": "74",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.975617",
@@ -663,7 +782,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kr.Valdemāra iela 118, Rīga",
         "time": "I-V 8.00-22.00</br>VI -VII 9.00-21.00",
-        "id": "75"
+        "id": "75",
+        "phone": "8 000 2020",
+        "fax": "67378429"
     },
     {
         "lat": "56.980842",
@@ -672,7 +793,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kvēles iela 11, Rīga",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "76"
+        "id": "76",
+        "phone": "8 000 2020",
+        "fax": "67817765"
     },
     {
         "lat": "56.932331",
@@ -681,7 +804,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rītupes iela 2, Rīga",
         "time": "8.00-22.00",
-        "id": "77"
+        "id": "77",
+        "phone": "8 000 2020",
+        "fax": "67140600"
     },
     {
         "lat": "57.390710",
@@ -690,7 +815,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Aleksandra iela 16, Ventspils",
         "time": "8.00-22.00",
-        "id": "78"
+        "id": "78",
+        "phone": "8 000 2020",
+        "fax": "63607133"
     },
     {
         "lat": "57.309979",
@@ -699,7 +826,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Gaujas iela 1/3, Cēsis",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "79"
+        "id": "79",
+        "phone": "8 000 2020",
+        "fax": "64107283"
     },
     {
         "lat": "56.988905",
@@ -708,7 +837,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Brīvības iela 428a, Rīga",
         "time": "8.00-22.00",
-        "id": "80"
+        "id": "80",
+        "phone": "8 000 2020",
+        "fax": "67817763"
     },
     {
         "lat": "56.526743",
@@ -717,7 +848,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Maskavas iela 16, Rēzekne",
         "time": "8.00-22.00",
-        "id": "81"
+        "id": "81",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.546277",
@@ -726,7 +858,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Latgales iela 124a, Ludza",
         "time": "8:00 – 22:00",
-        "id": "82"
+        "id": "82",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.717346",
@@ -735,7 +868,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kalvenes iela 11, Aizpute",
         "time": "I-VI 8.00-22.00</br>VII 8.00-21.00",
-        "id": "83"
+        "id": "83",
+        "phone": "8 000 2020",
+        "fax": "63449535"
     },
     {
         "lat": "57.430240",
@@ -744,7 +879,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pils iela 9B, Alūksne",
         "time": "8.00-22.00",
-        "id": "84"
+        "id": "84",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.128780",
@@ -753,7 +889,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Bērzpils iela 15, Balvi",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: I-V 8.00-22.00; VII 9.00-21.00</b></font>",
-        "id": "85"
+        "id": "85",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.944974",
@@ -762,7 +899,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pūpolu iela 1, Rīga",
         "time": "7.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 8:00-19:00</b></font>",
-        "id": "86"
+        "id": "86",
+        "phone": "8 000 2020",
+        "fax": "67225321"
     },
     {
         "lat": "56.968653",
@@ -771,7 +910,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pētersalas iela 18a, Rīga",
         "time": "8.00-22.00<br><b> <font color=\"red\">Darba laiks no 14.04.2020.: 9:00-21:00</b></font>",
-        "id": "87"
+        "id": "87",
+        "phone": "8 000 2020",
+        "fax": "67320415"
     },
     {
         "lat": "57.170892",
@@ -780,7 +921,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Skolas iela 7, Gulbene",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "88"
+        "id": "88",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.537157",
@@ -789,7 +931,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 46, Valmiera",
         "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
-        "id": "89"
+        "id": "89",
+        "phone": "8 000 2020",
+        "fax": "64222360"
     },
     {
         "lat": "57.075437",
@@ -798,7 +942,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas gatve 21, Ādaži",
         "time": "I-VI 8.00-22.00</br>VII 9.00-22.00",
-        "id": "90"
+        "id": "90",
+        "phone": "8 000 2020",
+        "fax": "67997198"
     },
     {
         "lat": "56.830827",
@@ -807,7 +953,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Gaismas iela 1, Ķekava",
         "time": "8:00 – 23:00",
-        "id": "91"
+        "id": "91",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.967137",
@@ -816,7 +963,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Mucenieku iela 24, Kuldīga",
         "time": "7.00-22.00",
-        "id": "92"
+        "id": "92",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.941103",
@@ -825,7 +973,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ulbrokas iela 4, Rīga",
         "time": "8.00-22.00",
-        "id": "93"
+        "id": "93",
+        "phone": "8 000 2020",
+        "fax": "67247424"
     },
     {
         "lat": "56.964431",
@@ -834,7 +984,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kurzemes prospekts 59 a, Rīga",
         "time": "8.00-22.00",
-        "id": "94"
+        "id": "94",
+        "phone": "8 000 2020",
+        "fax": "67427527"
     },
     {
         "lat": "57.036184",
@@ -843,7 +995,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Augusta Dombrovska 74, Rīga",
         "time": "8:00 – 23:00",
-        "id": "95"
+        "id": "95",
+        "phone": "8 000 2020",
+        "fax": "67349413"
     },
     {
         "lat": "56.819735",
@@ -852,7 +1006,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Vidus prospekts 1, Ogre",
         "time": "8.00-22.00",
-        "id": "96"
+        "id": "96",
+        "phone": "8 000 2020",
+        "fax": "65046400"
     },
     {
         "lat": "56.967713",
@@ -861,7 +1017,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Kurzemes prospekts 110B, Rīga",
         "time": "8.00-22.00",
-        "id": "97"
+        "id": "97",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.035170",
@@ -870,7 +1027,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Abavas iela 4 b, Kandava",
         "time": "I-V 8.00-22.00</br>VI-VII 9.00-22.00",
-        "id": "98"
+        "id": "98",
+        "phone": "8 000 2020",
+        "fax": "63180114"
     },
     {
         "lat": "56.406494",
@@ -879,7 +1038,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pionieru iela 2, Bauska",
         "time": "I-V 7:00-22:00 <br> VI-VII 8.00-22.00",
-        "id": "99"
+        "id": "99",
+        "phone": "8 000 2020",
+        "fax": "63924462"
     },
     {
         "lat": "56.543853",
@@ -888,7 +1049,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Latgales iela 61, Ludza",
         "time": "8.00-22.00",
-        "id": "100"
+        "id": "100",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.891739",
@@ -897,7 +1059,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Arhitektu iela 3, Daugavpils",
         "time": "8.00-22.00",
-        "id": "101"
+        "id": "101",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.941490",
@@ -906,7 +1069,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ilūkstes iela 24a, Rīga",
         "time": "8.00-22.00",
-        "id": "102"
+        "id": "102",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.505652",
@@ -915,7 +1079,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Selgas iela 2, Roja",
         "time": "8:00 – 22:00 ",
-        "id": "103"
+        "id": "103",
+        "phone": "8 000 2020",
+        "fax": "63269536"
     },
     {
         "lat": "56.652027",
@@ -924,7 +1090,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dobeles šoseja 47a, Jelgava",
         "time": "8.00-22.00",
-        "id": "104"
+        "id": "104",
+        "phone": "8 000 2020",
+        "fax": "63025117"
     },
     {
         "lat": "56.608281",
@@ -933,7 +1101,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Gaismas iela 22, Aizkraukle",
         "time": "8.00-22.00",
-        "id": "105"
+        "id": "105",
+        "phone": "8 000 2020",
+        "fax": "65120437"
     },
     {
         "lat": "56.718073",
@@ -942,7 +1112,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lāčplēša iela 14, Lielvārde",
         "time": "8.00-22.00",
-        "id": "106"
+        "id": "106",
+        "phone": "8 000 2020",
+        "fax": "65049529"
     },
     {
         "lat": "57.405893",
@@ -951,7 +1123,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Celtnieku iela 17, Ventspils",
         "time": "8.00-23.00",
-        "id": "108"
+        "id": "108",
+        "phone": "8 000 2020",
+        "fax": "63620290"
     },
     {
         "lat": "56.644496",
@@ -960,7 +1134,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "1905.gada iela 8a, Koknese",
         "time": "8.00-22.00",
-        "id": "109"
+        "id": "109",
+        "phone": "8 000 2020",
+        "fax": "65120436"
     },
     {
         "lat": "56.094349",
@@ -969,7 +1145,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Daugavpils iela 8a, Dagda",
         "time": "8.00-22.00",
-        "id": "110"
+        "id": "110",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.838142",
@@ -978,7 +1155,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Skolas iela 4a, Ikšķile",
         "time": "8.00-22.00",
-        "id": "111"
+        "id": "111",
+        "phone": "8 000 2020",
+        "fax": "65000884"
     },
     {
         "lat": "56.945389",
@@ -987,7 +1166,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Melnsila iela 22, Rīga",
         "time": "8.00-22.00",
-        "id": "112"
+        "id": "112",
+        "phone": "8 000 2020",
+        "fax": "67456249"
     },
     {
         "lat": "56.943427",
@@ -996,7 +1177,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Jūrmalas iela 14, Piņķi",
         "time": "9.00-21.00",
-        "id": "113"
+        "id": "113",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.507442",
@@ -1005,7 +1187,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Lielā iela 13, Liepāja",
         "time": "8.00-22.00",
-        "id": "114"
+        "id": "114",
+        "phone": "8 000 2020",
+        "fax": "63488121"
     },
     {
         "lat": "56.533543",
@@ -1014,7 +1198,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "O.Kalpaka iela 74, Liepāja",
         "time": "8:00 – 23:00",
-        "id": "115"
+        "id": "115",
+        "phone": "8 000 2020",
+        "fax": "63441104"
     },
     {
         "lat": "57.752174",
@@ -1023,7 +1209,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Vidzemes iela 3A, Salacgrīva",
         "time": "8.00-22.00",
-        "id": "116"
+        "id": "116",
+        "phone": "8 000 2020",
+        "fax": "64041685"
     },
     {
         "lat": "56.957352",
@@ -1032,7 +1220,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Matīsa iela 23, Rīga",
         "time": "8.00-22.00",
-        "id": "117"
+        "id": "117",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.294535",
@@ -1041,7 +1230,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rēzeknes iela 4a, Preiļi",
         "time": "8.00-22.00",
-        "id": "118"
+        "id": "118",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.665014",
@@ -1050,7 +1240,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Striķu iela 10c, Saldus",
         "time": "I-VI 8.00-22.00</br>VII 9.00-21.00",
-        "id": "119"
+        "id": "119",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.860663",
@@ -1059,7 +1250,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dienvidu iela 7, Salaspils",
         "time": "8.00-22.00",
-        "id": "120"
+        "id": "120",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.894575",
@@ -1068,7 +1260,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Vienības iela 57, Krāslava",
         "time": "9:00 – 22:00; VII. 9:00 – 21:00",
-        "id": "121"
+        "id": "121",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.040944",
@@ -1077,7 +1270,9 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Parādes iela 8, Rīga",
         "time": "8:00 – 23:00",
-        "id": "122"
+        "id": "122",
+        "phone": "8 000 2020",
+        "fax": "67438001"
     },
     {
         "lat": "56.941554",
@@ -1086,7 +1281,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "A.Saharova iela 20a, Rīga",
         "time": "8.00-23.00",
-        "id": "123"
+        "id": "123",
+        "phone": "60008460"
     },
     {
         "lat": "56.922957",
@@ -1095,7 +1291,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Mūkusalas iela  73, Rīga",
         "time": "8.00-23.00",
-        "id": "124"
+        "id": "124",
+        "phone": "64909056"
     },
     {
         "lat": "56.491729",
@@ -1104,7 +1301,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Klaipēdas iela 62, Liepāja",
         "time": "8.00-23.00",
-        "id": "125"
+        "id": "125",
+        "phone": "63471810"
     },
     {
         "lat": "55.873942",
@@ -1113,7 +1311,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Cietokšņa iela 60, Daugavpils",
         "time": "8.00-22.00",
-        "id": "126"
+        "id": "126",
+        "phone": "65802030"
     },
     {
         "lat": "56.908207",
@@ -1122,7 +1321,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Vienības gatve 113, Rīga",
         "time": "8.00-23.00</br>VII-9.00-23.00",
-        "id": "127"
+        "id": "127",
+        "phone": "60003670"
     },
     {
         "lat": "56.661891",
@@ -1131,7 +1331,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Rīgas iela 11A, Jelgava",
         "time": "8:00 – 23:00",
-        "id": "128"
+        "id": "128",
+        "phone": "60003760"
     },
     {
         "lat": "56.650921",
@@ -1140,7 +1341,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Driksas iela 4, Jelgava",
         "time": "8.00-22.00",
-        "id": "129"
+        "id": "129",
+        "phone": " 20023587"
     },
     {
         "lat": "57.542064",
@@ -1149,7 +1351,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Georga Apiņa iela 10A, Valmiera",
         "time": "8.00-22.00</br>VII-9.00-22.00",
-        "id": "130"
+        "id": "130",
+        "phone": "64210780"
     },
     {
         "lat": "56.944805",
@@ -1158,7 +1361,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Nīcgales iela 46a, Rīga",
         "time": "8.00-22.00",
-        "id": "131"
+        "id": "131",
+        "phone": "60003100"
     },
     {
         "lat": "56.493255",
@@ -1167,7 +1371,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Brīvības iela 108, Jēkabpils",
         "time": "8.00-22.00",
-        "id": "132"
+        "id": "132",
+        "phone": "65283710"
     },
     {
         "lat": "56.960051",
@@ -1176,7 +1381,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Kurzemes prospekts 141, Rīga",
         "time": "8.00-22.00",
-        "id": "133"
+        "id": "133",
+        "phone": "60003140"
     },
     {
         "lat": "56.816484",
@@ -1185,7 +1391,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Rīgas iela 23, Ogre",
         "time": "9.00-22.00",
-        "id": "134"
+        "id": "134",
+        "phone": "20010350"
     },
     {
         "lat": "56.956632",
@@ -1194,7 +1401,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Biķernieku iela 143, Rīga",
         "time": "8.00-22.00",
-        "id": "135"
+        "id": "135",
+        "phone": "60005200"
     },
     {
         "lat": "56.668799",
@@ -1203,7 +1411,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Brīvības iela 30, Saldus",
         "time": "8.00-22.00</br>VII-9.00-22.00",
-        "id": "136"
+        "id": "136",
+        "phone": "64909001"
     },
     {
         "lat": "56.859867",
@@ -1212,7 +1421,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Rūpniecības iela 49, Madona",
         "time": "8.00-22.00</br>VII-9.00-22.00",
-        "id": "137"
+        "id": "137",
+        "phone": "60003640"
     },
     {
         "lat": "56.523304",
@@ -1221,7 +1431,9 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Atbrīvošanas aleja 141A, Rēzekne",
         "time": "8.00-22.00",
-        "id": "138"
+        "id": "138",
+        "phone": "64675260",
+        "fax": "64607381"
     },
     {
         "lat": "56.971491",
@@ -1230,7 +1442,9 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Kurzemes iela 36, Tukums",
         "time": "8.00-22.00",
-        "id": "139"
+        "id": "139",
+        "phone": "64909093",
+        "fax": "63107496"
     },
     {
         "lat": "57.317147",
@@ -1239,7 +1453,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Valmieras iela 17A, Cēsis",
         "time": "8.00-22.00",
-        "id": "140"
+        "id": "140",
+        "phone": "20008174"
     },
     {
         "lat": "57.513608",
@@ -1248,7 +1463,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Stacijas iela 8, Limbaži",
         "time": "8.00-22.00</br>VII-9.00-22.00",
-        "id": "141"
+        "id": "141",
+        "phone": "60005235"
     },
     {
         "lat": "57.238580",
@@ -1257,7 +1473,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Rīgas iela 8, Talsi",
         "time": "9.00-22.00",
-        "id": "142"
+        "id": "142",
+        "phone": "22337953"
     },
     {
         "lat": "56.960501",
@@ -1266,7 +1483,9 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Talsu šoseja 25, Jūrmala",
         "time": "8.00-23.00",
-        "id": "143"
+        "id": "143",
+        "phone": "20031334",
+        "fax": "67896901"
     },
     {
         "lat": "56.355649",
@@ -1275,7 +1494,9 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Domes iela 4A, Līvāni",
         "time": "8.00-22.00",
-        "id": "144"
+        "id": "144",
+        "phone": "60003795",
+        "fax": "65307841"
     },
     {
         "lat": "56.963506",
@@ -1284,7 +1505,9 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Dzelzavas iela 6A, Rīga",
         "time": "8.00-22.00",
-        "id": "145"
+        "id": "145",
+        "phone": "64909094",
+        "fax": "67443963"
     },
     {
         "lat": "56.950145",
@@ -1293,7 +1516,9 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "A.Deglava iela 67, Rīga",
         "time": "8.00-23.00",
-        "id": "146"
+        "id": "146",
+        "phone": "60008890",
+        "fax": "67802285"
     },
     {
         "lat": "56.960405",
@@ -1302,7 +1527,9 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "Slokas iela 115, Rīga",
         "time": "8.00-23.00",
-        "id": "147"
+        "id": "147",
+        "phone": "64909048",
+        "fax": "67892401"
     },
     {
         "lat": "56.929118",
@@ -1311,7 +1538,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "K.Ulmaņa gatve 88a, Rīga",
         "time": "8.00-23.00",
-        "id": "148"
+        "id": "148",
+        "phone": "20005745"
     },
     {
         "lat": "56.618518",
@@ -1320,7 +1548,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Daugavas ielā 72, Pļaviņas",
         "time": "8.00-22.00",
-        "id": "149"
+        "id": "149",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.781039",
@@ -1329,7 +1558,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Zemgales iela 53, Olaine",
         "time": "8.00-22.00",
-        "id": "1130"
+        "id": "1130",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.904997",
@@ -1338,7 +1568,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Pededzes iela 1, Mārupe",
         "time": "8:00 – 22:00",
-        "id": "1131"
+        "id": "1131",
+        "phone": "67854543"
     },
     {
         "lat": "56.488128",
@@ -1347,7 +1578,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Ganību iela 167, Liepāja",
         "time": "8.00 – 22.00",
-        "id": "1133"
+        "id": "1133",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.624751",
@@ -1356,7 +1588,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Baznīcas iela 14, Dobele",
         "time": "8.00-22.00",
-        "id": "1135"
+        "id": "1135",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.966325",
@@ -1365,7 +1598,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "Ieriķu iela 3, TC “Domina shopping”, Rīga",
         "time": "8.00-22.00",
-        "id": "1137"
+        "id": "1137",
+        "phone": "60008345"
     },
     {
         "lat": "57.389838",
@@ -1374,7 +1608,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Saules iela 46, Ventspils",
         "time": "I-V 8:00 - 22:00 <br> VI 9:00-22:00 <br> VII 9:00-21:00",
-        "id": "1138"
+        "id": "1138",
+        "phone": "80002020"
     },
     {
         "lat": "56.94726",
@@ -1383,7 +1618,8 @@
         "tag": "xexpress-4257-2237.png",
         "address": "Audēju iela 15-1, Rīga",
         "time": "7:00- 23:00",
-        "id": "1139"
+        "id": "1139",
+        "phone": "80002020"
     },
     {
         "lat": "56.964595",
@@ -1392,7 +1628,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Dagmāras iela 11, Rīga",
         "time": "8:00 - 22:00",
-        "id": "1140"
+        "id": "1140",
+        "phone": "80002020"
     },
     {
         "lat": "56.949771",
@@ -1401,7 +1638,8 @@
         "tag": "xexpress-4257-2237.png",
         "address": "Merķeļa iela 2, Rīga",
         "time": "7:00- 23:00",
-        "id": "1141"
+        "id": "1141",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.952340",
@@ -1410,7 +1648,8 @@
         "tag": "xexpress-4257-2237.png",
         "address": "Krišjāņa Barona iela 30-11, Rīga",
         "time": "I-VI-8.00-22.00<br>VII-10.00-22.00",
-        "id": "1142"
+        "id": "1142",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.975962",
@@ -1419,7 +1658,8 @@
         "tag": "xexpress-4257-2237.png",
         "address": "Gustava Zemgala gatve 74, Rīga",
         "time": "7.30-22.00",
-        "id": "1143"
+        "id": "1143",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.923453",
@@ -1428,7 +1668,8 @@
         "tag": "xexpress-4257-2237.png",
         "address": "Maskavas iela 257, Rīga",
         "time": "10.00-21.00",
-        "id": "1144"
+        "id": "1144",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.938508",
@@ -1437,7 +1678,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Maskavas iela 118, Rīga",
         "time": "10.00-22.00",
-        "id": "1145"
+        "id": "1145",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.925813",
@@ -1446,7 +1688,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "Mūkusalas iela 71, Rīga, T/C \"Rīga Plaza\"",
         "time": "8.00-23.00",
-        "id": "1146"
+        "id": "1146",
+        "phone": "60002950"
     },
     {
         "lat": "56.965433",
@@ -1455,7 +1698,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "Grostonas iela 1, Rīga",
         "time": "8.00-22.00",
-        "id": "1147"
+        "id": "1147",
+        "phone": "60002530"
     },
     {
         "lat": "56.923453",
@@ -1464,7 +1708,8 @@
         "tag": "10b5a0785ed38b910e5677dce6ea894f.png",
         "address": "Maskavas iela 257, Rīga",
         "time": "8.00-23.00",
-        "id": "1148"
+        "id": "1148",
+        "phone": "60001900"
     },
     {
         "lat": "56.935109",
@@ -1473,7 +1718,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Pilsoņu iela 1 k-1, Rīga",
         "time": "8.00-22.00",
-        "id": "1149"
+        "id": "1149",
+        "phone": "80002020"
     },
     {
         "lat": "56.742731",
@@ -1482,7 +1728,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīgas iela 79, Baldone",
         "time": "8.00-22.00",
-        "id": "1150"
+        "id": "1150",
+        "phone": "80002020"
     },
     {
         "lat": "56.956620",
@@ -1491,7 +1738,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Tallinas iela 83, Rīga",
         "time": "8.00-22.00",
-        "id": "1151"
+        "id": "1151",
+        "phone": "80002020"
     },
     {
         "lat": "56.953634",
@@ -1500,7 +1748,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Augusta Deglava iela 7",
         "time": "8.00-22.00",
-        "id": "1154"
+        "id": "1154",
+        "phone": "8 000 2020"
     },
     {
         "lat": "57.896902",
@@ -1509,7 +1758,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Valdemāra iela 2, Rūjiena",
         "time": "8.00-22.00",
-        "id": "1155"
+        "id": "1155",
+        "phone": "8 000 2020"
     },
     {
         "lat": "55.904372",
@@ -1518,7 +1768,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Aveņu iela 35B, Daugavpils",
         "time": "8.00-22.00",
-        "id": "1156"
+        "id": "1156",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.966240",
@@ -1527,7 +1778,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Burtnieku iela 39, Rīga",
         "time": "8.00-22.00",
-        "id": "1157"
+        "id": "1157",
+        "phone": "8 000 2020"
     },
     {
         "lat": "56.942343",
@@ -1536,7 +1788,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Firsa Sadovņikova iela 19, Rīga",
         "time": "8:00 - 22:00",
-        "id": "1158"
+        "id": "1158",
+        "phone": "80002020"
     },
     {
         "lat": "57.027385",
@@ -1545,7 +1798,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Gaigalas iela 29, Rīga",
         "time": "8:00-23:00",
-        "id": "1159"
+        "id": "1159",
+        "phone": "80002020"
     },
     {
         "lat": "55.877286",
@@ -1554,7 +1808,8 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Arodu iela 15-64, Daugavpils",
         "time": "8.00-22.00 <br><b> <font color=\"red\">Darba laiks 24.06.2020.: 8:00-21:00</b></font><br><b> <font color=\"red\">Darba laiks 25.06.2020.: 10:00-22:00</b></font>",
-        "id": "1160"
+        "id": "1160",
+        "phone": "80002020"
     },
     {
         "lat": "56.988403",
@@ -1563,7 +1818,8 @@
         "tag": "63d9d709e7dd5772856dbc8da1b6da62.png",
         "address": "Rusova iela 1, Rīga",
         "time": "8.00-22.00",
-        "id": "1161"
+        "id": "1161",
+        "phone": "28457102    "
     },
     {
         "lat": "56.975967",
@@ -1572,6 +1828,7 @@
         "tag": "abcf790c307391b4214df700051470d2.png",
         "address": "Rīga, Miera iela 90",
         "time": "8.00-22.00",
-        "id": "1162"
+        "id": "1162",
+        "phone": "80002020"
     }
 ]
