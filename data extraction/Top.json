@@ -1,0 +1,2395 @@
+{
+    "top": "",
+    "shops": [
+        {
+            "gps": "57.166163, 26.769701",
+            "id": "31",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/31b/top.jpg",
+                "address": "Nākotnes iela 6, Gulbene, Gulbenes nov., LV-4401",
+                "phone": "Tel nr. 64720925",
+                "email": "top.gulbeneN6@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.166163,26.769701&ll=57.166163,26.769701&z=17"
+            }
+        },
+        {
+            "gps": "57.773871, 26.019552",
+            "id": "32",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/32b/top.jpg",
+                "address": "Rīgas iela 17, Valka, Valkas nov., LV-4701",
+                "phone": "Tel nr. 64781135",
+                "email": "top.valka@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.773871,26.019552&ll=57.773871,26.019552&z=17"
+            }
+        },
+        {
+            "gps": "57.420493, 25.891216",
+            "id": "33",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/33b/top.jpg",
+                "address": "Rīgas iela 5, Smiltene, Smiltenes nov., LV-4729",
+                "phone": "Tel nr. 64707435",
+                "email": "top.smilteneR5@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.420493,25.891216&ll=57.420493,25.891216&z=17"
+            }
+        },
+        {
+            "gps": "57.132165, 27.263968",
+            "id": "34",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/34b/top.jpg",
+                "address": "Partizānu iela 8, Balvi, Balvu nov., LV-4501",
+                "phone": "Tel nr. 64707723",
+                "email": "top.balvi@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.132165,27.263968&ll=57.132165,27.263968&z=17"
+            }
+        },
+        {
+            "gps": "57.424451, 25.904494",
+            "id": "28",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/28b/top.jpg",
+                "address": "Baznīcas laukums 2, Smiltene, Smiltenes nov., LV-4729",
+                "phone": "Tel nr. 64707441",
+                "email": "top.centrs@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.424451,25.904494&ll=57.424451,25.904494&z=17"
+            }
+        },
+        {
+            "gps": "57.544396, 25.414406",
+            "id": "29",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/29b/top.jpg",
+                "address": "Georga Apiņa iela 27B, Valmiera, LV-4201",
+                "phone": "Tel nr. 64720918",
+                "email": "top.valmiera@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.544396,25.414406&ll=57.544396,25.414406&z=17"
+            }
+        },
+        {
+            "gps": "57.426234, 25.899860",
+            "id": "30",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/30b/top.jpg",
+                "address": "Daugavas iela 1B, Smiltene, Smiltenes nov., LV-4729",
+                "phone": "Tel nr. 64707434",
+                "email": "top.smilteneD1b@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.426234,25.899860&ll=57.426234,25.899860&z=17"
+            }
+        },
+        {
+            "gps": "57.310592, 25.360209",
+            "id": "35",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/35b/top.jpg",
+                "address": "Dārza iela 6, Priekuļi, Priekuļu pag., Priekuļu nov., LV-4126",
+                "phone": "Tel nr. 64130320",
+                "email": "top.priekuli@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.310592,25.360209&ll=57.310592,25.360209&z=17"
+            }
+        },
+        {
+            "gps": "57.859126, 24.356077",
+            "id": "36",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/36b/top.jpg",
+                "address": "Valdemāra iela 56, Ainaži, Salacgrīvas nov., LV-4035",
+                "phone": "Tel nr.  64707721",
+                "email": "top.ainazi@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.859126,24.356077&ll=57.859126,24.356077&z=17"
+            }
+        },
+        {
+            "gps": "57.312816, 25.276563",
+            "id": "312",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/312b/top.jpg",
+                "address": "Raunas iela 13A, Cēsis, Cēsu nov., LV-4101",
+                "phone": "Tel nr. 64112030",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.312816,25.276563&ll=57.312816,25.276563&z=17"
+            }
+        },
+        {
+            "gps": "57.1774214, 26.7567712",
+            "id": "38",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/38b/mini-top.jpg",
+                "address": "Rīgas iela 64, Gulbene, Gulbenes nov.",
+                "phone": "Tel nr. 64473096",
+                "email": "top.gulbeneR64@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.1774214,26.7567712&ll=57.1774214,26.7567712&z=17"
+            }
+        },
+        {
+            "gps": "57.627039, 25.688814",
+            "id": "39",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/39b/top.jpg",
+                "address": "Valkas iela 2, Strenči, Strenču nov., LV-4730",
+                "phone": "Tel nr. 64731667",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.627039,25.688814&ll=57.627039,25.688814&z=17"
+            }
+        },
+        {
+            "gps": "57.650383, 25.749270",
+            "id": "40",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/40b/top.jpg",
+                "address": "Uzvaras iela 10, Seda, Strenču nov.",
+                "phone": "Tel nr. 64722593",
+                "email": "minitop.seda@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.650383,25.749270&ll=57.650383,25.749270&z=17"
+            }
+        },
+        {
+            "gps": "57.466801, 26.234026",
+            "id": "41",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/41b/mini-top.jpg",
+                "address": "„Pakalpojumi”, Grundzāles pag., Smiltenes nov.",
+                "phone": "Tel nr. 64707432",
+                "email": "minitop.grundzale@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.466801,26.234026&ll=57.466801,26.234026&z=17"
+            }
+        },
+        {
+            "gps": "57.589147, 26.012205",
+            "id": "42",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/42b/mini-top.jpg",
+                "address": "„Taupības”, Vijciema pag., Smiltenes nov.",
+                "phone": "Tel nr. 64781399",
+                "email": "minitop.vijciems@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.589147,26.012205&ll=57.589147,26.012205&z=17"
+            }
+        },
+        {
+            "gps": "57.388720, 26.189485",
+            "id": "43",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/43b/mini-top.jpg",
+                "address": "„Vienības”, Palsmanes pag., Smiltenes nov.",
+                "phone": "Tel nr. 64720921",
+                "email": "minitop.palsmane@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.388720,26.189485&ll=57.388720,26.189485&z=17"
+            }
+        },
+        {
+            "gps": "57.322625, 26.170924",
+            "id": "44",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/44b/mini-top.jpg",
+                "address": "Oktobra iela 3a – 17, Variņu pag., Smiltenes nov.",
+                "phone": "Tel nr. 64728377",
+                "email": "minitop.varini@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.322625,26.170924&ll=57.322625,26.170924&z=17"
+            }
+        },
+        {
+            "gps": "57.542866, 25.708172",
+            "id": "45",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/45b/mini-top.jpg",
+                "address": "„Zelta auns”, Trikāta, Trikātas pagasts, LV-4731 Latvija",
+                "phone": "Tel nr. 64729256",
+                "email": "minitop.trikata@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.542866,25.708172&ll=57.542866,25.708172&z=17"
+            }
+        },
+        {
+            "gps": "57.52090490000001, 25.3401446",
+            "id": "46",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/46b/mini-top.jpg",
+                "address": "Alejas iela 7A, Kocēni, Kocēnu nov.",
+                "phone": "Tel nr. 64229548",
+                "email": "minitop.koceni@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.52090490000001,25.3401446&ll=57.52090490000001,25.3401446&z=17"
+            }
+        },
+        {
+            "gps": "57.8357476, 24.7463088",
+            "id": "47",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/47b/mini-top.jpg",
+                "address": "Lielā iela 6, Staicele, Alojas nov.",
+                "phone": "Tel nr.  64707722",
+                "email": "minitop.staicele@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.8357476,24.7463088&ll=57.8357476,24.7463088&z=17"
+            }
+        },
+        {
+            "gps": "57.489812, 25.988211",
+            "id": "48",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/48b/mini-top.jpg",
+                "address": "„Bilskas veikals Nr.12”, Bilskas pag., Smiltenes nov.",
+                "phone": "Tel nr.  64707719",
+                "email": "minitop.bilska@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.489812,25.988211&ll=57.489812,25.988211&z=17"
+            }
+        },
+        {
+            "gps": "57.493455, 25.449443",
+            "id": "49",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/49b/mini-top.jpg",
+                "address": "„Stūris”, Kauguru pag., Beverīnas nov.",
+                "phone": "Tel nr. 64707429",
+                "email": "minitop.murmuiza@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.493455,25.449443&ll=57.493455,25.449443&z=17"
+            }
+        },
+        {
+            "gps": "57.545480, 25.445672",
+            "id": "50",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/50b/top.jpg",
+                "address": "Brīvības iela 62, Valmiera, LV-4201",
+                "phone": "Tel nr. 64720923",
+                "email": "top.valmierab62@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.545480,25.445672&ll=57.545480,25.445672&z=17"
+            }
+        },
+        {
+            "gps": "57.8974057, 25.3246029",
+            "id": "51",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/51b/top.jpg",
+                "address": "Brīvības iela 8, Rūjiena, Rūjienas nov.",
+                "phone": "Tel nr. 64707728",
+                "email": "top.rujiena@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.8974057,25.3246029&ll=57.8974057,25.3246029&z=17"
+            }
+        },
+        {
+            "gps": "56.717566, 24.810829",
+            "id": "52",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/52b/top.jpg",
+                "address": "Lāčplēša iela 16, Lielvārde, Lielvārdes nov., LV-5070",
+                "phone": "Tel nr. 64707727",
+                "email": "top.lielvarde@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.717566,24.810829&ll=56.717566,24.810829&z=17"
+            }
+        },
+        {
+            "gps": "56.617790, 25.734467",
+            "id": "53",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/53b/top.jpg",
+                "address": "Daugavas iela 85, Pļaviņas, Pļaviņu nov., LV-5120",
+                "phone": "Tel nr. 64772813",
+                "email": "top.plavinas@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.617790,25.734467&ll=56.617790,25.734467&z=17"
+            }
+        },
+        {
+            "gps": "57.538936, 26.694407",
+            "id": "54",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/54b/top.jpg",
+                "address": "Stacijas iela 4, Ape, Apes nov., LV-4337",
+                "phone": "Tel nr. 64707433",
+                "email": "top.ape@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.538936,26.694407&ll=57.538936,26.694407&z=17"
+            }
+        },
+        {
+            "gps": "56.8961809, 25.6443696",
+            "id": "55",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/55b/mini-top.jpg",
+                "address": "Zaļā iela 1, Ērgļi, Ērgļu pag. Ērgļu nov.",
+                "phone": "Tel nr. 64720920",
+                "email": "minitop.ergli@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.8961809,25.6443696&ll=56.8961809,25.6443696&z=17"
+            }
+        },
+        {
+            "gps": "57.353137, 25.332382",
+            "id": "56",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/56b/mini-top.jpg",
+                "address": "Ozolu gatve 1, Jāņmuiža, Priekuļu pag., Priekuļu nov.",
+                "phone": "Tel nr. 64720929",
+                "email": "minitop.janmuiza@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.353137,25.332382&ll=57.353137,25.332382&z=17"
+            }
+        },
+        {
+            "gps": "57.191294, 25.671904",
+            "id": "57",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/57b/mini-top.jpg",
+                "address": "\"Sonāte\", Dzērbenes pag., Vecpiebalgas nov.",
+                "phone": "Tel nr. 64720914",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.191294,25.671904&ll=57.191294,25.671904&z=17"
+            }
+        },
+        {
+            "gps": "57.4183878, 27.0648489",
+            "id": "58",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/58b/mini-top.jpg",
+                "address": "Torņa iela 9A, Alūksne, Alūksnes nov.",
+                "phone": "Tel nr. 64707262",
+                "email": "minitop.aluksne@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.4183878,27.0648489&ll=57.4183878,27.0648489&z=17"
+            }
+        },
+        {
+            "gps": "56.489579, 25.869688",
+            "id": "59",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/59b/top.jpg",
+                "address": "Nameja iela 12, Jēkabpils, LV-5201",
+                "phone": "Tel nr. 64720938",
+                "email": "top.jekabpils.n12@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.489579,25.869688&ll=56.489579,25.869688&z=17"
+            }
+        },
+        {
+            "gps": "56.512432, 25.8642269",
+            "id": "60",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/60b/top.jpg",
+                "address": "Pils Rajons 58, Jēkabpils, LV-5202",
+                "phone": "Tel nr. 64720939",
+                "email": "top.jekabpils.pr58@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.512432,25.8642269&ll=56.512432,25.8642269&z=17"
+            }
+        },
+        {
+            "gps": "57.409707, 25.940106",
+            "id": "61",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/61b/mini-top.jpg",
+                "address": "Silva 16, Launkalnes pagasts, Smiltenes nov.",
+                "phone": "Tel nr. 64791710",
+                "email": "minitop.silva@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.409707,25.940106&ll=57.409707,25.940106&z=17"
+            }
+        },
+        {
+            "gps": "57.885252, 25.459776",
+            "id": "62",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/62b/mini-top.jpg",
+                "address": "\"Strēlnieki\", Naukšēnu pag., Naukšēnu nov.",
+                "phone": "Tel nr. 64210832",
+                "email": "minitop.naukseni@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.885252,25.459776&ll=57.885252,25.459776&z=17"
+            }
+        },
+        {
+            "gps": "57.543818, 25.430845",
+            "id": "63",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/63b/top.jpg",
+                "address": "Tērbatas iela 18, Valmiera, LV-4201",
+                "phone": "Tel nr. 64210830",
+                "email": "top.valmiera.t18@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.543818,25.430845&ll=57.543818,25.430845&z=17"
+            }
+        },
+        {
+            "gps": "57.426131, 27.041354",
+            "id": "64",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/64b/top.jpg",
+                "address": "Pils iela 38A, Alūksne, Alūksnes nov., LV-4301",
+                "phone": "Tel nr. 64331640",
+                "email": "top.aluksne@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.426131,27.041354&ll=57.426131,27.041354&z=17"
+            }
+        },
+        {
+            "gps": "56.897389, 25.635079",
+            "id": "65",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/65b/top.jpg",
+                "address": "Rīgas iela 13, Ērgļi, Ērgļu pag., Ērgļu nov., LV-4840",
+                "phone": "Tel nr. 64881640",
+                "email": "top.ergli@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.897389,25.635079&ll=56.897389,25.635079&z=17"
+            }
+        },
+        {
+            "gps": "56.896350, 25.420323",
+            "id": "66",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/66b/mini-top.jpg",
+                "address": "Skolas iela 2, Līčupe, Mazozolu pag. , Ogres nov.",
+                "phone": "Tel nr. 65093250",
+                "email": "minitop.licupe@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.896350,25.420323&ll=56.896350,25.420323&z=17"
+            }
+        },
+        {
+            "gps": "57.751104, 24.357129",
+            "id": "67",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/67b/top.jpg",
+                "address": "Rīgas iela 13, Salacgrīva, Salacgrīvas nov., LV-4033",
+                "phone": "Tel nr. 64011200",
+                "email": "top.salacgriva@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.751104,24.357129&ll=57.751104,24.357129&z=17"
+            }
+        },
+        {
+            "gps": "57.331351, 25.608690",
+            "id": "68",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/68b/top.jpg",
+                "address": "Cēsu iela 2, Rauna, Raunas pag., Raunas nov., LV-4131",
+                "phone": "Tel nr. 64112011",
+                "email": "top.rauna@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.331351,25.608690&ll=57.331351,25.608690&z=17"
+            }
+        },
+        {
+            "gps": "57.448705, 26.589479",
+            "id": "69",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/69b/mini-top.jpg",
+                "address": "\"Stūrīši 2\", Trapene, Trapenes pagasts, Apes novads, LV-4348",
+                "phone": "Tel nr. 64331642",
+                "email": "minitop.trapene@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.448705,26.589479&ll=57.448705,26.589479&z=17"
+            }
+        },
+        {
+            "gps": "57.210930, 26.184552",
+            "id": "70",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/70b/mini-top.jpg",
+                "address": "Dzirnavkalns 3, Ranka, Rankas pag., Gulbenes novads",
+                "phone": "Tel nr. 64421640",
+                "email": "minitop.ranka@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.210930,26.184552&ll=57.210930,26.184552&z=17"
+            }
+        },
+        {
+            "gps": "57.1786313, 26.0334388",
+            "id": "71",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/71b/mini-top.jpg",
+                "address": "Dārza iela 2-1-2, Jaunpiebalga, Jaunpiebalgas novads",
+                "phone": "Tel nr. 64112013",
+                "email": "minitop.jaunpiebalga@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.1786313,26.0334388&ll=57.1786313,26.0334388&z=17"
+            }
+        },
+        {
+            "gps": "57.012067, 24.954869",
+            "id": "72",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/72b/top.jpg",
+                "address": "Jaunā iela 6A, Mālpils, Mālpils nov., LV-2152",
+                "phone": "Tel nr. 67798011",
+                "email": "top.malpils@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.012067,24.954869&ll=57.012067,24.954869&z=17"
+            }
+        },
+        {
+            "gps": "56.6497312, 25.1208059",
+            "id": "73",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/73b/top.jpg",
+                "address": "Daugavas iela 97, Skrīveri, Skrīveru nov.",
+                "phone": "Tel nr. 65183640",
+                "email": "top.skriveri@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6497312,25.1208059&ll=56.6497312,25.1208059&z=17"
+            }
+        },
+        {
+            "gps": "57.188033, 26.370253",
+            "id": "74",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/74b/mini-top.jpg",
+                "address": "\"Putniņi\", Lizums, Lizuma pagasts, Gulbenes novads",
+                "phone": "Tel nr. 64421641",
+                "email": "minitop.lizums@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.188033,26.370253&ll=57.188033,26.370253&z=17"
+            }
+        },
+        {
+            "gps": "57.279969, 26.576832",
+            "id": "75",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/75b/mini-top.jpg",
+                "address": "Rīgas iela 19, Lejasciems, Lejasciema pag., Gulbenes nov.",
+                "phone": "Tel nr. 64421650",
+                "email": "minitop.lejasciems@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.279969,26.576832&ll=57.279969,26.576832&z=17"
+            }
+        },
+        {
+            "gps": "56.4951598, 25.8624237",
+            "id": "76",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/76b/mini-top.jpg",
+                "address": "Draudzības aleja 19/81, Jēkabpils",
+                "phone": "Tel nr. 65283680",
+                "email": "minitop.jekabpils@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.4951598,25.8624237&ll=56.4951598,25.8624237&z=17"
+            }
+        },
+        {
+            "gps": "56.2945705, 26.7228741",
+            "id": "77",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/77b/top.jpg",
+                "address": "Brīvības iela 4, Preiļi, Preiļu nov., LV-5301",
+                "phone": "Tel nr. 65392840",
+                "email": "top.preili@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.2945705,26.7228741&ll=56.2945705,26.7228741&z=17"
+            }
+        },
+        {
+            "gps": "56.801785, 23.985034",
+            "id": "78",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/78b/top.jpg",
+                "address": "Baznīcas iela 10, Jaunolaine, Olaines pag., Olaines nov., LV-2127",
+                "phone": "Tel nr. 67798012",
+                "email": "top.jaunolaine@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.801785,23.985034&ll=56.801785,23.985034&z=17"
+            }
+        },
+        {
+            "gps": "57.060269, 25.816135",
+            "id": "79",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/79b/top.jpg",
+                "address": "Alauksta iela 2, Vecpiebalga, Vecpiebalgas pag., Vecpiebalgas nov., LV-4122",
+                "phone": "Tel nr. 64112014",
+                "email": "top.vecpiebalga@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.060269,25.816135&ll=57.060269,25.816135&z=17"
+            }
+        },
+        {
+            "gps": "56.607838, 25.254966",
+            "id": "80",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/80b/top.jpg",
+                "address": "Gaismas iela 35, Aizkraukle, Aizkraukles nov., LV-5101",
+                "phone": "Tel nr. 65183642",
+                "email": "top.aizkraukle@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.607838,25.254966&ll=56.607838,25.254966&z=17"
+            }
+        },
+        {
+            "gps": "57.388150, 25.419663",
+            "id": "81",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/81b/top.jpg",
+                "address": "Rūpnīcas iela 8a, Liepa, Liepas pag., Priekuļu novads, LV-4128",
+                "phone": "Tel nr. 64112016",
+                "email": "top.liepa@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.388150,25.419663&ll=57.388150,25.419663&z=17"
+            }
+        },
+        {
+            "gps": "56.601674, 25.256317",
+            "id": "82",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/82b/top.jpg",
+                "address": "Lāčplēša iela 7, Aizkraukle, Aizkraukles nov., LV-5101",
+                "phone": "Tel nr. 65183645",
+                "email": "top.aizkraukle.l7@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.601674,25.256317&ll=56.601674,25.256317&z=17"
+            }
+        },
+        {
+            "gps": "57.000541, 24.130037",
+            "id": "83",
+            "props": {
+                "category": "\"top!\"",
+                "image_url": "/image/shops/83b/top.jpg",
+                "address": "Viestura prospekts 35A, Rīga",
+                "phone": "Tel nr. 67798014",
+                "email": "top.riga.vp35@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.000541,24.130037&ll=57.000541,24.130037&z=17"
+            }
+        },
+        {
+            "gps": "56.351797, 26.176623",
+            "id": "84",
+            "props": {
+                "category": "\"top!\"",
+                "image_url": "/image/shops/84b/top.jpg",
+                "address": "Rīgas iela 65A, Līvāni, Līvānu nov., LV-5316",
+                "phone": "Tel nr. 65392842",
+                "email": "top.livani@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.351797,26.176623&ll=56.351797,26.176623&z=17"
+            }
+        },
+        {
+            "gps": "57.2431942, 24.401237",
+            "id": "85",
+            "props": {
+                "category": "\"top!\"",
+                "image_url": "/image/shops/85b/top.jpg",
+                "address": "Rīgas iela 51, Saulkrasti, Saulkrastu nov., LV-2160",
+                "phone": "Tel nr. 67798016",
+                "email": "top.saulkrasti@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.2431942,24.401237&ll=57.2431942,24.401237&z=17"
+            }
+        },
+        {
+            "gps": "56.7190047, 21.6073235",
+            "id": "86",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/86b/top.jpg",
+                "address": "Zvaigžņu iela 2, Aizpute, Aizputes nov.",
+                "phone": "Tel nr. 63448817",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.7190047,21.6073235&ll=56.7190047,21.6073235&z=17"
+            }
+        },
+        {
+            "gps": "56.5051124, 21.0110997",
+            "id": "87",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/87b/top.jpg",
+                "address": "Kuršu laukums 11, Liepāja",
+                "phone": "Tel nr. 63422745",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5051124,21.0110997&ll=56.5051124,21.0110997&z=17"
+            }
+        },
+        {
+            "gps": "56.509017, 21.000968",
+            "id": "88",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/88b/top.jpg",
+                "address": "Vītolu iela 30, Liepāja",
+                "phone": "Tel nr. 63426086",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.509017,21.000968&ll=56.509017,21.000968&z=17"
+            }
+        },
+        {
+            "gps": "56.5351129, 21.1681701",
+            "id": "89",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/89b/top.jpg",
+                "address": "Lielā iela 74, Grobiņa, Grobiņas nov.",
+                "phone": "Tel nr. 63497075",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5351129,21.1681701&ll=56.5351129,21.1681701&z=17"
+            }
+        },
+        {
+            "gps": "56.4896091, 21.0037568",
+            "id": "90",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/90b/top.jpg",
+                "address": "Klaipēdas iela 80, Liepāja",
+                "phone": "Tel nr. 63484414",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.4896091,21.0037568&ll=56.4896091,21.0037568&z=17"
+            }
+        },
+        {
+            "gps": "56.546365, 21.068585",
+            "id": "91",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/91b/mini-top.jpg",
+                "address": "Skrundas iela 20b, Liepāja",
+                "phone": "Tel nr. 63427532",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.546365,21.068585&ll=56.546365,21.068585&z=17"
+            }
+        },
+        {
+            "gps": "56.72416029999999, 21.5986474",
+            "id": "92",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/92b/top.jpg",
+                "address": "Saules iela 3b, Aizpute, Aizputes nov.",
+                "phone": "Tel nr. 63448015",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.72416029999999,21.5986474&ll=56.72416029999999,21.5986474&z=17"
+            }
+        },
+        {
+            "gps": "56.732375, 21.390684",
+            "id": "93",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/93b/top.jpg",
+                "address": "\"Ezeriņi\", Cīravas pag., Aizputes nov.",
+                "phone": "Tel nr. 63448748",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.732375,21.390684&ll=56.732375,21.390684&z=17"
+            }
+        },
+        {
+            "gps": "56.447360, 21.585173",
+            "id": "94",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/94b/top.jpg",
+                "address": "Galvenā iela 1, Priekule, Priekules nov.",
+                "phone": "Tel nr. 63461000",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.447360,21.585173&ll=56.447360,21.585173&z=17"
+            }
+        },
+        {
+            "gps": "56.4168288, 21.8546207",
+            "id": "95",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/95b/top.jpg",
+                "address": "Brīvības iela 15, Vaiņode, Vaiņodes nov.",
+                "phone": "Tel nr. 63464963",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.4168288,21.8546207&ll=56.4168288,21.8546207&z=17"
+            }
+        },
+        {
+            "gps": "56.697554, 21.196286",
+            "id": "96",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/96b/mini-top.jpg",
+                "address": "„Veikalnieki”, Vērgales pag., Pāvilostas nov.",
+                "phone": "Tel nr. 63490746",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.697554,21.196286&ll=56.697554,21.196286&z=17"
+            }
+        },
+        {
+            "gps": "56.888846, 21.1792688",
+            "id": "97",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/97b/top.jpg",
+                "address": "Tirgus iela 1, Pāvilosta, Pāvilostas nov.",
+                "phone": "Tel nr. 63498130",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.888846,21.1792688&ll=56.888846,21.1792688&z=17"
+            }
+        },
+        {
+            "gps": "56.4178576, 21.8560332",
+            "id": "98",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/98b/mini-top.jpg",
+                "address": "Raiņa iela 4, Vaiņode, Vaiņodes nov.",
+                "phone": "Tel nr. 63464007",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.4178576,21.8560332&ll=56.4178576,21.8560332&z=17"
+            }
+        },
+        {
+            "gps": "56.7215305, 21.6039028",
+            "id": "99",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/99b/mini-top.jpg",
+                "address": "Pasta iela 7, Aizpute, Aizputes nov.",
+                "phone": "Tel nr. 63448318",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.7215305,21.6039028&ll=56.7215305,21.6039028&z=17"
+            }
+        },
+        {
+            "gps": "56.5321365, 21.1569656",
+            "id": "100",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/100b/mini-top.jpg",
+                "address": "M.Namiķa iela 1, Grobiņa, Grobiņas nov.",
+                "phone": "Tel nr. 63490081",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5321365,21.1569656&ll=56.5321365,21.1569656&z=17"
+            }
+        },
+        {
+            "gps": "56.591746, 21.138296",
+            "id": "101",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/101b/mini-top.jpg",
+                "address": "„Smilgas”, Kapsēde, Medzes pag., Grobiņas nov.",
+                "phone": "Tel nr. 63490674",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.591746,21.138296&ll=56.591746,21.138296&z=17"
+            }
+        },
+        {
+            "gps": "56.348363, 21.065977",
+            "id": "102",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/102b/mini-top.jpg",
+                "address": "„Gads”, Nīca, Nīcas nov.",
+                "phone": "Tel nr. 63486002",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.348363,21.065977&ll=56.348363,21.065977&z=17"
+            }
+        },
+        {
+            "gps": "56.5046678, 21.010806",
+            "id": "103",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/103b/mini-top.jpg",
+                "address": "Peldu iela 44 NT 7, Liepāja",
+                "phone": "Tel nr. 63426302",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5046678,21.010806&ll=56.5046678,21.010806&z=17"
+            }
+        },
+        {
+            "gps": "56.604509, 21.737948",
+            "id": "104",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/104b/mini-top.jpg",
+                "address": "Skolas iela 8, Kalvene, Aizputes nov.",
+                "phone": "Tel nr. 63497152",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.604509,21.737948&ll=56.604509,21.737948&z=17"
+            }
+        },
+        {
+            "gps": "56.732629, 21.732806",
+            "id": "105",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/105b/mini-top.jpg",
+                "address": "\"Veikals Gatve\", Kazdanga, Aizputes nov.",
+                "phone": "Tel nr. 63448125",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.732629,21.732806&ll=56.732629,21.732806&z=17"
+            }
+        },
+        {
+            "gps": "56.500029, 21.503987",
+            "id": "107",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/107b/mini-top.jpg",
+                "address": "„Laimas”, Bunka, Bunkas pag., Priekules nov.",
+                "phone": "Tel nr. 63454727",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.500029,21.503987&ll=56.500029,21.503987&z=17"
+            }
+        },
+        {
+            "gps": "56.508554, 21.0171537",
+            "id": "108",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/108b/mini-top.jpg",
+                "address": "Baznīcas iela 20, Liepāja",
+                "phone": "Tel nr. 63422393",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.508554,21.0171537&ll=56.508554,21.0171537&z=17"
+            }
+        },
+        {
+            "gps": "",
+            "id": "110",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/110b/mini-top.jpg",
+                "address": "Centra 6-2/3, Dubeņi, Grobiņas nov.",
+                "phone": "Tel nr. 63430256",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=0,0&ll=0,0&z=17"
+            }
+        },
+        {
+            "gps": "56.666327, 22.499880",
+            "id": "111",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/111b/mini-top.jpg",
+                "address": "Rīgas iela 22 – NT, Saldus, Saldus nov.",
+                "phone": "Tel nr. 63822041",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.666327,22.499880&ll=56.666327,22.499880&z=17"
+            }
+        },
+        {
+            "gps": "56.5109003, 21.0065795",
+            "id": "112",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/112b/top.jpg",
+                "address": "Jūras iela 25/29, Liepāja ",
+                "phone": "Tel nr. 63488155",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5109003,21.0065795&ll=56.5109003,21.0065795&z=17"
+            }
+        },
+        {
+            "gps": "56.5235151, 21.0188928",
+            "id": "113",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/113b/mini-top.jpg",
+                "address": "Dzelzceļnieku iela 16, Liepāja",
+                "phone": "Tel nr. 63421633",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5235151,21.0188928&ll=56.5235151,21.0188928&z=17"
+            }
+        },
+        {
+            "gps": "56.51915709999999, 21.0150017",
+            "id": "114",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/114b/top.jpg",
+                "address": "Jelgavas iela 37, Liepāja",
+                "phone": "Tel nr. 63428646",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.51915709999999,21.0150017&ll=56.51915709999999,21.0150017&z=17"
+            }
+        },
+        {
+            "gps": "56.635155, 23.7057106",
+            "id": "115",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/115b/top.jpg",
+                "address": "Kastaņu iela 3, Jelgava",
+                "phone": "Tel nr. 63023517",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.635155,23.7057106&ll=56.635155,23.7057106&z=17"
+            }
+        },
+        {
+            "gps": "56.6565023, 23.6984295",
+            "id": "116",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/116b/top.jpg",
+                "address": "Satiksmes iela 33, Jelgava",
+                "phone": "Tel nr. 63020775",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6565023,23.6984295&ll=56.6565023,23.6984295&z=17"
+            }
+        },
+        {
+            "gps": "56.5550853, 21.008249",
+            "id": "117",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/117b/mini-top.jpg",
+                "address": "Atmodas bulvāris 8F, Liepāja",
+                "phone": "Tel nr. 63456778",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5550853,21.008249&ll=56.5550853,21.008249&z=17"
+            }
+        },
+        {
+            "gps": "56.670443, 23.755385",
+            "id": "118",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/118b/top.jpg",
+                "address": "Loka maģistrāle 17, Jelgava",
+                "phone": "Tel nr. 63020370",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.670443,23.755385&ll=56.670443,23.755385&z=17"
+            }
+        },
+        {
+            "gps": "56.55325999999999, 21.0164495",
+            "id": "119",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/119b/top.jpg",
+                "address": "P.Brieža 14, Liepāja",
+                "phone": "Tel nr. 63451800",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.55325999999999,21.0164495&ll=56.55325999999999,21.0164495&z=17"
+            }
+        },
+        {
+            "gps": "56.5482686, 21.0847046",
+            "id": "120",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/120b/top.jpg",
+                "address": "Kārklu iela 1, Liepāja",
+                "phone": "Tel nr. 63488808",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5482686,21.0847046&ll=56.5482686,21.0847046&z=17"
+            }
+        },
+        {
+            "gps": "56.5046678, 21.010806",
+            "id": "121",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/121b/mini-top.jpg",
+                "address": "O.Kalpaka iela 66-NT30, Liepāja",
+                "phone": "Tel nr. 63441302",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.5046678,21.010806&ll=56.5046678,21.010806&z=17"
+            }
+        },
+        {
+            "gps": "56.6804187, 22.5685818",
+            "id": "122",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/122b/mini-top.jpg",
+                "address": "Lielcieceres iela 11, Brocēni",
+                "phone": "Tel nr. 63885968",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6804187,22.5685818&ll=56.6804187,22.5685818&z=17"
+            }
+        },
+        {
+            "gps": "56.9685208, 23.1542356",
+            "id": "132",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/132b/top.jpg",
+                "address": "Lauku iela 3, Tukums, Tukuma nov.",
+                "phone": "Tel nr. 63181374",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9685208,23.1542356&ll=56.9685208,23.1542356&z=17"
+            }
+        },
+        {
+            "gps": "56.9521928, 23.112093",
+            "id": "133",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/133b/top.jpg",
+                "address": "Eksporta iela 6, Tukums, Tukuma nov.",
+                "phone": "Tel nr. 63125700",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9521928,23.112093&ll=56.9521928,23.112093&z=17"
+            }
+        },
+        {
+            "gps": "56.9659307, 23.1538339",
+            "id": "134",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/134b/top.jpg",
+                "address": "Brīvības laukums 4, Tukums, Tukuma nov.",
+                "phone": "Tel nr. 63124187",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9659307,23.1538339&ll=56.9659307,23.1538339&z=17"
+            }
+        },
+        {
+            "gps": "56.9677906, 23.1497597",
+            "id": "135",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/135b/mini-top.jpg",
+                "address": "Raiņa iela 12, Tukums, Tukuma nov.",
+                "phone": "Tel nr. 63182153",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9677906,23.1497597&ll=56.9677906,23.1497597&z=17"
+            }
+        },
+        {
+            "gps": "56.9574619, 24.0702269",
+            "id": "136",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/136b/top.jpg",
+                "address": "Daugavgrīvas iela 72, Rīga",
+                "phone": "Tel nr. 67466908",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9574619,24.0702269&ll=56.9574619,24.0702269&z=17"
+            }
+        },
+        {
+            "gps": "56.9576757, 23.1796564",
+            "id": "137",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/137b/top.jpg",
+                "address": "Alīnes iela 1a, Tukums",
+                "phone": "Tel nr. 63120238",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9576757,23.1796564&ll=56.9576757,23.1796564&z=17"
+            }
+        },
+        {
+            "gps": "56.691660, 23.787426",
+            "id": "318",
+            "props": {
+                "category": "\"top!\"",
+                "image_url": "/image/shops/318b/top.jpg",
+                "address": "Skolas iela 1B, Ozolnieki, Ozolnieku pag.",
+                "phone": "Tel nr. ",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.691660,23.787426&ll=56.691660,23.787426&z=17"
+            }
+        },
+        {
+            "gps": "56.848459, 23.296031",
+            "id": "293",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/293b/top.jpg",
+                "address": "“Tūjas”, Slampe, Slampes pag., Tukuma nov., LV3119",
+                "phone": "Tel nr. 29350093",
+                "email": "slampe@deksni.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.848459,23.296031&ll=56.848459,23.296031&z=17"
+            }
+        },
+        {
+            "gps": "56.4053953, 24.1998793",
+            "id": "179",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/179b/top.jpg",
+                "address": "Upmalas iela 1, Bauska, Bauskas nov.",
+                "phone": "Tel nr. 26318967",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.4053953,24.1998793&ll=56.4053953,24.1998793&z=17"
+            }
+        },
+        {
+            "gps": "56.6283711, 23.2799356",
+            "id": "180",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/180b/top.jpg",
+                "address": "Muldavas iela 3a, Dobele, Dobeles nov.",
+                "phone": "Tel nr. 26382002",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6283711,23.2799356&ll=56.6283711,23.2799356&z=17"
+            }
+        },
+        {
+            "gps": "56.482531, 23.067555",
+            "id": "181",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/181b/top.jpg",
+                "address": "Stacijas iela 10, Bēne, Auces nov.",
+                "phone": "Tel nr. 26426818",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.482531,23.067555&ll=56.482531,23.067555&z=17"
+            }
+        },
+        {
+            "gps": "56.464870, 22.892649",
+            "id": "182",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/182b/top.jpg",
+                "address": "Baznīcas iela 1, Auce, Auces nov.",
+                "phone": "Tel nr. 26369902",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.464870,22.892649&ll=56.464870,22.892649&z=17"
+            }
+        },
+        {
+            "gps": "56.9516181, 23.6127204",
+            "id": "183",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/183b/top.jpg",
+                "address": "Raiņa iela 66, Kauguri, Jūrmala",
+                "phone": "Tel nr. 22374450",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9516181,23.6127204&ll=56.9516181,23.6127204&z=17"
+            }
+        },
+        {
+            "gps": "56.6122147, 23.2857176",
+            "id": "185",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/185b/mini-top.jpg",
+                "address": "Ausmas iela 20, Dobele, Dobeles nov.",
+                "phone": "Tel nr. 29182226",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6122147,23.2857176&ll=56.6122147,23.2857176&z=17"
+            }
+        },
+        {
+            "gps": "56.729980, 23.016588",
+            "id": "186",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/186b/top.jpg",
+                "address": "\"Jāņkrogs\", Jaunpils, Jaunpils nov.",
+                "phone": "Tel nr. 26387424",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.729980,23.016588&ll=56.729980,23.016588&z=17"
+            }
+        },
+        {
+            "gps": "56.408553, 23.681129",
+            "id": "187",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/187b/top.jpg",
+                "address": "Stacijas iela 2, Eleja, Jelgavas nov.",
+                "phone": "Tel nr. 29184341",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.408553,23.681129&ll=56.408553,23.681129&z=17"
+            }
+        },
+        {
+            "gps": "56.570756, 23.956173",
+            "id": "188",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/188b/top.jpg",
+                "address": "Cepļu iela 1, Staļģene, Jaunsvirlaukas pag., Jelgavas nov.",
+                "phone": "Tel nr. 25448354",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.570756,23.956173&ll=56.570756,23.956173&z=17"
+            }
+        },
+        {
+            "gps": "56.469240, 24.172863",
+            "id": "189",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/189b/mini-top.jpg",
+                "address": "\"Zemgaļi\", Codes pag., Bauskas nov.",
+                "phone": "Tel nr. 25447279",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.469240,24.172863&ll=56.469240,24.172863&z=17"
+            }
+        },
+        {
+            "gps": "56.619450, 23.439500",
+            "id": "190",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/190b/top.jpg",
+                "address": "Skolas iela 4, Nākotne, Glūdas pag.  Jelgavas nov.",
+                "phone": "Tel nr. 22001471",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.619450,23.439500&ll=56.619450,23.439500&z=17"
+            }
+        },
+        {
+            "gps": "56.737242, 23.390439",
+            "id": "191",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/191b/mini-top.jpg",
+                "address": "Ceriņu iela 4, Jaunbērze, Jaunbērzes pag., Dobeles nov.",
+                "phone": "Tel nr. 29455727",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.737242,23.390439&ll=56.737242,23.390439&z=17"
+            }
+        },
+        {
+            "gps": "56.526273, 23.510455",
+            "id": "193",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/193b/mini-top.jpg",
+                "address": "Centra iela 7, Zaļenieki, Jelgavas nov.",
+                "phone": "Tel nr. 27885868",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.526273,23.510455&ll=56.526273,23.510455&z=17"
+            }
+        },
+        {
+            "gps": "56.9640747, 23.8147659",
+            "id": "194",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/194b/top.jpg",
+                "address": "Jāņa Pliekšāna iela 86, Dzintari, Jūrmala",
+                "phone": "Tel nr. 20277370",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9640747,23.8147659&ll=56.9640747,23.8147659&z=17"
+            }
+        },
+        {
+            "gps": "56.6349167, 23.727313",
+            "id": "195",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/195b/mini-top.jpg",
+                "address": "Lietuvas šoseja 6-n, Jelgava",
+                "phone": "Tel nr. 26375523",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6349167,23.727313&ll=56.6349167,23.727313&z=17"
+            }
+        },
+        {
+            "gps": "56.6285751, 23.6930482",
+            "id": "196",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/196b/top.jpg",
+                "address": "Tērvetes iela 97, Jelgava",
+                "phone": "Tel nr. 28608876",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6285751,23.6930482&ll=56.6285751,23.6930482&z=17"
+            }
+        },
+        {
+            "gps": "56.649005, 23.222638",
+            "id": "197",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/197b/top.jpg",
+                "address": "Priežu iela 23, Gardene, Auru pag., Dobeles nov.",
+                "phone": "Tel nr. 29331604",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.649005,23.222638&ll=56.649005,23.222638&z=17"
+            }
+        },
+        {
+            "gps": "56.875051, 22.996474",
+            "id": "198",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/198b/mini-top.jpg",
+                "address": "Bērzāji, Irlava, Irlavas pagasts, Tukuma novads",
+                "phone": "Tel nr. 20201895",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.875051,22.996474&ll=56.875051,22.996474&z=17"
+            }
+        },
+        {
+            "gps": "56.738189, 24.387646",
+            "id": "199",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/199b/top.jpg",
+                "address": "\"Līksmas\", Avoti, Baldones lauku teritorija, LV-2125 ",
+                "phone": "Tel nr. 22027549",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.738189,24.387646&ll=56.738189,24.387646&z=17"
+            }
+        },
+        {
+            "gps": "56.594907, 24.206628",
+            "id": "200",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/200b/top.jpg",
+                "address": "Iecava, Iecavas novads, Edvarda Virzas iela 2",
+                "phone": "Tel nr. 25769075",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.594907,24.206628&ll=56.594907,24.206628&z=17"
+            }
+        },
+        {
+            "gps": "56.6881805, 23.4975403",
+            "id": "201",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/201b/top.jpg",
+                "address": "Jelgavas iela 7, Līvbērze, Jelgavas novads",
+                "phone": "Tel nr. 25731127",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.6881805,23.4975403&ll=56.6881805,23.4975403&z=17"
+            }
+        },
+        {
+            "gps": "56.620165, 23.7720701",
+            "id": "202",
+            "props": {
+                "category": "\"top!\"",
+                "image_url": "/image/shops/202b/top.jpg",
+                "address": "Liepu iela 4, Mežciems, Jaunsvirlaukas pagasts, Jelgavas novads",
+                "phone": "Tel nr. 25741093",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.620165,23.7720701&ll=56.620165,23.7720701&z=17"
+            }
+        },
+        {
+            "gps": "57.320183, 25.288891",
+            "id": "203",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/203b/top.jpg",
+                "address": "Valmieras iela 27, Cēsis, Cēsu nov., LV-4101",
+                "phone": "Tel nr. 64122277",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.320183,25.288891&ll=57.320183,25.288891&z=17"
+            }
+        },
+        {
+            "gps": "57.304131, 25.270325",
+            "id": "204",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/204b/top.jpg",
+                "address": "Zvirbuļu iela 2A, Cēsis, Cēsu nov., LV-4101",
+                "phone": "Tel nr. 64121111",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.304131,25.270325&ll=57.304131,25.270325&z=17"
+            }
+        },
+        {
+            "gps": "57.53105609999999, 25.4302409",
+            "id": "205",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/205b/top.jpg",
+                "address": "Stacijas iela 11, Valmiera",
+                "phone": "Tel nr. 64233666",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.53105609999999,25.4302409&ll=57.53105609999999,25.4302409&z=17"
+            }
+        },
+        {
+            "gps": "57.529537, 25.432478",
+            "id": "206",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/206b/top.jpg",
+                "address": "Pauku iela 1, Valmiera, LV-4201",
+                "phone": "Tel nr. 64233300",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.529537,25.432478&ll=57.529537,25.432478&z=17"
+            }
+        },
+        {
+            "gps": "57.3160834, 25.2589772",
+            "id": "207",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/207b/top.jpg",
+                "address": "Viestura iela 8-8b, Cēsis, Cēsu nov.",
+                "phone": "Tel nr. 64107313",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.3160834,25.2589772&ll=57.3160834,25.2589772&z=17"
+            }
+        },
+        {
+            "gps": "57.69845170000001, 25.1616496",
+            "id": "208",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/208b/top.jpg",
+                "address": "Valmieras iela 18, Matīši, Matīšu pagasts, Burtnieku nov.",
+                "phone": "Tel nr. 64224111",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.69845170000001,25.1616496&ll=57.69845170000001,25.1616496&z=17"
+            }
+        },
+        {
+            "gps": "57.560405, 25.427196",
+            "id": "209",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/209b/top.jpg",
+                "address": "Valmiermuižas iela 11, Valmiermuiža, Burtnieku nov.",
+                "phone": "Tel nr. 64250153",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.560405,25.427196&ll=57.560405,25.427196&z=17"
+            }
+        },
+        {
+            "gps": "57.7298939, 25.4302534",
+            "id": "210",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/210b/mini-top.jpg",
+                "address": "Valkas iela 1a, Rencēni, Burtnieku novads",
+                "phone": "Tel nr. 64268006",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.7298939,25.4302534&ll=57.7298939,25.4302534&z=17"
+            }
+        },
+        {
+            "gps": "57.548937, 25.433795",
+            "id": "211",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/211b/top.jpg",
+                "address": "Valkas iela 1, Valmiera, LV-4201",
+                "phone": "Tel nr. 64233111",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.548937,25.433795&ll=57.548937,25.433795&z=17"
+            }
+        },
+        {
+            "gps": "57.539973, 25.415454",
+            "id": "212",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/212b/top.jpg",
+                "address": "Andreja Upīša iela 10, Valmiera, LV-4201",
+                "phone": "Tel nr. 64222300",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.539973,25.415454&ll=57.539973,25.415454&z=17"
+            }
+        },
+        {
+            "gps": "57.597498, 25.097005",
+            "id": "213",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/213b/top.jpg",
+                "address": "\"Veikals Dikļi\", Dikļi, Dikļu pag., Kocēnu nov., LV-4223",
+                "phone": "Tel nr. 64231201",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.597498,25.097005&ll=57.597498,25.097005&z=17"
+            }
+        },
+        {
+            "gps": "57.4673226, 25.2593989",
+            "id": "214",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/214b/mini-top.jpg",
+                "address": "Valmieras iela 7, Rubene, Kocēnu novads",
+                "phone": "Tel nr. 29363311",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.4673226,25.2593989&ll=57.4673226,25.2593989&z=17"
+            }
+        },
+        {
+            "gps": "57.538454, 25.412027",
+            "id": "215",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/215b/top.jpg",
+                "address": "Miera iela 5, Valmiera, LV-4201",
+                "phone": "Tel nr. 64264594",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.538454,25.412027&ll=57.538454,25.412027&z=17"
+            }
+        },
+        {
+            "gps": "57.50949060000001, 24.7210864",
+            "id": "220",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/220b/top.jpg",
+                "address": "Stacijas iela 22, Limbaži, Limbažu nov.",
+                "phone": "Tel nr. 64070286",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.50949060000001,24.7210864&ll=57.50949060000001,24.7210864&z=17"
+            }
+        },
+        {
+            "gps": "57.517952, 24.687811",
+            "id": "221",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/221b/mini-top.jpg",
+                "address": "Ābeļu iela 2, Ozolaine, Limbažu nov.",
+                "phone": "Tel nr. 64021981",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.517952,24.687811&ll=57.517952,24.687811&z=17"
+            }
+        },
+        {
+            "gps": "57.766502, 24.883327",
+            "id": "222",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/222b/mini-top.jpg",
+                "address": "Jūras iela 1a, Aloja, Alojas nov.",
+                "phone": "Tel nr. 64031365",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.766502,24.883327&ll=57.766502,24.883327&z=17"
+            }
+        },
+        {
+            "gps": "57.518687, 24.808105",
+            "id": "223",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/223b/mini-top.jpg",
+                "address": "Cēsu iela 1 Umurga, Umurgas pagasts, LV-4004",
+                "phone": "Tel nr. 64030308",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.518687,24.808105&ll=57.518687,24.808105&z=17"
+            }
+        },
+        {
+            "gps": "57.50772939999999, 24.7143025",
+            "id": "224",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/224b/top.jpg",
+                "address": "Rīgas iela 23a, Limbaži",
+                "phone": "Tel nr. 64021500",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.50772939999999,24.7143025&ll=57.50772939999999,24.7143025&z=17"
+            }
+        },
+        {
+            "gps": "56.9394721, 24.2917787",
+            "id": "225",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/225b/mini-top.jpg",
+                "address": "Peldu iela 2, Ulbroka, Stopiņu nov.",
+                "phone": "Tel nr. 67910373",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9394721,24.2917787&ll=56.9394721,24.2917787&z=17"
+            }
+        },
+        {
+            "gps": "56.85807939999999, 24.3508105",
+            "id": "226",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/226b/mini-top.jpg",
+                "address": "Līvzemes iela 11/13, Salaspils",
+                "phone": "Tel nr. 67941006",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.85807939999999,24.3508105&ll=56.85807939999999,24.3508105&z=17"
+            }
+        },
+        {
+            "gps": "56.939109, 24.036600",
+            "id": "313",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/313b/top.jpg",
+                "address": "Zalves iela 46a, Rīga ",
+                "phone": "Tel nr. 25657666",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.939109,24.036600&ll=56.939109,24.036600&z=17"
+            }
+        },
+        {
+            "gps": "56.616333, 23.283163",
+            "id": "314",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/314b/top.jpg",
+                "address": "Krasta iela 7, Dobele, Dobeles nov., LV-3701",
+                "phone": "Tel nr. 20272255",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.616333,23.283163&ll=56.616333,23.283163&z=17"
+            }
+        },
+        {
+            "gps": "56.955257, 24.124137",
+            "id": "229",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/229b/top.jpg",
+                "address": "Tērbatas iela 33/35, Rīga",
+                "phone": "Tel nr. 23225040",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.955257,24.124137&ll=56.955257,24.124137&z=17"
+            }
+        },
+        {
+            "gps": "56.609648, 26.760963",
+            "id": "319",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/319b/mini-top.jpg",
+                "address": "Kosmonautu iela 13A, Varakļāni, Varakļānu nov., LV-4838",
+                "phone": "Tel nr. +37128080816",
+                "email": "varaklani@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.609648,26.760963&ll=56.609648,26.760963&z=17"
+            }
+        },
+        {
+            "gps": "56.9056964, 24.0565996",
+            "id": "242",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/242b/top.jpg",
+                "address": "Daugavas iela 27, Mārupe, Mārupes nov.",
+                "phone": "Tel nr. 67933247",
+                "email": "gal.marupe@toppartika.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9056964,24.0565996&ll=56.9056964,24.0565996&z=17"
+            }
+        },
+        {
+            "gps": "56.9189111, 23.947606",
+            "id": "243",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/243b/mini-top.jpg",
+                "address": "Skultes iela 18-1, Skulte, Mārupes nov.",
+                "phone": "Tel nr. 67915203",
+                "email": "gal.skulte@toppartika.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9189111,23.947606&ll=56.9189111,23.947606&z=17"
+            }
+        },
+        {
+            "gps": "56.8747662, 24.1196684",
+            "id": "244",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/244b/mini-top.jpg",
+                "address": "Purva 1, Baloži",
+                "phone": "Tel nr. 67969176",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.8747662,24.1196684&ll=56.8747662,24.1196684&z=17"
+            }
+        },
+        {
+            "gps": "56.8252433, 24.6026358",
+            "id": "245",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/245b/top.jpg",
+                "address": "Mednieku iela 21/23, Ogre",
+                "phone": "Tel nr. 65035770",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.8252433,24.6026358&ll=56.8252433,24.6026358&z=17"
+            }
+        },
+        {
+            "gps": "56.903402, 26.713267",
+            "id": "246",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/246b/top.jpg",
+                "address": "Ozolu iela 11, Lubāna, Lubānas nov.",
+                "phone": "Tel nr. 28600169",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.903402,26.713267&ll=56.903402,26.713267&z=17"
+            }
+        },
+        {
+            "gps": "56.968462, 26.307518",
+            "id": "247",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/247b/top.jpg",
+                "address": "Augusta Saulieša iela 2, Cesvaine, Cesvaines nov",
+                "phone": "Tel nr. 27884494",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.968462,26.307518&ll=56.968462,26.307518&z=17"
+            }
+        },
+        {
+            "gps": "56.298066, 26.7314413",
+            "id": "248",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/248b/mini-top.jpg",
+                "address": "Rēzeknes iela 36-600, Preiļi, Preiļu nov.",
+                "phone": "Tel nr. 20221186",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.298066,26.7314413&ll=56.298066,26.7314413&z=17"
+            }
+        },
+        {
+            "gps": "56.34758220000001, 27.1649596",
+            "id": "249",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/249b/top.jpg",
+                "address": "1.Maija iela 79A, Malta, Maltas pag., Rēzeknes novads",
+                "phone": "Tel nr. 25452592",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.34758220000001,27.1649596&ll=56.34758220000001,27.1649596&z=17"
+            }
+        },
+        {
+            "gps": "55.8976837, 27.174921",
+            "id": "250",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/250b/top.jpg",
+                "address": "Rēzeknes iela 7, Krāslava, Krāslavas novads",
+                "phone": "Tel nr. 29104341",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.8976837,27.174921&ll=55.8976837,27.174921&z=17"
+            }
+        },
+        {
+            "gps": "56.3892716, 28.1204313",
+            "id": "251",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/251b/top.jpg",
+                "address": "Brīvības 34, Zilupe, Zilupes novads",
+                "phone": "Tel nr. 26377071",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.3892716,28.1204313&ll=56.3892716,28.1204313&z=17"
+            }
+        },
+        {
+            "gps": "57.858735, 25.060425",
+            "id": "253",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/253b/top.jpg",
+                "address": "Baznīcas iela 2, Mazsalaca, Mazsalacas nov.",
+                "phone": "Tel nr. 29354448",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.858735,25.060425&ll=57.858735,25.060425&z=17"
+            }
+        },
+        {
+            "gps": "56.9434104, 23.4975652",
+            "id": "254",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/254b/top.jpg",
+                "address": "Jūrmala, Ķemeri, E.Dārziņa iela 16, LV-2012",
+                "phone": "Tel nr. 26811080",
+                "email": "kemeri@toppartika.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.9434104,23.4975652&ll=56.9434104,23.4975652&z=17"
+            }
+        },
+        {
+            "gps": "56.961106, 23.6017334",
+            "id": "255",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/255b/mini-top.jpg",
+                "address": "Jūrmala, Kauguri, Skolas iela 65V, LV-2016",
+                "phone": "Tel nr. 26269162",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.961106,23.6017334&ll=56.961106,23.6017334&z=17"
+            }
+        },
+        {
+            "gps": "57.529270, 25.395182",
+            "id": "256",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/256b/top.jpg",
+                "address": "Ausekļa iela 29, Valmiera, LV-4201",
+                "phone": "Tel nr. 64210833",
+                "email": "top.valmiera.a29@madara89.l",
+                "google_maps_url": "http://maps.google.com/maps?q=57.529270,25.395182&ll=57.529270,25.395182&z=17"
+            }
+        },
+        {
+            "gps": "55.977668, 26.290079",
+            "id": "257",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/257b/top.jpg",
+                "address": "Stadiona iela 9, Ilūkste, Ilūkstes nov.",
+                "phone": "Tel nr. 25713527",
+                "email": "birojs@pvg.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.977668,26.290079&ll=55.977668,26.290079&z=17"
+            }
+        },
+        {
+            "gps": "56.688879, 25.970660",
+            "id": "258",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/258b/top.jpg",
+                "address": "Pietnieki, Jaunkalsnava, Kalsnavas pag., Madonas nov. ",
+                "phone": "Tel nr. 26392162",
+                "email": "minitop.jaunkalsnava@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.688879,25.970660&ll=56.688879,25.970660&z=17"
+            }
+        },
+        {
+            "gps": "57.001425, 27.129882",
+            "id": "261",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/261b/top.jpg",
+                "address": "Kurmenes iela 36, Rugāji, Rugāju nov. ",
+                "phone": "Tel nr. 29487319",
+                "email": "top.rugaji@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.001425,27.129882&ll=57.001425,27.129882&z=17"
+            }
+        },
+        {
+            "gps": "57.265518, 27.666883",
+            "id": "263",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/263b/mini-top.jpg",
+                "address": "Viļakas 24A, Žīguri, Žīguru pagasts, Viļakas novads",
+                "phone": "Tel nr. 25713789",
+                "email": "minitop.ziguri@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.265518,27.666883&ll=57.265518,27.666883&z=17"
+            }
+        },
+        {
+            "gps": "56.611009, 26.758765",
+            "id": "264",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/264b/top.jpg",
+                "address": "Pils iela 7D, Varakļāni, Varakļānu nov. LV-4838",
+                "phone": "Tel nr. 25645964",
+                "email": "top.varaklani@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.611009,26.758765&ll=56.611009,26.758765&z=17"
+            }
+        },
+        {
+            "gps": "56.612653, 25.702440",
+            "id": "265",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/265b/mini-top.jpg",
+                "address": "Rīgas iela 13a, Pļaviņas, Pļaviņu novads ",
+                "phone": "Tel nr. 26184482",
+                "email": "minitop.plavinas@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.612653,25.702440&ll=56.612653,25.702440&z=17"
+            }
+        },
+        {
+            "gps": "56.617626, 25.088903",
+            "id": "267",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/267b/mini-top.jpg",
+                "address": "Jelgavas iela 44, Jaunjelgava, Jaunjelgavas novads",
+                "phone": "Tel nr. 25771987",
+                "email": "minitop.jaunjelgava@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.617626,25.088903&ll=56.617626,25.088903&z=17"
+            }
+        },
+        {
+            "gps": "56.508058, 25.763831",
+            "id": "268",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/268b/mini-top.jpg",
+                "address": "Sala, Susējas iela 11, Salas novads ",
+                "phone": "Tel nr. 26459493",
+                "email": "minitop.sala@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.508058,25.763831&ll=56.508058,25.763831&z=17"
+            }
+        },
+        {
+            "gps": "56.345871, 25.556497",
+            "id": "270",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/270b/top.jpg",
+                "address": "Raiņa iela 23, Viesīte, Viesītes nov., LV-5237",
+                "phone": "Tel nr. 26396806",
+                "email": "top.viesite@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.345871,25.556497&ll=56.345871,25.556497&z=17"
+            }
+        },
+        {
+            "gps": "56.204198, 25.307634",
+            "id": "271",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/271b/top.jpg",
+                "address": "Raiņa iela 6, Nereta, Neretas pag., Neretas nov., LV-5118",
+                "phone": "Tel nr. 25626473",
+                "email": "top.nereta@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.204198,25.307634&ll=56.204198,25.307634&z=17"
+            }
+        },
+        {
+            "gps": "56.161639, 25.748205",
+            "id": "272",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/272b/mini-top.jpg",
+                "address": "Dzirnavu iela 1, Aknīste, Aknīstes nov., LV-5208",
+                "phone": "Tel nr. 29158069",
+                "email": "minitop.akniste@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.161639,25.748205&ll=56.161639,25.748205&z=17"
+            }
+        },
+        {
+            "gps": "57.533218, 25.398444",
+            "id": "274",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/274b/top.jpg",
+                "address": "Rīgas iela 64, Valmiera, LV-4201",
+                "phone": "Tel nr. 64210834",
+                "email": "top.valmiera.r64@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=57.533218,25.398444&ll=57.533218,25.398444&z=17"
+            }
+        },
+        {
+            "gps": "56.095806, 27.539584",
+            "id": "275",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/275b/top.jpg",
+                "address": "Daugavpils iela 6, Dagda, Dagdas nov., LV-5674",
+                "phone": "Tel nr. 25729907",
+                "email": "top.dagda@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.095806,27.539584&ll=56.095806,27.539584&z=17"
+            }
+        },
+        {
+            "gps": "56.131472, 27.007155",
+            "id": "276",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/276b/top.jpg",
+                "address": "Somersētas iela 33, Aglona, Aglonas pag., Aglonas nov., LV-5304",
+                "phone": "Tel nr. 25772302",
+                "email": "top.aglona@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.131472,27.007155&ll=56.131472,27.007155&z=17"
+            }
+        },
+        {
+            "gps": "56.339942, 26.799789",
+            "id": "277",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/277b/mini-top.jpg",
+                "address": "Saules iela 7, Riebiņi, Riebiņu pagasts, Riebiņu novads",
+                "phone": "Tel nr. 25762732",
+                "email": "minitop.riebini@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.339942,26.799789&ll=56.339942,26.799789&z=17"
+            }
+        },
+        {
+            "gps": "56.097206, 26.546380",
+            "id": "279",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/279b/mini-top.jpg",
+                "address": "Lielā iela  31, Kalupe, Kalupes pagasts, Daugavpils novads",
+                "phone": "Tel nr. 29267032",
+                "email": "minitop.kalupe@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.097206,26.546380&ll=56.097206,26.546380&z=17"
+            }
+        },
+        {
+            "gps": "56.028803, 26.463684",
+            "id": "280",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/280b/mini-top.jpg",
+                "address": "Vabole, Vaboles pagasts, Daugavpils novads",
+                "phone": "Tel nr. 25723652",
+                "email": "minitop.vabole@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.028803,26.463684&ll=56.028803,26.463684&z=17"
+            }
+        },
+        {
+            "gps": "55.906514, 26.650744",
+            "id": "281",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/281b/mini-top.jpg",
+                "address": "Daugavas iela 23, Krauja, Naujenes pagasts, Daugavpils novads",
+                "phone": "Tel nr. 29487129",
+                "email": "minitop.krauja@madara89.lv ",
+                "google_maps_url": "http://maps.google.com/maps?q=55.906514,26.650744&ll=55.906514,26.650744&z=17"
+            }
+        },
+        {
+            "gps": "56.318115, 24.254921",
+            "id": "282",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/282b/top.jpg",
+                "address": "Skolas iela 2, Uzvara, Gailīšu pag., Bauskas nov., LV-3913",
+                "phone": "Tel nr. 20233678",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.318115,24.254921&ll=56.318115,24.254921&z=17"
+            }
+        },
+        {
+            "gps": "56.075647, 26.732954",
+            "id": "283",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/283b/top.jpg",
+                "address": "Šosejas  iela 2, Špoģi, Višķu pagasts, Daugavpils novads",
+                "phone": "Tel nr. 29129285",
+                "email": "top.spogi@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.075647,26.732954&ll=56.075647,26.732954&z=17"
+            }
+        },
+        {
+            "gps": "55.856392, 26.555610",
+            "id": "284",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/284b/mini-top.jpg",
+                "address": "Lielā iela 264a, Daugavpils",
+                "phone": "Tel nr. 25664611",
+                "email": "minitop.daugavpils@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.856392,26.555610&ll=55.856392,26.555610&z=17"
+            }
+        },
+        {
+            "gps": "56.967439, 23.769872",
+            "id": "285",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/285b/top.jpg",
+                "address": "Strēlnieku iela 1,  Dubulti, Jūrmala, LV-2015",
+                "phone": "Tel nr. 67760080",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.967439,23.769872&ll=56.967439,23.769872&z=17"
+            }
+        },
+        {
+            "gps": "56.066336, 26.131594",
+            "id": "286",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/286b/mini-top.jpg",
+                "address": "Dzirksteles, Bebrene, Bebrenes pag., Ilūkstes nov.",
+                "phone": "Tel nr. 29385335",
+                "email": "top.bebrene@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.066336,26.131594&ll=56.066336,26.131594&z=17"
+            }
+        },
+        {
+            "gps": "55.895747, 26.608177",
+            "id": "287",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/287b/top.jpg",
+                "address": "18. novembra iela 372, Daugavpils, LV-5413",
+                "phone": "Tel nr. 26531221",
+                "email": "top.daugavpils.372@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.895747,26.608177&ll=55.895747,26.608177&z=17"
+            }
+        },
+        {
+            "gps": "55.867753, 26.584495",
+            "id": "288",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/288b/top.jpg",
+                "address": "Gaismas iela 12, Daugavpils, LV-5414",
+                "phone": "Tel nr. 29286203",
+                "email": "top.daugavpils.g12@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.867753,26.584495&ll=55.867753,26.584495&z=17"
+            }
+        },
+        {
+            "gps": "55.866266, 26.530192",
+            "id": "289",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/289b/top.jpg",
+                "address": "Nometņu iela 9/11, Daugavpils",
+                "phone": "Tel nr. 25678841",
+                "email": "top.daugavpils.n9@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.866266,26.530192&ll=55.866266,26.530192&z=17"
+            }
+        },
+        {
+            "gps": "56.650284, 23.711708",
+            "id": "290",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/290b/mini-top.jpg",
+                "address": "Lielā iela 36/N, Jelgava",
+                "phone": "Tel nr. 63013944",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.650284,23.711708&ll=56.650284,23.711708&z=17"
+            }
+        },
+        {
+            "gps": "55.977279, 26.295773",
+            "id": "291",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/291b/top.jpg",
+                "address": "Pilskalnes iela 2A, Ilūkste, Ilūkstes nov., LV-5447",
+                "phone": "Tel nr. 25768401",
+                "email": "top.ilukste@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.977279,26.295773&ll=55.977279,26.295773&z=17"
+            }
+        },
+        {
+            "gps": "56.647453, 25.943131",
+            "id": "292",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/292b/mini-top.jpg",
+                "address": "\"Aiviekste 62\", Aiviekste, Kalsnavas pag., Madonas nov., LV-4860",
+                "phone": "Tel nr. 29485296",
+                "email": "minitop.aiviekste@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.647453,25.943131&ll=56.647453,25.943131&z=17"
+            }
+        },
+        {
+            "gps": "56.332454, 27.545898",
+            "id": "295",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/295b/top.jpg",
+                "address": "Rāznas iela 33, Kaunata, Kaunatas pag., Rēzeknes nov., LV-4622",
+                "phone": "Tel nr. 26569397",
+                "email": "top.kaunata@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.332454,27.545898&ll=56.332454,27.545898&z=17"
+            }
+        },
+        {
+            "gps": "56.003248, 25.906740",
+            "id": "296",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/296b/mini-top.jpg",
+                "address": "Tirgus laukums 22, Subate, Ilūkstes nov.",
+                "phone": "Tel nr. 26328169",
+                "email": "minitop.subate@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=56.003248,25.906740&ll=56.003248,25.906740&z=17"
+            }
+        },
+        {
+            "gps": "55.879944, 26.529800",
+            "id": "299",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/299b/top.jpg",
+                "address": "Malu ielā 5, Daugavpils",
+                "phone": "Tel nr. 29126866",
+                "email": "top.daugavpils.m5@madara89.lv",
+                "google_maps_url": "http://maps.google.com/maps?q=55.879944,26.529800&ll=55.879944,26.529800&z=17"
+            }
+        },
+        {
+            "gps": "56.887209, 21.189195",
+            "id": "300",
+            "props": {
+                "category": "„mini top!”",
+                "image_url": "/image/shops/300b/mini-top.jpg",
+                "address": "Pāvilostas novads, Pāvilosta, Dzintaru iela 69",
+                "phone": "Tel nr. 63451000",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.887209,21.189195&ll=56.887209,21.189195&z=17"
+            }
+        },
+        {
+            "gps": "56.659638, 23.762780",
+            "id": "303",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/303b/top.jpg",
+                "address": "K. Helmaņa iela 1, Jelgava",
+                "phone": "Tel nr. 63013010",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.659638,23.762780&ll=56.659638,23.762780&z=17"
+            }
+        },
+        {
+            "gps": "57.011343, 24.959259",
+            "id": "304",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/304b/top.jpg",
+                "address": "Pirts iela 5, Mālpils, Mālpils nov., LV-2152",
+                "phone": "Tel nr. 67854590",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.011343,24.959259&ll=57.011343,24.959259&z=17"
+            }
+        },
+        {
+            "gps": "56.904127, 24.147446",
+            "id": "308",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/308b/top.jpg",
+                "address": "Atpūtas iela 5, Valdlauči, Ķekavas pagasts, LV-1076",
+                "phone": "Tel nr. 67869771",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.904127,24.147446&ll=56.904127,24.147446&z=17"
+            }
+        },
+        {
+            "gps": "57.307168, 25.253057",
+            "id": "306",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/306b/top.jpg",
+                "address": "Gaujas iela 29, Cēsis, Cēsu nov., LV-4101",
+                "phone": "Tel nr. 64112018",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=57.307168,25.253057&ll=57.307168,25.253057&z=17"
+            }
+        },
+        {
+            "gps": "56.653533, 23.662299",
+            "id": "309",
+            "props": {
+                "category": "„top!”",
+                "image_url": "/image/shops/309b/top.jpg",
+                "address": "Dobeles šoseja 90, Jelgava, LV-3003",
+                "phone": "Tel nr. 26129534",
+                "email": "",
+                "google_maps_url": "http://maps.google.com/maps?q=56.653533,23.662299&ll=56.653533,23.662299&z=17"
+            }
+        }
+    ],
+    "left": "",
+    "cnt": 199
+}

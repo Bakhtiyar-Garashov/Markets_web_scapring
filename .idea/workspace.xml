@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7277edd-8e08-4e03-86cb-66d222e3821c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data extraction/Top.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data extraction/Top.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data extraction/Elvi.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Elvi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data extraction/Maxima.json" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Maxima.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data extraction/Maxima.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Maxima.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data extraction/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       <recent name="C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\json_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Maxima">
+  <component name="RunManager" selected="Python.Top">
     <configuration name="Elvi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,28 +58,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Elvi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Geo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShopsScraping" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Geo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,6 +132,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Top" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShopsScraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Top.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,18 +177,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Geo" />
       <item itemvalue="Python.Rimi" />
       <item itemvalue="Python.Maxima" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Elvi" />
+      <item itemvalue="Python.Top" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Top" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Maxima" />
         <item itemvalue="Python.Elvi" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Rimi" />
         <item itemvalue="Python.Rimi" />
       </list>
     </recent_temporary>
@@ -219,7 +218,7 @@
       <workItem from="1596435162586" duration="25408000" />
       <workItem from="1596535864414" duration="237000" />
       <workItem from="1596548911274" duration="396000" />
-      <workItem from="1596607757055" duration="2296000" />
+      <workItem from="1596607757055" duration="17584000" />
     </task>
     <task id="LOCAL-00001" summary="New file added">
       <created>1596435634004</created>
@@ -270,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596460558977</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new commit">
+      <created>1596610595560</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596610595560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +301,8 @@
     <MESSAGE value="New json result" />
     <MESSAGE value="ELvi ready" />
     <MESSAGE value="Elvi ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elvi ready" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1596013038763">
@@ -314,58 +321,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1595921826559" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596435523303">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596624834837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596435523303" />
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596460557459">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596624834837" />
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596610592099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596460557459" />
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596610592099" />
     <state x="225" y="65" key="DiffContextDialog" timestamp="1596439025126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="225" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439025126" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1596610562892">
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1596627419887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596610562892" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1596610562892">
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596627419887" />
+    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1596627419887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596610562892" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1596610562892">
+    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596627419887" />
+    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1596627419887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596610562892" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1596610562892">
+    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596627419887" />
+    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1596627419887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596610562892" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596461116913">
+    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596627419887" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596612788661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596461116913" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596461116912">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596612788661" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596612788661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596461116912" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596461116912">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596612788661" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596612788661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596461116912" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596461116912">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596612788661" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596612788661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596461116912" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596612788661" />
     <state x="615" y="123" key="RollbackChangesDialog" timestamp="1596439068593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="615" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439068593" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596460561398">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596610600907">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596460561398" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596610600907" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596439033102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -383,8 +390,9 @@
     <SUITE FILE_PATH="coverage/ShopsScraping$Maxima.coverage" NAME="Maxima Coverage Results" MODIFIED="1596610562876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$DB.coverage" NAME="DB Coverage Results" MODIFIED="1596008525875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Processing.coverage" NAME="Processing Coverage Results" MODIFIED="1595422324611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$test.coverage" NAME="test Coverage Results" MODIFIED="1596459104411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$test.coverage" NAME="test Coverage Results" MODIFIED="1596621564391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Rimi__2_.coverage" NAME="Rimi (2) Coverage Results" MODIFIED="1596181049321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Elvi__1_.coverage" NAME="Elvi Coverage Results" MODIFIED="1596460180120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Top.coverage" NAME="Top Coverage Results" MODIFIED="1596627419879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
   </component>
 </project>
