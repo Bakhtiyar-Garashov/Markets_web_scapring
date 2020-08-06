@@ -1,0 +1,2684 @@
+[
+    {
+        "address": "Siļķu iela 20-6, Liepāja, LV-3405",
+        "feature": "Point",
+        "lat": "56.5318913",
+        "lon": "21.0081687"
+    },
+    {
+        "address": "Katoļu iela 15, Rīga, LV-1003",
+        "feature": "Point",
+        "lat": "56.9421976",
+        "lon": "24.1368626"
+    },
+    {
+        "address": "Preiļu iela 4a, Rīga, LV-1073",
+        "feature": "Point",
+        "lat": "56.9373364",
+        "lon": "24.1877381"
+    },
+    {
+        "address": "Vesetas iela 5, Jaunkalsnava, Madonas novads, LV-4860",
+        "feature": "Point",
+        "lat": "56.6886572",
+        "lon": "25.9698682"
+    },
+    {
+        "address": "Čaka iela 68, Rīga, LV-1011",
+        "feature": "Point",
+        "lat": "56.9555543",
+        "lon": "24.1353307"
+    },
+    {
+        "address": "Lielā iela 73, Saldus, Saldus novads, LV-3801",
+        "feature": "Point",
+        "lat": "56.6559838",
+        "lon": "22.4810078"
+    },
+    {
+        "address": "Virāža, Gančevski, Daugavpils novads, LV-5456",
+        "feature": "Point",
+        "lat": "56.0547715",
+        "lon": "26.3761159"
+    },
+    {
+        "address": "Cēsu iela 18, Rīga, LV-1001",
+        "feature": "Point",
+        "lat": "56.9648239",
+        "lon": "24.1398566"
+    },
+    {
+        "address": "Vanagu iela 1a, Kalngale, Carnikavas novads, LV2163",
+        "feature": "Point",
+        "lat": "57.0818827",
+        "lon": "24.1591365"
+    },
+    {
+        "address": "Roņu iela 5, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5137899",
+        "lon": "20.9960814"
+    },
+    {
+        "address": "Virsaiši, Augstkalne, Tērvetes novads, LV-3709",
+        "feature": "Point",
+        "lat": "56.4066809",
+        "lon": "23.3365989"
+    },
+    {
+        "address": "Daugavas iela 4, Nīcgale, Daugavpils novads, LV-5463",
+        "feature": "Point",
+        "lat": "56.1350883",
+        "lon": "26.3664299"
+    },
+    {
+        "address": "Nākotnes iela 2, Dubna, Daugavpils novads, LV-5443",
+        "feature": "Point",
+        "lat": "56.0785564",
+        "lon": "26.6827854"
+    },
+    {
+        "address": "Briģenes iela 4, Demene, Daugavpils novads, LV-5442",
+        "feature": "Point",
+        "lat": "55.7298903",
+        "lon": "26.5428236"
+    },
+    {
+        "address": "Rīgas iela 16, Rēzekne, LV-4601",
+        "feature": "Point",
+        "lat": "56.5124074",
+        "lon": "27.3251288"
+    },
+    {
+        "address": "Dzērves iela 15, Liepāja, LV-3411",
+        "feature": "Point",
+        "lat": "56.492839",
+        "lon": "21.0211471"
+    },
+    {
+        "address": "Gravu iela 2, Spilve, Babītes novads, LV-2101",
+        "feature": "Point",
+        "lat": "56.963486",
+        "lon": "23.9593057"
+    },
+    {
+        "address": "Spīķeru iela 5, Rīga, LV-1050",
+        "feature": "Point",
+        "lat": "56.9439775",
+        "lon": "24.1187603"
+    },
+    {
+        "address": "Zaļkalnu 3A, Allaži, Siguldas novads, LV-2154",
+        "feature": "Point",
+        "lat": "57.0624516",
+        "lon": "24.8437273"
+    },
+    {
+        "address": "Andris, Liepna, Liepnas pagasts, Alūksnes novads, LV-4354",
+        "feature": "Point",
+        "lat": "57.3431639",
+        "lon": "27.4767879"
+    },
+    {
+        "address": "Maļinovas ciems, Maļinovas pagasts, Daugavpils novads, LV-5404",
+        "feature": "Point",
+        "lat": "55.9871725",
+        "lon": "26.6730211"
+    },
+    {
+        "address": "Torņa iela 2a, Alūksne, Alūksnes novads, LV-4301",
+        "feature": "Point",
+        "lat": "57.4199087",
+        "lon": "27.0667762"
+    },
+    {
+        "address": "Kurzemes prospekts 76b, Rīga, LV-1069",
+        "feature": "Point",
+        "lat": "56.967605",
+        "lon": "24.016628"
+    },
+    {
+        "address": "Rūdolfa Blaumaņa iela 2, Sigulda, Siguldas novads, LV-2150",
+        "feature": "Point",
+        "lat": "57.1528228",
+        "lon": "24.8590737"
+    },
+    {
+        "address": "Jāņkalna iela 48, Alūksne, Alūksnes novads, LV-4301",
+        "feature": "Point",
+        "lat": "57.4140158",
+        "lon": "27.0450141"
+    },
+    {
+        "address": "Brīvnieki, Ropaži, Ropažu novads, LV-2135",
+        "feature": "Point",
+        "lat": "56.9753199",
+        "lon": "24.629619"
+    },
+    {
+        "address": "Zemzari, Ropaži, Ropažu novads, LV-2135",
+        "feature": "Point",
+        "lat": "56.9468653",
+        "lon": "24.6712368"
+    },
+    {
+        "address": "Miera iela 23, Mirnijs, Daugavpils novads, LV-5461",
+        "feature": "Point",
+        "lat": "55.8230287",
+        "lon": "26.5980212"
+    },
+    {
+        "address": "Pulkveža Oskara Kalpaka iela 35B, Jelgava, LV-3008",
+        "feature": "Point",
+        "lat": "56.6420842",
+        "lon": "23.7194067"
+    },
+    {
+        "address": "Līgo iela 1, Lipušķi, Rēzeknes novads, LV-4626",
+        "feature": "Point",
+        "lat": "56.2888668",
+        "lon": "27.4405616"
+    },
+    {
+        "address": "Avotu iela 76, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9533657",
+        "lon": "24.1460951"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "56.5448458",
+        "lon": "27.7094111"
+    },
+    {
+        "address": "Raiņa iela 29, Ludza, Ludzas novads, LV-5701",
+        "feature": "Point",
+        "lat": "56.5439394",
+        "lon": "27.7181097"
+    },
+    {
+        "address": "Pagastmāja, Māriņkalns, Ziemera pagasts, Alūksnes novads, LV-4332",
+        "feature": "Point",
+        "lat": "57.487777",
+        "lon": "26.976351"
+    },
+    {
+        "address": "Ramavas iela 17, Rāmava, Ķekavas pagasts, LV - 2111",
+        "feature": "Point",
+        "lat": "56.8879998",
+        "lon": "24.1593133"
+    },
+    {
+        "address": "Lauksaimniecības skola 16, Jaungulbene, Gulbenes novads, LV-4420",
+        "feature": "Point",
+        "lat": "57.0631871",
+        "lon": "26.5973617"
+    },
+    {
+        "address": "\"Valdlauči 2\"-601, Valdlauči, Ķekavas pagasts, Ķekavas novads, LV - 1076",
+        "feature": "Point",
+        "lat": "56.9061888",
+        "lon": "24.1488029"
+    },
+    {
+        "address": "Rembates iela 11, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7240458",
+        "lon": "24.8063763"
+    },
+    {
+        "address": "Ķiršu iela 4, Katlakalns, Ķekavas novads, LV-2111",
+        "feature": "Point",
+        "lat": "56.8673871",
+        "lon": "24.1386314"
+    },
+    {
+        "address": "Vītoli, Lapmežciems, Engures novads, LV-3118",
+        "feature": "Point",
+        "lat": "57.002197",
+        "lon": "23.512791"
+    },
+    {
+        "address": "Daugavas prospekts 38, Ikšķile, Ikšķiles novads, LV-5052",
+        "feature": "Point",
+        "lat": "56.8391166",
+        "lon": "24.5049053"
+    },
+    {
+        "address": "Spīdolas iela 14, Aizkraukle, Aizkraukles novads, LV-5101",
+        "feature": "Point",
+        "lat": "56.5987502",
+        "lon": "25.2513676"
+    },
+    {
+        "address": "Rīgas iela 1A, Rauna, Raunas novads, LV-4131",
+        "feature": "Point",
+        "lat": "57.331248",
+        "lon": "25.6097151"
+    },
+    {
+        "address": "Priedes-2, Egļuciems, Balvu novads, LV-4592",
+        "feature": "Point",
+        "lat": "57.044315",
+        "lon": "27.497495"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "56.5007013",
+        "lon": "21.0171865"
+    },
+    {
+        "address": "Slimnīcas iela 15, Liepāja, LV-3414",
+        "feature": "Point",
+        "lat": "56.5551531",
+        "lon": "21.09884"
+    },
+    {
+        "address": "Lejasstrazdi, Dobeles pagasts, Dobeles novads, LV-3722",
+        "feature": "Point",
+        "lat": "56.6610769",
+        "lon": "23.3098908"
+    },
+    {
+        "address": "Avotu iela 1-43, Lielvārde, Lielvārdes novads, LV-5071",
+        "feature": "Point",
+        "lat": "56.7334338",
+        "lon": "24.8050572"
+    },
+    {
+        "address": "Palsas iela 24, Drusti, Raunas novads, LV-4132",
+        "feature": "Point",
+        "lat": "57.230727",
+        "lon": "25.8556094"
+    },
+    {
+        "address": "Selgas iela 1F, Ragaciems, Engures novads, LV-3118",
+        "feature": "Point",
+        "lat": "57.0239414",
+        "lon": "23.4924468"
+    },
+    {
+        "address": "Darbnīcas, Nīcas novads, LV-3473",
+        "feature": "Point",
+        "lat": "56.3167141",
+        "lon": "21.0694175"
+    },
+    {
+        "address": "Janciški, Maļinovas pagasts, Daugavpils novads, LV-5459",
+        "feature": "Point",
+        "lat": "55.996847",
+        "lon": "26.7541409"
+    },
+    {
+        "address": "Stacijas iela 1, Dunski, Daugavpils novads, LV-5462",
+        "feature": "Point",
+        "lat": "55.9354358",
+        "lon": "26.7496836"
+    },
+    {
+        "address": "Saules iela 5, Biķernieki, Daugavpils novads, LV-5440",
+        "feature": "Point",
+        "lat": "55.9740677",
+        "lon": "26.8212472"
+    },
+    {
+        "address": "Draudzības iela 1A, Kaķenieki, Dobeles novads, LV-3718",
+        "feature": "Point",
+        "lat": "56.66649",
+        "lon": "23.0379257"
+    },
+    {
+        "address": "Bērzāju iela 6, Emburga,  Brocēnu novads, LV-3851",
+        "feature": "Point",
+        "lat": "56.6761151",
+        "lon": "22.5304501"
+    },
+    {
+        "address": "Vienības laukums 1, Cēsis, LV-4101",
+        "feature": "Point",
+        "lat": "57.3141297",
+        "lon": "25.2745826"
+    },
+    {
+        "address": "Vienības laukums 1, Cēsis, LV-4101",
+        "feature": "Point",
+        "lat": "57.3141297",
+        "lon": "25.2745826"
+    },
+    {
+        "address": "Vienības laukums 1, Cēsis, LV-4101",
+        "feature": "Point",
+        "lat": "57.3141297",
+        "lon": "25.2745826"
+    },
+    {
+        "address": "Bulduru prospekts 33, Jūrmala, LV-2016",
+        "feature": "Point",
+        "lat": "56.9847689",
+        "lon": "23.8536842"
+    },
+    {
+        "address": "Raiņa iela 112b, Jūrmala, LV-2016",
+        "feature": "Point",
+        "lat": "56.9598141",
+        "lon": "23.6108736"
+    },
+    {
+        "address": "Stāķi, Stradu pagasts, Gulbenes pagasts, LV-4417",
+        "feature": "Point",
+        "lat": "57.1341319",
+        "lon": "26.733671"
+    },
+    {
+        "address": "Rīgas iela 15, Ērgļi, Ērgļu novads, LV-4840",
+        "feature": "Point",
+        "lat": "56.8976284",
+        "lon": "25.6336792"
+    },
+    {
+        "address": "Jāņa Endzelīna iela 58, Rīga, LV-1029",
+        "feature": "Point",
+        "lat": "56.9444176",
+        "lon": "24.0264549"
+    },
+    {
+        "address": "Brīvības iela 128/Tallinas iela 26, Rīga, LV-1001",
+        "feature": "Point",
+        "lat": "56.9655628",
+        "lon": "24.1430779"
+    },
+    {
+        "address": "Dārzu iela 58, Rēzekne, LV-4601",
+        "feature": "Point",
+        "lat": "56.5144362",
+        "lon": "27.3396329"
+    },
+    {
+        "address": "Greiškāni, Griškānu pagasts, Rēzeknes novads, LV-4641",
+        "feature": "Point",
+        "lat": "56.5133669",
+        "lon": "27.429675"
+    },
+    {
+        "address": "Veika",
+        "feature": "Point",
+        "lat": "56.6130133",
+        "lon": "23.291845"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.157388",
+        "lon": "24.849628"
+    },
+    {
+        "address": "Rīgas iela 49, Gulbene, Gulbenes novads, LV-4401",
+        "feature": "Point",
+        "lat": "57.1734714",
+        "lon": "26.7569941"
+    },
+    {
+        "address": "\"Pūpoli\", Paplaka, Virgas pagasts, Priekules novads, LV-3433",
+        "feature": "Point",
+        "lat": "56.451794",
+        "lon": "21.458463"
+    },
+    {
+        "address": "Raiņa iela 112B,  Jūrmala, LV-2016",
+        "feature": "Point",
+        "lat": "56.9598141",
+        "lon": "23.6108736"
+    },
+    {
+        "address": "Spriņģu iela 1-604, Līgatne, Līgatnes novads, LV-4110",
+        "feature": "Point",
+        "lat": "57.2335639",
+        "lon": "25.0402311"
+    },
+    {
+        "address": "Jasmuižas iela 9a, Rīga, LV-1021",
+        "feature": "Point",
+        "lat": "56.9372542",
+        "lon": "24.2098929"
+    },
+    {
+        "address": "Ozolu iela 4, Rīga, LV-1005",
+        "feature": "Point",
+        "lat": "56.987376",
+        "lon": "24.1367157"
+    },
+    {
+        "address": "Skolas iela 6-11, Lutriņi, Saldus novads, LV-3861",
+        "feature": "Point",
+        "lat": "56.7329365",
+        "lon": "22.3986338"
+    },
+    {
+        "address": "Beātes iela 30a, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5419197",
+        "lon": "25.4076774"
+    },
+    {
+        "address": "Raudas iela 52, Tukums, Tukuma novads, LV-3101",
+        "feature": "Point",
+        "lat": "56.9818887",
+        "lon": "23.1550909"
+    },
+    {
+        "address": "Filozofu iela 72, Jelgava, LV-3008",
+        "feature": "Point",
+        "lat": "56.6389487",
+        "lon": "23.6931155"
+    },
+    {
+        "address": "Bērnudārzs \"Kāpēcīši\" Ganību iela 66, Jelgava, LV-3007",
+        "feature": "Point",
+        "lat": "56.6579631",
+        "lon": "23.69631"
+    },
+    {
+        "address": "Lielā iela 17, Jelgava, LV-3001",
+        "feature": "Point",
+        "lat": "56.6505856",
+        "lon": "23.71925"
+    },
+    {
+        "address": "Rūpniecības iela 4, Olaine, Olaines novads, LV-2114",
+        "feature": "Point",
+        "lat": "56.799209",
+        "lon": "23.9226381"
+    },
+    {
+        "address": "Stendes iela 8, Talsi, Talsu novads, LV-3201",
+        "feature": "Point",
+        "lat": "57.2344714",
+        "lon": "22.5895265"
+    },
+    {
+        "address": "Jūras iela 30, Ventspils, LV-3601",
+        "feature": "Point",
+        "lat": "57.3921016",
+        "lon": "21.5564715"
+    },
+    {
+        "address": "Upeslejas iela 9a, Upeslejas, Stopiņu novads, LV-2118",
+        "feature": "Point",
+        "lat": "56.924953",
+        "lon": "24.3862251"
+    },
+    {
+        "address": "Muižas klēts, Liepupe, Salacgrīvas novads, LV-4023",
+        "feature": "Point",
+        "lat": "57.4650455",
+        "lon": "24.4729873"
+    },
+    {
+        "address": "Kungu iela 52-1, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5057412",
+        "lon": "21.0222988"
+    },
+    {
+        "address": "„ RASIŅAS”1-A, Grenctāle, Brunavas pagasts, Bauskas novads, LV-3907",
+        "feature": "Point",
+        "lat": "42.7261309",
+        "lon": "87.7828523"
+    },
+    {
+        "address": "Stūrmaņu iela 29, Rīga, LV-1016",
+        "feature": "Point",
+        "lat": "57.0325473",
+        "lon": "24.0485049"
+    },
+    {
+        "address": "Slokas iela 44a, Jūrmala, LV-2015",
+        "feature": "Point",
+        "lat": "56.9643591",
+        "lon": "23.7712288"
+    },
+    {
+        "address": "Biķernieku iela 1, Rīga, LV-1039",
+        "feature": "Point",
+        "lat": "56.9726363",
+        "lon": "24.1666137"
+    },
+    {
+        "address": "Duntes iela 27, Rīga, LV-1005",
+        "feature": "Point",
+        "lat": "56.9927938",
+        "lon": "24.123889"
+    },
+    {
+        "address": "Miera iela 2, Rudzāti, Līvānu novads, LV-5328",
+        "feature": "Point",
+        "lat": "56.4176184",
+        "lon": "26.4515806"
+    },
+    {
+        "address": "\"Apteika\", Ance, Ances pagasts, Ventspils novads, LV-3612",
+        "feature": "Point",
+        "lat": "57.513773",
+        "lon": "22.0217599"
+    },
+    {
+        "address": "\"Lejas\", Ķeipene, Ogres novads, LV-5062",
+        "feature": "Point",
+        "lat": "56.8209289",
+        "lon": "24.5725314"
+    },
+    {
+        "address": "\"TEIKAS\" Jaunannas pagasts, Alūksnes novads, LV - 4340",
+        "feature": "Point",
+        "lat": "57.2917901",
+        "lon": "27.1083426"
+    },
+    {
+        "address": "Dzelzavas iela 62, Rīga, LV-1082",
+        "feature": "Point",
+        "lat": "56.9572904",
+        "lon": "24.1847233"
+    },
+    {
+        "address": "Bērnudārzs \"Zīļuks\", Valkas iela 6, Rencēni, Rencēnu novads, LV-4232",
+        "feature": "Point",
+        "lat": "57.7308256",
+        "lon": "25.438353"
+    },
+    {
+        "address": "Bērnudārzs \"Sienāzītis\", Parka iela 3, Burtnieki, Burtnieku novads, LV-4206",
+        "feature": "Point",
+        "lat": "57.6974835",
+        "lon": "25.2789474"
+    },
+    {
+        "address": "Ēveles skola, Ēvele, Ēveles pagasts, Burtnieku novads, LV-4712",
+        "feature": "Point",
+        "lat": "57.7334619",
+        "lon": "25.4293193"
+    },
+    {
+        "address": "Skolas iela 22, Burtnieku novads, Matīši, LV-4210",
+        "feature": "Point",
+        "lat": "57.6951154",
+        "lon": "25.1522411"
+    },
+    {
+        "address": "Jūras iela 12, Aloja, Alojas novads, LV-4064",
+        "feature": "Point",
+        "lat": "57.7669054",
+        "lon": "24.8844005"
+    },
+    {
+        "address": "Dzelzceļa iela 14, Gulbene, Gulbenes novads, LV - 4401",
+        "feature": "Point",
+        "lat": "57.1787912",
+        "lon": "26.7585493"
+    },
+    {
+        "address": "Bērzu Gatve 3-6, Kazdangas pagasts, Aizputes novads, LV-3457",
+        "feature": "Point",
+        "lat": "56.720811",
+        "lon": "21.7296961"
+    },
+    {
+        "address": "TC \"Globuss\", Raiņa iela 26/28, Cēsis, LV-4101",
+        "feature": "Point",
+        "lat": "57.309586",
+        "lon": "25.2772102"
+    },
+    {
+        "address": "Miera iela 94, Rīga, LV1013",
+        "feature": "Point",
+        "lat": "56.9764065",
+        "lon": "24.1452958"
+    },
+    {
+        "address": "''Dālderi'', Kārķu pagasts, Valkas novads, LV4716",
+        "feature": "Point",
+        "lat": "57.8035937",
+        "lon": "25.6440844"
+    },
+    {
+        "address": "Mārkalnes iela 1-1b, Rīga, LV-1024",
+        "feature": "Point",
+        "lat": "56.9944297",
+        "lon": "24.2280893"
+    },
+    {
+        "address": "Jaunatnes iela 3-1, Lūznava, Rēzeknes novads, LV-4627",
+        "feature": "Point",
+        "lat": "56.361899",
+        "lon": "27.2590431"
+    },
+    {
+        "address": "Rūpnīcu iela 4, Olaine, Olaines novads, LV - 2114",
+        "feature": "Point",
+        "lat": "56.799209",
+        "lon": "23.9226381"
+    },
+    {
+        "address": "Stacijas iela 1, Jelgava, LV - 3001",
+        "feature": "Point",
+        "lat": "56.641515",
+        "lon": "23.7280298"
+    },
+    {
+        "address": "Valdeķu iela 65-2, Rīga, LV-1004",
+        "feature": "Point",
+        "lat": "56.9180972",
+        "lon": "24.0953331"
+    },
+    {
+        "address": "Lāčplēša iela 35, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7168355",
+        "lon": "24.8001768"
+    },
+    {
+        "address": "Prūšu iela 40A, Rīga, LV 1057",
+        "feature": "Point",
+        "lat": "56.9107355",
+        "lon": "24.1925994"
+    },
+    {
+        "address": "Augu iela 26, Madona, Madonas novads, LV - 4801",
+        "feature": "Point",
+        "lat": "56.8486573",
+        "lon": "26.1976225"
+    },
+    {
+        "address": "\"Diena\", Semenova, Medņevas pagasts, Viļakas novads, LV - 4586",
+        "feature": "Point",
+        "lat": "57.1365719",
+        "lon": "27.645743"
+    },
+    {
+        "address": "Ēd",
+        "feature": "Point",
+        "lat": "56.6392554",
+        "lon": "23.7186157"
+    },
+    {
+        "address": "\"Lauku šiks\" Palejas iela 3, Jēkabpils, LV - 5202",
+        "feature": "Point",
+        "lat": "56.5021157",
+        "lon": "25.8751411"
+    },
+    {
+        "address": "Dzirnavu iela 5-9, Rīga, LV-1010",
+        "feature": "Point",
+        "lat": "56.961397",
+        "lon": "24.1077441"
+    },
+    {
+        "address": "Rēznas iela 2, Lūznava, Rēzeknes novads, LV-4627",
+        "feature": "Point",
+        "lat": "56.3607859",
+        "lon": "27.2627377"
+    },
+    {
+        "address": "Cietokšņa iela 60, Daugavpils, LV-5401",
+        "feature": "Point",
+        "lat": "55.8739419",
+        "lon": "26.5175177"
+    },
+    {
+        "address": "Upeslejas iela 9, Upeslejas, Stopiņu novads, LV-2118",
+        "feature": "Point",
+        "lat": "56.9226639",
+        "lon": "24.38437"
+    },
+    {
+        "address": "Olgas iela 4, Rīga, LV - LV-1048",
+        "feature": "Point",
+        "lat": "56.9417816",
+        "lon": "24.0739104"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.5323303",
+        "lon": "25.4209667"
+    },
+    {
+        "address": "Valdemāra iela 55, Ainaži, Salacgrīvas novads, LV-4035",
+        "feature": "Point",
+        "lat": "57.8638949",
+        "lon": "24.3588884"
+    },
+    {
+        "address": "Plostu iela 29, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9069266",
+        "lon": "24.1982285"
+    },
+    {
+        "address": "Lokomotīves iela 68, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9044375",
+        "lon": "24.2095776"
+    },
+    {
+        "address": "Lokomotīves iela 68, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9044375",
+        "lon": "24.2095776"
+    },
+    {
+        "address": "Lokomotīves iela 68, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9044375",
+        "lon": "24.2095776"
+    },
+    {
+        "address": "Lokomotīves iela 68, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9044375",
+        "lon": "24.2095776"
+    },
+    {
+        "address": "Laumas, Līči, Stopiņu novads, LV-2118",
+        "feature": "Point",
+        "lat": "56.946854",
+        "lon": "24.351775"
+    },
+    {
+        "address": "Tuberkulozes slimnīca, Upeslejas, Stopinu Novads, LV-2130",
+        "feature": "Point",
+        "lat": "56.9275431",
+        "lon": "24.3753828"
+    },
+    {
+        "address": "Laumas, Līči, Stopiņu novads, LV-2118",
+        "feature": "Point",
+        "lat": "56.946854",
+        "lon": "24.351775"
+    },
+    {
+        "address": "Maskavas iela 256b, Rīga, LV-1082",
+        "feature": "Point",
+        "lat": "56.9110054",
+        "lon": "24.1779644"
+    },
+    {
+        "address": "Vīgriezes, Ārlavas pagasts, Talsu novads, LV - 3260",
+        "feature": "Point",
+        "lat": "57.2977039",
+        "lon": "22.580056"
+    },
+    {
+        "address": "Gaujas iela 12, Jaunpiebalga, LV - 4133",
+        "feature": "Point",
+        "lat": "57.1677327",
+        "lon": "25.8437897"
+    },
+    {
+        "address": "\"Melbārži\", Zosēnu pagasts, Jaupiebalgas novads, LV-4132",
+        "feature": "Point",
+        "lat": "57.1728709",
+        "lon": "25.8420279"
+    },
+    {
+        "address": "Lielā iela 25, Pļaviņas, Pļaviņu novads, LV-5120",
+        "feature": "Point",
+        "lat": "56.6126596",
+        "lon": "25.7744797"
+    },
+    {
+        "address": "Avotu iela 20, Grundzāle, Smiltenes novads, LV - 4713",
+        "feature": "Point",
+        "lat": "57.4573471",
+        "lon": "26.2578852"
+    },
+    {
+        "address": "\"Piebalga 85\", Vaives pagasts, Cēsu novads, LV-4136",
+        "feature": "Point",
+        "lat": "57.2967397",
+        "lon": "25.3027904"
+    },
+    {
+        "address": "\"Piebalga\", Vecpiebalgas pagasts, Vecpiebalgas novads",
+        "feature": "Point",
+        "lat": "57.0625516",
+        "lon": "25.8082544"
+    },
+    {
+        "address": "Gaujas iela 21a, Jaunpiebalga, Jaunpiebalgas novads, LV-4125",
+        "feature": "Point",
+        "lat": "57.1766625",
+        "lon": "26.0384759"
+    },
+    {
+        "address": "Parka iela 2, Mazsalaca, Mazsalacas novads, LV-4215",
+        "feature": "Point",
+        "lat": "57.8605372",
+        "lon": "25.054394"
+    },
+    {
+        "address": "\"Papardes\", Ipiķu pagasts, Rūjienas novads, LV-4242",
+        "feature": "Point",
+        "lat": "58.0100424",
+        "lon": "25.1759014"
+    },
+    {
+        "address": "\"Vērši\", Ramatas pagasts, Mazsalacas novads, LV-4243",
+        "feature": "Point",
+        "lat": "57.9656479",
+        "lon": "25.1141879"
+    },
+    {
+        "address": "\"Ķīši\", Ramatas pagasts, Mazsalacas novads, LV-4243",
+        "feature": "Point",
+        "lat": "57.9818837",
+        "lon": "25.0361302"
+    },
+    {
+        "address": "\"Ošinieki\", Mazsalaca, Mazsalacas novads, LV - 4215",
+        "feature": "Point",
+        "lat": "57.860649",
+        "lon": "25.0555912"
+    },
+    {
+        "address": "Veika",
+        "feature": "Point",
+        "lat": "57.7829639",
+        "lon": "25.1153453"
+    },
+    {
+        "address": "Parka iela 2, Mazsalaca, Mazsalacas novads, LV - LV-4215",
+        "feature": "Point",
+        "lat": "57.8605372",
+        "lon": "25.054394"
+    },
+    {
+        "address": "Ropažu iela 10",
+        "feature": "Point",
+        "lat": "56.9767057",
+        "lon": "24.1656074"
+    },
+    {
+        "address": "Nagļi, Nagļu pagasts, Rēzeknes novads",
+        "feature": "Point",
+        "lat": "56.6849629",
+        "lon": "26.928374"
+    },
+    {
+        "address": "Lielā iela 106, Grobiņa, Grobiņas novads, LV-3430",
+        "feature": "Point",
+        "lat": "56.5341951",
+        "lon": "21.1773674"
+    },
+    {
+        "address": "Rēzeknes iela 9, Jēkabpils, LV-5202",
+        "feature": "Point",
+        "lat": "56.5060576",
+        "lon": "25.8951365"
+    },
+    {
+        "address": "Slimnīcas iela 11, Bauska, Bauskas novads, LV-3901",
+        "feature": "Point",
+        "lat": "56.4070054",
+        "lon": "24.1964001"
+    },
+    {
+        "address": "Skolas iela 6, Dobele, Dobeles novads, LV-3701",
+        "feature": "Point",
+        "lat": "56.6191845",
+        "lon": "23.2806659"
+    },
+    {
+        "address": "Tirgus laukums 5, Dobele, Dobeles novads, LV-3701",
+        "feature": "Point",
+        "lat": "56.6229282",
+        "lon": "23.2804087"
+    },
+    {
+        "address": "Jaunā iela 4, Stabulnieki, Stapulnieku pagasts, Riebiņu novads, LV-5333",
+        "feature": "Point",
+        "lat": "56.417156",
+        "lon": "26.7851684"
+    },
+    {
+        "address": "\"Upeskalni\", Mālupes pagasts, Alūksnes novads, LV-4358",
+        "feature": "Point",
+        "lat": "57.3250126",
+        "lon": "27.2802878"
+    },
+    {
+        "address": "\"Brenci 3\", Malienas pagasts, Alūksnes novads, LV-4359",
+        "feature": "Point",
+        "lat": "57.3617029",
+        "lon": "27.1630808"
+    },
+    {
+        "address": "\"Ēdnīca\", Annas pagasts, Alūksnes novads, LV-2150",
+        "feature": "Point",
+        "lat": "57.3358726",
+        "lon": "27.023778"
+    },
+    {
+        "address": "Imantas iela 1, Bērzaine, Bērzaines pagasts, Kocēnu novads, LV4208",
+        "feature": "Point",
+        "lat": "56.9561973",
+        "lon": "24.0274045"
+    },
+    {
+        "address": "Nākotne, Jelgavas-Dobe",
+        "feature": "Point",
+        "lat": "56.6530988",
+        "lon": "23.67666"
+    },
+    {
+        "address": "Brīvības iela 1, Viesīte, Viesītes novads, LV5237",
+        "feature": "Point",
+        "lat": "56.3492476",
+        "lon": "25.5557762"
+    },
+    {
+        "address": "Jaunā iela 4-2, Elkšņi, Elkšņu pagasts, Viesītes novads, LV-5217",
+        "feature": "Point",
+        "lat": "56.2154697",
+        "lon": "25.5764296"
+    },
+    {
+        "address": "Dārza iela 12, Zālīte, Iecavas novads, LV-3935",
+        "feature": "Point",
+        "lat": "56.6161247",
+        "lon": "24.0812749"
+    },
+    {
+        "address": "Baldones iela 28, Iecava, Iecavas pagasts, Iecavas novads, LV-3913",
+        "feature": "Point",
+        "lat": "56.5969641",
+        "lon": "24.2142873"
+    },
+    {
+        "address": "Ezermalas iela 2c, Rīga, LV-1006",
+        "feature": "Point",
+        "lat": "56.9927468",
+        "lon": "24.1923974"
+    },
+    {
+        "address": "Ezermalas iela 2c, Rīga, LV-1006",
+        "feature": "Point",
+        "lat": "56.9927468",
+        "lon": "24.1923974"
+    },
+    {
+        "address": "Celmu iela 3, Rīga, LV-1079",
+        "feature": "Point",
+        "lat": "56.9739092",
+        "lon": "24.2340833"
+    },
+    {
+        "address": "Lielā iela 29, Grobiņa, Grobiņas novads, LV-3430",
+        "feature": "Point",
+        "lat": "56.535453",
+        "lon": "21.1653539"
+    },
+    {
+        "address": "Rucava, Paurupe, Rucavas pagasts, Rucavas novads, LV-3477",
+        "feature": "Point",
+        "lat": "56.1636909",
+        "lon": "21.1594809"
+    },
+    {
+        "address": "\"Centrs\", Bārta, Bārtas pagasts, Grobiņas novads, LV-3482",
+        "feature": "Point",
+        "lat": "56.346395",
+        "lon": "21.3265449"
+    },
+    {
+        "address": "Dzintarkrasti, Saraiķi, Vērgales pagasts, Pāvilostas novads, LV-3463",
+        "feature": "Point",
+        "lat": "56.6622545",
+        "lon": "21.0731878"
+    },
+    {
+        "address": "'Ploces veikals', Ploce, Vērgales pagasts, Pāvilostas novads, LV-3463",
+        "feature": "Point",
+        "lat": "56.6816479",
+        "lon": "21.146792"
+    },
+    {
+        "address": "Vītolu 12, Grobiņa, Grobiņas novads, LV-3430",
+        "feature": "Point",
+        "lat": "56.5356065",
+        "lon": "21.187638"
+    },
+    {
+        "address": "Lielā iela 29, Grobiņa, Grobiņas novads, LV-3430",
+        "feature": "Point",
+        "lat": "56.535453",
+        "lon": "21.1653539"
+    },
+    {
+        "address": "Kapsēde, Medzes pagasts, Grobiņas novads, LV-3461",
+        "feature": "Point",
+        "lat": "56.58624",
+        "lon": "21.1391329"
+    },
+    {
+        "address": "Skolas iela 10, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7184313",
+        "lon": "24.8132001"
+    },
+    {
+        "address": "Liepu iela 21, Jaunjelgava, Jaunjelgavas novads, LV-5134",
+        "feature": "Point",
+        "lat": "56.6125492",
+        "lon": "25.0850535"
+    },
+    {
+        "address": "Parka iela 2, Eleja, Elejas pagasts, Jelgavas novads, LV-3023",
+        "feature": "Point",
+        "lat": "56.4177552",
+        "lon": "23.6984111"
+    },
+    {
+        "address": "Vidzemes iela 9, Vangaži, Inčukalna novads, LV-2136",
+        "feature": "Point",
+        "lat": "57.0909409",
+        "lon": "24.5450233"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.4042494",
+        "lon": "21.5851618"
+    },
+    {
+        "address": "'Gundegas', Mālpils, Mālpils novads, LV-2152",
+        "feature": "Point",
+        "lat": "57.0084266",
+        "lon": "24.9575207"
+    },
+    {
+        "address": "Ērgļi, Brunavas pagasts, Bauskas novads, LV-3907",
+        "feature": "Point",
+        "lat": "56.340443",
+        "lon": "24.4139549"
+    },
+    {
+        "address": "Pērnavas iela 60, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9565961",
+        "lon": "24.152696"
+    },
+    {
+        "address": "Liuža 34, Kantinieku pagasts, Rēzeknes novads, LV-4621",
+        "feature": "Point",
+        "lat": "56.565973",
+        "lon": "27.1392111"
+    },
+    {
+        "address": "\"Rudens\", Vārvers pagasts, Ventspils novads",
+        "feature": "Point",
+        "lat": "57.3733352",
+        "lon": "21.5853679"
+    },
+    {
+        "address": "Saules iela 116 - 1, Ventspils, LV-3601",
+        "feature": "Point",
+        "lat": "57.3808744",
+        "lon": "21.5525081"
+    },
+    {
+        "address": "Dārza iela 16, Lazdona, Lazdonas pagasts, Madonas novads, LV4824",
+        "feature": "Point",
+        "lat": "56.8278055",
+        "lon": "26.2448658"
+    },
+    {
+        "address": "'Strauti', Ļaudonas pagasts, Madonas novads, LV-4862",
+        "feature": "Point",
+        "lat": "56.6821165",
+        "lon": "26.1103174"
+    },
+    {
+        "address": "'Oglīši', Mētriena, Mētrienas pagasts, Madonas novads, LV-4865",
+        "feature": "Point",
+        "lat": "56.6774339",
+        "lon": "26.323204"
+    },
+    {
+        "address": "Daugavas iela 105a, Skrīveri, Skrīveru pagasts, Skrīveru novads, LV-5125",
+        "feature": "Point",
+        "lat": "56.6523739",
+        "lon": "25.122902"
+    },
+    {
+        "address": "Daugavas 105a, Skrīveri, Skrīveru pagasts, Skrīveru novads, LV-5125",
+        "feature": "Point",
+        "lat": "56.6523739",
+        "lon": "25.122902"
+    },
+    {
+        "address": "Dārzu iela 55a, Jūrmala, LV-2008",
+        "feature": "Point",
+        "lat": "56.9547168",
+        "lon": "23.7244726"
+    },
+    {
+        "address": "Dārzu iela 55a, Jūrmala, LV-2008",
+        "feature": "Point",
+        "lat": "56.9547168",
+        "lon": "23.7244726"
+    },
+    {
+        "address": "Maiņkalni, Lēdurga, Lēdurgas pagasts, Krimuldas novads, LV-4012",
+        "feature": "Point",
+        "lat": "57.3251049",
+        "lon": "24.7396311"
+    },
+    {
+        "address": "Skultes iela 15/1, Skulte, Mārupes novads, LV-2108",
+        "feature": "Point",
+        "lat": "56.9185843",
+        "lon": "23.9568498"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "55.884259",
+        "lon": "26.5658901"
+    },
+    {
+        "address": "Latgales iela 18/20, Krāslava, Krāslavas novads, LV-5601",
+        "feature": "Point",
+        "lat": "55.8951464",
+        "lon": "27.1819615"
+    },
+    {
+        "address": "Stacijas iela 48b, Daugavpils, LV- 5401",
+        "feature": "Point",
+        "lat": "55.878664",
+        "lon": "26.5221887"
+    },
+    {
+        "address": "Silenes iela 1, Daugavpils, LV-5415",
+        "feature": "Point",
+        "lat": "55.8553183",
+        "lon": "26.5434409"
+    },
+    {
+        "address": "Rīgas iela 4, Preiļi, Preiļu novads, LV -5301",
+        "feature": "Point",
+        "lat": "56.2998099",
+        "lon": "26.7064758"
+    },
+    {
+        "address": "Laukezera iela 4, Zilāni, Kūku pagasts, Krustpils novads, LV-5222",
+        "feature": "Point",
+        "lat": "56.5139686",
+        "lon": "25.9428281"
+    },
+    {
+        "address": "Laukezera iela 4, Zilāni, Kūku pagasts, Krustpils novads, LV-5222",
+        "feature": "Point",
+        "lat": "56.5139686",
+        "lon": "25.9428281"
+    },
+    {
+        "address": "Dzirnavu iela 34a, Rīga, LV-1010",
+        "feature": "Point",
+        "lat": "56.9583292",
+        "lon": "24.1127339"
+    },
+    {
+        "address": "\"Tiltiņi\", Klapkalnciems, Engures pagasts, Engures novads, LV-3117",
+        "feature": "Point",
+        "lat": "57.0788234",
+        "lon": "23.2695389"
+    },
+    {
+        "address": "Aviācijas iela 12, Tukums, Tukuma novads, LV-3101",
+        "feature": "Point",
+        "lat": "56.9562327",
+        "lon": "23.1843085"
+    },
+    {
+        "address": "Mežāres, Zaķumuiža, Ropažu novads, LV-2133",
+        "feature": "Point",
+        "lat": "56.9696902",
+        "lon": "24.4814285"
+    },
+    {
+        "address": "'Mežāres', Zaķumuiža, Ropažu novads, LV-2133",
+        "feature": "Point",
+        "lat": "56.9696902",
+        "lon": "24.4814285"
+    },
+    {
+        "address": "Skanstes iela 12,Rīga, LV1013",
+        "feature": "Point",
+        "lat": "56.9705902",
+        "lon": "24.1194584"
+    },
+    {
+        "address": "Ventspils šoseja 70, Jūrmala, LV-2011",
+        "feature": "Point",
+        "lat": "56.9310315",
+        "lon": "23.5887282"
+    },
+    {
+        "address": "Vienības prospekts 35, Jūrmala, LV-2010",
+        "feature": "Point",
+        "lat": "56.9770189",
+        "lon": "23.8610497"
+    },
+    {
+        "address": "Krustpils 77 ",
+        "feature": "Point",
+        "lat": "56.9119048",
+        "lon": "24.2084533"
+    },
+    {
+        "address": "Granita iela 31/11, Salaspils pagasts, Salaspils novads, LV-2119",
+        "feature": "Point",
+        "lat": "56.9187692",
+        "lon": "24.2926876"
+    },
+    {
+        "address": "Kalnciema ceļš 101 - 1, Jelgava, LV-3002",
+        "feature": "Point",
+        "lat": "56.6860048",
+        "lon": "23.7196783"
+    },
+    {
+        "address": "Satiksmes iela 41-1, Jelgava, LV3007",
+        "feature": "Point",
+        "lat": "56.6571844",
+        "lon": "23.7011935"
+    },
+    {
+        "address": "Satiksmes iela 59, Jelgava, LV-3007",
+        "feature": "Point",
+        "lat": "56.6587574",
+        "lon": "23.7053406"
+    },
+    {
+        "address": "Pērnavas iela 4i, Jelgava, LV-3004",
+        "feature": "Point",
+        "lat": "56.6686167",
+        "lon": "23.758116"
+    },
+    {
+        "address": "Pērnavas iela 4i, Jelgava, LV-3004",
+        "feature": "Point",
+        "lat": "56.6686167",
+        "lon": "23.758116"
+    },
+    {
+        "address": "Pērnavas iela 4j, Jelgava, LV-3004",
+        "feature": "Point",
+        "lat": "56.6686167",
+        "lon": "23.758116"
+    },
+    {
+        "address": "\"Akācijas\", Gārsene, Gārsenes pagasts, Aknīstes novads, LV-5218",
+        "feature": "Point",
+        "lat": "56.1028862",
+        "lon": "25.8082698"
+    },
+    {
+        "address": "Internātskola, Drabešu pagasts, Amatas novads, LV-4139",
+        "feature": "Point",
+        "lat": "57.194608",
+        "lon": "25.227966"
+    },
+    {
+        "address": "Ozolu iela 3, Raiskums, Raiskuma pagasts, Pārgaujas novads, LV-4146",
+        "feature": "Point",
+        "lat": "57.3136343",
+        "lon": "25.1539949"
+    },
+    {
+        "address": "Līdumnieki, Auciems, Raiskuma pagasts, Pārgaujas novads, LV-4146",
+        "feature": "Point",
+        "lat": "57.3388582",
+        "lon": "25.1439346"
+    },
+    {
+        "address": "Matīsa iela 80, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9510548",
+        "lon": "24.1458035"
+    },
+    {
+        "address": "Viršu iela 8, Gauja, Carnikavas novads, LV-2163",
+        "feature": "Point",
+        "lat": "57.1462468",
+        "lon": "24.3016891"
+    },
+    {
+        "address": "Matīsa iela 80, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9510548",
+        "lon": "24.1458035"
+    },
+    {
+        "address": "Jaunā iela 2, Mēri, Smiltenes novads, LV-4706",
+        "feature": "Point",
+        "lat": "57.4433589",
+        "lon": "26.0925857"
+    },
+    {
+        "address": "Alejas, Jaunpils, Jaunpils pagasts, Jaunpils novads, LV-3145",
+        "feature": "Point",
+        "lat": "56.7300259",
+        "lon": "23.0144899"
+    },
+    {
+        "address": "Alejas, Jaunpils, Jaunpils pagasts, Jaunpils novads, LV-3145",
+        "feature": "Point",
+        "lat": "56.7300259",
+        "lon": "23.0144899"
+    },
+    {
+        "address": "Jaunatnes iela 2, Āne, Cenu pagasts, Ozolnieku novads, LV-3043",
+        "feature": "Point",
+        "lat": "56.6480464",
+        "lon": "23.8118278"
+    },
+    {
+        "address": "Spīdolas iela 1, Liepāja, LV-3402",
+        "feature": "Point",
+        "lat": "56.5528149",
+        "lon": "21.0366949"
+    },
+    {
+        "address": "Spīdolas iela 1, Liepāja, LV-3402",
+        "feature": "Point",
+        "lat": "56.5528149",
+        "lon": "21.0366949"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.6962754",
+        "lon": "25.2748722"
+    },
+    {
+        "address": "Krasti, Burtnieku pagasts, Burtnieku novads, LV-4206",
+        "feature": "Point",
+        "lat": "57.6913101",
+        "lon": "25.2611733"
+    },
+    {
+        "address": "Veikals Straume, Endzele, Jeru pagasts, Rūjienas novads, LV4234",
+        "feature": "Point",
+        "lat": "57.8258192",
+        "lon": "25.3140487"
+    },
+    {
+        "address": "Valdemāra iela 27, Rūjiena, Rūjienas novads, LV-4240",
+        "feature": "Point",
+        "lat": "57.8890784",
+        "lon": "25.3271641"
+    },
+    {
+        "address": "Sēļu muiža, Sēļi, Sēļu pagasts, Mazsalacas novads, LV4213",
+        "feature": "Point",
+        "lat": "57.851219",
+        "lon": "25.2122533"
+    },
+    {
+        "address": "Gaismas, Vilpulka, Vilpulkas pagasts, Rūjienas novads, LV-4241",
+        "feature": "Point",
+        "lat": "57.9617729",
+        "lon": "25.2325198"
+    },
+    {
+        "address": "\"Sprīdītis\", Jeru pagasts, Rūjienas novads, LV-4234",
+        "feature": "Point",
+        "lat": "57.8258192",
+        "lon": "25.3140487"
+    },
+    {
+        "address": "\"Ziediņi\", Olaines pagasts, Olaines novads, LV-2127",
+        "feature": "Point",
+        "lat": "56.7952353",
+        "lon": "24.0153589"
+    },
+    {
+        "address": "'Pienava', Džūkstes pagasts, Tukuma novads, LV-3147",
+        "feature": "Point",
+        "lat": "56.740851",
+        "lon": "23.2535739"
+    },
+    {
+        "address": "Gaismas iela 4, Olaines pagasts, Olaines novads, LV-2127",
+        "feature": "Point",
+        "lat": "56.8543754",
+        "lon": "24.0504222"
+    },
+    {
+        "address": "Dižie, Priekules pagasts, Priekules novads, LV 3434",
+        "feature": "Point",
+        "lat": "56.4586132",
+        "lon": "21.585232"
+    },
+    {
+        "address": "Rīgas - Liep",
+        "feature": "Point",
+        "lat": "56.5888361",
+        "lon": "21.4274785"
+    },
+    {
+        "address": "Liepājas iela 30, Aizpute, Aizputes novads, LV-3456",
+        "feature": "Point",
+        "lat": "56.7189858",
+        "lon": "21.5882381"
+    },
+    {
+        "address": "Brīvības iela 45a, Vaiņode, Vaiņodes pagasts, Vaiņodes novads, LV-3435",
+        "feature": "Point",
+        "lat": "56.4219944",
+        "lon": "21.8722279"
+    },
+    {
+        "address": "'Mazieviņas', Kalētu pagasts, Priekules novads, LV-3484",
+        "feature": "Point",
+        "lat": "56.3366127",
+        "lon": "21.4807983"
+    },
+    {
+        "address": "Ģenerāļa Baloža iela 33, Liepāja, LV-3414",
+        "feature": "Point",
+        "lat": "56.5529404",
+        "lon": "21.0289784"
+    },
+    {
+        "address": "Priežu iela 16, Gardene, Auru pagasts, Dobeles novads, LV-3701",
+        "feature": "Point",
+        "lat": "56.6484489",
+        "lon": "23.2213642"
+    },
+    {
+        "address": "\"Vidaga\", Vidaga, Virešu pagasts, Apes novads, LV-4355",
+        "feature": "Point",
+        "lat": "57.4250619",
+        "lon": "26.351627"
+    },
+    {
+        "address": "Valma, Loja, Sējas novads, LV-2142",
+        "feature": "Point",
+        "lat": "57.1538809",
+        "lon": "24.643328"
+    },
+    {
+        "address": "Rūpnīcas iela 1, Liepa, Liepas pagasts, Priekuļu novads, LV-4128",
+        "feature": "Point",
+        "lat": "57.3894133",
+        "lon": "25.4192127"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.3873968",
+        "lon": "25.4227615"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.3144841",
+        "lon": "25.2920768"
+    },
+    {
+        "address": "Lenču iela 36, Cēsis, Cēsu novads, LV-4101",
+        "feature": "Point",
+        "lat": "57.3191095",
+        "lon": "25.2667693"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.314417",
+        "lon": "25.2939522"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.3145724",
+        "lon": "25.2932964"
+    },
+    {
+        "address": "Gaujas iela 56a, Cēsis, Cēsu novads, LV-4101",
+        "feature": "Point",
+        "lat": "57.3093526",
+        "lon": "25.2485707"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.3047262",
+        "lon": "25.2786977"
+    },
+    {
+        "address": "Smilgas - 10, Korneti, Veclaicenes pagasts, Alūksnes novads, LV-4335",
+        "feature": "Point",
+        "lat": "57.5911465",
+        "lon": "26.9445264"
+    },
+    {
+        "address": "Vēverkalni, Gravas, Vidrižu pagasts, Limbažu novads, LV-4013",
+        "feature": "Point",
+        "lat": "57.3287279",
+        "lon": "24.6400274"
+    },
+    {
+        "address": "Lindes 4, Birzgale, Birzgales pagasts, Ķeguma novads, LV-5033",
+        "feature": "Point",
+        "lat": "56.6322021",
+        "lon": "24.7568645"
+    },
+    {
+        "address": "Lāčplēša 21, Aizkraukle, Aizkraukles novads, LV-5101",
+        "feature": "Point",
+        "lat": "56.6000113",
+        "lon": "25.2608326"
+    },
+    {
+        "address": "Lāčplēša 1a, Aizkraukle, Aizkraukles novads, LV-5101",
+        "feature": "Point",
+        "lat": "56.6009891",
+        "lon": "25.2533618"
+    },
+    {
+        "address": "Mazcenu aleja 37a, Jaunmārupe, Mārupes novads, LV-2166",
+        "feature": "Point",
+        "lat": "56.882261",
+        "lon": "23.9365083"
+    },
+    {
+        "address": "Mazcenu aleja 6, Jaunmārupe, Mārupes novads, LV-2166",
+        "feature": "Point",
+        "lat": "56.8799328",
+        "lon": "23.9466555"
+    },
+    {
+        "address": "Valdeķu iela 1, Rīga, LV-1004",
+        "feature": "Point",
+        "lat": "56.9185119",
+        "lon": "24.0934781"
+    },
+    {
+        "address": "Krustpils iela 117, Rīga, LV-1057",
+        "feature": "Point",
+        "lat": "56.9063863",
+        "lon": "24.21527"
+    },
+    {
+        "address": "Abrenes iela 7, Viļaka, Viļakas novads, LV-4583",
+        "feature": "Point",
+        "lat": "57.1827007",
+        "lon": "27.6772654"
+    },
+    {
+        "address": "Kārsavas iela 4, Baltinava, Baltinavas novads, LV-4594",
+        "feature": "Point",
+        "lat": "56.9462775",
+        "lon": "27.6440291"
+    },
+    {
+        "address": "Lemešu iela 20, Rīga, LV-1016",
+        "feature": "Point",
+        "lat": "57.0326901",
+        "lon": "24.0511248"
+    },
+    {
+        "address": "Lilijas iela 9, Rīga, LV-1007",
+        "feature": "Point",
+        "lat": "56.9642548",
+        "lon": "24.0679207"
+    },
+    {
+        "address": "Platā iela 9a, Rīga, LV-1016",
+        "feature": "Point",
+        "lat": "57.0267398",
+        "lon": "24.0417668"
+    },
+    {
+        "address": "Asariņas - 19, Vidriži, Vidrižu pagasts, Limbažu novads, LV-4013",
+        "feature": "Point",
+        "lat": "57.3392289",
+        "lon": "24.6548209"
+    },
+    {
+        "address": "Jelga",
+        "feature": "Point",
+        "lat": "56.6456562",
+        "lon": "23.7090371"
+    },
+    {
+        "address": "Lielā iela 49, Jelgava, LV-3001",
+        "feature": "Point",
+        "lat": "56.6509481",
+        "lon": "23.7044069"
+    },
+    {
+        "address": "Dobeles šoseja 7, Jelgava, LV-3001",
+        "feature": "Point",
+        "lat": "56.6545505",
+        "lon": "23.7216344"
+    },
+    {
+        "address": "Lielā iela 49, Jelgava, LV-3001",
+        "feature": "Point",
+        "lat": "56.6509481",
+        "lon": "23.7044069"
+    },
+    {
+        "address": "Jūras iela 12, Aloja, Alojas novads, LV-4064",
+        "feature": "Point",
+        "lat": "57.7669054",
+        "lon": "24.8844005"
+    },
+    {
+        "address": "Siguldas iela 6E, Daugavpils, LV-5404",
+        "feature": "Point",
+        "lat": "55.8697835",
+        "lon": "26.5487889"
+    },
+    {
+        "address": "Meža iela 4, Krauja, Naujenes pagasts, Daugavpils novads, LV-5451",
+        "feature": "Point",
+        "lat": "55.9070192",
+        "lon": "26.6498182"
+    },
+    {
+        "address": "Valtaiķu tautas nams, Laidu pagasts, Kuldīgas novads",
+        "feature": "Point",
+        "lat": "56.6977157",
+        "lon": "21.8006105"
+    },
+    {
+        "address": "Kraujas, Ķikuri, Turlavas pagasts, Kuldīgas novads, LV-3329",
+        "feature": "Point",
+        "lat": "56.7999409",
+        "lon": "21.668108"
+    },
+    {
+        "address": "Zvaigžņu iela 2, Aizpute, Aizputes novads, LV-3456",
+        "feature": "Point",
+        "lat": "56.7190047",
+        "lon": "21.6073235"
+    },
+    {
+        "address": "Atmodas iela 26, Aizpute, Aizputes novads, LV-3456",
+        "feature": "Point",
+        "lat": "56.7181965",
+        "lon": "21.6050495"
+    },
+    {
+        "address": "Valkas iela 2v, Daugavpils, LV-5417",
+        "feature": "Point",
+        "lat": "55.8801849",
+        "lon": "26.5647096"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "55.8801685",
+        "lon": "26.5298975"
+    },
+    {
+        "address": "Stāvā iela 21, Daugavpils, LV-5422",
+        "feature": "Point",
+        "lat": "55.9051888",
+        "lon": "26.5255726"
+    },
+    {
+        "address": "Cialkovska iela 10a, Daugavpils, LV-5410",
+        "feature": "Point",
+        "lat": "55.8911852",
+        "lon": "26.5660753"
+    },
+    {
+        "address": "Lielā iela 8a, Daugavpils, LV-5418",
+        "feature": "Point",
+        "lat": "55.8697379",
+        "lon": "26.4985229"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "55.8798061",
+        "lon": "26.555698"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "55.8979056",
+        "lon": "26.6102413"
+    },
+    {
+        "address": "Valkas iela 2v, Daugavpils, LV-5417",
+        "feature": "Point",
+        "lat": "55.8801849",
+        "lon": "26.5647096"
+    },
+    {
+        "address": "Sēlijas iela 163, Daugavpils, LV-5415",
+        "feature": "Point",
+        "lat": "55.8576268",
+        "lon": "26.53508"
+    },
+    {
+        "address": "Daugavpils iela 14, Šķeltova, Šķeltovas pagasts, Aglonas novads, LV-5653",
+        "feature": "Point",
+        "lat": "56.0236619",
+        "lon": "27.010513"
+    },
+    {
+        "address": "Ventspils iela 4a, Daugavpils, LV-5404",
+        "feature": "Point",
+        "lat": "55.8715019",
+        "lon": "26.55057"
+    },
+    {
+        "address": "Šūņu iela 7, Daugavpils, LV-5421",
+        "feature": "Point",
+        "lat": "55.8996527",
+        "lon": "26.5181917"
+    },
+    {
+        "address": "Vidzemes iela 41, Daugavpils, LV-5422",
+        "feature": "Point",
+        "lat": "55.9029847",
+        "lon": "26.5134797"
+    },
+    {
+        "address": "Sēlijas iela 80, Daugavpils, LV-5415",
+        "feature": "Point",
+        "lat": "55.8606133",
+        "lon": "26.5199675"
+    },
+    {
+        "address": "Vaikuļāni, Līksnas pagasts, Daugavpils novads, LV-5456",
+        "feature": "Point",
+        "lat": "56.0026949",
+        "lon": "26.3908579"
+    },
+    {
+        "address": "Vienības iela 36 - 110, Daugavpils, LV-5401",
+        "feature": "Point",
+        "lat": "55.8751174",
+        "lon": "26.5123336"
+    },
+    {
+        "address": "Transporta 33, Daugavpils, LV-5412",
+        "feature": "Point",
+        "lat": "55.8543413",
+        "lon": "26.4916748"
+    },
+    {
+        "address": "Parka iela 1, Barkava, Barkavas pagasts, Madonas novads, LV-4834",
+        "feature": "Point",
+        "lat": "56.7258855",
+        "lon": "26.6102923"
+    },
+    {
+        "address": "Aglonas iela 5, Preiļi, Preiļu novads, LV-5301",
+        "feature": "Point",
+        "lat": "56.2931818",
+        "lon": "26.7271165"
+    },
+    {
+        "address": "Somersetas iela 14, Aglona, Aglonas pagasts, Aglonas novads, LV-5304",
+        "feature": "Point",
+        "lat": "56.132993",
+        "lon": "27.0047026"
+    },
+    {
+        "address": "Celtnieku 2, Preiļi, Preiļu novads, LV-5301",
+        "feature": "Point",
+        "lat": "56.2987657",
+        "lon": "26.7166428"
+    },
+    {
+        "address": "Ceriņu iela 3, Jumprava, Jumpravas pagasts, Lielvārdes novads, LV-5022",
+        "feature": "Point",
+        "lat": "56.675388",
+        "lon": "24.9734696"
+    },
+    {
+        "address": "Ceriņu iela 3, Jumprava, Jumpravas pagasts, Lielvārdes novads, LV-5022",
+        "feature": "Point",
+        "lat": "56.675388",
+        "lon": "24.9734696"
+    },
+    {
+        "address": "Kultūras iela 15, Zilaiskalns, Zilākalna pagasts, Kocēnu novads, LV-4222",
+        "feature": "Point",
+        "lat": "57.5578956",
+        "lon": "25.2069544"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "56.6104566",
+        "lon": "26.7515902"
+    },
+    {
+        "address": "Rīgas iela 2, Cesvaine, Cesvaines novads, LV-4871",
+        "feature": "Point",
+        "lat": "56.9687288",
+        "lon": "26.3062017"
+    },
+    {
+        "address": "Liepājas tirgus, Kuršu iela 7/9, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5043833",
+        "lon": "21.0101814"
+    },
+    {
+        "address": "Rīgas iela 38, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5198055",
+        "lon": "21.0163679"
+    },
+    {
+        "address": "Skolas iela 6, Nīca, Nīcas pagasts, Nīcas novads, LV-3473",
+        "feature": "Point",
+        "lat": "56.3460128",
+        "lon": "21.0663338"
+    },
+    {
+        "address": "Skolas iela 6, Nīca, Nīcas pagasts, Nīcas novads, LV-3473",
+        "feature": "Point",
+        "lat": "56.3460128",
+        "lon": "21.0663338"
+    },
+    {
+        "address": "Rasas, Madlienas pagasts, Ogres novads, LV-5045",
+        "feature": "Point",
+        "lat": "56.8275396",
+        "lon": "25.2317181"
+    },
+    {
+        "address": "Rasas, Madlienas pagasts, Ogres novads, LV-5045",
+        "feature": "Point",
+        "lat": "56.8275396",
+        "lon": "25.2317181"
+    },
+    {
+        "address": "Selgas 14c, Roja, Rojas pagasts, Rojas novads, LV-3264",
+        "feature": "Point",
+        "lat": "57.5042131",
+        "lon": "22.8066176"
+    },
+    {
+        "address": "Selgas 14d, Roja, Rojas pagasts, Rojas novads, LV-3264",
+        "feature": "Point",
+        "lat": "57.5042131",
+        "lon": "22.8066176"
+    },
+    {
+        "address": "Riesti, Rude, Rojas pagasts, Rojas novads, LV-3264",
+        "feature": "Point",
+        "lat": "57.4909178",
+        "lon": "22.7277114"
+    },
+    {
+        "address": "Ēdnīca, Remtes pagasts, Brocēnu novads, LV-3871",
+        "feature": "Point",
+        "lat": "56.7617896",
+        "lon": "22.7421631"
+    },
+    {
+        "address": "Skrundas iela 14, Saldus, Saldus novads, LV-3801",
+        "feature": "Point",
+        "lat": "56.6612423",
+        "lon": "22.4841246"
+    },
+    {
+        "address": "'Kalni', Nīgrandes pagasts, Saldus novads, LV-3898",
+        "feature": "Point",
+        "lat": "56.4440468",
+        "lon": "22.1268907"
+    },
+    {
+        "address": "Dzirnavu iela 22, Saldus, Saldus novads, LV-3801",
+        "feature": "Point",
+        "lat": "56.6582527",
+        "lon": "22.4769683"
+    },
+    {
+        "address": "Viestura iela 15, Daugavpils, LV-5401",
+        "feature": "Point",
+        "lat": "55.8691362",
+        "lon": "26.5265744"
+    },
+    {
+        "address": "Viršu iela 9/11, Liepāja, LV-3402",
+        "feature": "Point",
+        "lat": "56.5559225",
+        "lon": "21.0405738"
+    },
+    {
+        "address": "Pulkveža Brieža iela 16-3, Liepāja, LV-3414",
+        "feature": "Point",
+        "lat": "56.5539372",
+        "lon": "21.0165753"
+    },
+    {
+        "address": "Saules iela 3a, Aizpute, Aizputes novads, LV-3456",
+        "feature": "Point",
+        "lat": "56.724031",
+        "lon": "21.5979469"
+    },
+    {
+        "address": "Daigones iela 16, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0343601",
+        "lon": "22.7951315"
+    },
+    {
+        "address": "Daigones iela 14, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0339184",
+        "lon": "22.7957642"
+    },
+    {
+        "address": "Valteru iela 6, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0360311",
+        "lon": "22.7959432"
+    },
+    {
+        "address": "Talsu iela 18, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0389762",
+        "lon": "22.7730448"
+    },
+    {
+        "address": "Ozolu iela 5, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0329204",
+        "lon": "22.7734696"
+    },
+    {
+        "address": "Rūjas, Kandava, Kandavas novads, LV-3120",
+        "feature": "Point",
+        "lat": "57.0433945",
+        "lon": "22.7700176"
+    },
+    {
+        "address": "Lielcieceres 15, Brocēni, Brocēnu novads, LV-3851",
+        "feature": "Point",
+        "lat": "56.6794819",
+        "lon": "22.5694259"
+    },
+    {
+        "address": "Valdmaņa iela 7, Novadnieku pagasts, Saldus novads, LV-3801",
+        "feature": "Point",
+        "lat": "56.6366644",
+        "lon": "22.4706432"
+    },
+    {
+        "address": "Miera iela 8, Jelgava, LV-3001",
+        "feature": "Point",
+        "lat": "56.6300193",
+        "lon": "23.7437137"
+    },
+    {
+        "address": "Vidzemes šoseja 13, Garkalne, Garkalnes novads, LV-2137",
+        "feature": "Point",
+        "lat": "57.0451755",
+        "lon": "24.4153482"
+    },
+    {
+        "address": "Rūpniecības iela 38, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5298972",
+        "lon": "25.4220594"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.536084",
+        "lon": "25.4186751"
+    },
+    {
+        "address": "Palejas iela 5, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5422181",
+        "lon": "25.4314801"
+    },
+    {
+        "address": "Smiltenes iela 10, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5266186",
+        "lon": "25.4396698"
+    },
+    {
+        "address": "Rūpniecības iela 29, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5293606",
+        "lon": "25.4212727"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "57.5396544",
+        "lon": "25.416628"
+    },
+    {
+        "address": "Pārgaujas iela 11a, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5346386",
+        "lon": "25.4296297"
+    },
+    {
+        "address": "Rūpniecības 16a, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5256183",
+        "lon": "25.4296774"
+    },
+    {
+        "address": "Rubenes iela 38, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5458266",
+        "lon": "25.4192062"
+    },
+    {
+        "address": "Beātes iela 42, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5444044",
+        "lon": "25.4023764"
+    },
+    {
+        "address": "Jumaras iela 9, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5224967",
+        "lon": "25.3919362"
+    },
+    {
+        "address": "Jaunpīlādži, Kaļķi, Dundagas pagasts, Dundagas novads, LV-3270",
+        "feature": "Point",
+        "lat": "57.547781",
+        "lon": "22.4587499"
+    },
+    {
+        "address": "Mazirbes veikals, Mazirbe, Kolkas pagasts, Dundagas novads, LV-3275",
+        "feature": "Point",
+        "lat": "57.6813481",
+        "lon": "22.3179038"
+    },
+    {
+        "address": "Daugavas iela 98, Skrīveri, Skrīveru novads, LV-5125",
+        "feature": "Point",
+        "lat": "56.6491583",
+        "lon": "25.1207684"
+    },
+    {
+        "address": "Daugavas iela 100, Skrīveri, Skrīveru novads, LV-5125",
+        "feature": "Point",
+        "lat": "56.6493627",
+        "lon": "25.1209598"
+    },
+    {
+        "address": "Jelgavas iela 21, Jaunjelgava, Jaunjelgavas novads, LV-5134",
+        "feature": "Point",
+        "lat": "56.6167852",
+        "lon": "25.0808467"
+    },
+    {
+        "address": "Maskavas iela 79, Rīga, LV-1003",
+        "feature": "Point",
+        "lat": "56.939843",
+        "lon": "24.1376429"
+    },
+    {
+        "address": "''Stūri'', Daugmales pagasts, Ķekavas novads,  LV-2124",
+        "feature": "Point",
+        "lat": "56.8163523",
+        "lon": "24.4351265"
+    },
+    {
+        "address": "Ezera iela 6 - 1, Radopole, Viļānu pagasts, Viļānu novads, LV-4650",
+        "feature": "Point",
+        "lat": "56.5193504",
+        "lon": "26.9036924"
+    },
+    {
+        "address": "Rīgas iela 36, Viļāni, Viļānu novads, LV-4650",
+        "feature": "Point",
+        "lat": "56.5583559",
+        "lon": "26.9254637"
+    },
+    {
+        "address": "Raiņa iela 10, Viļāni, Viļānu novads, LV-4650",
+        "feature": "Point",
+        "lat": "56.5457108",
+        "lon": "26.9256791"
+    },
+    {
+        "address": "Brīvības iela 13, Viļāni, Viļānu novads, LV-4650",
+        "feature": "Point",
+        "lat": "56.5481211",
+        "lon": "26.9238571"
+    },
+    {
+        "address": "Rīgas iela 5, Lejasciems, Lejasciema pagasts, Gulbenes novads, LV-4412",
+        "feature": "Point",
+        "lat": "57.2821039",
+        "lon": "26.5790027"
+    },
+    {
+        "address": "Rīgas iela 23a, Lejasciems, Lejasciema pagasts, Gulbenes novads, LV-4412",
+        "feature": "Point",
+        "lat": "57.2793159",
+        "lon": "26.5763374"
+    },
+    {
+        "address": "Ēdnīca, Inciems, Krimuldas pagasts, Krimuldas novads, LV-2145",
+        "feature": "Point",
+        "lat": "57.2581124",
+        "lon": "24.8768794"
+    },
+    {
+        "address": "Tērbatas iela 2d, Rīga, LV1050",
+        "feature": "Point",
+        "lat": "56.952217",
+        "lon": "24.1193352"
+    },
+    {
+        "address": "'Saulkalnes', Saulkalne, Salaspils pagasts, Salaspils novads, LV-2117",
+        "feature": "Point",
+        "lat": "56.8449209",
+        "lon": "24.417245"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "56.9557867",
+        "lon": "24.1129476"
+    },
+    {
+        "address": "Radio iela - kanālmala, RIga, LV-1050",
+        "feature": "Point",
+        "lat": "56.948067",
+        "lon": "24.1165331"
+    },
+    {
+        "address": "Stabu iela 90, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9502607",
+        "lon": "24.1406306"
+    },
+    {
+        "address": "Matīsa iela 111, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9500658",
+        "lon": "24.1487385"
+    },
+    {
+        "address": "Stabu iela 90, Rīga, LV-1009",
+        "feature": "Point",
+        "lat": "56.9502607",
+        "lon": "24.1406306"
+    },
+    {
+        "address": "Valmieras iela 12, Matīši, Matīšu pagasts, Burtnieku novads, LV-4210",
+        "feature": "Point",
+        "lat": "57.6994603",
+        "lon": "25.1594598"
+    },
+    {
+        "address": "Baznīcas iela 19, Mazsalaca, Mazsalacas novads, LV-4215",
+        "feature": "Point",
+        "lat": "57.8587353",
+        "lon": "25.0604252"
+    },
+    {
+        "address": "Braslas iela 1, Straupe, Straupes pagasts, Pārgaujas novads, LV-4152",
+        "feature": "Point",
+        "lat": "57.3554409",
+        "lon": "24.9510792"
+    },
+    {
+        "address": "Līči, Stalbe, Stalbes pagasts, Pārgaujas novads, LV-4151",
+        "feature": "Point",
+        "lat": "57.371049",
+        "lon": "25.0328153"
+    },
+    {
+        "address": "Skolas iela 2, Vaidava, Vaidavas pagasts, Kocēnu novads, LV-4201",
+        "feature": "Point",
+        "lat": "57.4295609",
+        "lon": "25.2863828"
+    },
+    {
+        "address": "Liedaga iela 11, Tūja, Liepupes pagasts, Salacgrīvas novads, LV-4022",
+        "feature": "Point",
+        "lat": "57.4906191",
+        "lon": "24.3882493"
+    },
+    {
+        "address": "Rīgas iela 30, Vecumnieki, Vecumnieku pagasts, Vecumnieku novads, LV-3933",
+        "feature": "Point",
+        "lat": "56.605748",
+        "lon": "24.523328"
+    },
+    {
+        "address": "Rīgas iela 24b, Vecumnieki, Vecumnieku pagasts, Vecumnieku novads, LV-3933",
+        "feature": "Point",
+        "lat": "56.6062996",
+        "lon": "24.5211512"
+    },
+    {
+        "address": "Dārza iela 9, Lizums, Lizuma pagasts, Gulbenes novads, LV-4425",
+        "feature": "Point",
+        "lat": "57.189799",
+        "lon": "26.3650466"
+    },
+    {
+        "address": "Ievulīči, Naukšēnu pagasts, Naukšēnu novads, LV-4244",
+        "feature": "Point",
+        "lat": "57.8836767",
+        "lon": "25.453051"
+    },
+    {
+        "address": "Pēteri, Nītaures pagasts, Amatas novads, LV-4112",
+        "feature": "Point",
+        "lat": "57.0728308",
+        "lon": "25.185256"
+    },
+    {
+        "address": "Pīlēns, Nītaure, Nītaures pagasts, Amatas novads, LV-4112",
+        "feature": "Point",
+        "lat": "57.0696744",
+        "lon": "25.191551"
+    },
+    {
+        "address": "'Vecā skola', Džūkste, Džūkstes pagasts, Tukuma novads, LV-3147",
+        "feature": "Point",
+        "lat": "56.79427",
+        "lon": "23.2461772"
+    },
+    {
+        "address": "'Sāti', Irlavas pagasts, Tukuma novads, LV-3137",
+        "feature": "Point",
+        "lat": "56.9089059",
+        "lon": "22.9680088"
+    },
+    {
+        "address": "Vērdiņi, Irlava, Irlavas pagasts, Tukuma novads, LV-3137",
+        "feature": "Point",
+        "lat": "56.8749466",
+        "lon": "22.9928016"
+    },
+    {
+        "address": "Pasta māja, Zemīte, Zemītes pagasts, Kandavas novads, LV-3135",
+        "feature": "Point",
+        "lat": "56.9286159",
+        "lon": "22.7914031"
+    },
+    {
+        "address": "'Abavas', Pūre, Pūres pagasts, Tukuma novads, LV-3124",
+        "feature": "Point",
+        "lat": "57.0344777",
+        "lon": "22.909083"
+    },
+    {
+        "address": "Grenči, Zemītes pagasts, Kandavas novads, LV-3135",
+        "feature": "Point",
+        "lat": "56.898126",
+        "lon": "22.8745269"
+    },
+    {
+        "address": "Lielā iela 8, Tukums, Tukuma novads, LV-3101",
+        "feature": "Point",
+        "lat": "56.9645434",
+        "lon": "23.1519575"
+    },
+    {
+        "address": "Tautas nams, Jūrkalne, Jūrkalnes pagasts, Ventspils novads, LV-3626",
+        "feature": "Point",
+        "lat": "57.0074477",
+        "lon": "21.3907611"
+    },
+    {
+        "address": "Skolas iela 3, Alsunga, Alsungas novads, LV-3306",
+        "feature": "Point",
+        "lat": "56.9794059",
+        "lon": "21.5699819"
+    },
+    {
+        "address": "Priedes, Ieriķi, Drabešu pagasts, Amatas novads, LV-4139",
+        "feature": "Point",
+        "lat": "57.2085079",
+        "lon": "25.170844"
+    },
+    {
+        "address": "Pļavas, Turlavas pagasts, Kuldīgas novads, LV-3329",
+        "feature": "Point",
+        "lat": "56.8166745",
+        "lon": "21.754693"
+    },
+    {
+        "address": "Partizāņu 47, Balvi, Balvu novads, LV-4501",
+        "feature": "Point",
+        "lat": "57.1257693",
+        "lon": "27.2607327"
+    },
+    {
+        "address": "Partizāņu 47, Balvi, Balvu novads, LV-4501",
+        "feature": "Point",
+        "lat": "57.1257693",
+        "lon": "27.2607327"
+    },
+    {
+        "address": "Vidzemes iela 7g, Balvi, Balvu novads, LV-4501",
+        "feature": "Point",
+        "lat": "57.1382984",
+        "lon": "27.2483416"
+    },
+    {
+        "address": "Ezera iela 34, Balvi, Balvu novads, LV-4501",
+        "feature": "Point",
+        "lat": "57.1329282",
+        "lon": "27.279545"
+    },
+    {
+        "address": "Brīvības iela 94, Ogre, Ogres novads, LV-5001",
+        "feature": "Point",
+        "lat": "56.8123766",
+        "lon": "24.6355815"
+    },
+    {
+        "address": "Georga Apiņa iela 33, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5449055",
+        "lon": "25.4138243"
+    },
+    {
+        "address": "Nolik",
+        "feature": "Point",
+        "lat": "57.5278468",
+        "lon": "25.3967304"
+    },
+    {
+        "address": "Ausekļa iela 32, Valmiera, LV-4101",
+        "feature": "Point",
+        "lat": "57.5278468",
+        "lon": "25.3967304"
+    },
+    {
+        "address": "Tērbatas iela 43, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5481178",
+        "lon": "25.433299"
+    },
+    {
+        "address": "Rīgas iela 24, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5379376",
+        "lon": "25.4157948"
+    },
+    {
+        "address": "Stacijas iela 44, Valmiera, LV-4201",
+        "feature": "Point",
+        "lat": "57.5233517",
+        "lon": "25.438606"
+    },
+    {
+        "address": "Saules iela 3a, Aizpute, Aizputes novads, LV-3456",
+        "feature": "Point",
+        "lat": "56.724031",
+        "lon": "21.5979469"
+    },
+    {
+        "address": "Krogs pie Viktora, Lone, Saukas pagasts, Viesītes novads, LV-5224",
+        "feature": "Point",
+        "lat": "56.277328",
+        "lon": "25.403459"
+    },
+    {
+        "address": "Autoveikals N",
+        "feature": "Point",
+        "lat": "56.277328",
+        "lon": "25.403459"
+    },
+    {
+        "address": "Dagmāras iela 4, Rīga, LV-1007",
+        "feature": "Point",
+        "lat": "56.9602858",
+        "lon": "24.0596931"
+    },
+    {
+        "address": "Struktoru iela 4b, Rīga, LV-1039",
+        "feature": "Point",
+        "lat": "56.9735435",
+        "lon": "24.1728503"
+    },
+    {
+        "address": "Brīvības iela 117, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5313525",
+        "lon": "21.0404981"
+    },
+    {
+        "address": "Vītolu iela 2, Vecvārkava, Vārkavas novads, LV-5335",
+        "feature": "Point",
+        "lat": "56.1998081",
+        "lon": "26.5002669"
+    },
+    {
+        "address": "Grīzupes iela 91, Liepāja, LV-3414",
+        "feature": "Point",
+        "lat": "56.5533917",
+        "lon": "21.0912596"
+    },
+    {
+        "address": "Roņu iela 5, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5137899",
+        "lon": "20.9960814"
+    },
+    {
+        "address": "Liepu iela 5-1, Rītausmas, Bauskas novads, LV-3901",
+        "feature": "Point",
+        "lat": "56.3817416",
+        "lon": "24.1732967"
+    },
+    {
+        "address": "Skolas iela 3, Valdemārpils, Talsu novads, LV-3260",
+        "feature": "Point",
+        "lat": "57.3738175",
+        "lon": "22.594919"
+    },
+    {
+        "address": "Skolas iela 2, Staģene, Jelgavas novads, LV-3031",
+        "feature": "Point",
+        "lat": "56.6442418",
+        "lon": "23.7149954"
+    },
+    {
+        "address": "Ventspils iela 17a, Sabile, Talsu novads, LV-3294",
+        "feature": "Point",
+        "lat": "57.0482151",
+        "lon": "22.5689234"
+    },
+    {
+        "address": "Zemītes pamatskola, Zemīte, Kandavas novads, LV-3135",
+        "feature": "Point",
+        "lat": "56.9276218",
+        "lon": "22.795293"
+    },
+    {
+        "address": "Bērzu iela 54, Ventspils, LV-3601",
+        "feature": "Point",
+        "lat": "57.3877017",
+        "lon": "21.5500726"
+    },
+    {
+        "address": "Ulbrokas iela 4, Rīga, LV-1024",
+        "feature": "Point",
+        "lat": "56.9406838",
+        "lon": "24.2174874"
+    },
+    {
+        "address": "Brīvības iela 188k-2, Rīga, LV-1084",
+        "feature": "Point",
+        "lat": "56.967284",
+        "lon": "24.1488459"
+    },
+    {
+        "address": "Raiņa iela 39a, Jūrmala, LV-2015",
+        "feature": "Point",
+        "lat": "56.9494996",
+        "lon": "23.6130371"
+    },
+    {
+        "address": "Jaunā muiža 4-13, Jaunā muiža, Krustpils novads, LV-5222",
+        "feature": "Point",
+        "lat": "56.5244059",
+        "lon": "25.973327"
+    },
+    {
+        "address": "Raiņa iela 28, Liepāja, LV-3401",
+        "feature": "Point",
+        "lat": "56.5180792",
+        "lon": "21.0107572"
+    },
+    {
+        "address": "Žubītes, Rubeņi, Jēkabpils novads, LV-5229",
+        "feature": "Point",
+        "lat": "56.130368",
+        "lon": "25.9911031"
+    },
+    {
+        "address": "Talsu iela 8, Ventspils, LV-3604",
+        "feature": "Point",
+        "lat": "57.4020609",
+        "lon": "21.5854101"
+    },
+    {
+        "address": "Vīganti, Daugavpils novads, LV-5481",
+        "feature": "Point",
+        "lat": "56.109893",
+        "lon": "26.8310659"
+    },
+    {
+        "address": "Vidzemes iela 136a, Daugavpils, LV-5422",
+        "feature": "Point",
+        "lat": "55.9080893",
+        "lon": "26.5121495"
+    },
+    {
+        "address": "Tartu iela 15b, Daugavpils, LV-5422",
+        "feature": "Point",
+        "lat": "55.9020258",
+        "lon": "26.5304174"
+    },
+    {
+        "address": "Grodņas iela 49, Daugavpils, LV-5481",
+        "feature": "Point",
+        "lat": "55.8803028",
+        "lon": "26.5459062"
+    },
+    {
+        "address": "",
+        "feature": "Point",
+        "lat": "56.4978624",
+        "lon": "21.006421"
+    },
+    {
+        "address": "Raiņa iela 13, Krāslava, Krāslavas novads, LV-5601",
+        "feature": "Point",
+        "lat": "55.89892",
+        "lon": "27.1726539"
+    },
+    {
+        "address": "Hanzas iela 1, Koknese, Kokneses pagasts, Kokneses novads, LV-5113",
+        "feature": "Point",
+        "lat": "56.650204",
+        "lon": "25.4392512"
+    },
+    {
+        "address": "Bormaņi, Kokneses pagasts, Kokneses novads, LV-5105",
+        "feature": "Point",
+        "lat": "56.676594",
+        "lon": "25.4841738"
+    },
+    {
+        "address": "Rīgas iela 6, Strenči, Strenču novads, LV-4730",
+        "feature": "Point",
+        "lat": "57.6276705",
+        "lon": "25.6839193"
+    },
+    {
+        "address": "Ausekļa iela 32, Valmiera, LV-4101",
+        "feature": "Point",
+        "lat": "57.5278468",
+        "lon": "25.3967304"
+    },
+    {
+        "address": "Grizupes iela 24a, Liepāja, LV-3414",
+        "feature": "Point",
+        "lat": "56.5435987",
+        "lon": "21.0675326"
+    },
+    {
+        "address": "Raiņa iela 22, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7145623",
+        "lon": "24.8195535"
+    },
+    {
+        "address": "Dravnieku iela 8, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7234618",
+        "lon": "24.7867054"
+    },
+    {
+        "address": "Dravnieku iela 8, Lielvārde, Lielvārdes novads, LV-5070",
+        "feature": "Point",
+        "lat": "56.7234618",
+        "lon": "24.7867054"
+    },
+    {
+        "address": "Olgas iela 27, Jūrmala, LV-2008",
+        "feature": "Point",
+        "lat": "56.9533747",
+        "lon": "23.6849255"
+    },
+    {
+        "address": "Strēlnieku prospekts 28, Ogre, Ogres novads, LV-5001",
+        "feature": "Point",
+        "lat": "56.8082192",
+        "lon": "24.6208693"
+    },
+    {
+        "address": "Apriķi, \"Tilti\", Lažas pagasts, Aizputes novads, LV-3455",
+        "feature": "Point",
+        "lat": "56.8007678",
+        "lon": "21.4987869"
+    },
+    {
+        "address": "Dagmāras iela 4, Rīga, LV-1007",
+        "feature": "Point",
+        "lat": "56.9602858",
+        "lon": "24.0596931"
+    },
+    {
+        "address": "Sporta iela 23A, Viesīte, Viesītes novads, LV-5237",
+        "feature": "Point",
+        "lat": "56.3411616",
+        "lon": "25.5650367"
+    },
+    {
+        "address": "Pīlādzītis, Sermīte, Laidu pagasts, Kuldīgas novads, LV-3330",
+        "feature": "Point",
+        "lat": "56.9707245",
+        "lon": "21.9808114"
+    }
+]
