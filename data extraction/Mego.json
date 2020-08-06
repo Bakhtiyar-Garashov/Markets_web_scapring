@@ -1,0 +1,706 @@
+[
+    {
+        "x": "56.9321559",
+        "y": "24.2017965",
+        "city_id": 1,
+        "shop_id": 1,
+        "info": "<div class='point-content'>A. Saharova iela 2 </br>\n        <span></span></div>",
+        "address": "A. Saharova iela 2"
+    },
+    {
+        "x": "56.9602507",
+        "y": "24.1137559",
+        "city_id": 1,
+        "shop_id": 2,
+        "info": "<div class='point-content'>Antonijas iela 21 </br>\n        <span></span></div>",
+        "address": "Antonijas iela 21"
+    },
+    {
+        "x": "56.9604993",
+        "y": "24.23434610000004",
+        "city_id": 1,
+        "shop_id": 3,
+        "info": "<div class='point-content'>Biķernieku iela 98 </br>\n        <span></span></div>",
+        "address": "Biķernieku iela 98"
+    },
+    {
+        "x": "56.9896396",
+        "y": "24.23874049999995",
+        "city_id": 1,
+        "shop_id": 4,
+        "info": "<div class='point-content'>Brīvības gatve 409 </br>\n        <span></span></div>",
+        "address": "Brīvības gatve 409"
+    },
+    {
+        "x": "56.95461770000001",
+        "y": "24.13286149999999",
+        "city_id": 1,
+        "shop_id": 5,
+        "info": "<div class='point-content'>A. Čaka iela 55 </br>\n        <span></span></div>",
+        "address": "A. Čaka iela 55"
+    },
+    {
+        "x": "56.9538807",
+        "y": "24.0514428",
+        "city_id": 1,
+        "shop_id": 6,
+        "info": "<div class='point-content'>Usmas iela 2 </br>\n        <span></span></div>",
+        "address": "Usmas iela 2"
+    },
+    {
+        "x": "56.9471662",
+        "y": "24.19694609999999",
+        "city_id": 1,
+        "shop_id": 7,
+        "info": "<div class='point-content'>Deglava iela 120 </br>\n        <span></span></div>",
+        "address": "Deglava iela 120"
+    },
+    {
+        "x": "56.9642074",
+        "y": "24.048872500000016",
+        "city_id": 1,
+        "shop_id": 8,
+        "info": "<div class='point-content'>Grīvas iela 23 </br>\n        <span></span></div>",
+        "address": "Grīvas iela 23"
+    },
+    {
+        "x": "56.95193150000001",
+        "y": "24.10549059999994",
+        "city_id": 1,
+        "shop_id": 9,
+        "info": "<div class='point-content'>Jēkaba iela 20/22 </br>\n        <span></span></div>",
+        "address": "Jēkaba iela 20/22"
+    },
+    {
+        "x": "56.9617758",
+        "y": "23.999703899999986",
+        "city_id": 1,
+        "shop_id": 10,
+        "info": "<div class='point-content'>Kurzemes iela 132 </br>\n        <span></span></div>",
+        "address": "Kurzemes iela 132"
+    },
+    {
+        "x": "56.950815",
+        "y": "24.126294899999948",
+        "city_id": 1,
+        "shop_id": 11,
+        "info": "<div class='point-content'>Marijas iela 20 </br>\n        <span></span></div>",
+        "address": "Marijas iela 20"
+    },
+    {
+        "x": "56.9529823",
+        "y": "24.142570100000057",
+        "city_id": 1,
+        "shop_id": 13,
+        "info": "<div class='point-content'>Matīsa iela 83 </br>\n        <span></span></div>",
+        "address": "Matīsa iela 83"
+    },
+    {
+        "x": "56.9782322",
+        "y": "24.250767300000007",
+        "city_id": 1,
+        "shop_id": 14,
+        "info": "<div class='point-content'>Murjāņu iela 50  </br>\n        <span></span></div>",
+        "address": "Murjāņu iela 50"
+    },
+    {
+        "x": "56.9132572",
+        "y": "24.18840799999998",
+        "city_id": 1,
+        "shop_id": 15,
+        "info": "<div class='point-content'>Prūšu iela 22a </br>\n        <span></span></div>",
+        "address": "Prūšu iela 22a"
+    },
+    {
+        "x": "56.985328",
+        "y": "24.239498300000037",
+        "city_id": 1,
+        "shop_id": 16,
+        "info": "<div class='point-content'>Silciema iela 15 </br>\n        <span></span></div>",
+        "address": "Silciema iela 15"
+    },
+    {
+        "x": "56.9588742",
+        "y": "24.143714000000045",
+        "city_id": 1,
+        "shop_id": 17,
+        "info": "<div class='point-content'>Tallinas iela 56 </br>\n        <span></span></div>",
+        "address": "Tallinas iela 56"
+    },
+    {
+        "x": "57.0279039",
+        "y": "24.105448900000056",
+        "city_id": 1,
+        "shop_id": 18,
+        "info": "<div class='point-content'>Vecmīlgrāvja iela 5 </br>\n        <span></span></div>",
+        "address": "Vecmīlgrāvja iela 5"
+    },
+    {
+        "x": "56.9539154",
+        "y": "24.0046328",
+        "city_id": 1,
+        "shop_id": 19,
+        "info": "<div class='point-content'>Jūrmalas gatve 87 </br>\n        <span></span></div>",
+        "address": "Jūrmalas gatve 87"
+    },
+    {
+        "x": "56.4099417",
+        "y": "24.185800299999983",
+        "city_id": 5,
+        "shop_id": 20,
+        "info": "<div class='point-content'>Rātslaukums 3 </br>\n        <span></span></div>",
+        "address": "Rātslaukums 3"
+    },
+    {
+        "x": "56.5893089",
+        "y": "24.3960656",
+        "city_id": 5,
+        "shop_id": 21,
+        "info": "<div class='point-content'>Misa, Bodnieki </br>\n        <span></span></div>",
+        "address": "Misa, Bodnieki"
+    },
+    {
+        "x": "56.68281959999999",
+        "y": "22.567184699999984",
+        "city_id": 7,
+        "shop_id": 22,
+        "info": "<div class='point-content'>Lielcieceres iela 1a </br>\n        <span></span></div>",
+        "address": "Lielcieceres iela 1a"
+    },
+    {
+        "x": "57.31293950000001",
+        "y": "25.285598899999968",
+        "city_id": 9,
+        "shop_id": 23,
+        "info": "<div class='point-content'>Lapsu iela 23 </br>\n        <span></span></div>",
+        "address": "Lapsu iela 23"
+    },
+    {
+        "x": "56.4934512",
+        "y": "25.875141900000017",
+        "city_id": 13,
+        "shop_id": 24,
+        "info": "<div class='point-content'>Vienības iela 1a </br>\n        <span></span></div>",
+        "address": "Vienības iela 1a"
+    },
+    {
+        "x": "56.95524580000001",
+        "y": "23.610877800000026",
+        "city_id": 14,
+        "shop_id": 25,
+        "info": "<div class='point-content'>Raiņa iela 84/86, Kauguri </br>\n        <span></span></div>",
+        "address": "Raiņa iela 84/86, Kauguri"
+    },
+    {
+        "x": "56.9466377",
+        "y": "23.618923999999993",
+        "city_id": 14,
+        "shop_id": 26,
+        "info": "<div class='point-content'>Venstpils šoseja 32, Sloka </br>\n        <span></span></div>",
+        "address": "Venstpils šoseja 32, Sloka"
+    },
+    {
+        "x": "56.4866766",
+        "y": "21.005097999999975",
+        "city_id": 17,
+        "shop_id": 27,
+        "info": "<div class='point-content'>Klaipēdas iela 104 C </br>\n        <span></span></div>",
+        "address": "Klaipēdas iela 104 C"
+    },
+    {
+        "x": "56.9187425",
+        "y": "24.36348040000007",
+        "city_id": 25,
+        "shop_id": 28,
+        "info": "<div class='point-content'>Kazāru iela 4 </br>\n        <span></span></div>",
+        "address": "Kazāru iela 4"
+    },
+    {
+        "x": "56.9570655",
+        "y": "23.18539229999999",
+        "city_id": 27,
+        "shop_id": 30,
+        "info": "<div class='point-content'>Aviācijas iela 18 </br>\n        <span></span></div>",
+        "address": "Aviācijas iela 18"
+    },
+    {
+        "x": "56.9706323",
+        "y": "23.16364610000005",
+        "city_id": 27,
+        "shop_id": 31,
+        "info": "<div class='point-content'>Kurzemes iela 2a </br>\n        <span></span></div>",
+        "address": "Kurzemes iela 2a"
+    },
+    {
+        "x": "57.78543699999999",
+        "y": "26.015211099999988",
+        "city_id": 28,
+        "shop_id": 32,
+        "info": "<div class='point-content'>Ausekļa iela 54 </br>\n        <span></span></div>",
+        "address": "Ausekļa iela 54"
+    },
+    {
+        "x": "57.3896422",
+        "y": "21.562735799999928",
+        "city_id": 30,
+        "shop_id": 33,
+        "info": "<div class='point-content'>Ganību iela 22/24 </br>\n        <span></span></div>",
+        "address": "Ganību iela 22/24"
+    },
+    {
+        "x": "56.7427114",
+        "y": "24.397833499999933",
+        "city_id": 3,
+        "shop_id": 34,
+        "info": "<div class='point-content'>Rīgas iela 79/1 </br>\n        <span></span></div>",
+        "address": "Rīgas iela 79/1"
+    },
+    {
+        "x": "56.9709059",
+        "y": "24.175424900000053",
+        "city_id": 1,
+        "shop_id": 35,
+        "info": "<div class='point-content'>Biķernieku iela 31a </br>\n        <span></span></div>",
+        "address": "Biķernieku iela 31a"
+    },
+    {
+        "x": "56.89986829999999",
+        "y": "24.084451100000024",
+        "city_id": 1,
+        "shop_id": 36,
+        "info": "<div class='point-content'>Īslīces iela 7 </br>\n        <span></span></div>",
+        "address": "Īslīces iela 7"
+    },
+    {
+        "x": "56.91063399999999",
+        "y": "24.19427399999995",
+        "city_id": 1,
+        "shop_id": 37,
+        "info": "<div class='point-content'>Prūšu iela 23a </br>\n        <span></span></div>",
+        "address": "Prūšu iela 23a"
+    },
+    {
+        "x": "56.9462734",
+        "y": "24.014630200000056",
+        "city_id": 1,
+        "shop_id": 38,
+        "info": "<div class='point-content'>P.Lejiņa iela 2a </br>\n        <span></span></div>",
+        "address": "P.Lejiņa iela 2a"
+    },
+    {
+        "x": "56.540904",
+        "y": "27.711676099999977",
+        "city_id": 18,
+        "shop_id": 39,
+        "info": "<div class='point-content'>Raiņa iela 40a </br>\n        <span></span></div>",
+        "address": "Raiņa iela 40a"
+    },
+    {
+        "x": "56.52390339999999",
+        "y": "27.35035730000004",
+        "city_id": 22,
+        "shop_id": 40,
+        "info": "<div class='point-content'>Atmodas iela 6a </br>\n        <span></span></div>",
+        "address": "Atmodas iela 6a"
+    },
+    {
+        "x": "56.5137699",
+        "y": "27.336744899999985",
+        "city_id": 22,
+        "shop_id": 41,
+        "info": "<div class='point-content'>Valdemāra iela 16a  </br>\n        <span></span></div>",
+        "address": "Valdemāra iela 16a"
+    },
+    {
+        "x": "55.8959231",
+        "y": "27.18356110000002",
+        "city_id": 15,
+        "shop_id": 42,
+        "info": "<div class='point-content'>Latgales iela 16 </br>\n        <span></span></div>",
+        "address": "Latgales iela 16"
+    },
+    {
+        "x": "55.9012161",
+        "y": "26.527428399999962",
+        "city_id": 10,
+        "shop_id": 43,
+        "info": "<div class='point-content'>Aveņu iela 26 </br>\n        <span></span></div>",
+        "address": "Aveņu iela 26"
+    },
+    {
+        "x": "57.42602410000001",
+        "y": "27.03777489999993",
+        "city_id": 2,
+        "shop_id": 44,
+        "info": "<div class='point-content'>Helēnas iela 24 </br>\n        <span></span></div>",
+        "address": "Helēnas iela 24"
+    },
+    {
+        "x": "56.90806440000001",
+        "y": "24.182585300000028",
+        "city_id": 1,
+        "shop_id": 45,
+        "info": "<div class='point-content'>Maskavas iela 264  </br>\n        <span></span></div>",
+        "address": "Maskavas iela 264"
+    },
+    {
+        "x": "55.8722101",
+        "y": "26.524391899999955",
+        "city_id": 10,
+        "shop_id": 47,
+        "info": "<div class='point-content'>Viestura iela 60 </br>\n        <span></span></div>",
+        "address": "Viestura iela 60"
+    },
+    {
+        "x": "56.9028074",
+        "y": "24.094932900000003",
+        "city_id": 1,
+        "shop_id": 48,
+        "info": "<div class='point-content'>Dižozolu iela 2 </br>\n        <span></span></div>",
+        "address": "Dižozolu iela 2"
+    },
+    {
+        "x": "57.0399289",
+        "y": "24.028607700000066",
+        "city_id": 1,
+        "shop_id": 49,
+        "info": "<div class='point-content'>Parādes iela 5b </br>\n        <span></span></div>",
+        "address": "Parādes iela 5b"
+    },
+    {
+        "x": "56.9041783",
+        "y": "24.101922599999966",
+        "city_id": 1,
+        "shop_id": 50,
+        "info": "<div class='point-content'>Līvciema iela 46 </br>\n        <span></span></div>",
+        "address": "Līvciema iela 46"
+    },
+    {
+        "x": "57.0341913",
+        "y": "24.048523599999953",
+        "city_id": 1,
+        "shop_id": 51,
+        "info": "<div class='point-content'>Gobas iela 13 </br>\n        <span></span></div>",
+        "address": "Gobas iela 13"
+    },
+    {
+        "x": "56.9557796",
+        "y": "24.192404200000055",
+        "city_id": 1,
+        "shop_id": 52,
+        "info": "<div class='point-content'>Dzelzavas iela 74 </br>\n        <span></span></div>",
+        "address": "Dzelzavas iela 74"
+    },
+    {
+        "x": "56.9372189",
+        "y": "24.2041246",
+        "city_id": 1,
+        "shop_id": 53,
+        "info": "<div class='point-content'>A. Saharova iela 14 </br>\n        <span></span></div>",
+        "address": "A. Saharova iela 14"
+    },
+    {
+        "x": "56.9148632",
+        "y": "24.177625600000056",
+        "city_id": 1,
+        "shop_id": 54,
+        "info": "<div class='point-content'>Prūšu iela 2 </br>\n        <span></span></div>",
+        "address": "Prūšu iela 2"
+    },
+    {
+        "x": "56.9193824",
+        "y": "24.17728569999997",
+        "city_id": 1,
+        "shop_id": 55,
+        "info": "<div class='point-content'>Maskavas iela 273/6 </br>\n        <span></span></div>",
+        "address": "Maskavas iela 273/6"
+    },
+    {
+        "x": "57.0212813",
+        "y": "24.135324800000035",
+        "city_id": 1,
+        "shop_id": 56,
+        "info": "<div class='point-content'>Mīlgrāvja iela 2 </br>\n        <span></span></div>",
+        "address": "Mīlgrāvja iela 2"
+    },
+    {
+        "x": "57.0366744",
+        "y": "24.09057789999997",
+        "city_id": 1,
+        "shop_id": 57,
+        "info": "<div class='point-content'>Baltāsbaznīcas iela 42 </br>\n        <span></span></div>",
+        "address": "Baltāsbaznīcas iela 42"
+    },
+    {
+        "x": "56.995859",
+        "y": "24.125751700000023",
+        "city_id": 1,
+        "shop_id": 58,
+        "info": "<div class='point-content'>Sarkandaugavas iela 6a </br>\n        <span></span></div>",
+        "address": "Sarkandaugavas iela 6a"
+    },
+    {
+        "x": "56.9819237",
+        "y": "24.184660500000064",
+        "city_id": 1,
+        "shop_id": 59,
+        "info": "<div class='point-content'>Ropažu iela 72 </br>\n        <span></span></div>",
+        "address": "Ropažu iela 72"
+    },
+    {
+        "x": "56.95563019999999",
+        "y": "24.13569099999995",
+        "city_id": 1,
+        "shop_id": 60,
+        "info": "<div class='point-content'>A. Čaka iela 70 </br>\n        <span></span></div>",
+        "address": "A. Čaka iela 70"
+    },
+    {
+        "x": "56.9694334",
+        "y": "24.059804799999938",
+        "city_id": 1,
+        "shop_id": 61,
+        "info": "<div class='point-content'>Lidoņu iela 27 </br>\n        <span></span></div>",
+        "address": "Lidoņu iela 27"
+    },
+    {
+        "x": "56.9660427",
+        "y": "24.009571800000003",
+        "city_id": 1,
+        "shop_id": 62,
+        "info": "<div class='point-content'>Dammes iela 46 </br>\n        <span></span></div>",
+        "address": "Dammes iela 46"
+    },
+    {
+        "x": "56.9453249",
+        "y": "24.02269990000002",
+        "city_id": 1,
+        "shop_id": 63,
+        "info": "<div class='point-content'>Bieziņa iela 8 </br>\n        <span></span></div>",
+        "address": "Bieziņa iela 8"
+    },
+    {
+        "x": "56.9553686",
+        "y": "24.0521205",
+        "city_id": 1,
+        "shop_id": 64,
+        "info": "<div class='point-content'>Dzirciema iela 31a </br>\n        <span></span></div>",
+        "address": "Dzirciema iela 31a"
+    },
+    {
+        "x": "56.9625734",
+        "y": "24.022069200000033",
+        "city_id": 1,
+        "shop_id": 65,
+        "info": "<div class='point-content'>Kleistu iela 9 </br>\n        <span></span></div>",
+        "address": "Kleistu iela 9"
+    },
+    {
+        "x": "56.8752344",
+        "y": "24.118521399999963",
+        "city_id": 4,
+        "shop_id": 66,
+        "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
+        "address": "Rīgas iela 14"
+    },
+    {
+        "x": "55.9002904",
+        "y": "26.526285400000006",
+        "city_id": 10,
+        "shop_id": 67,
+        "info": "<div class='point-content'>Raipoles iela 11a </br>\n        <span></span></div>",
+        "address": "Raipoles iela 11a"
+    },
+    {
+        "x": "55.87200980000001",
+        "y": "26.517589499999985",
+        "city_id": 10,
+        "shop_id": 68,
+        "info": "<div class='point-content'>Rīgas iela 9 </br>\n        <span></span></div>",
+        "address": "Rīgas iela 9"
+    },
+    {
+        "x": "56.6512572",
+        "y": "23.706498799999963",
+        "city_id": 12,
+        "shop_id": 69,
+        "info": "<div class='point-content'>Dobeles šoseja 7 </br>\n        <span></span></div>",
+        "address": "Dobeles šoseja 7"
+    },
+    {
+        "x": "56.9480617",
+        "y": "23.61766160000002",
+        "city_id": 14,
+        "shop_id": 70,
+        "info": "<div class='point-content'>Artilērijas iela 2, Sloka </br>\n        <span></span></div>",
+        "address": "Artilērijas iela 2, Sloka"
+    },
+    {
+        "x": "56.8165221",
+        "y": "24.598433200000045",
+        "city_id": 20,
+        "shop_id": 72,
+        "info": "<div class='point-content'>Skolas iela 4 </br>\n        <span></span></div>",
+        "address": "Skolas iela 4"
+    },
+    {
+        "x": "56.8547652",
+        "y": "24.334135699999933",
+        "city_id": 24,
+        "shop_id": 73,
+        "info": "<div class='point-content'>Skolas iela 9 </br>\n        <span></span></div>",
+        "address": "Skolas iela 9"
+    },
+    {
+        "x": "57.53853499999999",
+        "y": "25.423772900000017",
+        "city_id": 29,
+        "shop_id": 74,
+        "info": "<div class='point-content'>Rīgas iela 4 </br>\n        <span></span></div>",
+        "address": "Rīgas iela 4"
+    },
+    {
+        "x": "57.3837162",
+        "y": "21.551319499999977",
+        "city_id": 30,
+        "shop_id": 75,
+        "info": "<div class='point-content'>Inženieru iela 65 </br>\n        <span></span></div>",
+        "address": "Inženieru iela 65"
+    },
+    {
+        "x": "56.9610407",
+        "y": "24.30193780000002",
+        "city_id": 1,
+        "shop_id": 77,
+        "info": "<div class='point-content'>Biķernieku iela 246 </br>\n        <span></span></div>",
+        "address": "Biķernieku iela 246"
+    },
+    {
+        "x": "56.9572352",
+        "y": "24.13009199999999",
+        "city_id": 1,
+        "shop_id": 78,
+        "info": "<div class='point-content'>Bruņinieku iela 31 </br>\n        <span></span></div>",
+        "address": "Bruņinieku iela 31"
+    },
+    {
+        "x": "57.1286168",
+        "y": "24.27643760000001",
+        "city_id": 8,
+        "shop_id": 79,
+        "info": "<div class='point-content'>Rīgas iela 14a </br>\n        <span></span></div>",
+        "address": "Rīgas iela 14a"
+    },
+    {
+        "x": "55.8869242",
+        "y": "26.506795499999953",
+        "city_id": 10,
+        "shop_id": 80,
+        "info": "<div class='point-content'>Vaļņu iela 27a </br>\n        <span></span></div>",
+        "address": "Vaļņu iela 27a"
+    },
+    {
+        "x": "55.8795286",
+        "y": "26.561260400000037",
+        "city_id": 10,
+        "shop_id": 81,
+        "info": "<div class='point-content'>Valkas iela 1a </br>\n        <span></span></div>",
+        "address": "Valkas iela 1a"
+    },
+    {
+        "x": "56.5962348",
+        "y": "24.19420489999993",
+        "city_id": 11,
+        "shop_id": 82,
+        "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
+        "address": "Rīgas iela 14"
+    },
+    {
+        "x": "56.64602310000001",
+        "y": "23.727153300000055",
+        "city_id": 12,
+        "shop_id": 83,
+        "info": "<div class='point-content'>Pasta iela 51/6 </br>\n        <span></span></div>",
+        "address": "Pasta iela 51/6"
+    },
+    {
+        "x": "56.7854646",
+        "y": "27.673379299999965",
+        "city_id": 16,
+        "shop_id": 84,
+        "info": "<div class='point-content'>Malnavas iela 2 </br>\n        <span></span></div>",
+        "address": "Malnavas iela 2"
+    },
+    {
+        "x": "57.5257738",
+        "y": "25.436547099999984",
+        "city_id": 29,
+        "shop_id": 86,
+        "info": "<div class='point-content'>Stacijas iela 35 </br>\n        <span></span></div>",
+        "address": "Stacijas iela 35"
+    },
+    {
+        "x": "57.39252519999999",
+        "y": "21.564480799999956",
+        "city_id": 30,
+        "shop_id": 87,
+        "info": "<div class='point-content'>Kuldīgas iela 23 </br>\n        <span></span></div>",
+        "address": "Kuldīgas iela 23"
+    },
+    {
+        "x": "56.5460733",
+        "y": "26.92516999999998",
+        "city_id": 31,
+        "shop_id": 88,
+        "info": "<div class='point-content'>Raiņa iela 23/1 </br>\n        <span></span></div>",
+        "address": "Raiņa iela 23/1"
+    },
+    {
+        "x": "56.974114",
+        "y": "21.955619",
+        "city_id": 32,
+        "shop_id": 89,
+        "info": "<div class='point-content'>Dzintaru iela 14 </br>\n        <span></span></div>",
+        "address": "Dzintaru iela 14"
+    },
+    {
+        "x": "56.2996358",
+        "y": "26.7073763",
+        "city_id": 33,
+        "shop_id": 90,
+        "info": "<div class='point-content'>Rīgas iela 4d </br>\n        <span></span></div>",
+        "address": "Rīgas iela 4d"
+    },
+    {
+        "x": "56.9712662",
+        "y": "24.1801828",
+        "city_id": 1,
+        "shop_id": 91,
+        "info": "<div class='point-content'>Biķernieku iela 16a </br>\n        <span></span></div>",
+        "address": "Biķernieku iela 16a"
+    },
+    {
+        "x": "56.9572954",
+        "y": "24.1235996",
+        "city_id": 1,
+        "shop_id": 92,
+        "info": "<div class='point-content'>Brīvības iela 68 </br>\n        <span></span></div>",
+        "address": "Brīvības iela 68"
+    },
+    {
+        "x": "56.9124816",
+        "y": "24.1052173",
+        "city_id": 1,
+        "shop_id": 93,
+        "info": "<div class='point-content'>Graudu 10 </br>\n        <span></span></div>",
+        "address": "Graudu 10"
+    },
+    {
+        "x": "56.4090079",
+        "y": "24.1944426",
+        "city_id": 5,
+        "shop_id": 94,
+        "info": "<div class='point-content'>Dārza 20 </br>\n        <span></span></div>",
+        "address": "Dārza 20"
+    }
+]

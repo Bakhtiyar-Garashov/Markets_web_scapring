@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7277edd-8e08-4e03-86cb-66d222e3821c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data extraction/Lats.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data extraction/Lats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data extraction/Mego.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data extraction/Mego.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\json_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lats">
+  <component name="RunManager" selected="Python.Mego">
     <configuration name="Geo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Maxima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +100,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Maxima.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Mego.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +154,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Maxima" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Top" />
       <item itemvalue="Python.Lats" />
       <item itemvalue="Python.Geo" />
+      <item itemvalue="Python.Mego" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mego" />
         <item itemvalue="Python.Lats" />
         <item itemvalue="Python.Geo" />
         <item itemvalue="Python.Top" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Maxima" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1596633682994" duration="309000" />
       <workItem from="1596644306362" duration="2468000" />
       <workItem from="1596721647306" duration="9218000" />
-      <workItem from="1596732459879" duration="1565000" />
+      <workItem from="1596732459879" duration="7570000" />
     </task>
     <task id="LOCAL-00001" summary="New file added">
       <created>1596435634004</created>
@@ -264,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596627516003</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lats store extracted">
+      <created>1596734066297</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596734066297</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lats store extracted">
+      <created>1596734102006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596734102006</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +305,8 @@
     <MESSAGE value="Elvi ready" />
     <MESSAGE value="new commit" />
     <MESSAGE value="Top store extracted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Top store extracted" />
+    <MESSAGE value="Lats store extracted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lats store extracted" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1596013038763">
@@ -314,30 +329,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596624834837" />
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596734080832">
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596734101140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596734080832" />
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596734101140" />
     <state x="225" y="65" key="DiffContextDialog" timestamp="1596439025126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="225" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439025126" />
-    <state width="1493" height="286" key="GridCell.Tab.0.bottom" timestamp="1596734067902">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom" timestamp="1596744095970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596734067902" />
-    <state width="1493" height="286" key="GridCell.Tab.0.center" timestamp="1596734067902">
+    <state width="1493" height="120" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596744095970" />
+    <state width="1493" height="120" key="GridCell.Tab.0.center" timestamp="1596744095970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596734067902" />
-    <state width="1493" height="286" key="GridCell.Tab.0.left" timestamp="1596734067902">
+    <state width="1493" height="120" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596744095970" />
+    <state width="1493" height="120" key="GridCell.Tab.0.left" timestamp="1596744095969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596734067902" />
-    <state width="1493" height="286" key="GridCell.Tab.0.right" timestamp="1596734067902">
+    <state width="1493" height="120" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596744095969" />
+    <state width="1493" height="120" key="GridCell.Tab.0.right" timestamp="1596744095970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="286" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596734067902" />
+    <state width="1493" height="120" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596744095970" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596633483115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -358,10 +373,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="615" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439068593" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596627518866">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596734105965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596627518866" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596734105965" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596439033102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -376,9 +391,10 @@
     <SUITE FILE_PATH="coverage/ShopsScraping$Elvi.coverage" NAME="Elvi Coverage Results" MODIFIED="1596536065829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Rimi.coverage" NAME="Rimi Coverage Results" MODIFIED="1596435712560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Geo.coverage" NAME="Geo Coverage Results" MODIFIED="1596732660143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Lats.coverage" NAME="Lats Coverage Results" MODIFIED="1596733635347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Lats.coverage" NAME="Lats Coverage Results" MODIFIED="1596734984681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Maxima.coverage" NAME="Maxima Coverage Results" MODIFIED="1596610562876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$DB.coverage" NAME="DB Coverage Results" MODIFIED="1596008525875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Mego.coverage" NAME="Mego Coverage Results" MODIFIED="1596744095954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Top.coverage" NAME="Top Coverage Results" MODIFIED="1596627419879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Geo__1_.coverage" NAME="Geo (1) Coverage Results" MODIFIED="1596180826392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Processing.coverage" NAME="Processing Coverage Results" MODIFIED="1595422324611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
