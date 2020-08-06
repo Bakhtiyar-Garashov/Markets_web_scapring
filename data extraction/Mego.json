@@ -5,7 +5,8 @@
         "city_id": 1,
         "shop_id": 1,
         "info": "<div class='point-content'>A. Saharova iela 2 </br>\n        <span></span></div>",
-        "address": "A. Saharova iela 2"
+        "address": "A. Saharova iela 2",
+        "working_hours": "Darba dienās 08:00–23:00\r\nSest. 08:00–23:00\r\nSv. 08:00–23:00"
     },
     {
         "x": "56.9602507",
@@ -13,7 +14,8 @@
         "city_id": 1,
         "shop_id": 2,
         "info": "<div class='point-content'>Antonijas iela 21 </br>\n        <span></span></div>",
-        "address": "Antonijas iela 21"
+        "address": "Antonijas iela 21",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00"
     },
     {
         "x": "56.9604993",
@@ -21,7 +23,8 @@
         "city_id": 1,
         "shop_id": 3,
         "info": "<div class='point-content'>Biķernieku iela 98 </br>\n        <span></span></div>",
-        "address": "Biķernieku iela 98"
+        "address": "Biķernieku iela 98",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9896396",
@@ -29,7 +32,8 @@
         "city_id": 1,
         "shop_id": 4,
         "info": "<div class='point-content'>Brīvības gatve 409 </br>\n        <span></span></div>",
-        "address": "Brīvības gatve 409"
+        "address": "Brīvības gatve 409",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.95461770000001",
@@ -37,7 +41,8 @@
         "city_id": 1,
         "shop_id": 5,
         "info": "<div class='point-content'>A. Čaka iela 55 </br>\n        <span></span></div>",
-        "address": "A. Čaka iela 55"
+        "address": "A. Čaka iela 55",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 09:00–22:00\r\nSv. 10:00–22:00"
     },
     {
         "x": "56.9538807",
@@ -45,7 +50,8 @@
         "city_id": 1,
         "shop_id": 6,
         "info": "<div class='point-content'>Usmas iela 2 </br>\n        <span></span></div>",
-        "address": "Usmas iela 2"
+        "address": "Usmas iela 2",
+        "working_hours": "Darba dienās 09:00–22:00\r\nSest. 09:00–22:00\r\nSv. 10:00–19:00"
     },
     {
         "x": "56.9471662",
@@ -53,7 +59,8 @@
         "city_id": 1,
         "shop_id": 7,
         "info": "<div class='point-content'>Deglava iela 120 </br>\n        <span></span></div>",
-        "address": "Deglava iela 120"
+        "address": "Deglava iela 120",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9642074",
@@ -61,7 +68,8 @@
         "city_id": 1,
         "shop_id": 8,
         "info": "<div class='point-content'>Grīvas iela 23 </br>\n        <span></span></div>",
-        "address": "Grīvas iela 23"
+        "address": "Grīvas iela 23",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.95193150000001",
@@ -69,7 +77,8 @@
         "city_id": 1,
         "shop_id": 9,
         "info": "<div class='point-content'>Jēkaba iela 20/22 </br>\n        <span></span></div>",
-        "address": "Jēkaba iela 20/22"
+        "address": "Jēkaba iela 20/22",
+        "working_hours": "Darba dienās 08:00–20:00\r\nSest. 09:00–18:00\r\nSv. Slēgts"
     },
     {
         "x": "56.9617758",
@@ -77,7 +86,8 @@
         "city_id": 1,
         "shop_id": 10,
         "info": "<div class='point-content'>Kurzemes iela 132 </br>\n        <span></span></div>",
-        "address": "Kurzemes iela 132"
+        "address": "Kurzemes iela 132",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.950815",
@@ -85,7 +95,8 @@
         "city_id": 1,
         "shop_id": 11,
         "info": "<div class='point-content'>Marijas iela 20 </br>\n        <span></span></div>",
-        "address": "Marijas iela 20"
+        "address": "Marijas iela 20",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9529823",
@@ -93,7 +104,8 @@
         "city_id": 1,
         "shop_id": 13,
         "info": "<div class='point-content'>Matīsa iela 83 </br>\n        <span></span></div>",
-        "address": "Matīsa iela 83"
+        "address": "Matīsa iela 83",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9782322",
@@ -101,7 +113,8 @@
         "city_id": 1,
         "shop_id": 14,
         "info": "<div class='point-content'>Murjāņu iela 50  </br>\n        <span></span></div>",
-        "address": "Murjāņu iela 50"
+        "address": "Murjāņu iela 50",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9132572",
@@ -109,7 +122,8 @@
         "city_id": 1,
         "shop_id": 15,
         "info": "<div class='point-content'>Prūšu iela 22a </br>\n        <span></span></div>",
-        "address": "Prūšu iela 22a"
+        "address": "Prūšu iela 22a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.985328",
@@ -117,7 +131,8 @@
         "city_id": 1,
         "shop_id": 16,
         "info": "<div class='point-content'>Silciema iela 15 </br>\n        <span></span></div>",
-        "address": "Silciema iela 15"
+        "address": "Silciema iela 15",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9588742",
@@ -125,7 +140,8 @@
         "city_id": 1,
         "shop_id": 17,
         "info": "<div class='point-content'>Tallinas iela 56 </br>\n        <span></span></div>",
-        "address": "Tallinas iela 56"
+        "address": "Tallinas iela 56",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.0279039",
@@ -133,7 +149,8 @@
         "city_id": 1,
         "shop_id": 18,
         "info": "<div class='point-content'>Vecmīlgrāvja iela 5 </br>\n        <span></span></div>",
-        "address": "Vecmīlgrāvja iela 5"
+        "address": "Vecmīlgrāvja iela 5",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9539154",
@@ -141,7 +158,8 @@
         "city_id": 1,
         "shop_id": 19,
         "info": "<div class='point-content'>Jūrmalas gatve 87 </br>\n        <span></span></div>",
-        "address": "Jūrmalas gatve 87"
+        "address": "Jūrmalas gatve 87",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.4099417",
@@ -149,7 +167,8 @@
         "city_id": 5,
         "shop_id": 20,
         "info": "<div class='point-content'>Rātslaukums 3 </br>\n        <span></span></div>",
-        "address": "Rātslaukums 3"
+        "address": "Rātslaukums 3",
+        "working_hours": "Darba dienās 08:00–21:30\r\nSest. 08:00–21:30\r\nSv. 09:00–18:00"
     },
     {
         "x": "56.5893089",
@@ -157,7 +176,8 @@
         "city_id": 5,
         "shop_id": 21,
         "info": "<div class='point-content'>Misa, Bodnieki </br>\n        <span></span></div>",
-        "address": "Misa, Bodnieki"
+        "address": "Misa, Bodnieki",
+        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 09:00–18:00"
     },
     {
         "x": "56.68281959999999",
@@ -165,7 +185,8 @@
         "city_id": 7,
         "shop_id": 22,
         "info": "<div class='point-content'>Lielcieceres iela 1a </br>\n        <span></span></div>",
-        "address": "Lielcieceres iela 1a"
+        "address": "Lielcieceres iela 1a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.31293950000001",
@@ -173,7 +194,8 @@
         "city_id": 9,
         "shop_id": 23,
         "info": "<div class='point-content'>Lapsu iela 23 </br>\n        <span></span></div>",
-        "address": "Lapsu iela 23"
+        "address": "Lapsu iela 23",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.4934512",
@@ -181,7 +203,8 @@
         "city_id": 13,
         "shop_id": 24,
         "info": "<div class='point-content'>Vienības iela 1a </br>\n        <span></span></div>",
-        "address": "Vienības iela 1a"
+        "address": "Vienības iela 1a",
+        "working_hours": "Darba dienās 08:00–23:00\r\nSest. 08:00–23:00\r\nSv. 08:00–23:00"
     },
     {
         "x": "56.95524580000001",
@@ -189,7 +212,8 @@
         "city_id": 14,
         "shop_id": 25,
         "info": "<div class='point-content'>Raiņa iela 84/86, Kauguri </br>\n        <span></span></div>",
-        "address": "Raiņa iela 84/86, Kauguri"
+        "address": "Raiņa iela 84/86, Kauguri",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9466377",
@@ -197,7 +221,8 @@
         "city_id": 14,
         "shop_id": 26,
         "info": "<div class='point-content'>Venstpils šoseja 32, Sloka </br>\n        <span></span></div>",
-        "address": "Venstpils šoseja 32, Sloka"
+        "address": "Venstpils šoseja 32, Sloka",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.4866766",
@@ -205,7 +230,8 @@
         "city_id": 17,
         "shop_id": 27,
         "info": "<div class='point-content'>Klaipēdas iela 104 C </br>\n        <span></span></div>",
-        "address": "Klaipēdas iela 104 C"
+        "address": "Klaipēdas iela 104 C",
+        "working_hours": "Darba dienās 08:00–20:00\r\nSest. 08:00–20:00\r\nSv. 09:00–21:00"
     },
     {
         "x": "56.9187425",
@@ -213,7 +239,8 @@
         "city_id": 25,
         "shop_id": 28,
         "info": "<div class='point-content'>Kazāru iela 4 </br>\n        <span></span></div>",
-        "address": "Kazāru iela 4"
+        "address": "Kazāru iela 4",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9570655",
@@ -221,7 +248,8 @@
         "city_id": 27,
         "shop_id": 30,
         "info": "<div class='point-content'>Aviācijas iela 18 </br>\n        <span></span></div>",
-        "address": "Aviācijas iela 18"
+        "address": "Aviācijas iela 18",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00"
     },
     {
         "x": "56.9706323",
@@ -229,7 +257,8 @@
         "city_id": 27,
         "shop_id": 31,
         "info": "<div class='point-content'>Kurzemes iela 2a </br>\n        <span></span></div>",
-        "address": "Kurzemes iela 2a"
+        "address": "Kurzemes iela 2a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "57.78543699999999",
@@ -237,7 +266,8 @@
         "city_id": 28,
         "shop_id": 32,
         "info": "<div class='point-content'>Ausekļa iela 54 </br>\n        <span></span></div>",
-        "address": "Ausekļa iela 54"
+        "address": "Ausekļa iela 54",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00"
     },
     {
         "x": "57.3896422",
@@ -245,7 +275,8 @@
         "city_id": 30,
         "shop_id": 33,
         "info": "<div class='point-content'>Ganību iela 22/24 </br>\n        <span></span></div>",
-        "address": "Ganību iela 22/24"
+        "address": "Ganību iela 22/24",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. - 00:00–24:00"
     },
     {
         "x": "56.7427114",
@@ -253,7 +284,8 @@
         "city_id": 3,
         "shop_id": 34,
         "info": "<div class='point-content'>Rīgas iela 79/1 </br>\n        <span></span></div>",
-        "address": "Rīgas iela 79/1"
+        "address": "Rīgas iela 79/1",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9709059",
@@ -261,7 +293,8 @@
         "city_id": 1,
         "shop_id": 35,
         "info": "<div class='point-content'>Biķernieku iela 31a </br>\n        <span></span></div>",
-        "address": "Biķernieku iela 31a"
+        "address": "Biķernieku iela 31a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.89986829999999",
@@ -269,7 +302,8 @@
         "city_id": 1,
         "shop_id": 36,
         "info": "<div class='point-content'>Īslīces iela 7 </br>\n        <span></span></div>",
-        "address": "Īslīces iela 7"
+        "address": "Īslīces iela 7",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.91063399999999",
@@ -277,7 +311,8 @@
         "city_id": 1,
         "shop_id": 37,
         "info": "<div class='point-content'>Prūšu iela 23a </br>\n        <span></span></div>",
-        "address": "Prūšu iela 23a"
+        "address": "Prūšu iela 23a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9462734",
@@ -285,7 +320,8 @@
         "city_id": 1,
         "shop_id": 38,
         "info": "<div class='point-content'>P.Lejiņa iela 2a </br>\n        <span></span></div>",
-        "address": "P.Lejiņa iela 2a"
+        "address": "P.Lejiņa iela 2a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.540904",
@@ -293,7 +329,8 @@
         "city_id": 18,
         "shop_id": 39,
         "info": "<div class='point-content'>Raiņa iela 40a </br>\n        <span></span></div>",
-        "address": "Raiņa iela 40a"
+        "address": "Raiņa iela 40a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.52390339999999",
@@ -301,7 +338,8 @@
         "city_id": 22,
         "shop_id": 40,
         "info": "<div class='point-content'>Atmodas iela 6a </br>\n        <span></span></div>",
-        "address": "Atmodas iela 6a"
+        "address": "Atmodas iela 6a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.5137699",
@@ -309,7 +347,8 @@
         "city_id": 22,
         "shop_id": 41,
         "info": "<div class='point-content'>Valdemāra iela 16a  </br>\n        <span></span></div>",
-        "address": "Valdemāra iela 16a"
+        "address": "Valdemāra iela 16a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "55.8959231",
@@ -317,7 +356,8 @@
         "city_id": 15,
         "shop_id": 42,
         "info": "<div class='point-content'>Latgales iela 16 </br>\n        <span></span></div>",
-        "address": "Latgales iela 16"
+        "address": "Latgales iela 16",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "55.9012161",
@@ -325,7 +365,8 @@
         "city_id": 10,
         "shop_id": 43,
         "info": "<div class='point-content'>Aveņu iela 26 </br>\n        <span></span></div>",
-        "address": "Aveņu iela 26"
+        "address": "Aveņu iela 26",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "57.42602410000001",
@@ -333,7 +374,8 @@
         "city_id": 2,
         "shop_id": 44,
         "info": "<div class='point-content'>Helēnas iela 24 </br>\n        <span></span></div>",
-        "address": "Helēnas iela 24"
+        "address": "Helēnas iela 24",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.90806440000001",
@@ -341,7 +383,8 @@
         "city_id": 1,
         "shop_id": 45,
         "info": "<div class='point-content'>Maskavas iela 264  </br>\n        <span></span></div>",
-        "address": "Maskavas iela 264"
+        "address": "Maskavas iela 264",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "55.8722101",
@@ -349,7 +392,8 @@
         "city_id": 10,
         "shop_id": 47,
         "info": "<div class='point-content'>Viestura iela 60 </br>\n        <span></span></div>",
-        "address": "Viestura iela 60"
+        "address": "Viestura iela 60",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9028074",
@@ -357,7 +401,8 @@
         "city_id": 1,
         "shop_id": 48,
         "info": "<div class='point-content'>Dižozolu iela 2 </br>\n        <span></span></div>",
-        "address": "Dižozolu iela 2"
+        "address": "Dižozolu iela 2",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.0399289",
@@ -365,7 +410,8 @@
         "city_id": 1,
         "shop_id": 49,
         "info": "<div class='point-content'>Parādes iela 5b </br>\n        <span></span></div>",
-        "address": "Parādes iela 5b"
+        "address": "Parādes iela 5b",
+        "working_hours": "Daba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9041783",
@@ -373,7 +419,8 @@
         "city_id": 1,
         "shop_id": 50,
         "info": "<div class='point-content'>Līvciema iela 46 </br>\n        <span></span></div>",
-        "address": "Līvciema iela 46"
+        "address": "Līvciema iela 46",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.0341913",
@@ -381,7 +428,8 @@
         "city_id": 1,
         "shop_id": 51,
         "info": "<div class='point-content'>Gobas iela 13 </br>\n        <span></span></div>",
-        "address": "Gobas iela 13"
+        "address": "Gobas iela 13",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9557796",
@@ -389,7 +437,8 @@
         "city_id": 1,
         "shop_id": 52,
         "info": "<div class='point-content'>Dzelzavas iela 74 </br>\n        <span></span></div>",
-        "address": "Dzelzavas iela 74"
+        "address": "Dzelzavas iela 74",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9372189",
@@ -397,7 +446,8 @@
         "city_id": 1,
         "shop_id": 53,
         "info": "<div class='point-content'>A. Saharova iela 14 </br>\n        <span></span></div>",
-        "address": "A. Saharova iela 14"
+        "address": "A. Saharova iela 14",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9148632",
@@ -405,7 +455,8 @@
         "city_id": 1,
         "shop_id": 54,
         "info": "<div class='point-content'>Prūšu iela 2 </br>\n        <span></span></div>",
-        "address": "Prūšu iela 2"
+        "address": "Prūšu iela 2",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9193824",
@@ -413,7 +464,8 @@
         "city_id": 1,
         "shop_id": 55,
         "info": "<div class='point-content'>Maskavas iela 273/6 </br>\n        <span></span></div>",
-        "address": "Maskavas iela 273/6"
+        "address": "Maskavas iela 273/6",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–21:00"
     },
     {
         "x": "57.0212813",
@@ -421,7 +473,8 @@
         "city_id": 1,
         "shop_id": 56,
         "info": "<div class='point-content'>Mīlgrāvja iela 2 </br>\n        <span></span></div>",
-        "address": "Mīlgrāvja iela 2"
+        "address": "Mīlgrāvja iela 2",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.0366744",
@@ -429,7 +482,8 @@
         "city_id": 1,
         "shop_id": 57,
         "info": "<div class='point-content'>Baltāsbaznīcas iela 42 </br>\n        <span></span></div>",
-        "address": "Baltāsbaznīcas iela 42"
+        "address": "Baltāsbaznīcas iela 42",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.995859",
@@ -437,7 +491,8 @@
         "city_id": 1,
         "shop_id": 58,
         "info": "<div class='point-content'>Sarkandaugavas iela 6a </br>\n        <span></span></div>",
-        "address": "Sarkandaugavas iela 6a"
+        "address": "Sarkandaugavas iela 6a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9819237",
@@ -445,7 +500,8 @@
         "city_id": 1,
         "shop_id": 59,
         "info": "<div class='point-content'>Ropažu iela 72 </br>\n        <span></span></div>",
-        "address": "Ropažu iela 72"
+        "address": "Ropažu iela 72",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.95563019999999",
@@ -453,7 +509,8 @@
         "city_id": 1,
         "shop_id": 60,
         "info": "<div class='point-content'>A. Čaka iela 70 </br>\n        <span></span></div>",
-        "address": "A. Čaka iela 70"
+        "address": "A. Čaka iela 70",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9694334",
@@ -461,7 +518,8 @@
         "city_id": 1,
         "shop_id": 61,
         "info": "<div class='point-content'>Lidoņu iela 27 </br>\n        <span></span></div>",
-        "address": "Lidoņu iela 27"
+        "address": "Lidoņu iela 27",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9660427",
@@ -469,7 +527,8 @@
         "city_id": 1,
         "shop_id": 62,
         "info": "<div class='point-content'>Dammes iela 46 </br>\n        <span></span></div>",
-        "address": "Dammes iela 46"
+        "address": "Dammes iela 46",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9453249",
@@ -477,7 +536,8 @@
         "city_id": 1,
         "shop_id": 63,
         "info": "<div class='point-content'>Bieziņa iela 8 </br>\n        <span></span></div>",
-        "address": "Bieziņa iela 8"
+        "address": "Bieziņa iela 8",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9553686",
@@ -485,7 +545,8 @@
         "city_id": 1,
         "shop_id": 64,
         "info": "<div class='point-content'>Dzirciema iela 31a </br>\n        <span></span></div>",
-        "address": "Dzirciema iela 31a"
+        "address": "Dzirciema iela 31a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9625734",
@@ -493,7 +554,8 @@
         "city_id": 1,
         "shop_id": 65,
         "info": "<div class='point-content'>Kleistu iela 9 </br>\n        <span></span></div>",
-        "address": "Kleistu iela 9"
+        "address": "Kleistu iela 9",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.8752344",
@@ -501,7 +563,8 @@
         "city_id": 4,
         "shop_id": 66,
         "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
-        "address": "Rīgas iela 14"
+        "address": "Rīgas iela 14",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "55.9002904",
@@ -509,7 +572,8 @@
         "city_id": 10,
         "shop_id": 67,
         "info": "<div class='point-content'>Raipoles iela 11a </br>\n        <span></span></div>",
-        "address": "Raipoles iela 11a"
+        "address": "Raipoles iela 11a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "55.87200980000001",
@@ -517,7 +581,8 @@
         "city_id": 10,
         "shop_id": 68,
         "info": "<div class='point-content'>Rīgas iela 9 </br>\n        <span></span></div>",
-        "address": "Rīgas iela 9"
+        "address": "Rīgas iela 9",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.6512572",
@@ -525,7 +590,8 @@
         "city_id": 12,
         "shop_id": 69,
         "info": "<div class='point-content'>Dobeles šoseja 7 </br>\n        <span></span></div>",
-        "address": "Dobeles šoseja 7"
+        "address": "Dobeles šoseja 7",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9480617",
@@ -533,7 +599,8 @@
         "city_id": 14,
         "shop_id": 70,
         "info": "<div class='point-content'>Artilērijas iela 2, Sloka </br>\n        <span></span></div>",
-        "address": "Artilērijas iela 2, Sloka"
+        "address": "Artilērijas iela 2, Sloka",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.8165221",
@@ -541,7 +608,8 @@
         "city_id": 20,
         "shop_id": 72,
         "info": "<div class='point-content'>Skolas iela 4 </br>\n        <span></span></div>",
-        "address": "Skolas iela 4"
+        "address": "Skolas iela 4",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.8547652",
@@ -549,7 +617,8 @@
         "city_id": 24,
         "shop_id": 73,
         "info": "<div class='point-content'>Skolas iela 9 </br>\n        <span></span></div>",
-        "address": "Skolas iela 9"
+        "address": "Skolas iela 9",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "57.53853499999999",
@@ -557,7 +626,8 @@
         "city_id": 29,
         "shop_id": 74,
         "info": "<div class='point-content'>Rīgas iela 4 </br>\n        <span></span></div>",
-        "address": "Rīgas iela 4"
+        "address": "Rīgas iela 4",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "57.3837162",
@@ -565,7 +635,8 @@
         "city_id": 30,
         "shop_id": 75,
         "info": "<div class='point-content'>Inženieru iela 65 </br>\n        <span></span></div>",
-        "address": "Inženieru iela 65"
+        "address": "Inženieru iela 65",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–21:00"
     },
     {
         "x": "56.9610407",
@@ -573,7 +644,8 @@
         "city_id": 1,
         "shop_id": 77,
         "info": "<div class='point-content'>Biķernieku iela 246 </br>\n        <span></span></div>",
-        "address": "Biķernieku iela 246"
+        "address": "Biķernieku iela 246",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9572352",
@@ -581,7 +653,8 @@
         "city_id": 1,
         "shop_id": 78,
         "info": "<div class='point-content'>Bruņinieku iela 31 </br>\n        <span></span></div>",
-        "address": "Bruņinieku iela 31"
+        "address": "Bruņinieku iela 31",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 10:00–22:00"
     },
     {
         "x": "57.1286168",
@@ -589,7 +662,8 @@
         "city_id": 8,
         "shop_id": 79,
         "info": "<div class='point-content'>Rīgas iela 14a </br>\n        <span></span></div>",
-        "address": "Rīgas iela 14a"
+        "address": "Rīgas iela 14a",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "55.8869242",
@@ -597,7 +671,8 @@
         "city_id": 10,
         "shop_id": 80,
         "info": "<div class='point-content'>Vaļņu iela 27a </br>\n        <span></span></div>",
-        "address": "Vaļņu iela 27a"
+        "address": "Vaļņu iela 27a",
+        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00"
     },
     {
         "x": "55.8795286",
@@ -605,7 +680,8 @@
         "city_id": 10,
         "shop_id": 81,
         "info": "<div class='point-content'>Valkas iela 1a </br>\n        <span></span></div>",
-        "address": "Valkas iela 1a"
+        "address": "Valkas iela 1a",
+        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00"
     },
     {
         "x": "56.5962348",
@@ -613,7 +689,8 @@
         "city_id": 11,
         "shop_id": 82,
         "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
-        "address": "Rīgas iela 14"
+        "address": "Rīgas iela 14",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.64602310000001",
@@ -621,7 +698,8 @@
         "city_id": 12,
         "shop_id": 83,
         "info": "<div class='point-content'>Pasta iela 51/6 </br>\n        <span></span></div>",
-        "address": "Pasta iela 51/6"
+        "address": "Pasta iela 51/6",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.7854646",
@@ -629,7 +707,8 @@
         "city_id": 16,
         "shop_id": 84,
         "info": "<div class='point-content'>Malnavas iela 2 </br>\n        <span></span></div>",
-        "address": "Malnavas iela 2"
+        "address": "Malnavas iela 2",
+        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00"
     },
     {
         "x": "57.5257738",
@@ -637,7 +716,8 @@
         "city_id": 29,
         "shop_id": 86,
         "info": "<div class='point-content'>Stacijas iela 35 </br>\n        <span></span></div>",
-        "address": "Stacijas iela 35"
+        "address": "Stacijas iela 35",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "57.39252519999999",
@@ -645,7 +725,8 @@
         "city_id": 30,
         "shop_id": 87,
         "info": "<div class='point-content'>Kuldīgas iela 23 </br>\n        <span></span></div>",
-        "address": "Kuldīgas iela 23"
+        "address": "Kuldīgas iela 23",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–20:00"
     },
     {
         "x": "56.5460733",
@@ -653,7 +734,8 @@
         "city_id": 31,
         "shop_id": 88,
         "info": "<div class='point-content'>Raiņa iela 23/1 </br>\n        <span></span></div>",
-        "address": "Raiņa iela 23/1"
+        "address": "Raiņa iela 23/1",
+        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00"
     },
     {
         "x": "56.974114",
@@ -661,7 +743,8 @@
         "city_id": 32,
         "shop_id": 89,
         "info": "<div class='point-content'>Dzintaru iela 14 </br>\n        <span></span></div>",
-        "address": "Dzintaru iela 14"
+        "address": "Dzintaru iela 14",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.2996358",
@@ -669,7 +752,8 @@
         "city_id": 33,
         "shop_id": 90,
         "info": "<div class='point-content'>Rīgas iela 4d </br>\n        <span></span></div>",
-        "address": "Rīgas iela 4d"
+        "address": "Rīgas iela 4d",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9712662",
@@ -677,7 +761,8 @@
         "city_id": 1,
         "shop_id": 91,
         "info": "<div class='point-content'>Biķernieku iela 16a </br>\n        <span></span></div>",
-        "address": "Biķernieku iela 16a"
+        "address": "Biķernieku iela 16a",
+        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00"
     },
     {
         "x": "56.9572954",
@@ -685,7 +770,8 @@
         "city_id": 1,
         "shop_id": 92,
         "info": "<div class='point-content'>Brīvības iela 68 </br>\n        <span></span></div>",
-        "address": "Brīvības iela 68"
+        "address": "Brīvības iela 68",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.9124816",
@@ -693,7 +779,8 @@
         "city_id": 1,
         "shop_id": 93,
         "info": "<div class='point-content'>Graudu 10 </br>\n        <span></span></div>",
-        "address": "Graudu 10"
+        "address": "Graudu 10",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     },
     {
         "x": "56.4090079",
@@ -701,6 +788,7 @@
         "city_id": 5,
         "shop_id": 94,
         "info": "<div class='point-content'>Dārza 20 </br>\n        <span></span></div>",
-        "address": "Dārza 20"
+        "address": "Dārza 20",
+        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00"
     }
 ]
