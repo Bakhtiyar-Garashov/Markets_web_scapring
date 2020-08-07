@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7277edd-8e08-4e03-86cb-66d222e3821c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data extraction/Citro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data extraction/Test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data extraction/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data extraction/Aibe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data extraction/Aibe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data extraction/Citro.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Citro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,29 @@
       <recent name="C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\json_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Citro">
+  <component name="RunManager" selected="Python.Aibe">
+    <configuration name="Aibe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShopsScraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Aibe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Citro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,42 +153,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Top" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShopsScraping" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Top.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Top" />
       <item itemvalue="Python.Lats" />
       <item itemvalue="Python.Geo" />
       <item itemvalue="Python.Mego" />
       <item itemvalue="Python.Citro" />
+      <item itemvalue="Python.Aibe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aibe" />
         <item itemvalue="Python.Citro" />
         <item itemvalue="Python.Mego" />
         <item itemvalue="Python.Lats" />
         <item itemvalue="Python.Geo" />
-        <item itemvalue="Python.Top" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +201,7 @@
       <workItem from="1596721647306" duration="9218000" />
       <workItem from="1596732459879" duration="10560000" />
       <workItem from="1596747017670" duration="776000" />
-      <workItem from="1596779603328" duration="14717000" />
+      <workItem from="1596779603328" duration="15300000" />
     </task>
     <task id="LOCAL-00001" summary="New file added">
       <created>1596435634004</created>
@@ -310,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596747799783</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Citro extracted">
+      <created>1596796972306</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596796972306</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +345,8 @@
     <MESSAGE value="Lats store extracted" />
     <MESSAGE value="Mego store extracted" />
     <MESSAGE value="Fix citro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix citro" />
+    <MESSAGE value="Citro extracted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Citro extracted" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1596013038763">
@@ -363,30 +369,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596624834837" />
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596747798613">
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1596796970825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596747798613" />
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596796970825" />
     <state x="225" y="65" key="DiffContextDialog" timestamp="1596439025126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="225" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439025126" />
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1596796947275">
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom" timestamp="1596797654719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596796947275" />
-    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1596796947275">
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596797654719" />
+    <state width="1493" height="76" key="GridCell.Tab.0.center" timestamp="1596797654719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596796947275" />
-    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1596796947275">
+    <state width="1493" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596797654719" />
+    <state width="1493" height="76" key="GridCell.Tab.0.left" timestamp="1596797654719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596796947275" />
-    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1596796947275">
+    <state width="1493" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596797654719" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right" timestamp="1596797654719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596796947275" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596797654719" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596633483115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -407,10 +413,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="615" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439068593" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596747802645">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596796975667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596747802645" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596796975667" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596439033102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -430,6 +436,7 @@
     <SUITE FILE_PATH="coverage/ShopsScraping$DB.coverage" NAME="DB Coverage Results" MODIFIED="1596008525875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Mego.coverage" NAME="Mego Coverage Results" MODIFIED="1596744769034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Top.coverage" NAME="Top Coverage Results" MODIFIED="1596627419879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Aibe.coverage" NAME="Aibe Coverage Results" MODIFIED="1596797654709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Geo__1_.coverage" NAME="Geo (1) Coverage Results" MODIFIED="1596180826392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Citro.coverage" NAME="Citro Coverage Results" MODIFIED="1596796947266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Processing.coverage" NAME="Processing Coverage Results" MODIFIED="1595422324611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
