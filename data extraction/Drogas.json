@@ -1,0 +1,3079 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          24.132353,
+          56.954312
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "10",
+        "address": "A. Čaka iela 53",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.150003,
+          56.967809
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "11",
+        "address": "Brīvības iela 194",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.071755,
+          56.932252
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "112",
+        "address": "Mārupes iela 15a",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.126427,
+          56.99544
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "114",
+        "address": "Sarkandaugavas iela 2",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.190765,
+          56.95778
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "115",
+        "address": "G. Astras iela 2/2, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.069246,
+          56.935109
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "116",
+        "address": "Pilsoņu  iela 1c, T/C \"Āgenskalns\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.174256,
+          56.915856
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "117",
+        "address": "Maskavas iela 250",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.217577,
+          56.943584
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "118",
+        "address": "Ulbrokas iela 22a, T/C \"Supernetto\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.174795,
+          56.959216
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "119",
+        "address": "Nīcgales iela 2, T/C \"Minska\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "true",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.000011,
+          56.949045
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "120",
+        "address": "Zolitūdes iela 34, T/C \"Rimi\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.203089,
+          56.9826
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "121",
+        "address": "Brīvības gatve 372, T/C \"Alfa\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 22:00",
+          "S: 10:00-22:00",
+          "Sv: 10:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.191412,
+          56.905715
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "122",
+        "address": "Maskavas iela 357, T/C \"Dole\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.242169,
+          56.989272
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "123",
+        "address": "Brīvības gatve 432",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.037244,
+          56.929646
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "124",
+        "address": "Lielirbes iela 29, T/C \"Spice\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 22:00",
+          "S: 10:00-22:00",
+          "Sv: 10:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.202291,
+          56.937936
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "125",
+        "address": "A. Saharova iela 21, T/C \"Tālava\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.23603,
+          56.96877
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "126",
+        "address": "GAIĻEZERA 8",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "RĪGA",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.082135,
+          56.907935
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "127",
+        "address": "Vienības gatve 111, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.065085,
+          56.945483
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "128",
+        "address": "Melnsila iela 22",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.11021,
+          57.031987
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "131",
+        "address": " Melidas iela 9",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.9961,
+          56.9595666
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "132",
+        "address": "Kurzemes prospekts 141, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.012888,
+          56.960669
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "135",
+        "address": "Anniņmuižas bulvāris 40a, T/C \"Rimi\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 22:00",
+          "S: 10:00-22:00",
+          "Sv: 10:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.04817,
+          57.032666
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "136",
+        "address": "Stūrmaņu iela 29, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.106554,
+          56.923026
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "137",
+        "address": "Mūkusalas iela 73, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 22:00",
+          "S: 10:00-22:00",
+          "Sv: 10:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.097153,
+          56.903184
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "138",
+        "address": "Dižozolu iela 21",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.1719,
+          56.96598
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "139",
+        "address": "IERIĶU 3, t/c \"DOMINA\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "RĪGA",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.115279,
+          56.957099
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "14",
+        "address": "Kr. Valdemāra iela 14",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.187003,
+          56.948594
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "140",
+        "address": "A. Deglava iela 100, T/C \"Supernetto\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.180828,
+          56.927742
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "141",
+        "address": "Rencēnu iela 1, T/C \"Ozols\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.18542,
+          56.95834
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "142",
+        "address": "Stirnu iela 26,  T/C “Rimi”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.239429,
+          56.956632
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "143",
+        "address": "Biķernieku iela 143, T/C “Mežciems”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.024842,
+          56.9291181
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "144",
+        "address": "Ulmaņa gatve 88a, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.050759,
+          56.9602758
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "145",
+        "address": "Mazā stacijas iela 2a",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.14281,
+          56.93474
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "15",
+        "address": "KRASTA 46, t/c \"MOLS\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "RĪGA",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.207777,
+          56.9413848
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "152",
+        "address": "Rīga, A.Saharova iela 20, T/C Maxima",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.0764814,
+          56.8958176
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "153",
+        "address": "Vienības gatve 194 A, T/C \"Aleja\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.12205,
+          56.94935
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "16",
+        "address": "MARIJAS 9",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "RĪGA",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.11018,
+          56.95794
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "17",
+        "address": "Antonijas iela 9",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.121736,
+          56.956349
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "18",
+        "address": "Brīvības iela 58",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.132902,
+          56.950547
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "19",
+        "address": "Avotu iela 26",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.1188,
+          56.946881
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "21",
+        "address": "Stacijas laukums 2, T/C \"Origo\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 08:00 - 22:00",
+          "S: 08:00-22:00",
+          "Sv: 08:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.13315,
+          56.970995
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "22",
+        "address": "Kr. Valdemāra iela 145/1",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.112714,
+          56.947583
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "23",
+        "address": " Audēju iela 16, T/C \"Galerija Centrs\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.132866,
+          56.957162
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "24",
+        "address": "Kr. Barona iela 63",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.0377884,
+          56.9603957
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "25",
+        "address": "Slokas iela 115, T/C „Maxima”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.105834,
+          56.925626
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "26",
+        "address": "Mūkusalas iela 71, T/C \"Rīga Plaza\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.038032,
+          56.954073
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "27",
+        "address": "Kurzemes prospekts 1, T/C \"Damme\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.2338277,
+          56.88724
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "28",
+        "address": "Rīga, Maskavas iela 257, T/C Akropole",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 22:00",
+          "S: 10:00-22:00",
+          "Sv: 10:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.727182,
+          56.645385
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "302",
+        "address": "Pasta iela 51/8",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Jelgava",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.011248,
+          56.509261
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "303",
+        "address": "Lielā iela 12",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Liepāja",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.417332,
+          57.538164
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "304",
+        "address": "Rīgas iela 20",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Valmiera",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.0399238,
+          57.4293582
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "307",
+        "address": "Pils iela 9b",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Alūksne",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.003916,
+          56.491788
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "308",
+        "address": "Klaipēdas iela 62, T/C \"Sala XL\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Liepāja",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.188568,
+          56.405877
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "309",
+        "address": "Pionieru iela 2",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Bauska",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.138564,
+          56.896421
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "310",
+        "address": "Ķekavas novads, Ķekavas pagasts „Džutas”, T/C „A7”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ķekava",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.3405176,
+          56.523372
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "311",
+        "address": "Atbrīvošanas aleja 141a, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rēzekne",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.859698,
+          57.144488
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "312",
+        "address": "Vidzemes šoseja 16, T/C \"Raibais Suns\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Sigulda",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.278589,
+          57.314717
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "313",
+        "address": "Uzvaras bulvāris 3",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Cēsis",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P: 08:30-21:00",
+          "O: 08:30-21:00",
+          "T: 08:30-21:00",
+          "C: 08:30-21:00",
+          "Pk: 09:00-21:00",
+          "S: 08:30-21:00",
+          "Sv: 09:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.331894,
+          56.508849
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "314",
+        "address": "Atbrīvošanas aleja 101",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rēzekne",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.798265,
+          56.972404
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "315",
+        "address": "Jomas iela 36",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Jūrmala",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.61538,
+          56.960875
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "317",
+        "address": "Talsu šoseja 29, T/C \"Rimi\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Kauguri",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.587158,
+          57.244299
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "318",
+        "address": "Lielā iela 1",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Talsi",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.565126,
+          57.393767
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "319",
+        "address": "Kuldīgas iela 21",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ventspils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.867182,
+          56.497079
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "320",
+        "address": "Pasta iela 10",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Jēkabpils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.960615,
+          56.968481
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "321",
+        "address": "Liepajas iela 44",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Kuldīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.938605,
+          56.78504
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "322",
+        "address": "Zemgales iela 27a",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Olaine",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.903551,
+          57.424213
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "323",
+        "address": "Baznīcas laukums 2, T/C \"Centrs\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Smiltene",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.427994,
+          57.529836
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "324",
+        "address": "Meža iela 7",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Valmiera",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.518359,
+          55.871855
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "325",
+        "address": "Rīgas iela 9, T/C \"Solo\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Daugavpils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.335142,
+          56.855359
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "326",
+        "address": "Skolas iela 4b",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Salaspils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.59506,
+          56.820939
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "327",
+        "address": "Mālkalnes iela 2b",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ogre",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.018453,
+          56.514758
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "328",
+        "address": "Jaunā ostmala3/5, T/C “Rietumu centrs”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Liepāja",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.746911,
+          56.661903
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "329",
+        "address": "Rīgas iela 11, T/C \"Valdeka\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Jelgava",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.525993,
+          55.900006
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "330",
+        "address": "Raipoles iela 11a, T/C \"Aveņu Centrs\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Daugavpils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.220304,
+          56.851092
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "331",
+        "address": "Saules iela 4",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Madona",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.174207,
+          56.355693
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "332",
+        "address": "Domes iela 4, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Līvāni",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.757243,
+          57.174468
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "334",
+        "address": "Rīgas iela 46a",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Gulbene",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          21.580114,
+          57.38768
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "335",
+        "address": "Lielais prospekts 3/5, T/C \"Tobago\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ventspils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.495306,
+          56.665525
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "336",
+        "address": "Striķu iela 10c, T/C \"Akvārijs\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Saldus",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.31985,
+          57.072367
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "337",
+        "address": "Rīgas gatve 5, T/C \"Apelsīns\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ādaži",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.58465,
+          56.816533
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "338",
+        "address": "Rīgas iela 23, T/C \"Dauga\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ogre",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 10:00 - 21:00",
+          "S: 10:00-21:00",
+          "Sv: 10:00-20:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.158159,
+          56.965119
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "339",
+        "address": "Pasta iela 14, T/C „Rimi”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Tukums",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.716145,
+          57.512118
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "340",
+        "address": "Rīgas iela 7",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Limbaži",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.164022,
+          55.896077
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "341",
+        "address": "Rīgas iela 34",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Krāslava",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.232178,
+          56.831747
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "342",
+        "address": "Rīgas iela 22a, T/C \"Liiba\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Ķekava",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.259156,
+          56.610124
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "343",
+        "address": "Gaismas iela 35, T/C “IGA”",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Aizkraukle",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.283085,
+          56.624751
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "344",
+        "address": "Baznīcas iela 14, T/C \"Maxima\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Dobele",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.878393,
+          56.495469
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "345",
+        "address": "Vienības iela 7, T/C \"Sēlija\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Jēkabpils",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 09:00-21:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.27721,
+          57.309586
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "346",
+        "address": "Raiņa iela 26/28, T/C \"Globuss\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Cēsis",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.844538,
+          57.14332
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "347",
+        "address": "Strēlnieku iela 2, T/C \"Šokolāde\"",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Sigulda",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 22:00",
+          "S: 09:00-22:00",
+          "Sv: 09:00-22:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.0152111,
+          57.785437
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "349",
+        "address": "Ausekļa iela",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Valka",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.121173,
+          56.953895
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "5",
+        "address": "Tērbatas iela 9/11",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.143608,
+          56.935152
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "8",
+        "address": "KAĻĶU 5",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "RĪGA",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.11836,
+          56.949596
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "longDescription": null,
+        "images": {},
+        "code": "9",
+        "address": "Kr. Barona iela 4",
+        "quantity": null,
+        "distance": "0.00 ",
+        "weekSchedule": null,
+        "shippingMessage": null,
+        "clickAndCollectAvailable": "false",
+        "feature": "1",
+        "storeName": "Rīga",
+        "saturdaySchedule": null,
+        "workingHoursTitle": "Darba laiks",
+        "sundaySchedule": null,
+        "dayRange": null,
+        "workingHours": [
+          "P-Pk: 09:00 - 21:00",
+          "S: 09:00-21:00",
+          "Sv: 10:00-19:00"
+        ],
+        "storeContent": null
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "storeListStoreContentVisible": true
+}

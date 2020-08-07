@@ -41,7 +41,7 @@ def scrap_elvi(url):
 
 
 def get_html_data(chain_url):
-    time.sleep(2)
+
     response = requests.get(chain_url)
     soup = BeautifulSoup(response.content, 'html.parser')
     info_div = soup.find('div', attrs={'class': 'info'})
