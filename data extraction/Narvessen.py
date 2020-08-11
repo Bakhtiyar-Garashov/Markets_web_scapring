@@ -18,8 +18,8 @@ def scrap_narvessen(url):
     raw_json = re.findall(r"\{.*}", repr(all_scripts[2]))
 
     with open("Narvessen.json", 'w+') as f:
-        data = json.dumps(raw_json[0], ensure_ascii=False, indent=5)
-        f.write(json.loads(data))
+        made_result = json.dumps(raw_json[0], ensure_ascii=False, indent=5)
+        f.write(json.loads(made_result))
 
 
 scrap_narvessen(url)
@@ -65,9 +65,9 @@ def make_geojson(data):
 
 
 with open('Narvessen.json', 'r', encoding='utf8') as f:
-    data = json.loads(f.read())
-    geo_out = make_geojson(data)
+    json_input = json.loads(f.read())
+    geo_out = make_geojson(json_input)
 
     with open(os.path.join(SAVE_PATH, "Narvessen_out.json"), "w+", encoding='utf8') as fayl:
-        fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=5))
+        fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=6))
         print("Narvessen extracted successfully!")

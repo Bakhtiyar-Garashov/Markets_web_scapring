@@ -68,9 +68,9 @@ def get_needed_data(original):
 
 def final_name(init, tip):
     if tip == 'veikals' or tip == 'degvielas-uzpildes-stacija-dus':
-        return init + " (veikals)"
+        return init.strip() + " (veikals)"
     elif tip == 'kiosks':
-        return init + " (kiosks)"
+        return init.strip() + " (kiosks)"
 
 
 def prettify_tag_name(entry):
