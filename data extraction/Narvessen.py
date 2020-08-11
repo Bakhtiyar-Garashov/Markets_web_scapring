@@ -1,11 +1,13 @@
 import json
 import requests
 import re
-import time
+import os
 from bs4 import BeautifulSoup
 import Geo
 
 url = "https://narvesen.lv/"
+
+SAVE_PATH = r"C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\GeoJson results"
 
 
 def scrap_narvessen(url):
@@ -66,6 +68,6 @@ with open('Narvessen.json', 'r', encoding='utf8') as f:
     data = json.loads(f.read())
     geo_out = make_geojson(data)
 
-    with open("Narvessen_out.json", "w+", encoding='utf8') as fayl:
+    with open(os.path.join(SAVE_PATH, "Narvessen_out.json"), "w+", encoding='utf8') as fayl:
         fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=5))
         print("Narvessen extracted successfully!")
