@@ -25,7 +25,8 @@ scrap_narvessen(url)
 
 def make_geojson(data):
     most_final = {"type": "FeatureCollection", "features": []}
-    print("Narvessen extracting....")
+
+    print("Narvessen extracting......")
 
     for entry, value in data.items():
         for acar, qiymet in value.items():
@@ -55,10 +56,9 @@ def make_geojson(data):
                 final['type'] = "Feature"
                 final['geometry'] = {"type": "Point", "coordinates": coordinates}
                 final['properties'] = props
-                final = Geo.apdz_vietas_filter(final)
+                # final = Geo.apdz_vietas_filter(final)
                 most_final['features'].append(final)
 
-    # most_final = {"type": "FeatureCollection", "features": [final]}
     return most_final
 
 

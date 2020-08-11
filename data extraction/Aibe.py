@@ -11,5 +11,9 @@ def scrap_aibe(url):
     with open("Aibe.json", "w+", encoding='utf8') as f:
         f.write(json.dumps(raw_json, ensure_ascii=False, indent=5))
 
+    return json.loads(json.dumps(raw_json, ensure_ascii=False, indent=4))
+
 
 scrap_aibe(url)
+
+

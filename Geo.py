@@ -66,6 +66,34 @@ def get_needed_data(original):
     return data_dict
 
 
+def final_name(init, tip):
+    if tip == 'veikals' or tip == 'degvielas-uzpildes-stacija-dus':
+        return init + " (veikals)"
+    elif tip == 'kiosks':
+        return init + " (kiosks)"
+
+
+def prettify_tag_name(entry):
+    result = dict()
+    for key, value in entry.items():
+        new_key = key.replace(':', '_')
+        result[new_key] = value
+    return result
+
+
+def apdz_vietas_filter(data):
+    result = dict()
+    validApdzVietas = ['Rīga', 'Valmiera', 'Cēsis', 'Kuldīga', 'Jelgava', 'Daugavpils', 'Ventspils', 'Liepāja',
+                       'Sigulda', 'Tukums', 'Bauska', 'Ādaži']
+
+    apdzVieta = data['properties']["APDZ_VIETA"]
+
+    if apdzVieta in validApdzVietas:
+        result = data
+
+    return result if result else None
+
+
 # db process
 def get_info(lat, lon):
     connection = DB.connect_db()
@@ -77,7 +105,7 @@ def get_info(lat, lon):
         curs.execute("SELECT original from osm_poi where lat=%s and lon=%s", (lat, lon))
         original_data = curs.fetchall()
         original_data = json.loads(original_data[0][0])
-        print(original_data)
+
         return get_needed_data(original_data)
     else:
         # record doesnt exist- add it into db
@@ -92,9 +120,3 @@ def get_info(lat, lon):
         connection.commit()
         print("New poi added successfully")
         return parsed_data
-
-
-lat = 56.979878787
-lon = 14.418418484
-
-print(get_info(lat, lon))

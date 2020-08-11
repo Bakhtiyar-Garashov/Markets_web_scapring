@@ -13,7 +13,6 @@ db_config = {
 def connect_db():
     try:
         my_db = mysql.connector.connect(**db_config)
-        print("Successfully connected to DB")
         return my_db
     except mysql.connector.Error as err:
         if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
