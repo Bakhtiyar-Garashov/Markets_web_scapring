@@ -1,7 +1,8 @@
 import json
 import requests
 import re
-import time
+import os
+import Geo
 from bs4 import BeautifulSoup
 
 url = "https://www.latts.lv/lv/veikali"
@@ -41,3 +42,46 @@ def scrap_lats(url):
 
 
 scrap_lats(url)
+
+
+def make_geojson(data):
+    most_final = {"type": "FeatureCollection", "features": []}
+    print("Lats extracting......")
+    # iterate over dictionary
+    for each in data:
+        lat = float(each["lat"].strip()[:17])
+        lon = float(each["lon"].strip()[:17])
+        coordinates = [lon, lat]
+        dms_lat = Geo.fraction_to_min_sec(coordinates[1]) + " N"
+        dms_lon = Geo.fraction_to_min_sec(coordinates[0]) + " E"
+        X = coordinates[0]
+        Y = coordinates[1]
+        X1 = dms_lon
+        Y1 = dms_lat
+        props = dict()
+        additional_props = Geo.get_info(lat, lon)
+        props.update(each)
+        props.update(additional_props)
+        final = dict()
+        props['NOSAUKUMS'] = "Lats"
+        props['SUBCATEGORY'] = "Lats"
+        props['GRUPA'] = 'Pārtikas/mājsaimniecības preču tīklu veikali'
+        props['X'] = X
+        props['Y'] = Y
+        props['X1'] = X1
+        props['Y1'] = Y1
+        final['type'] = "Feature"
+        final['geometry'] = {"type": "Point", "coordinates": coordinates}
+        final['properties'] = props
+        most_final['features'].append(final)
+
+    return most_final
+
+
+with open('Lats.json', 'r', encoding='utf8') as f:
+    data = json.loads(f.read())
+    geo_out = make_geojson(data)
+
+    with open(os.path.join(Geo.SAVE_PATH, "Lats_out.json"), "w+", encoding='utf8') as fayl:
+        fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=6))
+        print("Lats extracted successfully!")
