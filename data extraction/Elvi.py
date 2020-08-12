@@ -1,7 +1,8 @@
 import json
 import requests
 import re
-import time
+import os
+import Geo
 from bs4 import BeautifulSoup
 
 url = "http://elvi.lv/elvi-veikali/"
@@ -41,7 +42,6 @@ def scrap_elvi(url):
 
 
 def get_html_data(chain_url):
-
     response = requests.get(chain_url)
     soup = BeautifulSoup(response.content, 'html.parser')
     info_div = soup.find('div', attrs={'class': 'info'})
@@ -56,3 +56,48 @@ def get_html_data(chain_url):
 
 
 scrap_elvi(url)
+
+
+def make_geojson(data):
+    most_final = {"type": "FeatureCollection", "features": []}
+    print("Elvi extracting......")
+    # iterate over dictionary
+    for each in data:
+        lat = float(each['data'][0]['lat'])
+        lon = float(each['data'][0]['lng'])
+        if lat != lon:
+            coordinates = [lon, lat]
+            dms_lat = Geo.fraction_to_min_sec(coordinates[1]) + " N"
+            dms_lon = Geo.fraction_to_min_sec(coordinates[0]) + " E"
+            X = coordinates[0]
+            Y = coordinates[1]
+            X1 = dms_lon
+            Y1 = dms_lat
+            props = dict()
+            additional_props = Geo.get_info(lat, lon)
+            props.update(each)
+            props.update(additional_props)
+            final = dict()
+            props['NOSAUKUMS'] = "Elvi"
+            props['SUBCATEGORY'] = 'Elvi'
+            props['GRUPA'] = 'Pārtikas/mājsaimniecības preču tīklu veikali'
+            props['X'] = X
+            props['Y'] = Y
+            props['X1'] = X1
+            props['Y1'] = Y1
+            final['type'] = "Feature"
+            final['geometry'] = {"type": "Point", "coordinates": coordinates}
+            final['properties'] = props
+            most_final['features'].append(final)
+
+    return most_final
+
+
+with open('Elvi.json', 'r', encoding='utf8') as f:
+    data = json.loads(f.read())
+    geo_out = make_geojson(data)
+
+    # save result as json/geojson in dir
+    with open(os.path.join(Geo.SAVE_PATH, "Elvi_out.json"), "w+", encoding='utf8') as fayl:
+        fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=6))
+        print("Elvi extracted successfully!")

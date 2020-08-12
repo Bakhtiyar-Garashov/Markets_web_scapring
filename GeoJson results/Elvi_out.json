@@ -1,0 +1,3805 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.317401,
+                              57.080481
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ādaži,Ādažunov.,Rīgasgatve51,LV-2164,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1580,
+                                    "link": "http://elvi.lv/veikali/adazi-elvi-veikals/",
+                                    "lat": 57.080481,
+                                    "lng": 24.317401,
+                                    "address": "Ādaži, Ādažu nov., \r\nRīgas gatve 51,\r\nLV-2164",
+                                    "email": "adazi.vaditajs@elvi.lv",
+                                    "phone": "26156271",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ādaži",
+                        "IELA": "Rīgas gatve",
+                        "indekss": "LV-2164",
+                        "MAJA": "51",
+                        "ADMIN_VIEN": "Ādažu novads",
+                        "TERIT_VIEN": "Ādažu novads",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.317401,
+                        "Y": 57.080481,
+                        "X1": "24°19'2.644\" E",
+                        "Y1": "57°4'49.732\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.257327,
+                              56.599852
+                        ]
+                  },
+                  "properties": {
+                        "value": "Aizkraukle,Lāčplēšaiela10,LV-5101,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1659,
+                                    "link": "http://elvi.lv/veikali/aizkraukle-elvi-veikals/",
+                                    "lat": 56.599852,
+                                    "lng": 25.257327,
+                                    "address": "Aizkraukle, Lāčplēša iela 10,\r\nLV-5101",
+                                    "email": "aizkraukle.vaditajs@elvi.lv",
+                                    "phone": "65121848, 28672532",
+                                    "working_hours": "P-Sv 8.00–22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Aizkraukle",
+                        "IELA": "Lāčplēša iela",
+                        "indekss": "LV-5101",
+                        "MAJA": "10",
+                        "ADMIN_VIEN": "Aizkraukles novads",
+                        "TERIT_VIEN": "Aizkraukles pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.257327,
+                        "Y": 56.599852,
+                        "X1": "25°15'26.377\" E",
+                        "Y1": "56°35'59.467\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.067139,
+                              56.482187
+                        ]
+                  },
+                  "properties": {
+                        "value": "Bēne,Aucesnov.,Stacijasiela9,LV-3711,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1684,
+                                    "link": "http://elvi.lv/veikali/bene-elvi-veikals/",
+                                    "lat": 56.482187,
+                                    "lng": 23.067139,
+                                    "address": "Bēne, Auces nov., Stacijas iela 9, \r\nLV-3711",
+                                    "email": "bene.vaditajs@elvi.lv",
+                                    "phone": "63758136",
+                                    "working_hours": "P-C 8.00-20.00, Pk, S 8.00-21.00, Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Bēne",
+                        "IELA": "Stacijas iela",
+                        "indekss": "LV-3711",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Auces novads",
+                        "TERIT_VIEN": "Bēnes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.067139,
+                        "Y": 56.482187,
+                        "X1": "23°4'1.7\" E",
+                        "Y1": "56°28'55.873\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.89431,
+                              56.464556
+                        ]
+                  },
+                  "properties": {
+                        "value": "Auce,Aucesnov.,Aspazijaslaukums3,LV-3708,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1635,
+                                    "link": "http://elvi.lv/veikali/auce-elvi-veikals/",
+                                    "lat": 56.464556,
+                                    "lng": 22.89431,
+                                    "address": "Auce, Aspazijas laukums 3, \r\nAuces nov.,\r\nLV-3708",
+                                    "email": "auce@elvi.lv",
+                                    "phone": "63745111, 26391926",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Auce",
+                        "IELA": "Aspazijas laukums",
+                        "indekss": "LV-3708",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Auces novads",
+                        "TERIT_VIEN": "Auces pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.89431,
+                        "Y": 56.464556,
+                        "X1": "22°53'39.516\" E",
+                        "Y1": "56°27'52.402\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.948424,
+                              56.95625
+                        ]
+                  },
+                  "properties": {
+                        "value": "Babīte,Babītespag.,Babītesnov.,Liepualeja15a,LV-2101,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1630,
+                                    "link": "http://elvi.lv/veikali/babite-elvi-veikals/",
+                                    "lat": 56.95625,
+                                    "lng": 23.948424,
+                                    "address": "Babīte,Babītes pag.,Babītes nov., \r\nLiepu aleja 15a,\r\nLV-2101",
+                                    "email": "babite.vaditajs@elvi.lv",
+                                    "phone": "29115113",
+                                    "working_hours": "P-S 8.00-21.00, Sv 8.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Babīte",
+                        "IELA": "Liepu aleja",
+                        "indekss": "LV-2101",
+                        "MAJA": "15A",
+                        "ADMIN_VIEN": "Babītes novads",
+                        "TERIT_VIEN": "Babītes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.948424,
+                        "Y": 56.95625,
+                        "X1": "23°56'54.326\" E",
+                        "Y1": "56°57'22.5\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.909531,
+                              56.94445
+                        ]
+                  },
+                  "properties": {
+                        "value": "Piņķi,Babītesnov.,Rīgasiela8,LV-2107,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1633,
+                                    "link": "http://elvi.lv/veikali/pinki-elvi-veikals/",
+                                    "lat": 56.94445,
+                                    "lng": 23.909531,
+                                    "address": "Piņķi, Rīgas iela 8, \r\nBabītes nov.,\r\nLV-2107",
+                                    "email": "pinki.vaditajs@elvi.lv",
+                                    "phone": "28212929",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Piņķi",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-2107",
+                        "MAJA": "8",
+                        "ADMIN_VIEN": "Babītes novads",
+                        "TERIT_VIEN": "Babītes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.909531,
+                        "Y": 56.94445,
+                        "X1": "23°54'34.312\" E",
+                        "Y1": "56°56'40.02\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.21836,
+                              56.598736
+                        ]
+                  },
+                  "properties": {
+                        "value": "Iecava,Bauskasnov.,Baldonesiela42,LV-3913,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1695,
+                                    "link": "http://elvi.lv/veikali/iecava-elvi-veikals/",
+                                    "lat": 56.598736,
+                                    "lng": 24.21836,
+                                    "address": "Baldones iela 42,\r\nIecava, Bauskas nov.,\r\nLV-3913",
+                                    "email": "iecava.vaditajs@elvi.lv",
+                                    "phone": "63942134",
+                                    "working_hours": "P-S 8.00-22.00, Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Iecava",
+                        "IELA": "Baldones iela",
+                        "indekss": "LV-3913",
+                        "MAJA": "42",
+                        "ADMIN_VIEN": "Iecavas novads",
+                        "TERIT_VIEN": "Iecavas novads",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.21836,
+                        "Y": 56.598736,
+                        "X1": "24°13'6.096\" E",
+                        "Y1": "56°35'55.45\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0539,
+                              56.439395
+                        ]
+                  },
+                  "properties": {
+                        "value": "Mežotne,Pilsiela6,Bauskasnov.,LV-3918,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1673,
+                                    "link": "http://elvi.lv/veikali/mezotne-elvi-veikals/",
+                                    "lat": 56.439395,
+                                    "lng": 24.0539,
+                                    "address": "Mežotne, Pils iela 6, \r\nBauskas nov., LV-3918",
+                                    "email": "mezotne.vaditajs@elvi.lv",
+                                    "phone": "27178861",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Mežotne",
+                        "IELA": "Pils iela",
+                        "indekss": "LV-3918",
+                        "MAJA": "6",
+                        "ADMIN_VIEN": "Bauskas novads",
+                        "TERIT_VIEN": "Mežotnes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0539,
+                        "Y": 56.439395,
+                        "X1": "24°3'14.04\" E",
+                        "Y1": "56°26'21.822\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.282859,
+                              56.36556
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ceraukste,Bauskasnov.,Skolasiela41,LV-3908,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1671,
+                                    "link": "http://elvi.lv/veikali/ceraukste-elvi-veikals/",
+                                    "lat": 56.36556,
+                                    "lng": 24.282859,
+                                    "address": "Ceraukste, Bauskas novads, \r\nSkolas iela 41, LV-3908",
+                                    "email": "ceraukste.vaditajs@elvi.lv",
+                                    "phone": "27874226",
+                                    "working_hours": "P-Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ceraukste",
+                        "IELA": "Visbijas iela",
+                        "indekss": "LV-3908",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Bauskas novads",
+                        "TERIT_VIEN": "Ceraukstes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.282859,
+                        "Y": 56.36556,
+                        "X1": "24°16'58.292\" E",
+                        "Y1": "56°21'56.016\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.179265,
+                              56.39561
+                        ]
+                  },
+                  "properties": {
+                        "value": "Bauska,Īslīcesiela7,LV-3901,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1669,
+                                    "link": "http://elvi.lv/veikali/bauska-elvi-veikals/",
+                                    "lat": 56.39561,
+                                    "lng": 24.179265,
+                                    "address": "Bauska, Īslīces iela 7, \r\nLV-3901",
+                                    "email": "bauska.vaditajs@elvi.lv",
+                                    "phone": "63927521, 26162202",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Bauska",
+                        "IELA": "Īslīces iela",
+                        "indekss": "LV-3901",
+                        "MAJA": "7",
+                        "ADMIN_VIEN": "Bauskas novads",
+                        "TERIT_VIEN": "Bauskas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.179265,
+                        "Y": 56.39561,
+                        "X1": "24°10'45.354\" E",
+                        "Y1": "56°23'44.196\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.15569,
+                              57.0807791
+                        ]
+                  },
+                  "properties": {
+                        "value": "Kalngale,Carnikavasnov.,Ērgļuiela1b,LV-2163,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 4530,
+                                    "link": "http://elvi.lv/veikali/kalngale-erglu-iela1b-carnikavas-novads-lv-2163/",
+                                    "lat": 57.0807791,
+                                    "lng": 24.15569,
+                                    "address": "Kalngale, Ērgļu iela1b, \r\nCarnikavas novads, LV-2163",
+                                    "email": "kalngale.vaditajs@elvi.lv",
+                                    "phone": "27772783",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Kalngale",
+                        "IELA": "Ērgļu iela",
+                        "indekss": "LV-2163",
+                        "MAJA": "12",
+                        "ADMIN_VIEN": "Carnikavas novads",
+                        "TERIT_VIEN": "Carnikavas novads",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.15569,
+                        "Y": 57.0807791,
+                        "X1": "24°9'20.484\" E",
+                        "Y1": "57°4'50.805\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.781679,
+                              55.746712
+                        ]
+                  },
+                  "properties": {
+                        "value": "Silene,Daugavpilsnov.,Skolasiela1,LV-5470,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1689,
+                                    "link": "http://elvi.lv/veikali/silene-elvi-veikals/",
+                                    "lat": 55.746712,
+                                    "lng": 26.781679,
+                                    "address": "Silene, Skrudalienas pag., Daugavpils nov.,\r\nSkolas iela 1,\r\nLV-5470",
+                                    "email": "veikals27@antaris.lv",
+                                    "phone": "27870027",
+                                    "working_hours": "P-S 8.00-20.00, Sv 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Silene",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-5470",
+                        "MAJA": "19",
+                        "ADMIN_VIEN": "Daugavpils novads",
+                        "TERIT_VIEN": "Skrudalienas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.781679,
+                        "Y": 55.746712,
+                        "X1": "26°46'54.044\" E",
+                        "Y1": "55°44'48.163\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.969343,
+                              56.664094
+                        ]
+                  },
+                  "properties": {
+                        "value": "Biksti,Dobelesnov.,Dzirnaviņas,LV-3713,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1675,
+                                    "link": "http://elvi.lv/veikali/biksti-elvi-veikals/",
+                                    "lat": 56.664094,
+                                    "lng": 22.969343,
+                                    "address": "Biksti, Dobeles nov., \r\n\"Dzirnaviņas\", LV-3713",
+                                    "email": "biksti.vaditajs@elvi.lv",
+                                    "phone": "26471329",
+                                    "working_hours": "P-Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Biksti",
+                        "IELA": "",
+                        "indekss": "LV-3713",
+                        "MAJA": "Kafejnīca",
+                        "ADMIN_VIEN": "Dobeles novads",
+                        "TERIT_VIEN": "Bikstu pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.969343,
+                        "Y": 56.664094,
+                        "X1": "22°58'9.635\" E",
+                        "Y1": "56°39'50.738\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.282825,
+                              56.617004
+                        ]
+                  },
+                  "properties": {
+                        "value": "Dobele,Skolasiela26-600,LV&#8211;3701,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1681,
+                                    "link": "http://elvi.lv/veikali/dobele-elvi-veikals/",
+                                    "lat": 56.617004,
+                                    "lng": 23.282825,
+                                    "address": "Dobele, Skolas iela 26-600, \r\nLV-3701",
+                                    "email": "dobele.vaditajs@elvi.lv",
+                                    "phone": "63724374, 28688544",
+                                    "working_hours": "P-S 8.00-20.00, Sv 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Dobele",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-3701",
+                        "MAJA": "26",
+                        "ADMIN_VIEN": "Dobeles novads",
+                        "TERIT_VIEN": "Dobeles pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.282825,
+                        "Y": 56.617004,
+                        "X1": "23°16'58.17\" E",
+                        "Y1": "56°37'1.214\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.391464,
+                              56.73539
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jaunbērze,Dobelesnov.,Ausmaņaiela5-2,LV-3717,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1679,
+                                    "link": "http://elvi.lv/veikali/jaunberze-elvi-veikals/",
+                                    "lat": 56.73539,
+                                    "lng": 23.391464,
+                                    "address": "Jaunbērze, Dobeles novads,\r\nAusmaņa iela 5-2, LV-3717",
+                                    "email": "jaunberze.vaditajs@elvi.lv",
+                                    "phone": "63723754",
+                                    "working_hours": "P-S 8.00–21.00, Sv 10.00–20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jaunbērze",
+                        "IELA": "Ausmaņa iela",
+                        "indekss": "LV-3717",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Dobeles novads",
+                        "TERIT_VIEN": "Jaunbērzes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.391464,
+                        "Y": 56.73539,
+                        "X1": "23°23'29.27\" E",
+                        "Y1": "56°44'7.404\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.228899,
+                              57.162255
+                        ]
+                  },
+                  "properties": {
+                        "value": "Engure,Engurespag.,Enguresnov.,Jūrasiela62,LV-3113,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1617,
+                                    "link": "http://elvi.lv/veikali/engure-elvi-veikals/",
+                                    "lat": 57.162255,
+                                    "lng": 23.228899,
+                                    "address": "Engure, Engures pag., \r\nEngures nov., Jūras iela 62,\r\nLV-3113",
+                                    "email": "Engure.vaditajs@elvi.lv",
+                                    "phone": " 20222896 ",
+                                    "working_hours": "P-S 8.00-22.00, Sv. 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Engure",
+                        "IELA": "Jūras iela",
+                        "indekss": "LV-3113",
+                        "MAJA": "60A",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Engures pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.228899,
+                        "Y": 57.162255,
+                        "X1": "23°13'44.036\" E",
+                        "Y1": "57°9'44.118\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.2572016,
+                              57.0198489
+                        ]
+                  },
+                  "properties": {
+                        "value": "Bukulti,Garkalnesnov.,Silkalni,LV-1024,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2871,
+                                    "link": "http://elvi.lv/veikali/bukulti-silkalni-garkalnes-nov-lv-1024/",
+                                    "lat": 57.0198489,
+                                    "lng": 24.2572016,
+                                    "address": "Bukulti, ''Silkalni'', Garkalnes nov.\r\nLV - 1024",
+                                    "email": "bukulti.vaditajs@elvi.lv",
+                                    "phone": "29170966",
+                                    "working_hours": "P-Sv 8.00-21.30"
+                              }
+                        ],
+                        "APDZ_VIETA": "Bukulti",
+                        "IELA": "Tīreļu iela",
+                        "indekss": "LV-1024",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Garkalnes novads",
+                        "TERIT_VIEN": "Garkalnes novads",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.2572016,
+                        "Y": 57.0198489,
+                        "X1": "24°15'25.926\" E",
+                        "Y1": "57°1'11.456\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.498843,
+                              56.8312
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ikšķile,Daugavasprospekts18a,LV-5052,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1613,
+                                    "link": "http://elvi.lv/veikali/ikskile-elvi-veikals/",
+                                    "lat": 56.8312,
+                                    "lng": 24.498843,
+                                    "address": "Ikšķile, Daugavas prospekts 18a, \r\nLV-5052",
+                                    "email": "ikskile.vaditajs@elvi.lv",
+                                    "phone": "26658368",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ikšķile",
+                        "IELA": "Daugavas prospekts",
+                        "indekss": "LV-5052",
+                        "MAJA": "18A",
+                        "ADMIN_VIEN": "Ikšķiles novads",
+                        "TERIT_VIEN": "Ikšķiles pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.498843,
+                        "Y": 56.8312,
+                        "X1": "24°29'55.835\" E",
+                        "Y1": "56°49'52.32\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.546969,
+                              57.092692
+                        ]
+                  },
+                  "properties": {
+                        "value": "Vangaži,Inčukalnanov.,Gaujasiela10,LV-2136,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1592,
+                                    "link": "http://elvi.lv/veikali/vangazi-elvi-veikals/",
+                                    "lat": 57.092692,
+                                    "lng": 24.546969,
+                                    "address": "Vangaži, Inčukalna nov.,\r\nGaujas iela 10,\r\nLV-2136",
+                                    "email": "vangazigaujas.vaditajs@elvi.lv",
+                                    "phone": "29383342",
+                                    "working_hours": "P-Pk 7:30 - 21:30 ; S-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Vangaži",
+                        "IELA": "Gaujas iela",
+                        "indekss": "LV-2136",
+                        "MAJA": "10",
+                        "ADMIN_VIEN": "Inčukalna novads",
+                        "TERIT_VIEN": "Vangažu pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.546969,
+                        "Y": 57.092692,
+                        "X1": "24°32'49.088\" E",
+                        "Y1": "57°5'33.691\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.685443,
+                              57.099143
+                        ]
+                  },
+                  "properties": {
+                        "value": "Inčukalns,Inčukalnapag.,Inčukalnanov.,Laimesiela1,LV-2141,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1628,
+                                    "link": "http://elvi.lv/veikali/incukalns-elvi-veikals/",
+                                    "lat": 57.099143,
+                                    "lng": 24.685443,
+                                    "address": "Inčukalns, Inčukalna pag.,\r\nInčukalna nov., Laimes iela 1,\r\nLV-2141",
+                                    "email": "incukalns@elvi.lv",
+                                    "phone": "67977134, 26576122",
+                                    "working_hours": "P-S 8.00-21.00, Sv. 8.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Inčukalns",
+                        "IELA": "Laimes iela",
+                        "indekss": "LV-2141",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Inčukalna novads",
+                        "TERIT_VIEN": "Inčukalna pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.685443,
+                        "Y": 57.099143,
+                        "X1": "24°41'7.595\" E",
+                        "Y1": "57°5'56.915\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.54342,
+                              57.090589
+                        ]
+                  },
+                  "properties": {
+                        "value": "Vangaži,Inčukalnanov.,Vidzemesiela10,LV-2137,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1593,
+                                    "link": "http://elvi.lv/veikali/vangazielvi-veikals/",
+                                    "lat": 57.090589,
+                                    "lng": 24.54342,
+                                    "address": "Vangaži, Inčukalna nov., \r\nVidzemes iela 10,\r\nLV-2137",
+                                    "email": "vangazi.vaditajs@elvi.lv",
+                                    "phone": "26511746",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Vangaži",
+                        "IELA": "Vidzemes iela",
+                        "indekss": "LV-2136",
+                        "MAJA": "10",
+                        "ADMIN_VIEN": "Inčukalna novads",
+                        "TERIT_VIEN": "Vangažu pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.54342,
+                        "Y": 57.090589,
+                        "X1": "24°32'36.312\" E",
+                        "Y1": "57°5'26.12\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.0607041,
+                              56.6157879
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jaunjelgava,Jaunjelgavasnov.,Jēkabpilsiela5,LV-5134,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2875,
+                                    "link": "http://elvi.lv/veikali/jaunjelgava-jekabpils-iela-5-jaunjelgavas-nov-lv-5134/",
+                                    "lat": 56.6157879,
+                                    "lng": 25.0607041,
+                                    "address": "Jaunjelgava, Jēkabpils iela 5, Jaunjelgavas nov.,\r\nLV-5134",
+                                    "email": "jaunjelgava.vaditajs@elvi.lv",
+                                    "phone": "28335835",
+                                    "working_hours": "P-S 8.00-20.30, Sv 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jaunjelgava",
+                        "IELA": "Saulkrastu iela",
+                        "indekss": "LV-5134",
+                        "MAJA": "18",
+                        "ADMIN_VIEN": "Jaunjelgavas novads",
+                        "TERIT_VIEN": "Jaunjelgavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.0607041,
+                        "Y": 56.6157879,
+                        "X1": "25°3'38.535\" E",
+                        "Y1": "56°36'56.836\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.48297,
+                              56.458411
+                        ]
+                  },
+                  "properties": {
+                        "value": "Sunākste,Jaunjelgavasnov.,Sunākstespag.,LV-5130,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1661,
+                                    "link": "http://elvi.lv/veikali/sunakste-elvi-veikals/",
+                                    "lat": 56.458411,
+                                    "lng": 25.48297,
+                                    "address": "Sunākste, Sunākstes pagasts, \r\nJaunjelgavas novads,\r\nLV-5130",
+                                    "email": "sunakste.vaditajs@elvi.lv",
+                                    "phone": "65129534",
+                                    "working_hours": "P-S 9.00–19.00, Sv 9.00–17.00. Ziemas periods P-Pk. 9.00- 18.00, S-Sv 9.00-17.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Sunākste",
+                        "IELA": "",
+                        "indekss": "LV-5130",
+                        "MAJA": "Ābeles",
+                        "ADMIN_VIEN": "Jaunjelgavas novads",
+                        "TERIT_VIEN": "Sunākstes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.48297,
+                        "Y": 56.458411,
+                        "X1": "25°28'58.692\" E",
+                        "Y1": "56°27'30.28\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.053038,
+                              57.180025
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jaunpiebalga,Jaunpiebalgasnov.,Gaujasiela6a,LV-4125,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1677,
+                                    "link": "http://elvi.lv/veikali/jaunpiebalga-elvi-veikals/",
+                                    "lat": 57.180025,
+                                    "lng": 26.053038,
+                                    "address": "Jaunpiebalga, Jaunpiebalgas novads, \r\nGaujas iela 6a, LV-4125",
+                                    "email": "jaunpiebalga.vaditajs@elvi.lv",
+                                    "phone": "28230579",
+                                    "working_hours": "P-Sv 8.00–21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jaunpiebalga",
+                        "IELA": "Gaujas iela",
+                        "indekss": "LV-4125",
+                        "MAJA": "6A",
+                        "ADMIN_VIEN": "Jaunpiebalgas novads",
+                        "TERIT_VIEN": "Jaunpiebalgas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.053038,
+                        "Y": 57.180025,
+                        "X1": "26°3'10.937\" E",
+                        "Y1": "57°10'48.09\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.986019,
+                              57.143447
+                        ]
+                  },
+                  "properties": {
+                        "value": "Abrupe,Jaunpiebalgasnov.,Jaunskrāģi,LV-4125,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1676,
+                                    "link": "http://elvi.lv/veikali/abrupe-elvi-veikals/",
+                                    "lat": 57.143447,
+                                    "lng": 25.986019,
+                                    "address": "Abrupe, Jaunpiebalgas nov., \r\n\"Jaunskrāģi\", LV-4125",
+                                    "email": "abrupe.vaditajs@elvi.lv",
+                                    "phone": "28239875, 28239875",
+                                    "working_hours": "P-Sv 8.00–20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Abrupe",
+                        "IELA": "",
+                        "indekss": "LV-4125",
+                        "MAJA": "Lejas Jaunskrāģi",
+                        "ADMIN_VIEN": "Jaunpiebalgas novads",
+                        "TERIT_VIEN": "Jaunpiebalgas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.986019,
+                        "Y": 57.143447,
+                        "X1": "25°59'9.668\" E",
+                        "Y1": "57°8'36.409\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.704196,
+                              56.650918
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jelgava,Jelgavasnov.,Lielāiela49,LV-3001,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1584,
+                                    "link": "http://elvi.lv/veikali/jelgava-elvi-veikals/",
+                                    "lat": 56.650918,
+                                    "lng": 23.704196,
+                                    "address": "Jelgava, Jelgavas nov.,\r\nLielā iela 49,\r\nLV-3001",
+                                    "email": "liela.vaditajs@elvi.lv",
+                                    "phone": "28679923",
+                                    "working_hours": "P-Sv. 7.30-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3001",
+                        "MAJA": "49",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.704196,
+                        "Y": 56.650918,
+                        "X1": "23°42'15.106\" E",
+                        "Y1": "56°39'3.305\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.72166,
+                              56.649139
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jelgava,Svētesiela9,LV-3001,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1691,
+                                    "link": "http://elvi.lv/veikali/jelgava-elvi-veikals-2/",
+                                    "lat": 56.649139,
+                                    "lng": 23.72166,
+                                    "address": "Jelgava, Svētes iela 9, \r\nLV-3001",
+                                    "email": "jelgava.svetesv@elvi.lv",
+                                    "phone": "26179378",
+                                    "working_hours": "P-C 8.00-21.00 Pk-Sv. 8.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Svētes iela",
+                        "indekss": "LV-3001",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.72166,
+                        "Y": 56.649139,
+                        "X1": "23°43'17.976\" E",
+                        "Y1": "56°38'56.9\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.705054,
+                              56.636612
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jelgava,Jelgavasnov.,Rūpniecībasiela77a,LV-3008,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1582,
+                                    "link": "http://elvi.lv/veikali/jelgavaelvi-veikals/",
+                                    "lat": 56.636612,
+                                    "lng": 23.705054,
+                                    "address": "Jelgava, Jelgavas nov., Rūpniecības iela 77a, LV-3008",
+                                    "email": "jelgava.vaditajs@elvi.lv",
+                                    "phone": "29166978",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Rūpniecības iela",
+                        "indekss": "LV-3008",
+                        "MAJA": "77A",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.705054,
+                        "Y": 56.636612,
+                        "X1": "23°42'18.194\" E",
+                        "Y1": "56°38'11.803\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.485733,
+                              56.695209
+                        ]
+                  },
+                  "properties": {
+                        "value": "Līvbērze,Jelgavasnov.Papeles,LV-3014,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1711,
+                                    "link": "http://elvi.lv/veikali/livberze-elvi-veikals/",
+                                    "lat": 56.695209,
+                                    "lng": 23.485733,
+                                    "address": "Līvbērze, Jelgavas nov. „Papeles”,\r\nLV-3014",
+                                    "email": "livberze.vaditajs@elvi.lv",
+                                    "phone": "65821780, 28625221",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Līvbērze",
+                        "IELA": "",
+                        "indekss": "LV-3014",
+                        "MAJA": "Papeles",
+                        "ADMIN_VIEN": "Jelgavas novads",
+                        "TERIT_VIEN": "Līvbērzes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.485733,
+                        "Y": 56.695209,
+                        "X1": "23°29'8.639\" E",
+                        "Y1": "56°41'42.752\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.711556,
+                              56.644331
+                        ]
+                  },
+                  "properties": {
+                        "value": "Vilce,Jelgavasnov.,Tērvetesiela6,LV-3026,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1651,
+                                    "link": "http://elvi.lv/veikali/vilce-elvi-veikals/",
+                                    "lat": 56.644331,
+                                    "lng": 23.711556,
+                                    "address": "Vilce, Tērvetes iela 6, \r\nVilces pag, Jelgavas nov.,\r\nLV-3026",
+                                    "email": "vilce.vaditajs@elvi.lv",
+                                    "phone": "29402131",
+                                    "working_hours": "P-Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Tērvetes iela",
+                        "indekss": "LV-3008",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.711556,
+                        "Y": 56.644331,
+                        "X1": "23°42'41.602\" E",
+                        "Y1": "56°38'39.592\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.713745,
+                              56.960994
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jūrmala,Mellužuprospekts40,LV-2008,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1618,
+                                    "link": "http://elvi.lv/veikali/jurmala/",
+                                    "lat": 56.960994,
+                                    "lng": 23.713745,
+                                    "address": "Jūrmala, Mellužu prospekts 40, \r\nLV-2008",
+                                    "email": "melluzi.vaditajs@elvi.lv",
+                                    "phone": "25685065",
+                                    "working_hours": "P-Sv. 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jūrmala",
+                        "IELA": "Mellužu prospekts",
+                        "indekss": "LV-2008",
+                        "MAJA": "40",
+                        "ADMIN_VIEN": "Jūrmala",
+                        "TERIT_VIEN": "Jūrmalas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.713745,
+                        "Y": 56.960994,
+                        "X1": "23°42'49.482\" E",
+                        "Y1": "56°57'39.578\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.68653,
+                              56.781645
+                        ]
+                  },
+                  "properties": {
+                        "value": "Kārsava,Vienībasiela72b,LV-5717,ELVIveikali",
+                        "data": [
+                              {
+                                    "id": 1688,
+                                    "link": "http://elvi.lv/veikali/karsava-elvi-veikali/",
+                                    "lat": 56.781645,
+                                    "lng": 27.68653,
+                                    "address": "Kārsava, Vienības iela 72b., \r\nLV-5717",
+                                    "email": "karsava.vaditajs@elvi.lv",
+                                    "phone": "65707208, 26582609",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Kārsava",
+                        "IELA": "Vienības iela",
+                        "indekss": "LV-5717",
+                        "MAJA": "72B",
+                        "ADMIN_VIEN": "Kārsavas novads",
+                        "TERIT_VIEN": "Kārsavas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.68653,
+                        "Y": 56.781645,
+                        "X1": "27°41'11.508\" E",
+                        "Y1": "56°46'53.922\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.71849,
+                              56.743745
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ķegums,Ķegumaprospekts5C,LV-5030,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1609,
+                                    "link": "http://elvi.lv/veikali/kegums-elvi-veikals/",
+                                    "lat": 56.743745,
+                                    "lng": 24.71849,
+                                    "address": "Ķegums, Ķeguma prospekts 5C,\r\nLV-5030",
+                                    "email": "kegums.vaditajs@elvi.lv",
+                                    "phone": "20284002",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ķegums",
+                        "IELA": "Ķeguma prospekts",
+                        "indekss": "LV-5020",
+                        "MAJA": "5A",
+                        "ADMIN_VIEN": "Ķeguma novads",
+                        "TERIT_VIEN": "Ķeguma pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.71849,
+                        "Y": 56.743745,
+                        "X1": "24°43'6.564\" E",
+                        "Y1": "56°44'37.482\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.416141,
+                              56.82182
+                        ]
+                  },
+                  "properties": {
+                        "value": "Daugmale,Ķekavasnov.,Ceļmalas,LV-2124,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1685,
+                                    "link": "http://elvi.lv/veikali/daugmale-elvi-veikals/",
+                                    "lat": 56.82182,
+                                    "lng": 24.416141,
+                                    "address": "Daugmale,\r\nĶekavas novads, \"Ceļmalas\",\r\nLV-2124",
+                                    "email": "daugmale.vaditajs@elvi.lv",
+                                    "phone": "24114470",
+                                    "working_hours": "8.00-21:00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Daugmale",
+                        "IELA": "",
+                        "indekss": "LV-2124",
+                        "MAJA": "Ceļmalas",
+                        "ADMIN_VIEN": "Ķekavas novads",
+                        "TERIT_VIEN": "Daugmales pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.416141,
+                        "Y": 56.82182,
+                        "X1": "24°24'58.108\" E",
+                        "Y1": "56°49'18.552\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.231777,
+                              56.832024
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ķekava,Ķekavasnov.,Rīgasiela22a,LV-2123,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1586,
+                                    "link": "http://elvi.lv/veikali/kekava-elvi-veikals/",
+                                    "lat": 56.832024,
+                                    "lng": 24.231777,
+                                    "address": "Ķekava, Ķekavas nov.,\r\nRīgas iela 22a,\r\nLV-2123",
+                                    "email": "kekava.vaditajs@elvi.lv",
+                                    "phone": "28644687",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ķekava",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-2123",
+                        "MAJA": "22A",
+                        "ADMIN_VIEN": "Ķekavas novads",
+                        "TERIT_VIEN": "Ķekavas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.231777,
+                        "Y": 56.832024,
+                        "X1": "24°13'54.397\" E",
+                        "Y1": "56°49'55.286\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.433112,
+                              56.645062
+                        ]
+                  },
+                  "properties": {
+                        "value": "Koknese,Lāčplēšaiela5,LV-5113,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1658,
+                                    "link": "http://elvi.lv/veikali/koknese-elvi-veikals/",
+                                    "lat": 56.645062,
+                                    "lng": 25.433112,
+                                    "address": "Koknese, Lāčplēša iela 5, \r\nLV-5113",
+                                    "email": "koknese.vaditajs@elvi.lv",
+                                    "phone": "65161336",
+                                    "working_hours": "P-Sv 8.00–20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Koknese",
+                        "IELA": "Lāčplēša iela",
+                        "indekss": "LV-5113",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Kokneses novads",
+                        "TERIT_VIEN": "Kokneses pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.433112,
+                        "Y": 56.645062,
+                        "X1": "25°25'59.203\" E",
+                        "Y1": "56°38'42.223\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.7121102,
+                              57.1808
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ragana,Tirgusiela10,LV-2144,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2372,
+                                    "link": "http://elvi.lv/veikali/ragana-tirgus-iela-10-lv-2144/",
+                                    "lat": 57.1808,
+                                    "lng": 24.7121102,
+                                    "address": "Ragana, Tirgus iela 10,\r\nLV-2144",
+                                    "email": "ragana.vaditajs@elvi.lv",
+                                    "phone": "20277093",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ragana",
+                        "IELA": "",
+                        "indekss": "LV-2144",
+                        "MAJA": "Liediņi",
+                        "ADMIN_VIEN": "Krimuldas novads",
+                        "TERIT_VIEN": "Krimuldas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.7121102,
+                        "Y": 57.1808,
+                        "X1": "24°42'43.597\" E",
+                        "Y1": "57°10'50.88\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.95804,
+                              56.973568
+                        ]
+                  },
+                  "properties": {
+                        "value": "Kuldīga,Kuldīgasnov.,Gravasiela1,LV-3301,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1596,
+                                    "link": "http://elvi.lv/veikali/kuldiga-elvi-veikals/",
+                                    "lat": 56.973568,
+                                    "lng": 21.95804,
+                                    "address": "Kuldīga, Kuldīgas nov., \r\nGravas iela 1,\r\nLV-3301",
+                                    "email": "gravas.vaditajs@elvi.lv",
+                                    "phone": "25731902",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Gravas iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.95804,
+                        "Y": 56.973568,
+                        "X1": "21°57'28.944\" E",
+                        "Y1": "56°58'24.845\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.972203,
+                              56.6753
+                        ]
+                  },
+                  "properties": {
+                        "value": "Jumprava,Lielvārdesnov.,Ceriņuiela3,LV-5022,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1649,
+                                    "link": "http://elvi.lv/veikali/jumprava-elvi-veikals/",
+                                    "lat": 56.6753,
+                                    "lng": 24.972203,
+                                    "address": "Jumprava, Ceriņu iela 3, \r\nJumpravas pagasts,\r\nLV-5022",
+                                    "email": "jumprava.vaditajs@elvi.lv",
+                                    "phone": "20216288",
+                                    "working_hours": "P-S 8.00-22.00, Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Jumprava",
+                        "IELA": "Daugavas iela",
+                        "indekss": "LV-5022",
+                        "MAJA": "15",
+                        "ADMIN_VIEN": "Lielvārdes novads",
+                        "TERIT_VIEN": "Jumpravas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.972203,
+                        "Y": 56.6753,
+                        "X1": "24°58'19.931\" E",
+                        "Y1": "56°40'31.08\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.0195661,
+                              56.4895173
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,EduardaTisēiela71a,LV-3407,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2574,
+                                    "link": "http://elvi.lv/veikali/liepaja-eduarda-tise-iela-71a-lv-3407/",
+                                    "lat": 56.4895173,
+                                    "lng": 21.0195661,
+                                    "address": "Liepāja, Eduarda Tisē iela 71a,\r\nLV-3407",
+                                    "email": "liepajatise.vaditajs@elvi.lv",
+                                    "phone": "26130534",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Dzērves iela",
+                        "indekss": "LV-3411",
+                        "MAJA": "56",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.0195661,
+                        "Y": 56.4895173,
+                        "X1": "21°1'10.438\" E",
+                        "Y1": "56°29'22.262\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.069262,
+                              56.546691
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,Talsuiela47,LV-3414,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1703,
+                                    "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-4/",
+                                    "lat": 56.546691,
+                                    "lng": 21.069262,
+                                    "address": "Liepāja, Talsu iela 47, \r\nLV-3414",
+                                    "email": "liepajat.vaditajs@elvi.lv",
+                                    "phone": "20240488",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Talsu iela",
+                        "indekss": "LV-3414",
+                        "MAJA": "47",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.069262,
+                        "Y": 56.546691,
+                        "X1": "21°4'9.343\" E",
+                        "Y1": "56°32'48.088\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.015221,
+                              56.515532
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,Rīgasiela10,LV-3401,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1702,
+                                    "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-3/",
+                                    "lat": 56.515532,
+                                    "lng": 21.015221,
+                                    "address": "Liepāja, Rīgas iela 10,\r\nLV-3401",
+                                    "email": "liepajar.vaditajs@elvi.lv",
+                                    "phone": "27322596",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-3401",
+                        "MAJA": "10",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.015221,
+                        "Y": 56.515532,
+                        "X1": "21°0'54.796\" E",
+                        "Y1": "56°30'55.915\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.001776,
+                              56.500937
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,Dzintaruiela25/27,LV-3401,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1701,
+                                    "link": "http://elvi.lv/veikali/liepaja-elvi-veikals-2/",
+                                    "lat": 56.500937,
+                                    "lng": 21.001776,
+                                    "address": "Liepāja, Dzintaru iela 25/27, \r\nLV-3401",
+                                    "email": "liepajad.vaditajs@elvi.lv",
+                                    "phone": "25624646",
+                                    "working_hours": "P-Sv 8.00 - 22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Dzintaru iela",
+                        "indekss": "LV-3401",
+                        "MAJA": "25/27",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.001776,
+                        "Y": 56.500937,
+                        "X1": "21°0'6.394\" E",
+                        "Y1": "56°30'3.373\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.019124,
+                              56.50255
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,Ganībuiela69/71,LV-3401,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1603,
+                                    "link": "http://elvi.lv/veikali/liepaja-elvi-veikals/",
+                                    "lat": 56.50255,
+                                    "lng": 21.019124,
+                                    "address": "Liepāja, Ganību iela 69/71, \r\nLV-3401",
+                                    "email": "liepaja.vaditajs@elvi.lv",
+                                    "phone": "26435962",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Ganību iela",
+                        "indekss": "LV-3401",
+                        "MAJA": "69/71",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.019124,
+                        "Y": 56.50255,
+                        "X1": "21°1'8.846\" E",
+                        "Y1": "56°30'9.18\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.0071894,
+                              56.5114891
+                        ]
+                  },
+                  "properties": {
+                        "value": "Liepāja,Jūrasiela17,LV-3401,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 4923,
+                                    "link": "http://elvi.lv/veikali/liepaja-juras-iela-17-lv-3401/",
+                                    "lat": 56.5114891,
+                                    "lng": 21.0071894,
+                                    "address": "Liepāja, Jūras iela 17, LV-3401",
+                                    "email": "liepajajuras.vaditajs@elvi.lv",
+                                    "phone": "20237663",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Kuģinieku iela",
+                        "indekss": "LV-3401",
+                        "MAJA": "15",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.0071894,
+                        "Y": 56.5114891,
+                        "X1": "21°0'25.882\" E",
+                        "Y1": "56°30'41.361\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.035185,
+                              57.183336
+                        ]
+                  },
+                  "properties": {
+                        "value": "Augšlīgatne,Līgatnesnov.,Nītauresiela5,LV-4108,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1591,
+                                    "link": "http://elvi.lv/veikali/augsligatne-elvi-veikals/",
+                                    "lat": 57.183336,
+                                    "lng": 25.035185,
+                                    "address": "Augšlīgatne,Līgatnes nov.,\r\nNītaures iela 5,\r\nLV-4108",
+                                    "email": "ligatne.vaditajs@elvi.lv",
+                                    "phone": "26382869",
+                                    "working_hours": "Maijs-Sept. 8.00-22.00, Okt.-Apr. P-C 8.00-21.00, P-S 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Augšlīgatne",
+                        "IELA": "Nītaures iela",
+                        "indekss": "LV-4108",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Līgatnes novads",
+                        "TERIT_VIEN": "Līgatnes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.035185,
+                        "Y": 57.183336,
+                        "X1": "25°2'6.666\" E",
+                        "Y1": "57°11'0.01\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.607967,
+                              57.609111
+                        ]
+                  },
+                  "properties": {
+                        "value": "Viļķene,Limbažunov.,Briežuiela2,LV-4050,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1638,
+                                    "link": "http://elvi.lv/veikali/vilkene-elvi-veikals/",
+                                    "lat": 57.609111,
+                                    "lng": 24.607967,
+                                    "address": "Viļķene,\r\nLimbažu nov., Briežu iela 2,\r\nLV- 4050",
+                                    "email": "elaus.vaditajs@elvi.lv",
+                                    "phone": "64063232, 20219076",
+                                    "working_hours": "P-S 9.00-21.00, Sv 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Viļķene",
+                        "IELA": "Briežu gatve",
+                        "indekss": "LV-4050",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Limbažu novads",
+                        "TERIT_VIEN": "Viļķenes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.607967,
+                        "Y": 57.609111,
+                        "X1": "24°36'28.681\" E",
+                        "Y1": "57°36'32.8\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.708865,
+                              57.510903
+                        ]
+                  },
+                  "properties": {
+                        "value": "Limbaži,Limbažunov.,Jaunāiela4,LV-4001,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1581,
+                                    "link": "http://elvi.lv/veikali/limbazi-elvi-veikals/",
+                                    "lat": 57.510903,
+                                    "lng": 24.708865,
+                                    "address": "Limbaži, Limbažu nov., \r\nJaunā iela 4,\r\nLV-4001",
+                                    "email": "jauna.vaditajs@elvi.lv",
+                                    "phone": "29244135",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Limbaži",
+                        "IELA": "Jaunā iela",
+                        "indekss": "LV-4001",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Limbažu novads",
+                        "TERIT_VIEN": "Limbažu pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.708865,
+                        "Y": 57.510903,
+                        "X1": "24°42'31.914\" E",
+                        "Y1": "57°30'39.251\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.2054233,
+                              56.8567525
+                        ]
+                  },
+                  "properties": {
+                        "value": "Madona,Raiņaiela33a,LV-4801,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2874,
+                                    "link": "http://elvi.lv/veikali/madona-raina-iela-33a-lv-4801/",
+                                    "lat": 56.8567525,
+                                    "lng": 26.2054233,
+                                    "address": "Madona, Raiņa iela 33a,\r\nLV-4801",
+                                    "email": "madona.vaditajs@elvi.lv",
+                                    "phone": "27300978",
+                                    "working_hours": "P-S 8.00-22.00, Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Madona",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-4801",
+                        "MAJA": "37A",
+                        "ADMIN_VIEN": "Madonas novads",
+                        "TERIT_VIEN": "Madonas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.2054233,
+                        "Y": 56.8567525,
+                        "X1": "26°12'19.524\" E",
+                        "Y1": "56°51'24.309\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.053032,
+                              56.886796
+                        ]
+                  },
+                  "properties": {
+                        "value": "Mārupe,Zeltrītuiela16-2,LV-2167,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1694,
+                                    "link": "http://elvi.lv/veikali/marupe-elvi-veikals/",
+                                    "lat": 56.886796,
+                                    "lng": 24.053032,
+                                    "address": "Mārupe, Zeltrītu iela 16-2, \r\nLV-2167",
+                                    "email": "zeltritu.vaditajs@elvi.lv",
+                                    "phone": "25685059",
+                                    "working_hours": "P-S 8.00-22.00, Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Mārupe",
+                        "IELA": "Zeltrītu iela",
+                        "indekss": "LV-2167",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Mārupes novads",
+                        "TERIT_VIEN": "Mārupes novads",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.053032,
+                        "Y": 56.886796,
+                        "X1": "24°3'10.915\" E",
+                        "Y1": "56°53'12.466\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.463411,
+                              57.884542
+                        ]
+                  },
+                  "properties": {
+                        "value": "Naukšēni,Naukšēnunov.,Zvejnieki,LV-4244,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1654,
+                                    "link": "http://elvi.lv/veikali/naukseni-elvi-veikals/",
+                                    "lat": 57.884542,
+                                    "lng": 25.463411,
+                                    "address": "Naukšēni,\r\nNaukšēnu nov.,\"Zvejnieki\",\r\nLV-4244",
+                                    "email": "naukseni.vaditajs@elvi.lv",
+                                    "phone": "64268157",
+                                    "working_hours": "P.-S. 8-22, Sv. 9-20"
+                              }
+                        ],
+                        "APDZ_VIETA": "Naukšēni",
+                        "IELA": "",
+                        "indekss": "LV-4244",
+                        "MAJA": "Zvejnieki",
+                        "ADMIN_VIEN": "Naukšēnu novads",
+                        "TERIT_VIEN": "Naukšēnu pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.463411,
+                        "Y": 57.884542,
+                        "X1": "25°27'48.28\" E",
+                        "Y1": "57°53'4.351\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.60437,
+                              56.817051
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ogre,Ogresnov.,Brīvībasiela15a,LV-5001,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1595,
+                                    "link": "http://elvi.lv/veikali/ogre-elvi-veikals/",
+                                    "lat": 56.817051,
+                                    "lng": 24.60437,
+                                    "address": "Ogre, Ogres nov., Brīvības iela 15a,\r\nLV-5001",
+                                    "email": "ogre.vaditajs@elvi.lv",
+                                    "phone": "29479996",
+                                    "working_hours": "P-Pk 7.00-22.00, S 9.00-22.00, Sv 9.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ogre",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-5001",
+                        "MAJA": "15A",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Ogres pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.60437,
+                        "Y": 56.817051,
+                        "X1": "24°36'15.732\" E",
+                        "Y1": "56°49'1.384\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.156514,
+                              56.846512
+                        ]
+                  },
+                  "properties": {
+                        "value": "Madliena,Ogresnov.,„Tirdzniecībascentrs”,LV-5045,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1647,
+                                    "link": "http://elvi.lv/veikali/madliena-elvi-veikals/",
+                                    "lat": 56.846512,
+                                    "lng": 25.156514,
+                                    "address": "Madliena, „Tirdzniecības centrs”,\r\nOgres novads,\r\nLV-5045",
+                                    "email": "madliena.vaditajs@elvi.lv",
+                                    "phone": "65039212, 29495282",
+                                    "working_hours": "P-C 7.30-21.00, Pk., S 7.30-22.00, Sv 7.30-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Madliena",
+                        "IELA": "",
+                        "indekss": "LV-5045",
+                        "MAJA": "Tirdzniecības centrs",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Madlienas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.156514,
+                        "Y": 56.846512,
+                        "X1": "25°9'23.45\" E",
+                        "Y1": "56°50'47.443\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.653145,
+                              56.776897
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ciemupe,Ogresgalapag.,Ogresnov.,Daugavpilsiela1,LV-5020,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1650,
+                                    "link": "http://elvi.lv/veikali/ciemupe-elvi-veikals/",
+                                    "lat": 56.776897,
+                                    "lng": 24.653145,
+                                    "address": "Ciemupe, Daugavpils iela 1, \r\nOgresgala pag., Ogres nov.,\r\nLV- 5020",
+                                    "email": "ciemupe.vaditajs@elvi.lv",
+                                    "phone": "65068693, 28317885",
+                                    "working_hours": "P-Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ciemupe",
+                        "IELA": "Daugavpils iela",
+                        "indekss": "LV-5041",
+                        "MAJA": "1A",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Ogresgala pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.653145,
+                        "Y": 56.776897,
+                        "X1": "24°39'11.322\" E",
+                        "Y1": "56°46'36.829\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.729266,
+                              56.807804
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ogresgals,Ogresgalapag.,Ogresnov.,Steigas4,LV-5041,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1607,
+                                    "link": "http://elvi.lv/veikali/ogresgalselvi-veikals/",
+                                    "lat": 56.807804,
+                                    "lng": 24.729266,
+                                    "address": "Ogresgals, \"Steigas 4\", \r\nOgresgala pag., Ogres nov.,\r\nLV- 5041",
+                                    "email": "ogresgals.vaditajs@elvi.lv",
+                                    "phone": "22025707",
+                                    "working_hours": "P-Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ogresgals",
+                        "IELA": "",
+                        "indekss": "LV-5041",
+                        "MAJA": "Steigas 4",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Ogresgala pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.729266,
+                        "Y": 56.807804,
+                        "X1": "24°43'45.358\" E",
+                        "Y1": "56°48'28.094\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.595001,
+                              56.822095
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ogre,Mālkalnesprospekts3,LV-5001,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1605,
+                                    "link": "http://elvi.lv/veikali/ogre-elvi-veikals-2/",
+                                    "lat": 56.822095,
+                                    "lng": 24.595001,
+                                    "address": "Ogre, Mālkalnes prospekts 3, \r\nLV-5001",
+                                    "email": "malkalne.vaditajs@elvi.lv",
+                                    "phone": "25419896",
+                                    "working_hours": "P-Sv 8.00-22.00 "
+                              }
+                        ],
+                        "APDZ_VIETA": "Ogre",
+                        "IELA": "Mālkalnes prospekts",
+                        "indekss": "LV-5001",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Ogres pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.595001,
+                        "Y": 56.822095,
+                        "X1": "24°35'42.004\" E",
+                        "Y1": "56°49'19.542\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.941883,
+                              56.787603
+                        ]
+                  },
+                  "properties": {
+                        "value": "Olaine,Zeifertaiela7-19,LV-2114,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1611,
+                                    "link": "http://elvi.lv/veikali/olaine-elvi-veikals/",
+                                    "lat": 56.787603,
+                                    "lng": 23.941883,
+                                    "address": "Olaine, Zeiferta iela 7-19, \r\nLV-2114",
+                                    "email": "olaine.vaditajs@elvi.lv",
+                                    "phone": "25657397",
+                                    "working_hours": "P-P 7.30-22.00, S, Sv. 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Olaine",
+                        "IELA": "Zemgales iela",
+                        "indekss": "LV-2114",
+                        "MAJA": "2A",
+                        "ADMIN_VIEN": "Olaines novads",
+                        "TERIT_VIEN": "Olaines pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.941883,
+                        "Y": 56.787603,
+                        "X1": "23°56'30.779\" E",
+                        "Y1": "56°47'15.371\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.795555,
+                              56.689978
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ozolnieki,Rīgasiela44,LV-3018,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1612,
+                                    "link": "http://elvi.lv/veikali/ozolnieki/",
+                                    "lat": 56.689978,
+                                    "lng": 23.795555,
+                                    "address": "Ozolnieki, Rīgas iela 44, \r\nLV-3018",
+                                    "email": "ozolniekirigas.vaditajs@elvi.lv",
+                                    "phone": "25644749",
+                                    "working_hours": " P-Pk 7.30-22.00, S, Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ozolnieki",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-3018",
+                        "MAJA": "44",
+                        "ADMIN_VIEN": "Ozolnieku novads",
+                        "TERIT_VIEN": "Ozolnieku pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.795555,
+                        "Y": 56.689978,
+                        "X1": "23°47'43.998\" E",
+                        "Y1": "56°41'23.921\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.977505,
+                              57.362593
+                        ]
+                  },
+                  "properties": {
+                        "value": "Plācis,Straupespag.,Pārgaujasnov.,Bērzi,LV-4152,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1639,
+                                    "link": "http://elvi.lv/veikali/placis-elvi-veikals/",
+                                    "lat": 57.362593,
+                                    "lng": 24.977505,
+                                    "address": "Plācis, Straupes pag., \r\nPārgaujas nov., \"Bērzi\",\r\nLV-4152",
+                                    "email": "placis.vaditajs@elvi.lv",
+                                    "phone": "64132244, 26199020",
+                                    "working_hours": "P-S. 8.00-21.00, Sv. 9.00-20"
+                              }
+                        ],
+                        "APDZ_VIETA": "Plācis",
+                        "IELA": "",
+                        "indekss": "LV-4152",
+                        "MAJA": "Bērzi",
+                        "ADMIN_VIEN": "Pārgaujas novads",
+                        "TERIT_VIEN": "Straupes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.977505,
+                        "Y": 57.362593,
+                        "X1": "24°58'39.018\" E",
+                        "Y1": "57°21'45.335\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.688658,
+                              56.711406
+                        ]
+                  },
+                  "properties": {
+                        "value": "Odziena,Pļaviņunov.,Kalēji,LV-5109,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1693,
+                                    "link": "http://elvi.lv/veikali/odziena-elvi-veikals/",
+                                    "lat": 56.711406,
+                                    "lng": 25.688658,
+                                    "address": "Odziena, \"Kalēji\", \r\nPļaviņu nov., \r\nLV-5109",
+                                    "email": "odziena.vaditajs@elvi.lv",
+                                    "phone": "27843474",
+                                    "working_hours": "P-S 8.30-19.00, Sv 9.00-17.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Odziena",
+                        "IELA": "",
+                        "indekss": "LV-5109",
+                        "MAJA": "Zemgaļi",
+                        "ADMIN_VIEN": "Pļaviņu novads",
+                        "TERIT_VIEN": "Vietalvas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.688658,
+                        "Y": 56.711406,
+                        "X1": "25°41'19.169\" E",
+                        "Y1": "56°42'41.062\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.493455,
+                              57.279155
+                        ]
+                  },
+                  "properties": {
+                        "value": "Bērzkrogs,„Lielbērzi”Veselavaspag.LV-4116,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1614,
+                                    "link": "http://elvi.lv/veikali/berzkrogs-elvi-veikals/",
+                                    "lat": 57.279155,
+                                    "lng": 25.493455,
+                                    "address": "Bērzkrogs, „Lielbērzi” \r\nVeselavas pag.,\r\nLV-4116",
+                                    "email": "berzkrogs.vaditajs@elvi.lv",
+                                    "phone": "25715061",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Bērzkrogs",
+                        "IELA": "",
+                        "indekss": "LV-4116",
+                        "MAJA": "Meijas",
+                        "ADMIN_VIEN": "Priekuļu novads",
+                        "TERIT_VIEN": "Veselavas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.493455,
+                        "Y": 57.279155,
+                        "X1": "25°29'36.438\" E",
+                        "Y1": "57°16'44.958\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.60979,
+                              57.331012
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rauna,Raunaspag.,Raunasnov.,Rīgasiela1,LV-4131,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1629,
+                                    "link": "http://elvi.lv/veikali/rauna-elvi-veikals/",
+                                    "lat": 57.331012,
+                                    "lng": 25.60979,
+                                    "address": "Rauna, Raunas pag., \r\nRaunas nov., Rīgas iela 1, \r\nLV-4131",
+                                    "email": "nestik.vaditajs@elvi.lv",
+                                    "phone": "64177398, 28603643",
+                                    "working_hours": "P-S 8.00-20.00, Sv. 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rauna",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-4131",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Raunas novads",
+                        "TERIT_VIEN": "Raunas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.60979,
+                        "Y": 57.331012,
+                        "X1": "25°36'35.244\" E",
+                        "Y1": "57°19'51.643\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.328972,
+                              56.51479
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rēzekne,Kr.Valdemāraiela2a,LV-4601,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1704,
+                                    "link": "http://elvi.lv/veikali/rezekne-elvi-veikals-2/",
+                                    "lat": 56.51479,
+                                    "lng": 27.328972,
+                                    "address": "Rēzekne, Kr. Valdemāra iela 2a, \r\nLV-4601",
+                                    "email": "rezeknek.vaditajs@elvi.lv",
+                                    "phone": "28622717",
+                                    "working_hours": "P-Sv. 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Krišjāņa Valdemāra iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "2A",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.328972,
+                        "Y": 56.51479,
+                        "X1": "27°19'44.299\" E",
+                        "Y1": "56°30'53.244\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.333059,
+                              56.50949
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rēzekne,AtbrīvošanasAleja112,LV-4601,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1698,
+                                    "link": "http://elvi.lv/veikali/rezekne-elvi-veikals/",
+                                    "lat": 56.50949,
+                                    "lng": 27.333059,
+                                    "address": "Rēzekne, Atbrīvošanas Aleja 112, \r\nLV-4601",
+                                    "email": "rezekne.atbrivosanas@elvi.lv",
+                                    "phone": "25611672",
+                                    "working_hours": "P-Pk 7.30-20.00, S, Sv 8.00-17.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Atbrīvošanas aleja",
+                        "indekss": "LV-4601",
+                        "MAJA": "112",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.333059,
+                        "Y": 56.50949,
+                        "X1": "27°19'59.012\" E",
+                        "Y1": "56°30'34.164\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.164609,
+                              56.346863
+                        ]
+                  },
+                  "properties": {
+                        "value": "Malta,Rēzeknesnov.,1.maijaiela72,LV-4630,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1700,
+                                    "link": "http://elvi.lv/veikali/malta-elvi-veikals/",
+                                    "lat": 56.346863,
+                                    "lng": 27.164609,
+                                    "address": "Malta, Rēzeknes novads,\r\n1.maija iela 72, LV-4630",
+                                    "email": "malta.maija@elvi.lv",
+                                    "phone": "29287998",
+                                    "working_hours": "P-S 8.00-20.00, Sv 9.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Malta",
+                        "IELA": "1. maija iela",
+                        "indekss": "LV-4630",
+                        "MAJA": "72",
+                        "ADMIN_VIEN": "Rēzeknes novads",
+                        "TERIT_VIEN": "Maltas pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.164609,
+                        "Y": 56.346863,
+                        "X1": "27°9'52.592\" E",
+                        "Y1": "56°20'48.707\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1354401,
+                              56.9494314
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Ģertrūdesielā105/1,LV-1009,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2873,
+                                    "link": "http://elvi.lv/veikali/riga-gertrudes-iela-105-1-lv-1009/",
+                                    "lat": 56.9494314,
+                                    "lng": 24.1354401,
+                                    "address": "Rīga, Ģertrūdes ielā 105/1, \r\nLV-1009",
+                                    "email": "gertrudes.vaditajs@elvi.lv",
+                                    "phone": "27304676",
+                                    "working_hours": "P-S 8.00-22.00, Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Lāčplēša iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "87D",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1354401,
+                        "Y": 56.9494314,
+                        "X1": "24°8'7.584\" E",
+                        "Y1": "56°56'57.953\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1726452,
+                              56.9828847
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Čiekurkalna1.līnija47,LV-1026,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 2872,
+                                    "link": "http://elvi.lv/veikali/riga-ciekurkalna-1-linija-47-lv-1026/",
+                                    "lat": 56.9828847,
+                                    "lng": 24.1726452,
+                                    "address": "Rīga, Čiekurkalna 1. līnija 47,\r\nLV-1026",
+                                    "email": "ciekurkalna.vaditajs@elvi.lv",
+                                    "phone": "29484667",
+                                    "working_hours": "P-S 8.00-21.00, Sv 10.00-19.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Čiekurkalna 1. līnija",
+                        "indekss": "LV-1026",
+                        "MAJA": "41",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1726452,
+                        "Y": 56.9828847,
+                        "X1": "24°10'21.523\" E",
+                        "Y1": "56°58'58.385\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.111649,
+                              56.974551
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Ganībudambis17,LV-1045,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1622,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-8/",
+                                    "lat": 56.974551,
+                                    "lng": 24.111649,
+                                    "address": "Rīga, Ganību dambis 17,\r\nLV-1045",
+                                    "email": "rigasganibu.vaditajs@elvi.lv",
+                                    "phone": "25726835",
+                                    "working_hours": "P-Pk. 7.30-19.00, S, Sv slēgts"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Ganību dambis",
+                        "indekss": "LV-1045",
+                        "MAJA": "17B",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.111649,
+                        "Y": 56.974551,
+                        "X1": "24°6'41.936\" E",
+                        "Y1": "56°58'28.384\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.132079,
+                              56.950555
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Lāčplēšaiela70,LV-1011,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1632,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-9/",
+                                    "lat": 56.950555,
+                                    "lng": 24.132079,
+                                    "address": "Rīga, Lāčplēša iela 70, \r\nLV-1011",
+                                    "email": "lacplesa.vaditajs@elvi.lv",
+                                    "phone": "26520200",
+                                    "working_hours": "P-Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Lāčplēša iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "70",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.132079,
+                        "Y": 56.950555,
+                        "X1": "24°7'55.484\" E",
+                        "Y1": "56°57'1.998\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.131684,
+                              56.96046
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Brīvībasiela92/94,LV-1001,ELVIveikali",
+                        "data": [
+                              {
+                                    "id": 1692,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikali/",
+                                    "lat": 56.96046,
+                                    "lng": 24.131684,
+                                    "address": "Rīga, Brīvības iela 92/94, \r\nLV-1001",
+                                    "email": "brivibas92.vaditajs@elvi.lv",
+                                    "phone": "20209461",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-1001",
+                        "MAJA": "92/94",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Centra rajons",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.131684,
+                        "Y": 56.96046,
+                        "X1": "24°7'54.062\" E",
+                        "Y1": "56°57'37.656\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.053534,
+                              56.947364
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Kūdrasiela8b,LV-1083,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1621,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-7/",
+                                    "lat": 56.947364,
+                                    "lng": 24.053534,
+                                    "address": "Rīga, Kūdras iela 8b, \r\nLV-1083",
+                                    "email": "kudras.vaditajs@elvi.lv",
+                                    "phone": "25723043",
+                                    "working_hours": "P-S 8.00–22.00, Sv 9.00–21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Kūdras iela",
+                        "indekss": "LV-1083",
+                        "MAJA": "8B",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.053534,
+                        "Y": 56.947364,
+                        "X1": "24°3'12.722\" E",
+                        "Y1": "56°56'50.51\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.187583,
+                              56.969032
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Biķerniekuiela75a,LV-1039,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1594,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-5/",
+                                    "lat": 56.969032,
+                                    "lng": 24.187583,
+                                    "address": "Rīga, Biķernieku iela 75a, \r\nLV-1039",
+                                    "email": "bikernieku.vaditajs@elvi.lv",
+                                    "phone": "28360550",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Biķernieku iela",
+                        "indekss": "LV-1039",
+                        "MAJA": "75A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.187583,
+                        "Y": 56.969032,
+                        "X1": "24°11'15.299\" E",
+                        "Y1": "56°58'8.515\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.040951,
+                              56.936673
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Kalnciemaiela105a,LV-1046,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1590,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-4/",
+                                    "lat": 56.936673,
+                                    "lng": 24.040951,
+                                    "address": "Rīga, Kalnciema iela 105a,\r\nLV-1046",
+                                    "email": "kalnciema.vaditajs@elvi.lv",
+                                    "phone": "26575705",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Kalnciema iela",
+                        "indekss": "LV-1046",
+                        "MAJA": "105A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.040951,
+                        "Y": 56.936673,
+                        "X1": "24°2'27.424\" E",
+                        "Y1": "56°56'12.023\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.076589,
+                              56.927958
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Mārupesiela35-602,LV-1002,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1589,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-3/",
+                                    "lat": 56.927958,
+                                    "lng": 24.076589,
+                                    "address": "Rīga, Mārupes iela 35-602,\r\nLV-1002",
+                                    "email": "agenskalns.vaditajs@elvi.lv",
+                                    "phone": "22000803",
+                                    "working_hours": "P-S 8.00-22.00. Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Mārupes iela",
+                        "indekss": "LV-1002",
+                        "MAJA": "35",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.076589,
+                        "Y": 56.927958,
+                        "X1": "24°4'35.72\" E",
+                        "Y1": "56°55'40.649\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.144924,
+                              56.958259
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Tallinasiela66,LV-1009,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1587,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals-2/",
+                                    "lat": 56.958259,
+                                    "lng": 24.144924,
+                                    "address": "Rīga, Tallinas iela 66,\r\nLV-1009",
+                                    "email": "tallinas.vaditajs@elvi.lv",
+                                    "phone": "28359145",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Tallinas iela",
+                        "indekss": "LV-1009",
+                        "MAJA": "69",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.144924,
+                        "Y": 56.958259,
+                        "X1": "24°8'41.726\" E",
+                        "Y1": "56°57'29.732\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.067096,
+                              56.912998
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Tēriņuiela62,LV-1004,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1585,
+                                    "link": "http://elvi.lv/veikali/riga-elvi-veikals/",
+                                    "lat": 56.912998,
+                                    "lng": 24.067096,
+                                    "address": "Rīga, Tēriņu iela 62,\r\nLV-1004",
+                                    "email": "terinu.vaditajs@elvi.lv",
+                                    "phone": "27842846",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Tēriņu iela",
+                        "indekss": "LV-1058",
+                        "MAJA": "62 k-1",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.067096,
+                        "Y": 56.912998,
+                        "X1": "24°4'1.546\" E",
+                        "Y1": "56°54'46.793\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1371549,
+                              56.9519599
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rīga,Avotuiela48,LV-1009,ELVIAvotu",
+                        "data": [
+                              {
+                                    "id": 937,
+                                    "link": "http://elvi.lv/veikali/riga/",
+                                    "lat": 56.9519599,
+                                    "lng": 24.1371549,
+                                    "address": "Rīga, Avotu iela 48,\r\nLV-1009",
+                                    "email": "avotu.vaditajs@elvi.lv",
+                                    "phone": "26131222",
+                                    "working_hours": "P-Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Stabu iela",
+                        "indekss": "LV-1009",
+                        "MAJA": "72",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1371549,
+                        "Y": 56.9519599,
+                        "X1": "24°8'13.758\" E",
+                        "Y1": "56°57'7.056\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.325299,
+                              57.896471
+                        ]
+                  },
+                  "properties": {
+                        "value": "Rūjiena,Valdemāraiela4,LV-4240,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1656,
+                                    "link": "http://elvi.lv/veikali/rujiena-elvi-veikals/",
+                                    "lat": 57.896471,
+                                    "lng": 25.325299,
+                                    "address": "Rūjiena, Valdemāra iela 4, \r\nLV-4240",
+                                    "email": "rujiena.vaditajs@elvi.lv",
+                                    "phone": "64263734",
+                                    "working_hours": "P-S 8.00-22.00, Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Rūjiena",
+                        "IELA": "Valdemāra iela",
+                        "indekss": "LV-4240",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Rūjienas novads",
+                        "TERIT_VIEN": "Rūjienas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.325299,
+                        "Y": 57.896471,
+                        "X1": "25°19'31.076\" E",
+                        "Y1": "57°53'47.296\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.390184,
+                              57.489424
+                        ]
+                  },
+                  "properties": {
+                        "value": "Tūja,Salacgrīvasnov.,Liedagaiela3,LV-4022,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1623,
+                                    "link": "http://elvi.lv/veikali/tuja-elvi-veikals/",
+                                    "lat": 57.489424,
+                                    "lng": 24.390184,
+                                    "address": "Tūja, Salacgrīvas nov., Liedaga iela 3,\r\nLV- 4022",
+                                    "email": "tuja.vaditajs@elvi.lv",
+                                    "phone": "29163335",
+                                    "working_hours": "Sept. - Apr. 8.00-20.00, Maijs - Aug. 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Tūja",
+                        "IELA": "Liedaga iela",
+                        "indekss": "LV-4022",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Salacgrīvas novads",
+                        "TERIT_VIEN": "Liepupes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.390184,
+                        "Y": 57.489424,
+                        "X1": "24°23'24.662\" E",
+                        "Y1": "57°29'21.926\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.445752,
+                              56.694101
+                        ]
+                  },
+                  "properties": {
+                        "value": "Druva,Saldusnov.,Vienībasiela4,LV-3862,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1690,
+                                    "link": "http://elvi.lv/veikali/druva-elvi-veikals/",
+                                    "lat": 56.694101,
+                                    "lng": 22.445752,
+                                    "address": "Druva, Saldus pag.,Saldus nov., \r\nVienības iela 4,\r\nLV-3862",
+                                    "email": "druva.vaditajs@elvi.lv",
+                                    "phone": "29428132",
+                                    "working_hours": "P-Sv 8.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Druva",
+                        "IELA": "Vienības iela",
+                        "indekss": "LV-3862",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Saldus novads",
+                        "TERIT_VIEN": "Saldus pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.445752,
+                        "Y": 56.694101,
+                        "X1": "22°26'44.707\" E",
+                        "Y1": "56°41'38.764\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.405646,
+                              56.512548
+                        ]
+                  },
+                  "properties": {
+                        "value": "Kursīši,Saldusnov.,Bērzuiela1-18,LV-3890,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1643,
+                                    "link": "http://elvi.lv/veikali/kursisi-elvi-veikals/",
+                                    "lat": 56.512548,
+                                    "lng": 22.405646,
+                                    "address": "Kursīši, Saldus novads, \r\nBērzu iela 1-18,\r\nLV-3890",
+                                    "email": "kursisi.vaditajs@elvi.lv",
+                                    "phone": "29993275",
+                                    "working_hours": "P-S 9.00-19.00, Sv 9.00-17.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Kursīši",
+                        "IELA": "Bērzu iela",
+                        "indekss": "LV-3890",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Saldus novads",
+                        "TERIT_VIEN": "Kursīšu pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.405646,
+                        "Y": 56.512548,
+                        "X1": "22°24'20.326\" E",
+                        "Y1": "56°30'45.173\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.36148,
+                              56.409079
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ezere,Saldusnov.,Centralaukums2,LV-3891,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1641,
+                                    "link": "http://elvi.lv/veikali/ezere-elvi-veikals/",
+                                    "lat": 56.409079,
+                                    "lng": 22.36148,
+                                    "address": "Centra laukums 2,\r\nEzere, Saldus nov.,\r\nLV-3891",
+                                    "email": "moneta@elvi.lv",
+                                    "phone": "63842123, 27038239",
+                                    "working_hours": "P-Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ezere",
+                        "IELA": "Centra laukums",
+                        "indekss": "LV-3891",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Saldus novads",
+                        "TERIT_VIEN": "Ezeres pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.36148,
+                        "Y": 56.409079,
+                        "X1": "22°21'41.328\" E",
+                        "Y1": "56°24'32.684\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.485782,
+                              56.672433
+                        ]
+                  },
+                  "properties": {
+                        "value": "Saldus,Saldusnov.,Kuldīgasiela21,LV-3801,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1602,
+                                    "link": "http://elvi.lv/veikali/salduselvi-veikals/",
+                                    "lat": 56.672433,
+                                    "lng": 22.485782,
+                                    "address": "Saldus, Saldus nov.,\r\nKuldīgas iela 21,\r\nLV-3801",
+                                    "email": "saldus.vaditajs@elvi.lv",
+                                    "phone": "26111058",
+                                    "working_hours": "P-S 7.30-22.00, Sv 9.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Saldus",
+                        "IELA": "Kuldīgas iela",
+                        "indekss": "LV-3801",
+                        "MAJA": "21",
+                        "ADMIN_VIEN": "Saldus novads",
+                        "TERIT_VIEN": "Saldus pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.485782,
+                        "Y": 56.672433,
+                        "X1": "22°29'8.815\" E",
+                        "Y1": "56°40'20.759\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.416049,
+                              57.271686
+                        ]
+                  },
+                  "properties": {
+                        "value": "Saulkrasti,Saulkrastunov.,Ainažuielā28a,LV-2160,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1616,
+                                    "link": "http://elvi.lv/veikali/saulkrasti-elvi-veikals/",
+                                    "lat": 57.271686,
+                                    "lng": 24.416049,
+                                    "address": "Saulkrasti, Saulkrastu nov.,\r\nAinažu iela 28a,\r\nLV-2160",
+                                    "email": "saulkrasti2.vaditajs@elvi.lv",
+                                    "phone": "29408781",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Saulkrasti",
+                        "IELA": "Ainažu iela",
+                        "indekss": "LV-2160",
+                        "MAJA": "28A",
+                        "ADMIN_VIEN": "Saulkrastu novads",
+                        "TERIT_VIEN": "Saulkrastu pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.416049,
+                        "Y": 57.271686,
+                        "X1": "24°24'57.776\" E",
+                        "Y1": "57°16'18.07\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.847689,
+                              57.153169
+                        ]
+                  },
+                  "properties": {
+                        "value": "Sigulda,Siguldasnov.,Vidusiela1,LV-2150,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1576,
+                                    "link": "http://elvi.lv/veikali/sigulda-elvi/",
+                                    "lat": 57.153169,
+                                    "lng": 24.847689,
+                                    "address": "Sigulda, Siguldas nov.,\r\nVidus iela 1, LV-2150",
+                                    "email": "vidus.vaditajs@elvi.lv",
+                                    "phone": "29124627",
+                                    "working_hours": "P-Sv. 10.00-22.00 "
+                              }
+                        ],
+                        "APDZ_VIETA": "Sigulda",
+                        "IELA": "Vidus iela",
+                        "indekss": "LV-2150",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Siguldas novads",
+                        "TERIT_VIEN": "Siguldas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.847689,
+                        "Y": 57.153169,
+                        "X1": "24°50'51.68\" E",
+                        "Y1": "57°9'11.408\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.8450568,
+                              57.1487373
+                        ]
+                  },
+                  "properties": {
+                        "value": "Sigulda,Siguldasnov.,Vidzemesšoseja16,LV-2150,ELVIRaibais",
+                        "data": [
+                              {
+                                    "id": 930,
+                                    "link": "http://elvi.lv/veikali/sigulda/",
+                                    "lat": 57.1487373,
+                                    "lng": 24.8450568,
+                                    "address": "Vidzemes šoseja 16, Sigulda, \r\nSiguldas nov.,\r\nLV-2150",
+                                    "email": "raibais.vaditajs@elvi.lv",
+                                    "phone": "26596356",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Sigulda",
+                        "IELA": "Zvaigžņu iela",
+                        "indekss": "LV-2150",
+                        "MAJA": "11",
+                        "ADMIN_VIEN": "Siguldas novads",
+                        "TERIT_VIEN": "Siguldas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.8450568,
+                        "Y": 57.1487373,
+                        "X1": "24°50'42.204\" E",
+                        "Y1": "57°8'55.454\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.013729,
+                              56.674159
+                        ]
+                  },
+                  "properties": {
+                        "value": "Skrunda,Skrundasnov.,Ventasiela16,LV-3326,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1598,
+                                    "link": "http://elvi.lv/veikali/skrundaelvi-veikals/",
+                                    "lat": 56.674159,
+                                    "lng": 22.013729,
+                                    "address": "Skrunda, Skrundas nov., \r\nVentas iela 16,\r\nLV-3326",
+                                    "email": "skrunda.vaditajs@elvi.lv",
+                                    "phone": "28371985",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Skrunda",
+                        "IELA": "Ventas iela",
+                        "indekss": "LV-3326",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Skrundas novads",
+                        "TERIT_VIEN": "Skrundas pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.013729,
+                        "Y": 56.674159,
+                        "X1": "22°0'49.424\" E",
+                        "Y1": "56°40'26.972\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.536951,
+                              57.129499
+                        ]
+                  },
+                  "properties": {
+                        "value": "Stende,Talsunov.,Brīvībasiela55,LV-3257,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1626,
+                                    "link": "http://elvi.lv/veikali/stende-elvi-veikals-2/",
+                                    "lat": 57.129499,
+                                    "lng": 22.536951,
+                                    "address": "Stende, Talsu nov., \r\nBrīvības iela 55,\r\nLV-3257",
+                                    "email": "stende2.vaditajs@elvi.lv",
+                                    "phone": "63291052, 26179503",
+                                    "working_hours": "P-Sv 8.00-21.00 "
+                              }
+                        ],
+                        "APDZ_VIETA": "Stende",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-3257",
+                        "MAJA": "57",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Stendes pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.536951,
+                        "Y": 57.129499,
+                        "X1": "22°32'13.024\" E",
+                        "Y1": "57°7'46.196\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.536761,
+                              57.129877
+                        ]
+                  },
+                  "properties": {
+                        "value": "Stende,Talsunov.,Brīvībasiela20,LV-3257,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1625,
+                                    "link": "http://elvi.lv/veikali/stende-elvi-veikals/",
+                                    "lat": 57.129877,
+                                    "lng": 22.536761,
+                                    "address": "Stende, Talsu nov., Brīvības iela 20,\r\nLV-3257",
+                                    "email": "stende.vaditajs@elvi.lv",
+                                    "phone": "63291021, 26158024",
+                                    "working_hours": "P-Sv 08.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Stende",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-3257",
+                        "MAJA": "55",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Stendes pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.536761,
+                        "Y": 57.129877,
+                        "X1": "22°32'12.34\" E",
+                        "Y1": "57°7'47.557\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.38112,
+                              56.480022
+                        ]
+                  },
+                  "properties": {
+                        "value": "Tērvete,PagastaĒka,LV-3730,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1706,
+                                    "link": "http://elvi.lv/veikali/tervete-elvi-veikals/",
+                                    "lat": 56.480022,
+                                    "lng": 23.38112,
+                                    "address": "Tērvete, \"Pagasta Ēka\", \r\nLV-3730",
+                                    "email": "tervete.vaditajs@elvi.lv",
+                                    "phone": "27339490",
+                                    "working_hours": "P-C 8.00-21.00, Pk-S 8.00-22.00, Sv 8.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Tērvete",
+                        "IELA": "",
+                        "indekss": "LV-3730",
+                        "MAJA": "Pagasta ēka",
+                        "ADMIN_VIEN": "Tērvetes novads",
+                        "TERIT_VIEN": "Tērvetes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.38112,
+                        "Y": 56.480022,
+                        "X1": "23°22'52.032\" E",
+                        "Y1": "56°28'48.079\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.246871,
+                              56.791265
+                        ]
+                  },
+                  "properties": {
+                        "value": "Džūkste,Tukumanov.,Gardumi,LV-3147,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1682,
+                                    "link": "http://elvi.lv/veikali/dzukste-elvi-veikals/",
+                                    "lat": 56.791265,
+                                    "lng": 23.246871,
+                                    "address": "Džūkste, Tukuma novads, \"Gardumi\", \r\nLV-3147",
+                                    "email": "dzukste.vaditajs@elvi.lv",
+                                    "phone": "63155437",
+                                    "working_hours": "P-S 8.00–20.00, Sv 9.00-18.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Džūkste",
+                        "IELA": "",
+                        "indekss": "LV-3147",
+                        "MAJA": "Kalēji",
+                        "ADMIN_VIEN": "Tukuma novads",
+                        "TERIT_VIEN": "Džūkstes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.246871,
+                        "Y": 56.791265,
+                        "X1": "23°14'48.736\" E",
+                        "Y1": "56°47'28.554\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.663204,
+                              57.159502
+                        ]
+                  },
+                  "properties": {
+                        "value": "Taurene,Vecpiebalgasnov.,Lauras,LV-4119,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1619,
+                                    "link": "http://elvi.lv/veikali/taurene-elvi-veikals/",
+                                    "lat": 57.159502,
+                                    "lng": 25.663204,
+                                    "address": "Taurene, Taurenes pag., \r\nVecpiebalgas nov., \"Lauras\",\r\nLV-4119",
+                                    "email": "taurene.vaditajs@elvi.lv",
+                                    "phone": "28326460",
+                                    "working_hours": "P-S 8.00 - 21.00, Sv 9.00-21.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Taurene",
+                        "IELA": "",
+                        "indekss": "LV-4119",
+                        "MAJA": "SLTP 2688 Kalna Nēķins",
+                        "ADMIN_VIEN": "Vecpiebalgas novads",
+                        "TERIT_VIEN": "Taurenes pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.663204,
+                        "Y": 57.159502,
+                        "X1": "25°39'47.534\" E",
+                        "Y1": "57°9'34.207\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.521614,
+                              56.605955
+                        ]
+                  },
+                  "properties": {
+                        "value": "Vecumnieki,Vecumniekunov.,Bauskasiela16,LV-3933,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1652,
+                                    "link": "http://elvi.lv/veikali/vecumnieki-elvi-veikals/",
+                                    "lat": 56.605955,
+                                    "lng": 24.521614,
+                                    "address": "Vecumnieki, Bauskas iela 16, \r\nVecumnieku nov., \r\nLV-3933",
+                                    "email": "vecumnieki.vaditajs@elvi.lv",
+                                    "phone": "26417712",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Vecumnieki",
+                        "IELA": "Bauskas iela",
+                        "indekss": "LV-3933",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Vecumnieku novads",
+                        "TERIT_VIEN": "Vecumnieku pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.521614,
+                        "Y": 56.605955,
+                        "X1": "24°31'17.81\" E",
+                        "Y1": "56°36'21.438\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.727691,
+                              56.510918
+                        ]
+                  },
+                  "properties": {
+                        "value": "Valle,Vecumniekunov.,Vīnkalni,LV-5106,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1662,
+                                    "link": "http://elvi.lv/veikali/valle-elvi-veikals/",
+                                    "lat": 56.510918,
+                                    "lng": 24.727691,
+                                    "address": "Valle, Vecumnieku nov., \r\n\"Vīnkalni\", LV-5106",
+                                    "email": "valle.vaditajs@elvi.lv",
+                                    "phone": "65152895",
+                                    "working_hours": "P-S 8.00–20.00, Sv 9.00–17.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Valle",
+                        "IELA": "",
+                        "indekss": "LV-5106",
+                        "MAJA": "Jaunbruntāli",
+                        "ADMIN_VIEN": "Vecumnieku novads",
+                        "TERIT_VIEN": "Valles pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.727691,
+                        "Y": 56.510918,
+                        "X1": "24°43'39.688\" E",
+                        "Y1": "56°30'39.305\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.575188,
+                              57.392217
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ventspils,Sarkanmuižasdambis5,LV-3601,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1708,
+                                    "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-5/",
+                                    "lat": 57.392217,
+                                    "lng": 21.575188,
+                                    "address": "Ventspils, Sarkanmuižas dambis 5, \r\nLV-3601",
+                                    "email": "sarkanmuizas.vaditajs@elvi.lv",
+                                    "phone": "26327452",
+                                    "working_hours": "P-Sv 8.00 – 22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Sarkanmuižas dambis",
+                        "indekss": "LV-3601",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.575188,
+                        "Y": 57.392217,
+                        "X1": "21°34'30.677\" E",
+                        "Y1": "57°23'31.981\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.57344,
+                              57.378364
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ventspils,Kuldīgasiela123,LV-3601,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1697,
+                                    "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-4/",
+                                    "lat": 57.378364,
+                                    "lng": 21.57344,
+                                    "address": "Ventspils, Kuldīgas iela 123, \r\nLV-3601",
+                                    "email": "ventspils.kuldigas123@elvi.lv",
+                                    "phone": "27383366",
+                                    "working_hours": "P-S 8.00 – 21:00, Sv 8.00 – 20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Kuldīgas iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "123",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.57344,
+                        "Y": 57.378364,
+                        "X1": "21°34'24.384\" E",
+                        "Y1": "57°22'42.11\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.619734,
+                              57.361745
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ventspils,Robežuiela202A,LV-3601,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1636,
+                                    "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-3/",
+                                    "lat": 57.361745,
+                                    "lng": 21.619734,
+                                    "address": "Ventspils, Robežu iela 202A, \r\nLV-3601",
+                                    "email": "maris@ml-dvini.lv",
+                                    "phone": "63607540, 29130010",
+                                    "working_hours": "P-Sv 9.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Robežu iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "202A",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.619734,
+                        "Y": 57.361745,
+                        "X1": "21°37'11.042\" E",
+                        "Y1": "57°21'42.282\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.610302,
+                              57.401978
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ventspils,Siguldasiela20,LV-3602,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1600,
+                                    "link": "http://elvi.lv/veikali/ventspils-elvi-veikals-2/",
+                                    "lat": 57.401978,
+                                    "lng": 21.610302,
+                                    "address": "Ventspils, Siguldas iela 20,\r\nLV - 3602",
+                                    "email": "siguldas.vaditajs@elvi.lv",
+                                    "phone": "28675324",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Siguldas iela",
+                        "indekss": "LV-3602",
+                        "MAJA": "25",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.610302,
+                        "Y": 57.401978,
+                        "X1": "21°36'37.087\" E",
+                        "Y1": "57°24'7.121\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.596831,
+                              57.40842
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ventspils,Celtniekuiela3-96,LV-3602,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1599,
+                                    "link": "http://elvi.lv/veikali/ventspils-elvi-veikals/",
+                                    "lat": 57.40842,
+                                    "lng": 21.596831,
+                                    "address": "Ventspils, Celtnieku iela 3-96,\r\nLV-3602",
+                                    "email": "celtnieku.vaditajs@elvi.lv",
+                                    "phone": "28321544",
+                                    "working_hours": "P-Sv 8.00-22.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Celtnieku iela",
+                        "indekss": "LV-3602",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.596831,
+                        "Y": 57.40842,
+                        "X1": "21°35'48.592\" E",
+                        "Y1": "57°24'30.312\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.018025,
+                              57.277343
+                        ]
+                  },
+                  "properties": {
+                        "value": "Ugāle,Ventspilsnov.,Skolasiela7,LV-3615,ELVIveikals",
+                        "data": [
+                              {
+                                    "id": 1686,
+                                    "link": "http://elvi.lv/veikali/ugale-elvi-veikals/",
+                                    "lat": 57.277343,
+                                    "lng": 22.018025,
+                                    "address": "Ugāle, Ventspils nov., Skolas iela 7, \r\nLV-3615",
+                                    "email": "ugale.vaditajs@elvi.lv",
+                                    "phone": "29150967",
+                                    "working_hours": "P-S 8.00-21.00, Sv 8.00-20.00"
+                              }
+                        ],
+                        "APDZ_VIETA": "Ugāle",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-3615",
+                        "MAJA": "7",
+                        "ADMIN_VIEN": "Ventspils novads",
+                        "TERIT_VIEN": "Ugāles pagasts",
+                        "NOSAUKUMS": "Elvi",
+                        "SUBCATEGORY": "Elvi",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.018025,
+                        "Y": 57.277343,
+                        "X1": "22°1'4.89\" E",
+                        "Y1": "57°16'38.435\" N"
+                  }
+            }
+      ]
+}
