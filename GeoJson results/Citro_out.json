@@ -1,0 +1,2546 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.5684776,
+                              56.9793614
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.9793614,
+                              "lng": 21.5684776
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Skolas iela 5, Alsunga, Alsungas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Skolas iela 5, Alsunga, Alsungas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Alsunga",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-3306",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Alsungas novads",
+                        "TERIT_VIEN": "Alsungas novads",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.5684776,
+                        "Y": 56.9793614,
+                        "X1": "21°34'6.519\" E",
+                        "Y1": "56°58'45.701\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.565775,
+                              56.684224
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.684224,
+                              "lng": 22.565775
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lielcieceres iela 2a, Brocēni</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Lielcieceres iela 2a, Brocēni",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Brocēni",
+                        "IELA": "Lielcieceres iela",
+                        "indekss": "LV-3851",
+                        "MAJA": "2A",
+                        "ADMIN_VIEN": "Brocēnu novads",
+                        "TERIT_VIEN": "Brocēnu pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.565775,
+                        "Y": 56.684224,
+                        "X1": "22°33'56.79\" E",
+                        "Y1": "56°41'3.206\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.35158,
+                              57.509811
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.509811,
+                              "lng": 22.35158
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Talsu iela 1, Dundaga, Dundagas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Talsu iela 1, Dundaga, Dundagas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Dundaga",
+                        "IELA": "Talsu iela",
+                        "indekss": "LV-3270",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Dundagas novads",
+                        "TERIT_VIEN": "Dundagas pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.35158,
+                        "Y": 57.509811,
+                        "X1": "22°21'5.688\" E",
+                        "Y1": "57°30'35.32\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.58851,
+                              57.74272
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.74272,
+                              "lng": 22.58851
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Rūtas”, Kolka, Dundagas nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "„Rūtas”, Kolka, Dundagas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Kolka",
+                        "IELA": "",
+                        "indekss": "LV-3275",
+                        "MAJA": "Dzintarkalni",
+                        "ADMIN_VIEN": "Dundagas novads",
+                        "TERIT_VIEN": "Kolkas pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.58851,
+                        "Y": 57.74272,
+                        "X1": "22°35'18.636\" E",
+                        "Y1": "57°44'33.792\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.351441,
+                              57.504524
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.504524,
+                              "lng": 22.351441
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Talsu iela 17, Dundaga</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Talsu iela 17, Dundaga",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Dundaga",
+                        "IELA": "Talsu iela",
+                        "indekss": "LV-3270",
+                        "MAJA": "17",
+                        "ADMIN_VIEN": "Dundagas novads",
+                        "TERIT_VIEN": "Dundagas pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.351441,
+                        "Y": 57.504524,
+                        "X1": "22°21'5.188\" E",
+                        "Y1": "57°30'16.286\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.17312,
+                              57.25546
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.25546,
+                              "lng": 23.17312
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Viļņi”, Bērzciems, Engures Pag., Engures Nov.</strong></p><p>Darba laiks: 8:00-18:00, Se 9:00-15.00, Sv 9:00-15:00</p>",
+                        "address": "„Viļņi”, Bērzciems, Engures Pag., Engures Nov.",
+                        "working_hours": "Darba laiks: 8:00-18:00, Se 9:00-15.00, Sv 9:00-15:00",
+                        "APDZ_VIETA": "Bērzciems",
+                        "IELA": "",
+                        "indekss": "LV-3113",
+                        "MAJA": "Audzes",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Engures pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.17312,
+                        "Y": 57.25546,
+                        "X1": "23°10'23.232\" E",
+                        "Y1": "57°15'19.656\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.22899,
+                              57.16168
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.16168,
+                              "lng": 23.22899
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Jūras Iela 81, Engure, Engures Nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Jūras Iela 81, Engure, Engures Nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Engure",
+                        "IELA": "Jūras iela",
+                        "indekss": "LV-3113",
+                        "MAJA": "83",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Engures pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.22899,
+                        "Y": 57.16168,
+                        "X1": "23°13'44.364\" E",
+                        "Y1": "57°9'42.048\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.3038529,
+                              57.0595863
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.0595863,
+                              "lng": 23.3038529
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Veikals un kafejnīca Apsīte', Apšuciems, Engures nov.</strong></p><p>Darba laiks: 8:00-20:00, Se 8:00-18:00, Sv 9:00-15:00</p>",
+                        "address": "'Veikals un kafejnīca Apsīte', Apšuciems, Engures nov.",
+                        "working_hours": "Darba laiks: 8:00-20:00, Se 8:00-18:00, Sv 9:00-15:00",
+                        "APDZ_VIETA": "Apšuciems",
+                        "IELA": "",
+                        "indekss": "LV-3113",
+                        "MAJA": "Stūrīši",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Engures pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.3038529,
+                        "Y": 57.0595863,
+                        "X1": "23°18'13.87\" E",
+                        "Y1": "57°3'34.511\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.492779,
+                              57.024052
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.024052,
+                              "lng": 23.492779
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Selgas iela 1A, Ragaciems, Lapmežciema pag., Engures nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Selgas iela 1A, Ragaciems, Lapmežciema pag., Engures nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Ragaciems",
+                        "IELA": "",
+                        "indekss": "LV-3118",
+                        "MAJA": "Spuriņas",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Lapmežciema pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.492779,
+                        "Y": 57.024052,
+                        "X1": "23°29'34.004\" E",
+                        "Y1": "57°1'26.587\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.493482,
+                              57.024644
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.024644,
+                              "lng": 23.493482
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Talsu šoseja 8.km, Lapmežciems, Engures nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Talsu šoseja 8.km, Lapmežciems, Engures nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ragaciems",
+                        "IELA": "Laivu iela",
+                        "indekss": "LV-3118",
+                        "MAJA": "6",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Lapmežciema pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.493482,
+                        "Y": 57.024644,
+                        "X1": "23°29'36.535\" E",
+                        "Y1": "57°1'28.718\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.228791,
+                              56.978454
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.978454,
+                              "lng": 23.228791
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Bodnieki', Milzkalne, Smārdes pag., Engures nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "'Bodnieki', Milzkalne, Smārdes pag., Engures nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Milzkalne",
+                        "IELA": "",
+                        "indekss": "LV-3148",
+                        "MAJA": "Bodnieki",
+                        "ADMIN_VIEN": "Engures novads",
+                        "TERIT_VIEN": "Smārdes pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.228791,
+                        "Y": 56.978454,
+                        "X1": "23°13'43.648\" E",
+                        "Y1": "56°58'42.434\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.783758,
+                              57.033707
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.033707,
+                              "lng": 22.783758
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lielā iela 1, Kandava</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Lielā iela 1, Kandava",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Kandava",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3120",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Kandavas novads",
+                        "TERIT_VIEN": "Kandavas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.783758,
+                        "Y": 57.033707,
+                        "X1": "22°47'1.529\" E",
+                        "Y1": "57°2'1.345\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.675917,
+                              56.786419
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.786419,
+                              "lng": 27.675917
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Sporta iela 6, Kārsava</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Sporta iela 6, Kārsava",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Kārsava",
+                        "IELA": "Vienības iela",
+                        "indekss": "LV-5717",
+                        "MAJA": "40B",
+                        "ADMIN_VIEN": "Kārsavas novads",
+                        "TERIT_VIEN": "Kārsavas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.675917,
+                        "Y": 56.786419,
+                        "X1": "27°40'33.301\" E",
+                        "Y1": "56°47'11.108\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.164769,
+                              55.895349
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 55.895349,
+                              "lng": 27.164769
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Rīgas iela 36, Krāslava</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Rīgas iela 36, Krāslava",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Krāslava",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-5601",
+                        "MAJA": "36",
+                        "ADMIN_VIEN": "Krāslavas novads",
+                        "TERIT_VIEN": "Krāslavas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.164769,
+                        "Y": 55.895349,
+                        "X1": "27°9'53.168\" E",
+                        "Y1": "55°53'43.256\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.96102,
+                              56.969669
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.969669,
+                              "lng": 21.96102
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Pilsētas laukums 1, Kuldīga, Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Pilsētas laukums 1, Kuldīga, Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Pilsētas laukums",
+                        "indekss": "LV-3301",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.96102,
+                        "Y": 56.969669,
+                        "X1": "21°57'39.672\" E",
+                        "Y1": "56°58'10.808\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.955013,
+                              56.9729257
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.9729257,
+                              "lng": 21.955013
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Piltenes iela 22, Kuldīga, Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Piltenes iela 22, Kuldīga, Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Vakara iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "11",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.955013,
+                        "Y": 56.9729257,
+                        "X1": "21°57'18.047\" E",
+                        "Y1": "56°58'22.533\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.689814,
+                              57.020228
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.020228,
+                              "lng": 21.689814
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Ēdoles dzirnavas', Ēdoles pag., Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Ēdoles dzirnavas', Ēdoles pag., Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Ēdole",
+                        "IELA": "",
+                        "indekss": "LV-3310",
+                        "MAJA": "Ēdoles dzirnavas",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Ēdoles pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.689814,
+                        "Y": 57.020228,
+                        "X1": "21°41'23.33\" E",
+                        "Y1": "57°1'12.821\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.235678,
+                              56.873552
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.873552,
+                              "lng": 22.235678
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Pārslas', Vārme, Vārmes pag., Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Pārslas', Vārme, Vārmes pag., Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Vārme",
+                        "IELA": "",
+                        "indekss": "LV-3333",
+                        "MAJA": "Vārmes pamatskola",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Vārmes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.235678,
+                        "Y": 56.873552,
+                        "X1": "22°14'8.441\" E",
+                        "Y1": "56°52'24.787\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.294163,
+                              57.068828
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.068828,
+                              "lng": 22.294163
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Saktas', Rendas pag., Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Saktas', Rendas pag., Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Renda",
+                        "IELA": "",
+                        "indekss": "LV-3319",
+                        "MAJA": "Saktas",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Rendas pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.294163,
+                        "Y": 57.068828,
+                        "X1": "22°17'38.987\" E",
+                        "Y1": "57°4'7.781\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.987448,
+                              56.971311
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.971311,
+                              "lng": 21.987448
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Stendes iela 23A, Kuldīga, Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Stendes iela 23A, Kuldīga, Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Stendes iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "23A",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.987448,
+                        "Y": 56.971311,
+                        "X1": "21°59'14.813\" E",
+                        "Y1": "56°58'16.72\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.927012,
+                              56.965842
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.965842,
+                              "lng": 21.927012
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Planīcas iela 69B, Kuldīga, Kuldīgas nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Planīcas iela 69B, Kuldīga, Kuldīgas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Planīcas iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "69D",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.927012,
+                        "Y": 56.965842,
+                        "X1": "21°55'37.243\" E",
+                        "Y1": "56°57'57.031\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.953624,
+                              56.96795
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.96795,
+                              "lng": 21.953624
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Mucenieku iela 26, Kuldīga</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Mucenieku iela 26, Kuldīga",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Mucenieku iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "59",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.953624,
+                        "Y": 56.96795,
+                        "X1": "21°57'13.046\" E",
+                        "Y1": "56°58'4.62\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.715542,
+                              56.542629
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.542629,
+                              "lng": 27.715542
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Raiņa iela 32, Ludza</strong></p><p>Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00</p>",
+                        "address": "Raiņa iela 32, Ludza",
+                        "working_hours": "Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00",
+                        "APDZ_VIETA": "Ludza",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-5701",
+                        "MAJA": "32",
+                        "ADMIN_VIEN": "Ludzas novads",
+                        "TERIT_VIEN": "Ludzas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.715542,
+                        "Y": 56.542629,
+                        "X1": "27°42'55.951\" E",
+                        "Y1": "56°32'33.464\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.705866,
+                              56.540789
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.540789,
+                              "lng": 27.705866
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Latgales iela 34A, Ludza</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Latgales iela 34A, Ludza",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ludza",
+                        "IELA": "Latgales iela",
+                        "indekss": "LV-5701",
+                        "MAJA": "34A",
+                        "ADMIN_VIEN": "Ludzas novads",
+                        "TERIT_VIEN": "Ludzas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.705866,
+                        "Y": 56.540789,
+                        "X1": "27°42'21.118\" E",
+                        "Y1": "56°32'26.84\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.123341,
+                              57.336923
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.336923,
+                              "lng": 23.123341
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lielā iela 31, Mērsrags, Mērsraga nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Lielā iela 31, Mērsrags, Mērsraga nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Mērsrags",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3284",
+                        "MAJA": "31",
+                        "ADMIN_VIEN": "Mērsraga novads",
+                        "TERIT_VIEN": "Mērsraga novads",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.123341,
+                        "Y": 57.336923,
+                        "X1": "23°7'24.028\" E",
+                        "Y1": "57°20'12.923\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.339782,
+                              56.515887
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.515887,
+                              "lng": 27.339782
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Dārzu iela 63, Rēzekne</strong></p><p>Darba laiks: 7:00-22:00</p>",
+                        "address": "Dārzu iela 63, Rēzekne",
+                        "working_hours": "Darba laiks: 7:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Dārzu iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "63",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.339782,
+                        "Y": 56.515887,
+                        "X1": "27°20'23.215\" E",
+                        "Y1": "56°30'57.193\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.335521,
+                              56.50852
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.50852,
+                              "lng": 27.335521
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Dārzu iela 28, Rēzekne</strong></p><p>Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00</p>",
+                        "address": "Dārzu iela 28, Rēzekne",
+                        "working_hours": "Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Dārzu iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "28",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.335521,
+                        "Y": 56.50852,
+                        "X1": "27°20'7.876\" E",
+                        "Y1": "56°30'30.672\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.349104,
+                              56.528152
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.528152,
+                              "lng": 27.349104
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Maskavas iela 8A, Rēzekne</strong></p><p>Darba laiks: 7:30-22:00, Sv 9:00-22:00</p>",
+                        "address": "Maskavas iela 8A, Rēzekne",
+                        "working_hours": "Darba laiks: 7:30-22:00, Sv 9:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Maskavas iela",
+                        "indekss": "LV-4604",
+                        "MAJA": "8A",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.349104,
+                        "Y": 56.528152,
+                        "X1": "27°20'56.774\" E",
+                        "Y1": "56°31'41.347\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.329133,
+                              56.499802
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.499802,
+                              "lng": 27.329133
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Latgales iela 18, Rēzekne</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Latgales iela 18, Rēzekne",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Latgales iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "18",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.329133,
+                        "Y": 56.499802,
+                        "X1": "27°19'44.879\" E",
+                        "Y1": "56°29'59.287\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.32282,
+                              56.502426
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.502426,
+                              "lng": 27.32282
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Brīvības iela 22, Rēzekne</strong></p><p>Darba laiks: 8:00-22:00, Se-Sv 9:00-22:00</p>",
+                        "address": "Brīvības iela 22, Rēzekne",
+                        "working_hours": "Darba laiks: 8:00-22:00, Se-Sv 9:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "22",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.32282,
+                        "Y": 56.502426,
+                        "X1": "27°19'22.152\" E",
+                        "Y1": "56°30'8.734\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.34625,
+                              56.502194
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.502194,
+                              "lng": 27.34625
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Ludzas iela 46, Rēzekne</strong></p><p>Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00</p>",
+                        "address": "Ludzas iela 46, Rēzekne",
+                        "working_hours": "Darba laiks: 7:00-22:00, Se-Sv 8:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Ludzas iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "46",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.34625,
+                        "Y": 56.502194,
+                        "X1": "27°20'46.5\" E",
+                        "Y1": "56°30'7.898\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.345662,
+                              56.53227
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.53227,
+                              "lng": 27.345662
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Atbrīvošanas aleja 163, Rēzekne</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Atbrīvošanas aleja 163, Rēzekne",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Atbrīvošanas aleja",
+                        "indekss": "LV-4604",
+                        "MAJA": "163",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.345662,
+                        "Y": 56.53227,
+                        "X1": "27°20'44.383\" E",
+                        "Y1": "56°31'56.172\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.363654,
+                              56.50116
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.50116,
+                              "lng": 27.363654
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Meža iela 9 , Rēzekne</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Meža iela 9 , Rēzekne",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Meža iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.363654,
+                        "Y": 56.50116,
+                        "X1": "27°21'49.154\" E",
+                        "Y1": "56°30'4.176\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.004004,
+                              56.963863
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.963863,
+                              "lng": 24.004004
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Slokas iela 142 a, Rīga</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Slokas iela 142 a, Rīga",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Slokas iela",
+                        "indekss": "LV-1069",
+                        "MAJA": "142A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.004004,
+                        "Y": 56.963863,
+                        "X1": "24°0'14.414\" E",
+                        "Y1": "56°57'49.907\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.57435,
+                              57.65221
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.65221,
+                              "lng": 22.57435
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Melnsila veikals”,Melnsils, Rojas pag., Rojas nov.</strong></p><p>Darba laiks: 9:00-18:00, Se 9:00-15:00, Sv-slēgts</p>",
+                        "address": "„Melnsila veikals”,Melnsils, Rojas pag., Rojas nov.",
+                        "working_hours": "Darba laiks: 9:00-18:00, Se 9:00-15:00, Sv-slēgts",
+                        "APDZ_VIETA": "Melnsils",
+                        "IELA": "",
+                        "indekss": "LV-3264",
+                        "MAJA": "Stūrmaņi",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.57435,
+                        "Y": 57.65221,
+                        "X1": "22°34'27.66\" E",
+                        "Y1": "57°39'7.956\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.669715,
+                              57.536696
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.536696,
+                              "lng": 22.669715
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Rojupes veikals”, Rude, Rojas pag., Rojas nov.</strong></p><p>Darba laiks: 8:00-19:00, Se 8:00-17:00, Sv 9:00-15:00</p>",
+                        "address": "„Rojupes veikals”, Rude, Rojas pag., Rojas nov.",
+                        "working_hours": "Darba laiks: 8:00-19:00, Se 8:00-17:00, Sv 9:00-15:00",
+                        "APDZ_VIETA": "",
+                        "IELA": "",
+                        "indekss": "LV-3264",
+                        "MAJA": "Vidkāpas",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.669715,
+                        "Y": 57.536696,
+                        "X1": "22°40'10.974\" E",
+                        "Y1": "57°32'12.106\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.82206,
+                              57.49753
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.49753,
+                              "lng": 22.82206
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Selgas iela 57, Roja, Rojas nov.</strong></p><p>Darba laiks: 9:00-18:00, Se 8:00-17:00, Sv 9:00-15:00</p>",
+                        "address": "Selgas iela 57, Roja, Rojas nov.",
+                        "working_hours": "Darba laiks: 9:00-18:00, Se 8:00-17:00, Sv 9:00-15:00",
+                        "APDZ_VIETA": "Roja",
+                        "IELA": "Selgas iela",
+                        "indekss": "LV-3264",
+                        "MAJA": "57",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.82206,
+                        "Y": 57.49753,
+                        "X1": "22°49'19.416\" E",
+                        "Y1": "57°29'51.108\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.80975,
+                              57.50303
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.50303,
+                              "lng": 22.80975
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Zvejnieku iela 1, Roja, Rojas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Zvejnieku iela 1, Roja, Rojas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Roja",
+                        "IELA": "Selgas iela",
+                        "indekss": "LV-3264",
+                        "MAJA": "24",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.80975,
+                        "Y": 57.50303,
+                        "X1": "22°48'35.1\" E",
+                        "Y1": "57°30'10.908\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.80265,
+                              57.50569
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.50569,
+                              "lng": 22.80265
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Selgas iela 1B, Roja, Rojas nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Selgas iela 1B, Roja, Rojas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Roja",
+                        "IELA": "Selgas iela",
+                        "indekss": "LV-3264",
+                        "MAJA": "1B",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.80265,
+                        "Y": 57.50569,
+                        "X1": "22°48'9.54\" E",
+                        "Y1": "57°30'20.484\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.650244,
+                              57.570033
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.570033,
+                              "lng": 22.650244
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Ģipka, 'Ģipkas veikals', Rojas nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Ģipka, 'Ģipkas veikals', Rojas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Ģipka",
+                        "IELA": "",
+                        "indekss": "LV-3264",
+                        "MAJA": "Ģipkas veikals",
+                        "ADMIN_VIEN": "Rojas novads",
+                        "TERIT_VIEN": "Rojas novads",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.650244,
+                        "Y": 57.570033,
+                        "X1": "22°39'0.878\" E",
+                        "Y1": "57°34'12.119\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.450576,
+                              56.694887
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.694887,
+                              "lng": 22.450576
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Dārza iela 2A, Druva, Saldus nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Dārza iela 2A, Druva, Saldus nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Druva",
+                        "IELA": "Dārza iela",
+                        "indekss": "LV-3862",
+                        "MAJA": "2B",
+                        "ADMIN_VIEN": "Saldus novads",
+                        "TERIT_VIEN": "Saldus pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.450576,
+                        "Y": 56.694887,
+                        "X1": "22°27'2.074\" E",
+                        "Y1": "56°41'41.593\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.016821,
+                              56.674547
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.674547,
+                              "lng": 22.016821
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Raiņa iela 6, Skrunda, Skrundas nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Raiņa iela 6, Skrunda, Skrundas nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Skrunda",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-3326",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Skrundas novads",
+                        "TERIT_VIEN": "Skrundas pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.016821,
+                        "Y": 56.674547,
+                        "X1": "22°1'0.556\" E",
+                        "Y1": "56°40'28.369\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.587761,
+                              57.242378
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.242378,
+                              "lng": 22.587761
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Andreja Pumpura iela 1A, Talsi, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Andreja Pumpura iela 1A, Talsi, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Talsi",
+                        "IELA": "Andreja Pumpura iela",
+                        "indekss": "LV-3201",
+                        "MAJA": "1A",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Talsu pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.587761,
+                        "Y": 57.242378,
+                        "X1": "22°35'15.94\" E",
+                        "Y1": "57°14'32.561\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.66571,
+                              57.28836
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.28836,
+                              "lng": 22.66571
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Matres”, Laidze, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "„Matres”, Laidze, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Laidze",
+                        "IELA": "",
+                        "indekss": "LV-3280",
+                        "MAJA": "Tehnikums k-3",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Laidzes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.66571,
+                        "Y": 57.28836,
+                        "X1": "22°39'56.556\" E",
+                        "Y1": "57°17'18.096\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.49477,
+                              57.34618
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.34618,
+                              "lng": 22.49477
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Ceļmalas”, Pūņas, Valdgales pag., Talsu nov. </strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "„Ceļmalas”, Pūņas, Valdgales pag., Talsu nov. ",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Pūņas",
+                        "IELA": "",
+                        "indekss": "LV-3253",
+                        "MAJA": "Silavas",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Valdgales pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.49477,
+                        "Y": 57.34618,
+                        "X1": "22°29'41.172\" E",
+                        "Y1": "57°20'46.248\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.60266,
+                              57.42424
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.42424,
+                              "lng": 22.60266
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Anuži”, Lubes pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-19:00, Se 8:00-19:00, Sv 8:00-15:00</p>",
+                        "address": "„Anuži”, Lubes pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-19:00, Se 8:00-19:00, Sv 8:00-15:00",
+                        "APDZ_VIETA": "Anuži",
+                        "IELA": "",
+                        "indekss": "LV-3262",
+                        "MAJA": "Transformators 0441",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Lubes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.60266,
+                        "Y": 57.42424,
+                        "X1": "22°36'9.576\" E",
+                        "Y1": "57°25'27.264\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.802937,
+                              57.327676
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.327676,
+                              "lng": 22.802937
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>„Ilgoņi”, Vandzenes pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-18:00, Se 8:00-16:00, Sv 9:00-15:00</p>",
+                        "address": "„Ilgoņi”, Vandzenes pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-18:00, Se 8:00-16:00, Sv 9:00-15:00",
+                        "APDZ_VIETA": "Vandzenes skola",
+                        "IELA": "",
+                        "indekss": "LV-3281",
+                        "MAJA": "Skola",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Vandzenes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.802937,
+                        "Y": 57.327676,
+                        "X1": "22°48'10.573\" E",
+                        "Y1": "57°19'39.634\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.59186,
+                              57.37114
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.37114,
+                              "lng": 22.59186
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lielā iela 6, Valdemārpils, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Lielā iela 6, Valdemārpils, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Valdemārpils",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3260",
+                        "MAJA": "6A",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Valdemārpils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.59186,
+                        "Y": 57.37114,
+                        "X1": "22°35'30.696\" E",
+                        "Y1": "57°22'16.104\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.56575,
+                              57.23316
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.23316,
+                              "lng": 22.56575
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Celtnieku iela 2, Talsi, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Celtnieku iela 2, Talsi, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Talsi",
+                        "IELA": "Celtnieku iela",
+                        "indekss": "LV-3201",
+                        "MAJA": "2E k-2",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Talsu pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.56575,
+                        "Y": 57.23316,
+                        "X1": "22°33'56.7\" E",
+                        "Y1": "57°13'59.376\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.57942,
+                              57.2512
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.2512,
+                              "lng": 22.57942
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Dundagas iela 21, Talsi, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Dundagas iela 21, Talsi, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Talsi",
+                        "IELA": "Dundagas iela",
+                        "indekss": "LV-3201",
+                        "MAJA": "21",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Talsu pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.57942,
+                        "Y": 57.2512,
+                        "X1": "22°34'45.912\" E",
+                        "Y1": "57°15'4.32\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.58115,
+                              57.24181
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.24181,
+                              "lng": 22.58115
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Raiņa iela 26, Talsi </strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Raiņa iela 26, Talsi ",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Talsi",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-3201",
+                        "MAJA": "26",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Talsu pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.58115,
+                        "Y": 57.24181,
+                        "X1": "22°34'52.14\" E",
+                        "Y1": "57°14'30.516\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.867084,
+                              57.1909134
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.1909134,
+                              "lng": 22.867084
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Dursupe, Balgales pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00, Sv 8:00-18:00</p>",
+                        "address": "Dursupe, Balgales pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00, Sv 8:00-18:00",
+                        "APDZ_VIETA": "Dursupe",
+                        "IELA": "",
+                        "indekss": "LV-3287",
+                        "MAJA": "Sprīdīši",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Balgales pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.867084,
+                        "Y": 57.1909134,
+                        "X1": "22°52'1.502\" E",
+                        "Y1": "57°11'27.288\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.6424079,
+                              57.1302802
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.1302802,
+                              "lng": 22.6424079
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Veikals Nr.22', Jaunpagasts, Virbu pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Veikals Nr.22', Jaunpagasts, Virbu pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Jaunpagasts",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3292",
+                        "MAJA": "21A",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Virbu pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.6424079,
+                        "Y": 57.1302802,
+                        "X1": "22°38'32.668\" E",
+                        "Y1": "57°7'49.009\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.6008881,
+                              57.2558408
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.2558408,
+                              "lng": 22.6008881
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Zvirgzdu pansija' 24, Zvirgzdi, Laidzes pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Zvirgzdu pansija' 24, Zvirgzdi, Laidzes pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Zvirgzdi",
+                        "IELA": "",
+                        "indekss": "LV-3201",
+                        "MAJA": "Zvaigznes",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Laidzes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.6008881,
+                        "Y": 57.2558408,
+                        "X1": "22°36'3.197\" E",
+                        "Y1": "57°15'21.027\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.5089956,
+                              57.2232148
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.2232148,
+                              "lng": 22.5089956
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Pastende, Ģibuļu pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Pastende, Ģibuļu pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Pastende",
+                        "IELA": "",
+                        "indekss": "LV-3251",
+                        "MAJA": "Spīķeri",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Ģibuļu pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.5089956,
+                        "Y": 57.2232148,
+                        "X1": "22°30'32.384\" E",
+                        "Y1": "57°13'23.573\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.535923,
+                              57.147141
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.147141,
+                              "lng": 22.535923
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Brīvības iela 12, Stende, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Brīvības iela 12, Stende, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Stende",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-3257",
+                        "MAJA": "1B",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Stendes pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.535923,
+                        "Y": 57.147141,
+                        "X1": "22°32'9.323\" E",
+                        "Y1": "57°8'49.708\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.273117,
+                              57.217272
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.217272,
+                              "lng": 22.273117
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Spāres veikals', Spāre, Ģibuļu pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Spāres veikals', Spāre, Ģibuļu pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Spāre",
+                        "IELA": "",
+                        "indekss": "LV-3298",
+                        "MAJA": "Spāres veikals",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Ģibuļu pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.273117,
+                        "Y": 57.217272,
+                        "X1": "22°16'23.221\" E",
+                        "Y1": "57°13'2.179\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.571701,
+                              57.047047
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.047047,
+                              "lng": 22.571701
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Ventspils iela 9, Sabile, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "Ventspils iela 9, Sabile, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Sabile",
+                        "IELA": "Ventspils iela",
+                        "indekss": "LV-3294",
+                        "MAJA": "10",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Sabiles pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.571701,
+                        "Y": 57.047047,
+                        "X1": "22°34'18.124\" E",
+                        "Y1": "57°2'49.369\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.77513,
+                              57.30989
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.30989,
+                              "lng": 22.77513
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Gundegas', Vandzene, Vandzenes pag., Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00 </p>",
+                        "address": "'Gundegas', Vandzene, Vandzenes pag., Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00 ",
+                        "APDZ_VIETA": "Vandzene",
+                        "IELA": "",
+                        "indekss": "LV-3281",
+                        "MAJA": "Sauleskalni",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Vandzenes pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.77513,
+                        "Y": 57.30989,
+                        "X1": "22°46'30.468\" E",
+                        "Y1": "57°18'35.604\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.574742,
+                              57.045201
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.045201,
+                              "lng": 22.574742
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Pilskalna iela 1, Sabile, Talsu nov.</strong></p><p>Darba laiks: 8:00-19:00</p>",
+                        "address": "Pilskalna iela 1, Sabile, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-19:00",
+                        "APDZ_VIETA": "Sabile",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-3294",
+                        "MAJA": "11",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Sabiles pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.574742,
+                        "Y": 57.045201,
+                        "X1": "22°34'29.071\" E",
+                        "Y1": "57°2'42.724\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.748053,
+                              57.227913
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.227913,
+                              "lng": 22.748053
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>“Urgas”, Lauciene, Laucienes pag., Talsu nov</strong></p><p>Darba laiks: 8:00-21:00 </p>",
+                        "address": "“Urgas”, Lauciene, Laucienes pag., Talsu nov",
+                        "working_hours": "Darba laiks: 8:00-21:00 ",
+                        "APDZ_VIETA": "Lauciene",
+                        "IELA": "",
+                        "indekss": "LV-3285",
+                        "MAJA": "Zītari",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Laucienes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.748053,
+                        "Y": 57.227913,
+                        "X1": "22°44'52.991\" E",
+                        "Y1": "57°13'40.487\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.597323,
+                              57.245408
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.245408,
+                              "lng": 22.597323
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Kārļa Mīlenbaha iela 4, Talsi, Talsu nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Kārļa Mīlenbaha iela 4, Talsi, Talsu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Talsi",
+                        "IELA": "Kārļa Mīlenbaha iela",
+                        "indekss": "LV-3201",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Talsu novads",
+                        "TERIT_VIEN": "Talsu pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.597323,
+                        "Y": 57.245408,
+                        "X1": "22°35'50.363\" E",
+                        "Y1": "57°14'43.469\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.913411,
+                              57.038418
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.038418,
+                              "lng": 22.913411
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>'Rozes', Pūre, Tukuma novads</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "'Rozes', Pūre, Tukuma novads",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Pūre",
+                        "IELA": "",
+                        "indekss": "LV-3124",
+                        "MAJA": "Abavas",
+                        "ADMIN_VIEN": "Tukuma novads",
+                        "TERIT_VIEN": "Pūres pagasts",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.913411,
+                        "Y": 57.038418,
+                        "X1": "22°54'48.28\" E",
+                        "Y1": "57°2'18.305\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.54668,
+                              57.38589
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.38589,
+                              "lng": 21.54668
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Poruka iela 16, Ventspils</strong></p><p>Darba laiks: 8:00-23:00</p>",
+                        "address": "Poruka iela 16, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-23:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Jāņa Poruka iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.54668,
+                        "Y": 57.38589,
+                        "X1": "21°32'48.048\" E",
+                        "Y1": "57°23'9.204\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.566681,
+                              57.39262
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.39262,
+                              "lng": 21.566681
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Andreja iela 5, Ventspils</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Andreja iela 5, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Andreja iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.566681,
+                        "Y": 57.39262,
+                        "X1": "21°34'0.052\" E",
+                        "Y1": "57°23'33.432\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.58485,
+                              57.401932
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.401932,
+                              "lng": 21.58485
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Talsu iela 6, Ventspils</strong></p><p>Darba laiks: 7:30-22:00</p>",
+                        "address": "Talsu iela 6, Ventspils",
+                        "working_hours": "Darba laiks: 7:30-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Talsu iela",
+                        "indekss": "LV-3602",
+                        "MAJA": "6",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.58485,
+                        "Y": 57.401932,
+                        "X1": "21°35'5.46\" E",
+                        "Y1": "57°24'6.955\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.589809,
+                              57.402699
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.402699,
+                              "lng": 21.589809
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lidotāju iela 21,Ventspils</strong></p><p>Darba laiks: 8:00-23:00</p>",
+                        "address": "Lidotāju iela 21,Ventspils",
+                        "working_hours": "Darba laiks: 8:00-23:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Lidotāju iela",
+                        "indekss": "LV-3602",
+                        "MAJA": "21",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.589809,
+                        "Y": 57.402699,
+                        "X1": "21°35'23.312\" E",
+                        "Y1": "57°24'9.716\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.569611,
+                              57.394821
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.394821,
+                              "lng": 21.569611
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Kuldīgas iela 5, Ventspils</strong></p><p>Darba laiks: 8:00-20:00</p>",
+                        "address": "Kuldīgas iela 5, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-20:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Kuldīgas iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.569611,
+                        "Y": 57.394821,
+                        "X1": "21°34'10.6\" E",
+                        "Y1": "57°23'41.356\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.574551,
+                              57.389801
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.389801,
+                              "lng": 21.574551
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Lielais prospekts 26, Ventspils</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Lielais prospekts 26, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Lielais prospekts",
+                        "indekss": "LV-3601",
+                        "MAJA": "26A",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.574551,
+                        "Y": 57.389801,
+                        "X1": "21°34'28.384\" E",
+                        "Y1": "57°23'23.284\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.55419,
+                              57.382599
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.382599,
+                              "lng": 21.55419
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Saules iela 102, Ventspils</strong></p><p>Darba laiks: 7:30-22:00</p>",
+                        "address": "Saules iela 102, Ventspils",
+                        "working_hours": "Darba laiks: 7:30-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Saules iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "89",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.55419,
+                        "Y": 57.382599,
+                        "X1": "21°33'15.084\" E",
+                        "Y1": "57°22'57.356\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.53977,
+                              57.39238
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.39238,
+                              "lng": 21.53977
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Kroņa iela 17, Ventspils</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Kroņa iela 17, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Kroņa iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "17",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.53977,
+                        "Y": 57.39238,
+                        "X1": "21°32'23.172\" E",
+                        "Y1": "57°23'32.568\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.60548,
+                              57.39999
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.39999,
+                              "lng": 21.60548
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Tārgales iela 63, Ventspils</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Tārgales iela 63, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Tārgales iela",
+                        "indekss": "LV-3602",
+                        "MAJA": "63",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.60548,
+                        "Y": 57.39999,
+                        "X1": "21°36'19.728\" E",
+                        "Y1": "57°23'59.964\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.61346,
+                              57.374965
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.374965,
+                              "lng": 21.61346
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Robežu iela 130, Ventspils</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Robežu iela 130, Ventspils",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Robežu iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "130",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.61346,
+                        "Y": 57.374965,
+                        "X1": "21°36'48.456\" E",
+                        "Y1": "57°22'29.874\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.674628,
+                              57.224555
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.224555,
+                              "lng": 21.674628
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Piltene, Lielā iela 9</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Piltene, Lielā iela 9",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Piltene",
+                        "IELA": "Lielā iela",
+                        "indekss": "LV-3620",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Ventspils novads",
+                        "TERIT_VIEN": "Piltenes pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.674628,
+                        "Y": 57.224555,
+                        "X1": "21°40'28.661\" E",
+                        "Y1": "57°13'28.398\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.022543,
+                              57.281087
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.281087,
+                              "lng": 22.022543
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Ugāles pagasts</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Ugāles pagasts",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Ugāle",
+                        "IELA": "",
+                        "indekss": "LV-3615",
+                        "MAJA": "Eniņi",
+                        "ADMIN_VIEN": "Ventspils novads",
+                        "TERIT_VIEN": "Ugāles pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.022543,
+                        "Y": 57.281087,
+                        "X1": "22°1'21.155\" E",
+                        "Y1": "57°16'51.913\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.851871,
+                              57.396049
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 57.396049,
+                              "lng": 21.851871
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Popes pagasts, Liepas</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Popes pagasts, Liepas",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Pope",
+                        "IELA": "",
+                        "indekss": "LV-3614",
+                        "MAJA": "Liepas",
+                        "ADMIN_VIEN": "Ventspils novads",
+                        "TERIT_VIEN": "Popes pagasts",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.851871,
+                        "Y": 57.396049,
+                        "X1": "21°51'6.736\" E",
+                        "Y1": "57°23'45.776\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.922138,
+                              56.549923
+                        ]
+                  },
+                  "properties": {
+                        "coords": {
+                              "lat": 56.549923,
+                              "lng": 26.922138
+                        },
+                        "logo": "https://citro.lv/wp-content/themes/citro/app/assets/img/logo-xs-mini.svg",
+                        "info": "<p style='margin:0 0 5px 0;font-size:16px;'><strong>Brīvības iela 2, Viļāni, Viļānu nov.</strong></p><p>Darba laiks: 8:00-22:00</p>",
+                        "address": "Brīvības iela 2, Viļāni, Viļānu nov.",
+                        "working_hours": "Darba laiks: 8:00-22:00",
+                        "APDZ_VIETA": "Viļāni",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-4650",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Viļānu novads",
+                        "TERIT_VIEN": "Viļānu pilsēta",
+                        "NOSAUKUMS": "Citro mini",
+                        "SUBCATEGORY": "Citro",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.922138,
+                        "Y": 56.549923,
+                        "X1": "26°55'19.697\" E",
+                        "Y1": "56°32'59.723\" N"
+                  }
+            }
+      ]
+}
