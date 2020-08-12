@@ -7,8 +7,6 @@ import Geo
 
 url = "https://narvesen.lv/"
 
-SAVE_PATH = r"C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\GeoJson results"
-
 
 def scrap_narvessen(url):
     response = requests.get(url)
@@ -29,10 +27,10 @@ def make_geojson(data):
     most_final = {"type": "FeatureCollection", "features": []}
 
     print("Narvessen extracting......")
-
+    # iterating over multiple 3 level nested dictionary
     for entry, value in data.items():
         for acar, qiymet in value.items():
-            parsed_coords = qiymet['coordinates'].split(',')
+            parsed_coords = qiymet['coordinates'].split(',')  # get lat lon from coord pair
             if len(parsed_coords) == 2:
                 lat = float(parsed_coords[0].strip()[:17])
                 lon = float(parsed_coords[1].strip()[:17])
@@ -44,9 +42,9 @@ def make_geojson(data):
                 X1 = dms_lon
                 Y1 = dms_lat
                 props = dict()
-                additional_props = Geo.get_info(lat, lon)
-                props.update(qiymet)
-                props.update(additional_props)
+                additional_props = Geo.get_info(lat, lon)  # get additional props from server with Geo.py
+                props.update(qiymet)  # merge dicts
+                props.update(additional_props)  # merge dicts
                 final = dict()
                 props['NOSAUKUMS'] = Geo.final_name(qiymet['name'], entry)
                 props['SUBCATEGORY'] = 'Narvesen'
@@ -65,9 +63,10 @@ def make_geojson(data):
 
 
 with open('Narvessen.json', 'r', encoding='utf8') as f:
-    json_input = json.loads(f.read())
-    geo_out = make_geojson(json_input)
+    json_input = json.loads(f.read())  # read json file and
+    geo_out = make_geojson(json_input)  # invoke function to process
 
-    with open(os.path.join(SAVE_PATH, "Narvessen_out.json"), "w+", encoding='utf8') as fayl:
+    # save result as json/geojson in dir
+    with open(os.path.join(Geo.SAVE_PATH, "Narvessen_out.json"), "w+", encoding='utf8') as fayl:
         fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=6))
         print("Narvessen extracted successfully!")
