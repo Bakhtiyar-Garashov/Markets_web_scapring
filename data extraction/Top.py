@@ -1,6 +1,6 @@
 import json
-import time
-
+import os
+import Geo
 from bs4 import BeautifulSoup
 import requests
 
@@ -80,4 +80,51 @@ def get_one_shop(id):
 
     return props
 
+
 scrap_top(url)
+
+
+def make_geojson(data):
+    most_final = {"type": "FeatureCollection", "features": []}
+    print("Top extracting......")
+    # iterate over dictionary
+    for each in data["shops"]:
+        coord_pair = each["gps"].split(',')
+        if len(coord_pair) == 2:
+            lat = float(coord_pair[0].strip()[:17])
+            lon = float(coord_pair[1].strip()[:17])
+            coordinates = [lon, lat]
+            dms_lat = Geo.fraction_to_min_sec(coordinates[1]) + " N"
+            dms_lon = Geo.fraction_to_min_sec(coordinates[0]) + " E"
+            X = coordinates[0]
+            Y = coordinates[1]
+            X1 = dms_lon
+            Y1 = dms_lat
+            props = dict()
+            additional_props = Geo.get_info(lat, lon)
+            props.update(each)
+            props.update(additional_props)
+            final = dict()
+            props['NOSAUKUMS'] = "Top"
+            props['SUBCATEGORY'] = each["props"]["category"]
+            props['GRUPA'] = 'Pārtikas/mājsaimniecības preču tīklu veikali'
+            props['X'] = X
+            props['Y'] = Y
+            props['X1'] = X1
+            props['Y1'] = Y1
+            final['type'] = "Feature"
+            final['geometry'] = {"type": "Point", "coordinates": coordinates}
+            final['properties'] = props
+            most_final['features'].append(final)
+
+    return most_final
+
+
+with open('Top.json', 'r', encoding='utf8') as f:
+    data = json.loads(f.read())
+    geo_out = make_geojson(data)
+
+    # save result as json/geojson in dir
+    with open(os.path.join(Geo.SAVE_PATH, "Top_out.json"), "w+", encoding='utf8') as fayl:
+        fayl.write(json.dumps(geo_out, ensure_ascii=False, indent=6))
+        print("Top extracted successfully!")
