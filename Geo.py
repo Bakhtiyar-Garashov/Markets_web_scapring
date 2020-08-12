@@ -6,6 +6,8 @@ import math
 from datetime import datetime, time
 
 
+SAVE_PATH = r"C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\GeoJson results"
+
 # transform to Latvian coord system
 def convert_to_lks(coords):
     transformer = Transformer.from_crs(4326, 25884)
