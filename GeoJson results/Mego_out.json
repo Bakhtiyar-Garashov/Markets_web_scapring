@@ -1,0 +1,2821 @@
+{
+      "type": "FeatureCollection",
+      "features": [
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.2017965,
+                              56.9321559
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9321559",
+                        "y": "24.2017965",
+                        "city_id": 1,
+                        "shop_id": 1,
+                        "info": "<div class='point-content'>A. Saharova iela 2 </br>\n        <span></span></div>",
+                        "address": "A. Saharova iela 2",
+                        "working_hours": "Darba dienās 08:00–23:00\r\nSest. 08:00–23:00\r\nSv. 08:00–23:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Andreja Saharova iela",
+                        "indekss": "LV-1021",
+                        "MAJA": "2A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.2017965,
+                        "Y": 56.9321559,
+                        "X1": "24°12'6.467\" E",
+                        "Y1": "56°55'55.761\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1137559,
+                              56.9602507
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9602507",
+                        "y": "24.1137559",
+                        "city_id": 1,
+                        "shop_id": 2,
+                        "info": "<div class='point-content'>Antonijas iela 21 </br>\n        <span></span></div>",
+                        "address": "Antonijas iela 21",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Antonijas iela",
+                        "indekss": "LV-1010",
+                        "MAJA": "21",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1137559,
+                        "Y": 56.9602507,
+                        "X1": "24°6'49.521\" E",
+                        "Y1": "56°57'36.903\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.23434610000004,
+                              56.9604993
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9604993",
+                        "y": "24.23434610000004",
+                        "city_id": 1,
+                        "shop_id": 3,
+                        "info": "<div class='point-content'>Biķernieku iela 98 </br>\n        <span></span></div>",
+                        "address": "Biķernieku iela 98",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Biķernieku iela",
+                        "indekss": "LV-1079",
+                        "MAJA": "98",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.23434610000004,
+                        "Y": 56.9604993,
+                        "X1": "24°14'3.646\" E",
+                        "Y1": "56°57'37.797\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.23874049999995,
+                              56.9896396
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9896396",
+                        "y": "24.23874049999995",
+                        "city_id": 1,
+                        "shop_id": 4,
+                        "info": "<div class='point-content'>Brīvības gatve 409 </br>\n        <span></span></div>",
+                        "address": "Brīvības gatve 409",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Brīvības gatve",
+                        "indekss": "LV-1024",
+                        "MAJA": "409",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.23874049999995,
+                        "Y": 56.9896396,
+                        "X1": "24°14'19.466\" E",
+                        "Y1": "56°59'22.703\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.13286149999999,
+                              56.95461770000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.95461770000001",
+                        "y": "24.13286149999999",
+                        "city_id": 1,
+                        "shop_id": 5,
+                        "info": "<div class='point-content'>A. Čaka iela 55 </br>\n        <span></span></div>",
+                        "address": "A. Čaka iela 55",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 09:00–22:00\r\nSv. 10:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Aleksandra Čaka iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "55",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Centra rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.13286149999999,
+                        "Y": 56.95461770000001,
+                        "X1": "24°7'58.301\" E",
+                        "Y1": "56°57'16.624\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0514428,
+                              56.9538807
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9538807",
+                        "y": "24.0514428",
+                        "city_id": 1,
+                        "shop_id": 6,
+                        "info": "<div class='point-content'>Usmas iela 2 </br>\n        <span></span></div>",
+                        "address": "Usmas iela 2",
+                        "working_hours": "Darba dienās 09:00–22:00\r\nSest. 09:00–22:00\r\nSv. 10:00–19:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Usmas iela",
+                        "indekss": "LV-1083",
+                        "MAJA": "20",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0514428,
+                        "Y": 56.9538807,
+                        "X1": "24°3'5.194\" E",
+                        "Y1": "56°57'13.971\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.19694609999999,
+                              56.9471662
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9471662",
+                        "y": "24.19694609999999",
+                        "city_id": 1,
+                        "shop_id": 7,
+                        "info": "<div class='point-content'>Deglava iela 120 </br>\n        <span></span></div>",
+                        "address": "Deglava iela 120",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Augusta Deglava iela",
+                        "indekss": "LV-1082",
+                        "MAJA": "120",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.19694609999999,
+                        "Y": 56.9471662,
+                        "X1": "24°11'49.006\" E",
+                        "Y1": "56°56'49.798\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.04887250000001,
+                              56.9642074
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9642074",
+                        "y": "24.048872500000016",
+                        "city_id": 1,
+                        "shop_id": 8,
+                        "info": "<div class='point-content'>Grīvas iela 23 </br>\n        <span></span></div>",
+                        "address": "Grīvas iela 23",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Grīvas iela",
+                        "indekss": "LV-1055",
+                        "MAJA": "28",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.04887250000001,
+                        "Y": 56.9642074,
+                        "X1": "24°2'55.941\" E",
+                        "Y1": "56°57'51.147\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.10549059999994,
+                              56.95193150000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.95193150000001",
+                        "y": "24.10549059999994",
+                        "city_id": 1,
+                        "shop_id": 9,
+                        "info": "<div class='point-content'>Jēkaba iela 20/22 </br>\n        <span></span></div>",
+                        "address": "Jēkaba iela 20/22",
+                        "working_hours": "Darba dienās 08:00–20:00\r\nSest. 09:00–18:00\r\nSv. Slēgts",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Jēkaba iela",
+                        "indekss": "LV-1050",
+                        "MAJA": "20/22",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Centra rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.10549059999994,
+                        "Y": 56.95193150000001,
+                        "X1": "24°6'19.766\" E",
+                        "Y1": "56°57'6.953\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.99970389999998,
+                              56.9617758
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9617758",
+                        "y": "23.999703899999986",
+                        "city_id": 1,
+                        "shop_id": 10,
+                        "info": "<div class='point-content'>Kurzemes iela 132 </br>\n        <span></span></div>",
+                        "address": "Kurzemes iela 132",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Kurzemes prospekts",
+                        "indekss": "LV-1069",
+                        "MAJA": "132A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.99970389999998,
+                        "Y": 56.9617758,
+                        "X1": "23°59'58.934\" E",
+                        "Y1": "56°57'42.393\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.12629489999994,
+                              56.950815
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.950815",
+                        "y": "24.126294899999948",
+                        "city_id": 1,
+                        "shop_id": 11,
+                        "info": "<div class='point-content'>Marijas iela 20 </br>\n        <span></span></div>",
+                        "address": "Marijas iela 20",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Marijas iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "20",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.12629489999994,
+                        "Y": 56.950815,
+                        "X1": "24°7'34.662\" E",
+                        "Y1": "56°57'2.934\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.14257010000005,
+                              56.9529823
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9529823",
+                        "y": "24.142570100000057",
+                        "city_id": 1,
+                        "shop_id": 13,
+                        "info": "<div class='point-content'>Matīsa iela 83 </br>\n        <span></span></div>",
+                        "address": "Matīsa iela 83",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Matīsa iela",
+                        "indekss": "LV-1009",
+                        "MAJA": "83",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.14257010000005,
+                        "Y": 56.9529823,
+                        "X1": "24°8'33.252\" E",
+                        "Y1": "56°57'10.736\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.2507673,
+                              56.9782322
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9782322",
+                        "y": "24.250767300000007",
+                        "city_id": 1,
+                        "shop_id": 14,
+                        "info": "<div class='point-content'>Murjāņu iela 50  </br>\n        <span></span></div>",
+                        "address": "Murjāņu iela 50",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Murjāņu iela",
+                        "indekss": "LV-1064",
+                        "MAJA": "50",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.2507673,
+                        "Y": 56.9782322,
+                        "X1": "24°15'2.762\" E",
+                        "Y1": "56°58'41.636\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.18840799999998,
+                              56.9132572
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9132572",
+                        "y": "24.18840799999998",
+                        "city_id": 1,
+                        "shop_id": 15,
+                        "info": "<div class='point-content'>Prūšu iela 22a </br>\n        <span></span></div>",
+                        "address": "Prūšu iela 22a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Prūšu iela",
+                        "indekss": "LV-1057",
+                        "MAJA": "22A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.18840799999998,
+                        "Y": 56.9132572,
+                        "X1": "24°11'18.269\" E",
+                        "Y1": "56°54'47.726\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.23949830000003,
+                              56.985328
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.985328",
+                        "y": "24.239498300000037",
+                        "city_id": 1,
+                        "shop_id": 16,
+                        "info": "<div class='point-content'>Silciema iela 15 </br>\n        <span></span></div>",
+                        "address": "Silciema iela 15",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Silciema iela",
+                        "indekss": "LV-1024",
+                        "MAJA": "15",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.23949830000003,
+                        "Y": 56.985328,
+                        "X1": "24°14'22.194\" E",
+                        "Y1": "56°59'7.181\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.14371400000004,
+                              56.9588742
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9588742",
+                        "y": "24.143714000000045",
+                        "city_id": 1,
+                        "shop_id": 17,
+                        "info": "<div class='point-content'>Tallinas iela 56 </br>\n        <span></span></div>",
+                        "address": "Tallinas iela 56",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Tallinas iela",
+                        "indekss": "LV-1009",
+                        "MAJA": "56",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.14371400000004,
+                        "Y": 56.9588742,
+                        "X1": "24°8'37.37\" E",
+                        "Y1": "56°57'31.947\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.10544890000005,
+                              57.0279039
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.0279039",
+                        "y": "24.105448900000056",
+                        "city_id": 1,
+                        "shop_id": 18,
+                        "info": "<div class='point-content'>Vecmīlgrāvja iela 5 </br>\n        <span></span></div>",
+                        "address": "Vecmīlgrāvja iela 5",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Vecmīlgrāvja iela",
+                        "indekss": "LV-1015",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.10544890000005,
+                        "Y": 57.0279039,
+                        "X1": "24°6'19.616\" E",
+                        "Y1": "57°1'40.454\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0046328,
+                              56.9539154
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9539154",
+                        "y": "24.0046328",
+                        "city_id": 1,
+                        "shop_id": 19,
+                        "info": "<div class='point-content'>Jūrmalas gatve 87 </br>\n        <span></span></div>",
+                        "address": "Jūrmalas gatve 87",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Jūrmalas gatve",
+                        "indekss": "LV-1029",
+                        "MAJA": "89",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0046328,
+                        "Y": 56.9539154,
+                        "X1": "24°0'16.678\" E",
+                        "Y1": "56°57'14.095\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.18580029999998,
+                              56.4099417
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.4099417",
+                        "y": "24.185800299999983",
+                        "city_id": 5,
+                        "shop_id": 20,
+                        "info": "<div class='point-content'>Rātslaukums 3 </br>\n        <span></span></div>",
+                        "address": "Rātslaukums 3",
+                        "working_hours": "Darba dienās 08:00–21:30\r\nSest. 08:00–21:30\r\nSv. 09:00–18:00",
+                        "APDZ_VIETA": "Bauska",
+                        "IELA": "Rātslaukums",
+                        "indekss": "LV-3901",
+                        "MAJA": "3",
+                        "ADMIN_VIEN": "Bauskas novads",
+                        "TERIT_VIEN": "Bauskas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.18580029999998,
+                        "Y": 56.4099417,
+                        "X1": "24°11'8.881\" E",
+                        "Y1": "56°24'35.79\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.3960656,
+                              56.5893089
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.5893089",
+                        "y": "24.3960656",
+                        "city_id": 5,
+                        "shop_id": 21,
+                        "info": "<div class='point-content'>Misa, Bodnieki </br>\n        <span></span></div>",
+                        "address": "Misa, Bodnieki",
+                        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 09:00–18:00",
+                        "APDZ_VIETA": "Misa",
+                        "IELA": "",
+                        "indekss": "LV-3906",
+                        "MAJA": "Pakalpojumu centrs Misā",
+                        "ADMIN_VIEN": "Vecumnieku novads",
+                        "TERIT_VIEN": "Vecumnieku pagasts",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.3960656,
+                        "Y": 56.5893089,
+                        "X1": "24°23'45.836\" E",
+                        "Y1": "56°35'21.512\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.56718469999998,
+                              56.68281959999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.68281959999999",
+                        "y": "22.567184699999984",
+                        "city_id": 7,
+                        "shop_id": 22,
+                        "info": "<div class='point-content'>Lielcieceres iela 1a </br>\n        <span></span></div>",
+                        "address": "Lielcieceres iela 1a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Brocēni",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-3851",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Brocēnu novads",
+                        "TERIT_VIEN": "Brocēnu pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 22.56718469999998,
+                        "Y": 56.68281959999999,
+                        "X1": "22°34'1.865\" E",
+                        "Y1": "56°40'58.151\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.28559889999996,
+                              57.31293950000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.31293950000001",
+                        "y": "25.285598899999968",
+                        "city_id": 9,
+                        "shop_id": 23,
+                        "info": "<div class='point-content'>Lapsu iela 23 </br>\n        <span></span></div>",
+                        "address": "Lapsu iela 23",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Cēsis",
+                        "IELA": "Lapsu iela",
+                        "indekss": "LV-4101",
+                        "MAJA": "23",
+                        "ADMIN_VIEN": "Cēsu novads",
+                        "TERIT_VIEN": "Cēsu pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.28559889999996,
+                        "Y": 57.31293950000001,
+                        "X1": "25°17'8.156\" E",
+                        "Y1": "57°18'46.582\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.87514190000001,
+                              56.4934512
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.4934512",
+                        "y": "25.875141900000017",
+                        "city_id": 13,
+                        "shop_id": 24,
+                        "info": "<div class='point-content'>Vienības iela 1a </br>\n        <span></span></div>",
+                        "address": "Vienības iela 1a",
+                        "working_hours": "Darba dienās 08:00–23:00\r\nSest. 08:00–23:00\r\nSv. 08:00–23:00",
+                        "APDZ_VIETA": "Jēkabpils",
+                        "IELA": "Vienības iela",
+                        "indekss": "LV-5201",
+                        "MAJA": "1A",
+                        "ADMIN_VIEN": "Jēkabpils",
+                        "TERIT_VIEN": "Jēkabpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.87514190000001,
+                        "Y": 56.4934512,
+                        "X1": "25°52'30.511\" E",
+                        "Y1": "56°29'36.424\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.61087780000002,
+                              56.95524580000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.95524580000001",
+                        "y": "23.610877800000026",
+                        "city_id": 14,
+                        "shop_id": 25,
+                        "info": "<div class='point-content'>Raiņa iela 84/86, Kauguri </br>\n        <span></span></div>",
+                        "address": "Raiņa iela 84/86, Kauguri",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Jūrmala",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-2011",
+                        "MAJA": "84/86",
+                        "ADMIN_VIEN": "Jūrmala",
+                        "TERIT_VIEN": "Jūrmalas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.61087780000002,
+                        "Y": 56.95524580000001,
+                        "X1": "23°36'39.16\" E",
+                        "Y1": "56°57'18.885\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.61892399999999,
+                              56.9466377
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9466377",
+                        "y": "23.618923999999993",
+                        "city_id": 14,
+                        "shop_id": 26,
+                        "info": "<div class='point-content'>Venstpils šoseja 32, Sloka </br>\n        <span></span></div>",
+                        "address": "Venstpils šoseja 32, Sloka",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Jūrmala",
+                        "IELA": "Ventspils šoseja",
+                        "indekss": "LV-2011",
+                        "MAJA": "32 k-1",
+                        "ADMIN_VIEN": "Jūrmala",
+                        "TERIT_VIEN": "Jūrmalas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.61892399999999,
+                        "Y": 56.9466377,
+                        "X1": "23°37'8.126\" E",
+                        "Y1": "56°56'47.896\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.00509799999997,
+                              56.4866766
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.4866766",
+                        "y": "21.005097999999975",
+                        "city_id": 17,
+                        "shop_id": 27,
+                        "info": "<div class='point-content'>Klaipēdas iela 104 C </br>\n        <span></span></div>",
+                        "address": "Klaipēdas iela 104 C",
+                        "working_hours": "Darba dienās 08:00–20:00\r\nSest. 08:00–20:00\r\nSv. 09:00–21:00",
+                        "APDZ_VIETA": "Liepāja",
+                        "IELA": "Klaipēdas iela",
+                        "indekss": "LV-3416",
+                        "MAJA": "104C",
+                        "ADMIN_VIEN": "Liepāja",
+                        "TERIT_VIEN": "Liepājas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.00509799999997,
+                        "Y": 56.4866766,
+                        "X1": "21°0'18.353\" E",
+                        "Y1": "56°29'12.036\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.36348040000007,
+                              56.9187425
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9187425",
+                        "y": "24.36348040000007",
+                        "city_id": 25,
+                        "shop_id": 28,
+                        "info": "<div class='point-content'>Kazāru iela 4 </br>\n        <span></span></div>",
+                        "address": "Kazāru iela 4",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Saurieši",
+                        "IELA": "Burtnieku iela",
+                        "indekss": "LV-2118",
+                        "MAJA": "14",
+                        "ADMIN_VIEN": "Stopiņu novads",
+                        "TERIT_VIEN": "Stopiņu novads",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.36348040000007,
+                        "Y": 56.9187425,
+                        "X1": "24°21'48.529\" E",
+                        "Y1": "56°55'7.473\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.18539229999999,
+                              56.9570655
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9570655",
+                        "y": "23.18539229999999",
+                        "city_id": 27,
+                        "shop_id": 30,
+                        "info": "<div class='point-content'>Aviācijas iela 18 </br>\n        <span></span></div>",
+                        "address": "Aviācijas iela 18",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00",
+                        "APDZ_VIETA": "Tukums",
+                        "IELA": "Aviācijas iela",
+                        "indekss": "LV-3101",
+                        "MAJA": "7",
+                        "ADMIN_VIEN": "Tukuma novads",
+                        "TERIT_VIEN": "Tukuma pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.18539229999999,
+                        "Y": 56.9570655,
+                        "X1": "23°11'7.412\" E",
+                        "Y1": "56°57'25.436\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.16364610000005,
+                              56.9706323
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9706323",
+                        "y": "23.16364610000005",
+                        "city_id": 27,
+                        "shop_id": 31,
+                        "info": "<div class='point-content'>Kurzemes iela 2a </br>\n        <span></span></div>",
+                        "address": "Kurzemes iela 2a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Tukums",
+                        "IELA": "Kurzemes iela",
+                        "indekss": "LV-3101",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Tukuma novads",
+                        "TERIT_VIEN": "Tukuma pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.16364610000005,
+                        "Y": 56.9706323,
+                        "X1": "23°9'49.126\" E",
+                        "Y1": "56°58'14.276\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.01521109999998,
+                              57.78543699999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.78543699999999",
+                        "y": "26.015211099999988",
+                        "city_id": 28,
+                        "shop_id": 32,
+                        "info": "<div class='point-content'>Ausekļa iela 54 </br>\n        <span></span></div>",
+                        "address": "Ausekļa iela 54",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 09:00–21:00",
+                        "APDZ_VIETA": "Valka",
+                        "IELA": "Ausekļa iela",
+                        "indekss": "LV-4701",
+                        "MAJA": "54",
+                        "ADMIN_VIEN": "Valkas novads",
+                        "TERIT_VIEN": "Valkas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.01521109999998,
+                        "Y": 57.78543699999999,
+                        "X1": "26°0'54.76\" E",
+                        "Y1": "57°47'7.573\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.56273579999992,
+                              57.3896422
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.3896422",
+                        "y": "21.562735799999928",
+                        "city_id": 30,
+                        "shop_id": 33,
+                        "info": "<div class='point-content'>Ganību iela 22/24 </br>\n        <span></span></div>",
+                        "address": "Ganību iela 22/24",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. - 00:00–24:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Ganību iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "22/24",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.56273579999992,
+                        "Y": 57.3896422,
+                        "X1": "21°33'45.849\" E",
+                        "Y1": "57°23'22.712\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.39783349999993,
+                              56.7427114
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.7427114",
+                        "y": "24.397833499999933",
+                        "city_id": 3,
+                        "shop_id": 34,
+                        "info": "<div class='point-content'>Rīgas iela 79/1 </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 79/1",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Baldone",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-2125",
+                        "MAJA": "79 k-1",
+                        "ADMIN_VIEN": "Baldones novads",
+                        "TERIT_VIEN": "Baldones pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.39783349999993,
+                        "Y": 56.7427114,
+                        "X1": "24°23'52.201\" E",
+                        "Y1": "56°44'33.761\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.17542490000005,
+                              56.9709059
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9709059",
+                        "y": "24.175424900000053",
+                        "city_id": 1,
+                        "shop_id": 35,
+                        "info": "<div class='point-content'>Biķernieku iela 31a </br>\n        <span></span></div>",
+                        "address": "Biķernieku iela 31a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Biķernieku iela",
+                        "indekss": "LV-1039",
+                        "MAJA": "31A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.17542490000005,
+                        "Y": 56.9709059,
+                        "X1": "24°10'31.53\" E",
+                        "Y1": "56°58'15.261\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.08445110000002,
+                              56.89986829999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.89986829999999",
+                        "y": "24.084451100000024",
+                        "city_id": 1,
+                        "shop_id": 36,
+                        "info": "<div class='point-content'>Īslīces iela 7 </br>\n        <span></span></div>",
+                        "address": "Īslīces iela 7",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Īslīces iela",
+                        "indekss": "LV-1058",
+                        "MAJA": "7",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.08445110000002,
+                        "Y": 56.89986829999999,
+                        "X1": "24°5'4.024\" E",
+                        "Y1": "56°53'59.526\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.19427399999995,
+                              56.91063399999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.91063399999999",
+                        "y": "24.19427399999995",
+                        "city_id": 1,
+                        "shop_id": 37,
+                        "info": "<div class='point-content'>Prūšu iela 23a </br>\n        <span></span></div>",
+                        "address": "Prūšu iela 23a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Prūšu iela",
+                        "indekss": "LV-1057",
+                        "MAJA": "23",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.19427399999995,
+                        "Y": 56.91063399999999,
+                        "X1": "24°11'39.386\" E",
+                        "Y1": "56°54'38.282\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.01463020000005,
+                              56.9462734
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9462734",
+                        "y": "24.014630200000056",
+                        "city_id": 1,
+                        "shop_id": 38,
+                        "info": "<div class='point-content'>P.Lejiņa iela 2a </br>\n        <span></span></div>",
+                        "address": "P.Lejiņa iela 2a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Paula Lejiņa iela",
+                        "indekss": "LV-1029",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.01463020000005,
+                        "Y": 56.9462734,
+                        "X1": "24°0'52.669\" E",
+                        "Y1": "56°56'46.584\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.71167609999997,
+                              56.540904
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.540904",
+                        "y": "27.711676099999977",
+                        "city_id": 18,
+                        "shop_id": 39,
+                        "info": "<div class='point-content'>Raiņa iela 40a </br>\n        <span></span></div>",
+                        "address": "Raiņa iela 40a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Ludza",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-5701",
+                        "MAJA": "40A",
+                        "ADMIN_VIEN": "Ludzas novads",
+                        "TERIT_VIEN": "Ludzas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.71167609999997,
+                        "Y": 56.540904,
+                        "X1": "27°42'42.034\" E",
+                        "Y1": "56°32'27.254\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.35035730000004,
+                              56.52390339999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.52390339999999",
+                        "y": "27.35035730000004",
+                        "city_id": 22,
+                        "shop_id": 40,
+                        "info": "<div class='point-content'>Atmodas iela 6a </br>\n        <span></span></div>",
+                        "address": "Atmodas iela 6a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Atmodas iela",
+                        "indekss": "LV-4604",
+                        "MAJA": "6A",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.35035730000004,
+                        "Y": 56.52390339999999,
+                        "X1": "27°21'1.286\" E",
+                        "Y1": "56°31'26.052\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.33674489999998,
+                              56.5137699
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.5137699",
+                        "y": "27.336744899999985",
+                        "city_id": 22,
+                        "shop_id": 41,
+                        "info": "<div class='point-content'>Valdemāra iela 16a  </br>\n        <span></span></div>",
+                        "address": "Valdemāra iela 16a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rēzekne",
+                        "IELA": "Krišjāņa Valdemāra iela",
+                        "indekss": "LV-4601",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Rēzekne",
+                        "TERIT_VIEN": "Rēzeknes pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.33674489999998,
+                        "Y": 56.5137699,
+                        "X1": "27°20'12.282\" E",
+                        "Y1": "56°30'49.572\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.18356110000002,
+                              55.8959231
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.8959231",
+                        "y": "27.18356110000002",
+                        "city_id": 15,
+                        "shop_id": 42,
+                        "info": "<div class='point-content'>Latgales iela 16 </br>\n        <span></span></div>",
+                        "address": "Latgales iela 16",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Krāslava",
+                        "IELA": "Latgales iela",
+                        "indekss": "LV-5601",
+                        "MAJA": "16",
+                        "ADMIN_VIEN": "Krāslavas novads",
+                        "TERIT_VIEN": "Krāslavas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.18356110000002,
+                        "Y": 55.8959231,
+                        "X1": "27°11'0.82\" E",
+                        "Y1": "55°53'45.323\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.52742839999996,
+                              55.9012161
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.9012161",
+                        "y": "26.527428399999962",
+                        "city_id": 10,
+                        "shop_id": 43,
+                        "info": "<div class='point-content'>Aveņu iela 26 </br>\n        <span></span></div>",
+                        "address": "Aveņu iela 26",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Aveņu iela",
+                        "indekss": "LV-5422",
+                        "MAJA": "26",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.52742839999996,
+                        "Y": 55.9012161,
+                        "X1": "26°31'38.742\" E",
+                        "Y1": "55°54'4.378\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.03777489999993,
+                              57.42602410000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.42602410000001",
+                        "y": "27.03777489999993",
+                        "city_id": 2,
+                        "shop_id": 44,
+                        "info": "<div class='point-content'>Helēnas iela 24 </br>\n        <span></span></div>",
+                        "address": "Helēnas iela 24",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Alūksne",
+                        "IELA": "Helēnas iela",
+                        "indekss": "LV-4301",
+                        "MAJA": "24",
+                        "ADMIN_VIEN": "Alūksnes novads",
+                        "TERIT_VIEN": "Alūksnes pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.03777489999993,
+                        "Y": 57.42602410000001,
+                        "X1": "27°2'15.99\" E",
+                        "Y1": "57°25'33.687\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.18258530000002,
+                              56.90806440000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.90806440000001",
+                        "y": "24.182585300000028",
+                        "city_id": 1,
+                        "shop_id": 45,
+                        "info": "<div class='point-content'>Maskavas iela 264  </br>\n        <span></span></div>",
+                        "address": "Maskavas iela 264",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Maskavas iela",
+                        "indekss": "LV-1063",
+                        "MAJA": "264",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.18258530000002,
+                        "Y": 56.90806440000001,
+                        "X1": "24°10'57.307\" E",
+                        "Y1": "56°54'29.032\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.52439189999995,
+                              55.8722101
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.8722101",
+                        "y": "26.524391899999955",
+                        "city_id": 10,
+                        "shop_id": 47,
+                        "info": "<div class='point-content'>Viestura iela 60 </br>\n        <span></span></div>",
+                        "address": "Viestura iela 60",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Viestura iela",
+                        "indekss": "LV-5401",
+                        "MAJA": "60",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.52439189999995,
+                        "Y": 55.8722101,
+                        "X1": "26°31'27.811\" E",
+                        "Y1": "55°52'19.956\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0949329,
+                              56.9028074
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9028074",
+                        "y": "24.094932900000003",
+                        "city_id": 1,
+                        "shop_id": 48,
+                        "info": "<div class='point-content'>Dižozolu iela 2 </br>\n        <span></span></div>",
+                        "address": "Dižozolu iela 2",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Dižozolu iela",
+                        "indekss": "LV-1058",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0949329,
+                        "Y": 56.9028074,
+                        "X1": "24°5'41.758\" E",
+                        "Y1": "56°54'10.107\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.02860770000006,
+                              57.0399289
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.0399289",
+                        "y": "24.028607700000066",
+                        "city_id": 1,
+                        "shop_id": 49,
+                        "info": "<div class='point-content'>Parādes iela 5b </br>\n        <span></span></div>",
+                        "address": "Parādes iela 5b",
+                        "working_hours": "Daba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Parādes iela",
+                        "indekss": "LV-1016",
+                        "MAJA": "5B",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.02860770000006,
+                        "Y": 57.0399289,
+                        "X1": "24°1'42.988\" E",
+                        "Y1": "57°2'23.744\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.10192259999996,
+                              56.9041783
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9041783",
+                        "y": "24.101922599999966",
+                        "city_id": 1,
+                        "shop_id": 50,
+                        "info": "<div class='point-content'>Līvciema iela 46 </br>\n        <span></span></div>",
+                        "address": "Līvciema iela 46",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Ēbelmuižas iela",
+                        "indekss": "LV-1058",
+                        "MAJA": "21",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.10192259999996,
+                        "Y": 56.9041783,
+                        "X1": "24°6'6.921\" E",
+                        "Y1": "56°54'15.042\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.04852359999995,
+                              57.0341913
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.0341913",
+                        "y": "24.048523599999953",
+                        "city_id": 1,
+                        "shop_id": 51,
+                        "info": "<div class='point-content'>Gobas iela 13 </br>\n        <span></span></div>",
+                        "address": "Gobas iela 13",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Gobas iela",
+                        "indekss": "LV-1016",
+                        "MAJA": "13",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.04852359999995,
+                        "Y": 57.0341913,
+                        "X1": "24°2'54.685\" E",
+                        "Y1": "57°2'3.089\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.19240420000005,
+                              56.9557796
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9557796",
+                        "y": "24.192404200000055",
+                        "city_id": 1,
+                        "shop_id": 52,
+                        "info": "<div class='point-content'>Dzelzavas iela 74 </br>\n        <span></span></div>",
+                        "address": "Dzelzavas iela 74",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Dzelzavas iela",
+                        "indekss": "LV-1082",
+                        "MAJA": "74",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.19240420000005,
+                        "Y": 56.9557796,
+                        "X1": "24°11'32.655\" E",
+                        "Y1": "56°57'20.807\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.2041246,
+                              56.9372189
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9372189",
+                        "y": "24.2041246",
+                        "city_id": 1,
+                        "shop_id": 53,
+                        "info": "<div class='point-content'>A. Saharova iela 14 </br>\n        <span></span></div>",
+                        "address": "A. Saharova iela 14",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Andreja Saharova iela",
+                        "indekss": "LV-1021",
+                        "MAJA": "14",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.2041246,
+                        "Y": 56.9372189,
+                        "X1": "24°12'14.849\" E",
+                        "Y1": "56°56'13.988\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.17762560000005,
+                              56.9148632
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9148632",
+                        "y": "24.177625600000056",
+                        "city_id": 1,
+                        "shop_id": 54,
+                        "info": "<div class='point-content'>Prūšu iela 2 </br>\n        <span></span></div>",
+                        "address": "Prūšu iela 2",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Prūšu iela",
+                        "indekss": "LV-1057",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.17762560000005,
+                        "Y": 56.9148632,
+                        "X1": "24°10'39.452\" E",
+                        "Y1": "56°54'53.508\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.17728569999997,
+                              56.9193824
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9193824",
+                        "y": "24.17728569999997",
+                        "city_id": 1,
+                        "shop_id": 55,
+                        "info": "<div class='point-content'>Maskavas iela 273/6 </br>\n        <span></span></div>",
+                        "address": "Maskavas iela 273/6",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–21:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Maskavas iela",
+                        "indekss": "LV-1063",
+                        "MAJA": "273",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.17728569999997,
+                        "Y": 56.9193824,
+                        "X1": "24°10'38.229\" E",
+                        "Y1": "56°55'9.777\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.13532480000003,
+                              57.0212813
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.0212813",
+                        "y": "24.135324800000035",
+                        "city_id": 1,
+                        "shop_id": 56,
+                        "info": "<div class='point-content'>Mīlgrāvja iela 2 </br>\n        <span></span></div>",
+                        "address": "Mīlgrāvja iela 2",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Mīlgrāvja iela",
+                        "indekss": "LV-1034",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.13532480000003,
+                        "Y": 57.0212813,
+                        "X1": "24°8'7.169\" E",
+                        "Y1": "57°1'16.613\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.09057789999997,
+                              57.0366744
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.0366744",
+                        "y": "24.09057789999997",
+                        "city_id": 1,
+                        "shop_id": 57,
+                        "info": "<div class='point-content'>Baltāsbaznīcas iela 42 </br>\n        <span></span></div>",
+                        "address": "Baltāsbaznīcas iela 42",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Baltāsbaznīcas iela",
+                        "indekss": "LV-1015",
+                        "MAJA": "42",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.09057789999997,
+                        "Y": 57.0366744,
+                        "X1": "24°5'26.08\" E",
+                        "Y1": "57°2'12.028\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.12575170000002,
+                              56.995859
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.995859",
+                        "y": "24.125751700000023",
+                        "city_id": 1,
+                        "shop_id": 58,
+                        "info": "<div class='point-content'>Sarkandaugavas iela 6a </br>\n        <span></span></div>",
+                        "address": "Sarkandaugavas iela 6a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Sarkandaugavas iela",
+                        "indekss": "LV-1005",
+                        "MAJA": "6A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Ziemeļu rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.12575170000002,
+                        "Y": 56.995859,
+                        "X1": "24°7'32.706\" E",
+                        "Y1": "56°59'45.092\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.18466050000006,
+                              56.9819237
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9819237",
+                        "y": "24.184660500000064",
+                        "city_id": 1,
+                        "shop_id": 59,
+                        "info": "<div class='point-content'>Ropažu iela 72 </br>\n        <span></span></div>",
+                        "address": "Ropažu iela 72",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Ropažu iela",
+                        "indekss": "LV-1006",
+                        "MAJA": "74",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.18466050000006,
+                        "Y": 56.9819237,
+                        "X1": "24°11'4.778\" E",
+                        "Y1": "56°58'54.925\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.13569099999995,
+                              56.95563019999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.95563019999999",
+                        "y": "24.13569099999995",
+                        "city_id": 1,
+                        "shop_id": 60,
+                        "info": "<div class='point-content'>A. Čaka iela 70 </br>\n        <span></span></div>",
+                        "address": "A. Čaka iela 70",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Aleksandra Čaka iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "70",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Latgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.13569099999995,
+                        "Y": 56.95563019999999,
+                        "X1": "24°8'8.488\" E",
+                        "Y1": "56°57'20.269\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.05980479999993,
+                              56.9694334
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9694334",
+                        "y": "24.059804799999938",
+                        "city_id": 1,
+                        "shop_id": 61,
+                        "info": "<div class='point-content'>Lidoņu iela 27 </br>\n        <span></span></div>",
+                        "address": "Lidoņu iela 27",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Lidoņu iela",
+                        "indekss": "LV-1055",
+                        "MAJA": "27",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.05980479999993,
+                        "Y": 56.9694334,
+                        "X1": "24°3'35.297\" E",
+                        "Y1": "56°58'9.96\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0095718,
+                              56.9660427
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9660427",
+                        "y": "24.009571800000003",
+                        "city_id": 1,
+                        "shop_id": 62,
+                        "info": "<div class='point-content'>Dammes iela 46 </br>\n        <span></span></div>",
+                        "address": "Dammes iela 46",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Dammes iela",
+                        "indekss": "LV-1069",
+                        "MAJA": "46",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0095718,
+                        "Y": 56.9660427,
+                        "X1": "24°0'34.458\" E",
+                        "Y1": "56°57'57.754\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.02269990000002,
+                              56.9453249
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9453249",
+                        "y": "24.02269990000002",
+                        "city_id": 1,
+                        "shop_id": 63,
+                        "info": "<div class='point-content'>Bieziņa iela 8 </br>\n        <span></span></div>",
+                        "address": "Bieziņa iela 8",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Aleksandra Bieziņa iela",
+                        "indekss": "LV-1029",
+                        "MAJA": "8",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.02269990000002,
+                        "Y": 56.9453249,
+                        "X1": "24°1'21.72\" E",
+                        "Y1": "56°56'43.17\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.0521205,
+                              56.9553686
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9553686",
+                        "y": "24.0521205",
+                        "city_id": 1,
+                        "shop_id": 64,
+                        "info": "<div class='point-content'>Dzirciema iela 31a </br>\n        <span></span></div>",
+                        "address": "Dzirciema iela 31a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Dzirciema iela",
+                        "indekss": "LV-1083",
+                        "MAJA": "31A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.0521205,
+                        "Y": 56.9553686,
+                        "X1": "24°3'7.634\" E",
+                        "Y1": "56°57'19.327\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.02206920000003,
+                              56.9625734
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9625734",
+                        "y": "24.022069200000033",
+                        "city_id": 1,
+                        "shop_id": 65,
+                        "info": "<div class='point-content'>Kleistu iela 9 </br>\n        <span></span></div>",
+                        "address": "Kleistu iela 9",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Kleistu iela",
+                        "indekss": "LV-1067",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Kurzemes rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.02206920000003,
+                        "Y": 56.9625734,
+                        "X1": "24°1'19.449\" E",
+                        "Y1": "56°57'45.264\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.11852139999996,
+                              56.8752344
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.8752344",
+                        "y": "24.118521399999963",
+                        "city_id": 4,
+                        "shop_id": 66,
+                        "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 14",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Baloži",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-2112",
+                        "MAJA": "14",
+                        "ADMIN_VIEN": "Ķekavas novads",
+                        "TERIT_VIEN": "Baložu pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.11852139999996,
+                        "Y": 56.8752344,
+                        "X1": "24°7'6.677\" E",
+                        "Y1": "56°52'30.844\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.5262854,
+                              55.9002904
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.9002904",
+                        "y": "26.526285400000006",
+                        "city_id": 10,
+                        "shop_id": 67,
+                        "info": "<div class='point-content'>Raipoles iela 11a </br>\n        <span></span></div>",
+                        "address": "Raipoles iela 11a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Raipoles iela",
+                        "indekss": "LV-5422",
+                        "MAJA": "11A",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.5262854,
+                        "Y": 55.9002904,
+                        "X1": "26°31'34.627\" E",
+                        "Y1": "55°54'1.045\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.51758949999998,
+                              55.87200980000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.87200980000001",
+                        "y": "26.517589499999985",
+                        "city_id": 10,
+                        "shop_id": 68,
+                        "info": "<div class='point-content'>Rīgas iela 9 </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 9",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-5401",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.51758949999998,
+                        "Y": 55.87200980000001,
+                        "X1": "26°31'3.322\" E",
+                        "Y1": "55°52'19.235\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.70649879999996,
+                              56.6512572
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.6512572",
+                        "y": "23.706498799999963",
+                        "city_id": 12,
+                        "shop_id": 69,
+                        "info": "<div class='point-content'>Dobeles šoseja 7 </br>\n        <span></span></div>",
+                        "address": "Dobeles šoseja 7",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Dobeles šoseja",
+                        "indekss": "LV-3007",
+                        "MAJA": "7",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.70649879999996,
+                        "Y": 56.6512572,
+                        "X1": "23°42'23.396\" E",
+                        "Y1": "56°39'4.526\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.61766160000002,
+                              56.9480617
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9480617",
+                        "y": "23.61766160000002",
+                        "city_id": 14,
+                        "shop_id": 70,
+                        "info": "<div class='point-content'>Artilērijas iela 2, Sloka </br>\n        <span></span></div>",
+                        "address": "Artilērijas iela 2, Sloka",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Jūrmala",
+                        "IELA": "Artilērijas iela",
+                        "indekss": "LV-2011",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Jūrmala",
+                        "TERIT_VIEN": "Jūrmalas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.61766160000002,
+                        "Y": 56.9480617,
+                        "X1": "23°37'3.582\" E",
+                        "Y1": "56°56'53.022\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.59843320000004,
+                              56.8165221
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.8165221",
+                        "y": "24.598433200000045",
+                        "city_id": 20,
+                        "shop_id": 72,
+                        "info": "<div class='point-content'>Skolas iela 4 </br>\n        <span></span></div>",
+                        "address": "Skolas iela 4",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Ogre",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-5001",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Ogres novads",
+                        "TERIT_VIEN": "Ogres pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.59843320000004,
+                        "Y": 56.8165221,
+                        "X1": "24°35'54.36\" E",
+                        "Y1": "56°48'59.48\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.33413569999993,
+                              56.8547652
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.8547652",
+                        "y": "24.334135699999933",
+                        "city_id": 24,
+                        "shop_id": 73,
+                        "info": "<div class='point-content'>Skolas iela 9 </br>\n        <span></span></div>",
+                        "address": "Skolas iela 9",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Salaspils",
+                        "IELA": "Skolas iela",
+                        "indekss": "LV-2121",
+                        "MAJA": "9",
+                        "ADMIN_VIEN": "Salaspils novads",
+                        "TERIT_VIEN": "Salaspils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.33413569999993,
+                        "Y": 56.8547652,
+                        "X1": "24°20'2.889\" E",
+                        "Y1": "56°51'17.155\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.42377290000001,
+                              57.53853499999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.53853499999999",
+                        "y": "25.423772900000017",
+                        "city_id": 29,
+                        "shop_id": 74,
+                        "info": "<div class='point-content'>Rīgas iela 4 </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 4",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Valmiera",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-4201",
+                        "MAJA": "4",
+                        "ADMIN_VIEN": "Valmiera",
+                        "TERIT_VIEN": "Valmieras pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.42377290000001,
+                        "Y": 57.53853499999999,
+                        "X1": "25°25'25.582\" E",
+                        "Y1": "57°32'18.726\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.55131949999997,
+                              57.3837162
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.3837162",
+                        "y": "21.551319499999977",
+                        "city_id": 30,
+                        "shop_id": 75,
+                        "info": "<div class='point-content'>Inženieru iela 65 </br>\n        <span></span></div>",
+                        "address": "Inženieru iela 65",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–21:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Inženieru iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "65",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.55131949999997,
+                        "Y": 57.3837162,
+                        "X1": "21°33'4.75\" E",
+                        "Y1": "57°23'1.378\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.30193780000002,
+                              56.9610407
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9610407",
+                        "y": "24.30193780000002",
+                        "city_id": 1,
+                        "shop_id": 77,
+                        "info": "<div class='point-content'>Biķernieku iela 246 </br>\n        <span></span></div>",
+                        "address": "Biķernieku iela 246",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Biķernieku iela",
+                        "indekss": "LV-1079",
+                        "MAJA": "246",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.30193780000002,
+                        "Y": 56.9610407,
+                        "X1": "24°18'6.976\" E",
+                        "Y1": "56°57'39.747\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.13009199999999,
+                              56.9572352
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9572352",
+                        "y": "24.13009199999999",
+                        "city_id": 1,
+                        "shop_id": 78,
+                        "info": "<div class='point-content'>Bruņinieku iela 31 </br>\n        <span></span></div>",
+                        "address": "Bruņinieku iela 31",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 10:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Bruņinieku iela",
+                        "indekss": "LV-1001",
+                        "MAJA": "29/31",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Centra rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.13009199999999,
+                        "Y": 56.9572352,
+                        "X1": "24°7'48.331\" E",
+                        "Y1": "56°57'26.047\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.27643760000001,
+                              57.1286168
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.1286168",
+                        "y": "24.27643760000001",
+                        "city_id": 8,
+                        "shop_id": 79,
+                        "info": "<div class='point-content'>Rīgas iela 14a </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 14a",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Carnikava",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-2163",
+                        "MAJA": "14A",
+                        "ADMIN_VIEN": "Carnikavas novads",
+                        "TERIT_VIEN": "Carnikavas novads",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.27643760000001,
+                        "Y": 57.1286168,
+                        "X1": "24°16'35.175\" E",
+                        "Y1": "57°7'43.02\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.50679549999995,
+                              55.8869242
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.8869242",
+                        "y": "26.506795499999953",
+                        "city_id": 10,
+                        "shop_id": 80,
+                        "info": "<div class='point-content'>Vaļņu iela 27a </br>\n        <span></span></div>",
+                        "address": "Vaļņu iela 27a",
+                        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Vaļņu iela",
+                        "indekss": "LV-5401",
+                        "MAJA": "27A",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.50679549999995,
+                        "Y": 55.8869242,
+                        "X1": "26°30'24.464\" E",
+                        "Y1": "55°53'12.927\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.56126040000003,
+                              55.8795286
+                        ]
+                  },
+                  "properties": {
+                        "x": "55.8795286",
+                        "y": "26.561260400000037",
+                        "city_id": 10,
+                        "shop_id": 81,
+                        "info": "<div class='point-content'>Valkas iela 1a </br>\n        <span></span></div>",
+                        "address": "Valkas iela 1a",
+                        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00",
+                        "APDZ_VIETA": "Daugavpils",
+                        "IELA": "Valkas iela",
+                        "indekss": "LV-5417",
+                        "MAJA": "1",
+                        "ADMIN_VIEN": "Daugavpils",
+                        "TERIT_VIEN": "Daugavpils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.56126040000003,
+                        "Y": 55.8795286,
+                        "X1": "26°33'40.537\" E",
+                        "Y1": "55°52'46.303\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.19420489999993,
+                              56.5962348
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.5962348",
+                        "y": "24.19420489999993",
+                        "city_id": 11,
+                        "shop_id": 82,
+                        "info": "<div class='point-content'>Rīgas iela 14 </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 14",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Iecava",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-3913",
+                        "MAJA": "14",
+                        "ADMIN_VIEN": "Iecavas novads",
+                        "TERIT_VIEN": "Iecavas novads",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.19420489999993,
+                        "Y": 56.5962348,
+                        "X1": "24°11'39.138\" E",
+                        "Y1": "56°35'46.445\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              23.72715330000005,
+                              56.64602310000001
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.64602310000001",
+                        "y": "23.727153300000055",
+                        "city_id": 12,
+                        "shop_id": 83,
+                        "info": "<div class='point-content'>Pasta iela 51/6 </br>\n        <span></span></div>",
+                        "address": "Pasta iela 51/6",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Jelgava",
+                        "IELA": "Pasta iela",
+                        "indekss": "LV-3001",
+                        "MAJA": "51 k-6",
+                        "ADMIN_VIEN": "Jelgava",
+                        "TERIT_VIEN": "Jelgavas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 23.72715330000005,
+                        "Y": 56.64602310000001,
+                        "X1": "23°43'37.752\" E",
+                        "Y1": "56°38'45.683\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              27.67337929999996,
+                              56.7854646
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.7854646",
+                        "y": "27.673379299999965",
+                        "city_id": 16,
+                        "shop_id": 84,
+                        "info": "<div class='point-content'>Malnavas iela 2 </br>\n        <span></span></div>",
+                        "address": "Malnavas iela 2",
+                        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00",
+                        "APDZ_VIETA": "Kārsava",
+                        "IELA": "Malnavas iela",
+                        "indekss": "LV-5717",
+                        "MAJA": "2",
+                        "ADMIN_VIEN": "Kārsavas novads",
+                        "TERIT_VIEN": "Kārsavas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 27.67337929999996,
+                        "Y": 56.7854646,
+                        "X1": "27°40'24.165\" E",
+                        "Y1": "56°47'7.673\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              25.43654709999998,
+                              57.5257738
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.5257738",
+                        "y": "25.436547099999984",
+                        "city_id": 29,
+                        "shop_id": 86,
+                        "info": "<div class='point-content'>Stacijas iela 35 </br>\n        <span></span></div>",
+                        "address": "Stacijas iela 35",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Valmiera",
+                        "IELA": "Stacijas iela",
+                        "indekss": "LV-4201",
+                        "MAJA": "35",
+                        "ADMIN_VIEN": "Valmiera",
+                        "TERIT_VIEN": "Valmieras pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 25.43654709999998,
+                        "Y": 57.5257738,
+                        "X1": "25°26'11.57\" E",
+                        "Y1": "57°31'32.786\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.56448079999995,
+                              57.39252519999999
+                        ]
+                  },
+                  "properties": {
+                        "x": "57.39252519999999",
+                        "y": "21.564480799999956",
+                        "city_id": 30,
+                        "shop_id": 87,
+                        "info": "<div class='point-content'>Kuldīgas iela 23 </br>\n        <span></span></div>",
+                        "address": "Kuldīgas iela 23",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–20:00",
+                        "APDZ_VIETA": "Ventspils",
+                        "IELA": "Kuldīgas iela",
+                        "indekss": "LV-3601",
+                        "MAJA": "23",
+                        "ADMIN_VIEN": "Ventspils",
+                        "TERIT_VIEN": "Ventspils pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.56448079999995,
+                        "Y": 57.39252519999999,
+                        "X1": "21°33'52.131\" E",
+                        "Y1": "57°23'33.091\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.92516999999998,
+                              56.5460733
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.5460733",
+                        "y": "26.92516999999998",
+                        "city_id": 31,
+                        "shop_id": 88,
+                        "info": "<div class='point-content'>Raiņa iela 23/1 </br>\n        <span></span></div>",
+                        "address": "Raiņa iela 23/1",
+                        "working_hours": "Darba dienās 08:00–21:00\r\nSest. 08:00–21:00\r\nSv. 08:00–19:00",
+                        "APDZ_VIETA": "Viļāni",
+                        "IELA": "Raiņa iela",
+                        "indekss": "LV-4650",
+                        "MAJA": "23 k-1",
+                        "ADMIN_VIEN": "Viļānu novads",
+                        "TERIT_VIEN": "Viļānu pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.92516999999998,
+                        "Y": 56.5460733,
+                        "X1": "26°55'30.612\" E",
+                        "Y1": "56°32'45.864\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              21.955619,
+                              56.974114
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.974114",
+                        "y": "21.955619",
+                        "city_id": 32,
+                        "shop_id": 89,
+                        "info": "<div class='point-content'>Dzintaru iela 14 </br>\n        <span></span></div>",
+                        "address": "Dzintaru iela 14",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Kuldīga",
+                        "IELA": "Dzintaru iela",
+                        "indekss": "LV-3301",
+                        "MAJA": "14",
+                        "ADMIN_VIEN": "Kuldīgas novads",
+                        "TERIT_VIEN": "Kuldīgas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 21.955619,
+                        "Y": 56.974114,
+                        "X1": "21°57'20.228\" E",
+                        "Y1": "56°58'26.81\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              26.7073763,
+                              56.2996358
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.2996358",
+                        "y": "26.7073763",
+                        "city_id": 33,
+                        "shop_id": 90,
+                        "info": "<div class='point-content'>Rīgas iela 4d </br>\n        <span></span></div>",
+                        "address": "Rīgas iela 4d",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Preiļi",
+                        "IELA": "Rīgas iela",
+                        "indekss": "LV-5301",
+                        "MAJA": "4C",
+                        "ADMIN_VIEN": "Preiļu novads",
+                        "TERIT_VIEN": "Preiļu pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 26.7073763,
+                        "Y": 56.2996358,
+                        "X1": "26°42'26.555\" E",
+                        "Y1": "56°17'58.689\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1801828,
+                              56.9712662
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9712662",
+                        "y": "24.1801828",
+                        "city_id": 1,
+                        "shop_id": 91,
+                        "info": "<div class='point-content'>Biķernieku iela 16a </br>\n        <span></span></div>",
+                        "address": "Biķernieku iela 16a",
+                        "working_hours": "Darba dienās 08:00–22:00\r\nSest. 08:00–22:00\r\nSv. 08:00–22:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Tālivalža iela",
+                        "indekss": "LV-1006",
+                        "MAJA": "21A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Vidzemes priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1801828,
+                        "Y": 56.9712662,
+                        "X1": "24°10'48.658\" E",
+                        "Y1": "56°58'16.558\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1235996,
+                              56.9572954
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9572954",
+                        "y": "24.1235996",
+                        "city_id": 1,
+                        "shop_id": 92,
+                        "info": "<div class='point-content'>Brīvības iela 68 </br>\n        <span></span></div>",
+                        "address": "Brīvības iela 68",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Brīvības iela",
+                        "indekss": "LV-1011",
+                        "MAJA": "68",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Centra rajons",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1235996,
+                        "Y": 56.9572954,
+                        "X1": "24°7'24.959\" E",
+                        "Y1": "56°57'26.263\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1052173,
+                              56.9124816
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.9124816",
+                        "y": "24.1052173",
+                        "city_id": 1,
+                        "shop_id": 93,
+                        "info": "<div class='point-content'>Graudu 10 </br>\n        <span></span></div>",
+                        "address": "Graudu 10",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Rīga",
+                        "IELA": "Graudu iela",
+                        "indekss": "LV-1058",
+                        "MAJA": "11A",
+                        "ADMIN_VIEN": "Rīga",
+                        "TERIT_VIEN": "Zemgales priekšpilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1052173,
+                        "Y": 56.9124816,
+                        "X1": "24°6'18.782\" E",
+                        "Y1": "56°54'44.934\" N"
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              24.1944426,
+                              56.4090079
+                        ]
+                  },
+                  "properties": {
+                        "x": "56.4090079",
+                        "y": "24.1944426",
+                        "city_id": 5,
+                        "shop_id": 94,
+                        "info": "<div class='point-content'>Dārza 20 </br>\n        <span></span></div>",
+                        "address": "Dārza 20",
+                        "working_hours": "Darba dienās 00:00–24:00\r\nSest. 00:00–24:00\r\nSv. 00:00–24:00",
+                        "APDZ_VIETA": "Bauska",
+                        "IELA": "Slimnīcas iela",
+                        "indekss": "LV-3901",
+                        "MAJA": "5",
+                        "ADMIN_VIEN": "Bauskas novads",
+                        "TERIT_VIEN": "Bauskas pilsēta",
+                        "NOSAUKUMS": "Mego",
+                        "SUBCATEGORY": "Mego",
+                        "GRUPA": "Pārtikas/mājsaimniecības preču tīklu veikali",
+                        "X": 24.1944426,
+                        "Y": 56.4090079,
+                        "X1": "24°11'39.993\" E",
+                        "Y1": "56°24'32.428\" N"
+                  }
+            }
+      ]
+}
