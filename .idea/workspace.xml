@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7277edd-8e08-4e03-86cb-66d222e3821c" name="Default Changelist" comment="Mego geojson completed">
-      <change afterPath="$PROJECT_DIR$/GeoJson results/Citro_out.json" afterDir="false" />
+    <list default="true" id="c7277edd-8e08-4e03-86cb-66d222e3821c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GeoJson results/Aibe_out.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data extraction/Citro.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Citro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data extraction/Aibe.py" beforeDir="false" afterPath="$PROJECT_DIR$/data extraction/Aibe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,29 @@
       <recent name="C:\Users\Bakhtiyar Garashov\Desktop\ShopsScraping\json_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Citro">
+  <component name="RunManager" selected="Python.Aibe">
+    <configuration name="Aibe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShopsScraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Aibe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Citro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +94,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Citro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Elvi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ShopsScraping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Elvi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Maxima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ShopsScraping" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,51 +159,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Mego.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Narvessen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShopsScraping" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Narvessen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Top" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ShopsScraping" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data extraction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Top.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data extraction/Maxima.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +169,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Narvessen" />
-      <item itemvalue="Python.Top" />
+      <item itemvalue="Python.Maxima" />
       <item itemvalue="Python.Lats" />
-      <item itemvalue="Python.Mego" />
+      <item itemvalue="Python.Elvi" />
       <item itemvalue="Python.Citro" />
+      <item itemvalue="Python.Aibe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aibe" />
         <item itemvalue="Python.Citro" />
-        <item itemvalue="Python.Mego" />
-        <item itemvalue="Python.Narvessen" />
+        <item itemvalue="Python.Elvi" />
         <item itemvalue="Python.Lats" />
-        <item itemvalue="Python.Top" />
+        <item itemvalue="Python.Maxima" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,7 @@
       <workItem from="1596988971352" duration="46000" />
       <workItem from="1597125738715" duration="18868000" />
       <workItem from="1597145681230" duration="5342000" />
-      <workItem from="1597213102883" duration="9391000" />
+      <workItem from="1597213102883" duration="13563000" />
     </task>
     <task id="LOCAL-00001" summary="New file added">
       <created>1596435634004</created>
@@ -439,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597220952359</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Citro geojson completed">
+      <created>1597222606860</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1597222606860</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Citro geojson completed">
+      <created>1597222625799</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1597222625799</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +495,8 @@
     <MESSAGE value="Top geojson completed" />
     <MESSAGE value="Lats geojson completed" />
     <MESSAGE value="Mego geojson completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mego geojson completed" />
+    <MESSAGE value="Citro geojson completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Citro geojson completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1596013038763">
@@ -503,30 +519,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596624834837" />
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1597222616135">
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2" timestamp="1597222625132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597222616135" />
+    <state x="393" y="6" width="906" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597222625132" />
     <state x="225" y="65" key="DiffContextDialog" timestamp="1596439025126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="225" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439025126" />
-    <state width="1493" height="53" key="GridCell.Tab.0.bottom" timestamp="1597222568452">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1597226862022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="53" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597222568452" />
-    <state width="1493" height="53" key="GridCell.Tab.0.center" timestamp="1597222568452">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597226862022" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1597226862018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="53" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597222568452" />
-    <state width="1493" height="53" key="GridCell.Tab.0.left" timestamp="1597222568452">
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597226862018" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1597226862018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="53" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597222568452" />
-    <state width="1493" height="53" key="GridCell.Tab.0.right" timestamp="1597222568452">
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597226862018" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1597226862022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="53" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597222568452" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597226862022" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1597139063571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -547,10 +563,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="615" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439068593" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597220953316">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597222627858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597220953316" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597222627858" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596439033102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -562,19 +578,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ShopsScraping$Rimi__1_.coverage" NAME="Rimi Coverage Results" MODIFIED="1596197636360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Elvi.coverage" NAME="Elvi Coverage Results" MODIFIED="1597218693648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Rimi.coverage" NAME="Rimi Coverage Results" MODIFIED="1597214275446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Elvi.coverage" NAME="Elvi Coverage Results" MODIFIED="1597225377248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Rimi.coverage" NAME="Rimi Coverage Results" MODIFIED="1597225217539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Drogas.coverage" NAME="Drogas Coverage Results" MODIFIED="1597126183357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Geo.coverage" NAME="Geo Coverage Results" MODIFIED="1596732660143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Lats.coverage" NAME="Lats Coverage Results" MODIFIED="1597220533368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Narvessen.coverage" NAME="Narvessen Coverage Results" MODIFIED="1597220993391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Maxima.coverage" NAME="Maxima Coverage Results" MODIFIED="1597216764261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Lats.coverage" NAME="Lats Coverage Results" MODIFIED="1597225322068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Narvessen.coverage" NAME="Narvessen Coverage Results" MODIFIED="1597225243739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Maxima.coverage" NAME="Maxima Coverage Results" MODIFIED="1597225289483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$DB.coverage" NAME="DB Coverage Results" MODIFIED="1596008525875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Mego.coverage" NAME="Mego Coverage Results" MODIFIED="1597221018863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Top.coverage" NAME="Top Coverage Results" MODIFIED="1597219642503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Aibe.coverage" NAME="Aibe Coverage Results" MODIFIED="1597128664088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Mego.coverage" NAME="Mego Coverage Results" MODIFIED="1597225273731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Top.coverage" NAME="Top Coverage Results" MODIFIED="1597225169523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Aibe.coverage" NAME="Aibe Coverage Results" MODIFIED="1597226862010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Geo__1_.coverage" NAME="Geo (1) Coverage Results" MODIFIED="1596180826392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShopsScraping$Citro.coverage" NAME="Citro Coverage Results" MODIFIED="1597222568441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
+    <SUITE FILE_PATH="coverage/ShopsScraping$Citro.coverage" NAME="Citro Coverage Results" MODIFIED="1597225428158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Processing.coverage" NAME="Processing Coverage Results" MODIFIED="1595422324611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShopsScraping$test.coverage" NAME="test Coverage Results" MODIFIED="1596621564391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
     <SUITE FILE_PATH="coverage/ShopsScraping$Rimi__2_.coverage" NAME="Rimi (2) Coverage Results" MODIFIED="1596181049321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data extraction" />
