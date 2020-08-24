@@ -2,10 +2,10 @@ import mysql.connector
 from mysql.connector import errorcode
 from datetime import datetime
 db_config = {
-    'user': 'bakhtiyar',
-    'password': 'BuX6nEpA',
-    'host': '10.0.3.63',
-    'database': 'data_for_arcgis_import',
+    'user': 'username',
+    'password': 'your pswrd',
+    'host': 'host address',
+    'database': 'db name',
     'raise_on_warnings': True
 }
 
